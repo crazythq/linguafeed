@@ -1,6 +1,6 @@
 "use client";
 
-import { use, useEffect, useMemo, useState } from "react";
+import { useMemo, useState } from "react";
 import Link from "next/link";
 import { ExternalLink } from "lucide-react";
 import { toast } from "sonner";
@@ -12,40 +12,14 @@ import { sourceById } from "@/lib/feeds";
 import { llmHeaders } from "@/lib/llm-headers";
 import { isPhrase, normalizeTerm, tokenize } from "@/lib/sentences";
 import { vocabId } from "@/lib/storage";
-import type { Digest, DigestItem, LearningMode, VocabEntry, WordDefinition } from "@/lib/types";
+import type { DigestItem, LearningMode, VocabEntry, WordDefinition } from "@/lib/types";
 
-type DigestResponse = { digest: Digest | null };
-
-export function ReaderView({ params }: { params: Promise<{ id: string }> }) {
-  const { id } = use(params);
+export function ReaderView({ id, initialItem }: { id: string; initialItem: DigestItem | null }) {
   const { state, update } = useUserState();
-  const [item, setItem] = useState<DigestItem | null | undefined>(undefined);
+  const item = initialItem ?? state.customItems.find((entry) => entry.id === id) ?? null;
   const [lookup, setLookup] = useState<WordDefinition | null>(null);
   const [lookupLoading, setLookupLoading] = useState(false);
   const [phraseDraft, setPhraseDraft] = useState<string>("");
-
-  useEffect(() => {
-    let cancelled = false;
-    fetch("/api/digest")
-      .then((response) => response.json() as Promise<DigestResponse>)
-      .then((data) => {
-        if (cancelled) {
-          return;
-        }
-        const found =
-          data.digest?.items.find((entry) => entry.id === id) ??
-          loadUserStateCustom(id);
-        setItem(found ?? null);
-      })
-      .catch(() => {
-        if (!cancelled) {
-          setItem(loadUserStateCustom(id));
-        }
-      });
-    return () => {
-      cancelled = true;
-    };
-  }, [id]);
 
   const savedTerms = useMemo(
     () => new Set(state.vocab.filter((entry) => entry.articleId === id).map((entry) => entry.term.toLowerCase())),
@@ -112,10 +86,6 @@ export function ReaderView({ params }: { params: Promise<{ id: string }> }) {
     } else {
       setPhraseDraft("");
     }
-  }
-
-  if (item === undefined) {
-    return <p className="text-sm text-muted-foreground">正在打开对照阅读…</p>;
   }
 
   if (!item) {
@@ -265,19 +235,6 @@ export function ReaderView({ params }: { params: Promise<{ id: string }> }) {
       </Card>
     </article>
   );
-}
-
-function loadUserStateCustom(id: string): DigestItem | null {
-  try {
-    const raw = window.localStorage.getItem("chendu-user-state-v1");
-    if (!raw) {
-      return null;
-    }
-    const parsed = JSON.parse(raw) as { customItems?: DigestItem[] };
-    return parsed.customItems?.find((item) => item.id === id) ?? null;
-  } catch {
-    return null;
-  }
 }
 
 function ModeBar({

@@ -1,53 +1,22 @@
 "use client";
 
-import { useEffect, useMemo, useState } from "react";
+import { useMemo, useState } from "react";
 import Link from "next/link";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { useUserState } from "@/hooks/use-user-state";
 import { CATEGORIES, sourceById } from "@/lib/feeds";
+import type { DigestPayload } from "@/lib/digest-payload";
 import { filterVisibleItems } from "@/lib/storage";
-import type { Digest } from "@/lib/types";
 
-type DigestResponse = {
-  digest: Digest | null;
-  requestedDate: string;
-  usedFallback: boolean;
-};
-
-export function HomeFeed() {
+export function HomeFeed({ initial }: { initial: DigestPayload }) {
   const { state, update } = useUserState();
-  const [payload, setPayload] = useState<DigestResponse | null>(null);
-  const [error, setError] = useState<string | null>(null);
+  const payload = initial;
   const [category, setCategory] = useState<string>("all");
 
-  useEffect(() => {
-    let cancelled = false;
-    fetch("/api/digest")
-      .then(async (response) => {
-        if (!response.ok) {
-          throw new Error("无法加载今日简报");
-        }
-        return response.json() as Promise<DigestResponse>;
-      })
-      .then((data) => {
-        if (!cancelled) {
-          setPayload(data);
-        }
-      })
-      .catch((err: unknown) => {
-        if (!cancelled) {
-          setError(err instanceof Error ? err.message : "加载失败");
-        }
-      });
-    return () => {
-      cancelled = true;
-    };
-  }, []);
-
   const items = useMemo(() => {
-    const serverItems = payload?.digest?.items ?? [];
+    const serverItems = payload.digest?.items ?? [];
     const merged = [...serverItems, ...state.customItems];
     const visible = filterVisibleItems(merged, state.enabledSourceIds, state.enabledCategories);
     if (category === "all") {
@@ -55,18 +24,6 @@ export function HomeFeed() {
     }
     return visible.filter((item) => item.category === category);
   }, [payload, state.customItems, state.enabledSourceIds, state.enabledCategories, category]);
-
-  if (error) {
-    return (
-      <Empty title="简报加载失败" detail={error}>
-        <Button onClick={() => window.location.reload()}>重试</Button>
-      </Empty>
-    );
-  }
-
-  if (!payload) {
-    return <p className="text-sm text-muted-foreground">正在整理昨天的官方要闻…</p>;
-  }
 
   if (!payload.digest || payload.digest.items.length === 0) {
     return (
