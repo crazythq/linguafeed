@@ -1,7 +1,6 @@
 import Link from "next/link";
-import { ExternalLink } from "lucide-react";
+import { ExternalLink, X } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { sourceById } from "@/lib/feeds";
 import { tokenize } from "@/lib/sentences";
 import type { DigestItem, LearningMode, WordDefinition } from "@/lib/types";
@@ -10,12 +9,14 @@ export function ArticleReader({
   item,
   mode,
   sentenceIndex,
+  activeWord,
   definition,
   savedTerms,
 }: {
   item: DigestItem;
   mode: LearningMode;
   sentenceIndex: number;
+  activeWord: string | null;
   definition: WordDefinition | null;
   savedTerms: Set<string>;
 }) {
@@ -23,6 +24,7 @@ export function ArticleReader({
   const showTranslation = mode !== "immersive";
   const upcoming = mode === "pre-vocab" || mode === "quiz";
   const sentence = item.sentences[sentenceIndex]?.en ?? item.sentences[0]?.en ?? item.title;
+  const closeHref = `/read/${item.id}?mode=${mode}`;
 
   return (
     <article className="space-y-6">
@@ -53,25 +55,53 @@ export function ArticleReader({
         </p>
       ) : null}
 
+      <p className="text-xs text-muted-foreground">点击英文单词，释义会在词旁浮动显示。</p>
+
       <div className="space-y-5">
         {item.sentences.map((entry, index) => (
           <section key={`${item.id}-${index}`} className="space-y-1.5">
             <p className="font-serif text-[1.05rem] leading-8 text-foreground">
-              {tokenize(entry.en).map((token, tokenIndex) =>
-                token.isWord ? (
-                  <Link
-                    key={`${index}-${tokenIndex}`}
-                    href={`/read/${item.id}?mode=${mode}&w=${encodeURIComponent(token.text)}&s=${index}#dictionary`}
-                    className={`rounded-sm px-0.5 underline decoration-dotted decoration-primary/40 hover:bg-primary/10 ${
-                      savedTerms.has(token.text.toLowerCase()) ? "bg-primary/10 text-primary" : ""
-                    }`}
-                  >
-                    {token.text}
-                  </Link>
-                ) : (
-                  <span key={`${index}-${tokenIndex}`}>{token.text}</span>
-                ),
-              )}
+              {(() => {
+                const tokens = tokenize(entry.en);
+                let shownActive = false;
+                return tokens.map((token, tokenIndex) => {
+                  if (!token.isWord) {
+                    return <span key={`${index}-${tokenIndex}`}>{token.text}</span>;
+                  }
+                  const matchesActive =
+                    Boolean(activeWord) &&
+                    index === sentenceIndex &&
+                    token.text.toLowerCase() === activeWord!.toLowerCase();
+                  const isActive = matchesActive && !shownActive;
+                  if (isActive) {
+                    shownActive = true;
+                  }
+                  return (
+                    <span key={`${index}-${tokenIndex}`} className="relative inline">
+                      <Link
+                        href={`/read/${item.id}?mode=${mode}&w=${encodeURIComponent(token.text)}&s=${index}#word-${index}-${tokenIndex}`}
+                        id={`word-${index}-${tokenIndex}`}
+                        className={`rounded-sm px-0.5 underline decoration-dotted decoration-primary/40 hover:bg-primary/10 ${
+                          savedTerms.has(token.text.toLowerCase()) ? "bg-primary/10 text-primary" : ""
+                        } ${isActive ? "bg-primary/15 text-primary ring-1 ring-primary/30" : ""}`}
+                      >
+                        {token.text}
+                      </Link>
+                      {isActive && definition ? (
+                        <DictionaryPopover
+                          definition={definition}
+                          sentence={definition.example ?? sentence}
+                          articleId={item.id}
+                          articleTitle={item.title}
+                          mode={mode}
+                          sentenceIndex={sentenceIndex}
+                          closeHref={closeHref}
+                        />
+                      ) : null}
+                    </span>
+                  );
+                });
+              })()}
             </p>
             {showTranslation ? (
               <p className="text-sm leading-7 text-muted-foreground">{entry.zh ?? "暂无译文"}</p>
@@ -79,53 +109,81 @@ export function ArticleReader({
           </section>
         ))}
       </div>
-
-      <Card id="dictionary">
-        <CardHeader>
-          <CardTitle className="text-sm">词典</CardTitle>
-        </CardHeader>
-        <CardContent className="space-y-2 text-sm">
-          {definition ? (
-            <>
-              <p className="text-lg font-medium">
-                {definition.word}{" "}
-                {definition.phonetic ? (
-                  <span className="text-sm font-normal text-muted-foreground">{definition.phonetic}</span>
-                ) : null}
-              </p>
-              <p>{definition.definitionEn ?? "暂无英文释义，仍可收藏。"}</p>
-              <p className="text-muted-foreground">{definition.definitionZh ?? "暂无中文释义"}</p>
-              {definition.example ? (
-                <p className="text-xs leading-5 text-muted-foreground">例句：{definition.example}</p>
-              ) : null}
-              <form action="/vocab/add" method="post">
-                <input type="hidden" name="term" value={definition.word} />
-                <input type="hidden" name="type" value="word" />
-                <input type="hidden" name="phonetic" value={definition.phonetic ?? ""} />
-                <input type="hidden" name="definitionEn" value={definition.definitionEn ?? ""} />
-                <input type="hidden" name="definitionZh" value={definition.definitionZh ?? ""} />
-                <input type="hidden" name="sentence" value={definition.example ?? sentence} />
-                <input type="hidden" name="articleId" value={item.id} />
-                <input type="hidden" name="articleTitle" value={item.title} />
-                <input
-                  type="hidden"
-                  name="returnTo"
-                  value={`/read/${item.id}?mode=${mode}&w=${encodeURIComponent(definition.word)}&s=${sentenceIndex}#dictionary`}
-                />
-                <button
-                  type="submit"
-                  className="inline-flex h-8 items-center rounded-lg bg-primary px-3 text-sm text-primary-foreground"
-                >
-                  加入生词本
-                </button>
-              </form>
-            </>
-          ) : (
-            <p className="text-muted-foreground">点击英文单词查看释义，再加入生词本。</p>
-          )}
-        </CardContent>
-      </Card>
     </article>
+  );
+}
+
+function DictionaryPopover({
+  definition,
+  sentence,
+  articleId,
+  articleTitle,
+  mode,
+  sentenceIndex,
+  closeHref,
+}: {
+  definition: WordDefinition;
+  sentence: string;
+  articleId: string;
+  articleTitle: string;
+  mode: LearningMode;
+  sentenceIndex: number;
+  closeHref: string;
+}) {
+  return (
+    <div
+      id="dictionary"
+      role="dialog"
+      aria-label="词典"
+      className="absolute left-1/2 top-[calc(100%+0.4rem)] z-50 w-[min(18.5rem,calc(100vw-2rem))] -translate-x-1/2 rounded-xl bg-popover p-3 text-sm text-popover-foreground shadow-lg ring-1 ring-foreground/10"
+    >
+      <div className="mb-2 flex items-start justify-between gap-2">
+        <div>
+          <p className="text-xs text-muted-foreground">词典</p>
+          <p className="text-lg font-medium leading-tight">
+            {definition.word}{" "}
+            {definition.phonetic ? (
+              <span className="text-sm font-normal text-muted-foreground">{definition.phonetic}</span>
+            ) : null}
+          </p>
+        </div>
+        <Link
+          href={closeHref}
+          className="inline-flex size-7 items-center justify-center rounded-md text-muted-foreground hover:bg-muted hover:text-foreground"
+          aria-label="关闭词典"
+        >
+          <X className="size-4" />
+        </Link>
+      </div>
+      <div className="space-y-1.5">
+        <p>{definition.definitionEn ?? "暂无英文释义，仍可收藏。"}</p>
+        <p className="text-muted-foreground">{definition.definitionZh ?? "暂无中文释义"}</p>
+        {definition.example ? (
+          <p className="text-xs leading-5 text-muted-foreground">例句：{definition.example}</p>
+        ) : null}
+      </div>
+      <form action="/vocab/add" method="post" className="mt-3">
+        <input type="hidden" name="term" value={definition.word} />
+        <input type="hidden" name="type" value="word" />
+        <input type="hidden" name="phonetic" value={definition.phonetic ?? ""} />
+        <input type="hidden" name="definitionEn" value={definition.definitionEn ?? ""} />
+        <input type="hidden" name="definitionZh" value={definition.definitionZh ?? ""} />
+        <input type="hidden" name="sentence" value={sentence} />
+        <input type="hidden" name="articleId" value={articleId} />
+        <input type="hidden" name="articleTitle" value={articleTitle} />
+        <input
+          type="hidden"
+          name="returnTo"
+          value={`/read/${articleId}?mode=${mode}&w=${encodeURIComponent(definition.word)}&s=${sentenceIndex}`}
+        />
+        <button
+          type="submit"
+          className="inline-flex h-8 items-center rounded-lg bg-primary px-3 text-sm text-primary-foreground"
+        >
+          加入生词本
+        </button>
+      </form>
+    </div>
   );
 }
 

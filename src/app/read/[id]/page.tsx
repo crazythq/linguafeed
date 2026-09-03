@@ -48,6 +48,7 @@ export default async function ReadPage({
       item={item}
       mode={asMode(query.mode)}
       sentenceIndex={sentenceIndex}
+      activeWord={word}
       definition={definition}
       savedTerms={savedTerms}
     />
