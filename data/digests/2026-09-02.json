@@ -1,0 +1,249 @@
+{
+  "date": "2026-09-02",
+  "collectedAt": "2026-09-03T00:00:00.000Z",
+  "failures": [],
+  "items": [
+    {
+      "id": "seed-bbc-climate",
+      "sourceId": "bbc-world",
+      "category": "science",
+      "title": "Scientists warn Atlantic currents may slow faster than expected",
+      "url": "https://www.bbc.com/news/science-environment",
+      "publishedAt": "2026-09-02T08:20:00.000Z",
+      "sentences": [
+        {
+          "en": "Scientists warn Atlantic currents may slow faster than expected.",
+          "zh": "科学家警告，大西洋洋流可能比预期更快减缓。"
+        },
+        {
+          "en": "A new assessment of the Atlantic Meridional Overturning Circulation suggests the system that helps keep Europe's winters mild is losing stability.",
+          "zh": "对大西洋经向翻转环流的最新评估显示，这套帮助欧洲冬季保持温和的系统正在失去稳定。"
+        },
+        {
+          "en": "Researchers say the finding is not a prediction of collapse this decade, but it raises the cost of delay on emissions cuts.",
+          "zh": "研究人员表示，这并非预言本十年就会崩溃，但会提高推迟减排的代价。"
+        }
+      ]
+    },
+    {
+      "id": "seed-guardian-election",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Voters in several countries head to the polls as coalition talks stall",
+      "url": "https://www.theguardian.com/world",
+      "publishedAt": "2026-09-02T11:05:00.000Z",
+      "sentences": [
+        {
+          "en": "Voters in several countries head to the polls as coalition talks stall.",
+          "zh": "多个国家的选民走向投票站，与此同时组阁谈判陷入停滞。"
+        },
+        {
+          "en": "Turnout was higher than expected in urban districts, while rural counties reported delays at polling stations.",
+          "zh": "城市选区的投票率高于预期，农村地区则报告投票站出现延误。"
+        },
+        {
+          "en": "Analysts say the result may hinge on undecided voters who list the cost of living as their top concern.",
+          "zh": "分析人士认为，结果可能取决于把生活成本列为首要关切的中间选民。"
+        }
+      ]
+    },
+    {
+      "id": "seed-npr-trade",
+      "sourceId": "npr-news",
+      "category": "business",
+      "title": "Supply chains ease, but shipping costs remain a drag on small exporters",
+      "url": "https://www.npr.org",
+      "publishedAt": "2026-09-02T14:40:00.000Z",
+      "sentences": [
+        {
+          "en": "Supply chains ease, but shipping costs remain a drag on small exporters.",
+          "zh": "供应链有所缓解，但运费仍拖累小型出口商。"
+        },
+        {
+          "en": "Port congestion has fallen from last year's peak, according to industry trackers.",
+          "zh": "行业追踪数据显示，港口拥堵已从去年峰值回落。"
+        },
+        {
+          "en": "Even so, smaller firms say they still struggle to lock in predictable freight rates for the holiday season.",
+          "zh": "尽管如此，较小的公司表示，它们仍难以为假日季锁定可预期的运费。"
+        }
+      ]
+    },
+    {
+      "id": "seed-un-aid",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "UN agencies appeal for sustained funding as drought spreads",
+      "url": "https://news.un.org",
+      "publishedAt": "2026-09-02T06:15:00.000Z",
+      "sentences": [
+        {
+          "en": "UN agencies appeal for sustained funding as drought spreads.",
+          "zh": "随着旱情蔓延，联合国机构呼吁提供持续资金。"
+        },
+        {
+          "en": "Humanitarian coordinators warned that short-term pledges cannot replace multi-year support for water, food, and health services.",
+          "zh": "人道主义协调员警告，短期认捐无法替代对水、粮食和卫生服务的多年支持。"
+        },
+        {
+          "en": "Local clinics report rising malnutrition among children under five.",
+          "zh": "当地诊所报告五岁以下儿童营养不良情况上升。"
+        }
+      ]
+    },
+    {
+      "id": "seed-aj-tech-policy",
+      "sourceId": "al-jazeera",
+      "category": "world",
+      "title": "Governments debate cross-border rules for digital identity wallets",
+      "url": "https://www.aljazeera.com",
+      "publishedAt": "2026-09-02T09:50:00.000Z",
+      "sentences": [
+        {
+          "en": "Governments debate cross-border rules for digital identity wallets.",
+          "zh": "各国政府正在讨论数字身份钱包的跨境规则。"
+        },
+        {
+          "en": "Privacy advocates argue that interoperability must not become a back door for bulk surveillance.",
+          "zh": "隐私倡导者认为，互操作性绝不能成为大规模监控的后门。"
+        },
+        {
+          "en": "Officials counter that shared standards would cut fraud in travel and banking.",
+          "zh": "官员则反驳说，共享标准将减少旅行和银行业务中的欺诈。"
+        }
+      ]
+    },
+    {
+      "id": "seed-github-actions",
+      "sourceId": "github-blog",
+      "category": "open-source",
+      "title": "GitHub outlines safer defaults for Actions in public repositories",
+      "url": "https://github.blog",
+      "publishedAt": "2026-09-02T16:00:00.000Z",
+      "sentences": [
+        {
+          "en": "GitHub outlines safer defaults for Actions in public repositories.",
+          "zh": "GitHub 概述了公共仓库中 Actions 的更安全默认设置。"
+        },
+        {
+          "en": "The company says new repositories will require explicit approval before workflows from first-time contributors can run.",
+          "zh": "该公司表示，新仓库将要求在首次贡献者的工作流运行前获得明确批准。"
+        },
+        {
+          "en": "Maintainers can still opt into more permissive settings if they accept the extra review burden.",
+          "zh": "如果维护者愿意承担额外的审查负担，仍可选择更宽松的设置。"
+        }
+      ]
+    },
+    {
+      "id": "seed-aws-graviton",
+      "sourceId": "aws-news",
+      "category": "cloud",
+      "title": "AWS expands Graviton-based instances for memory-heavy workloads",
+      "url": "https://aws.amazon.com/blogs/aws/",
+      "publishedAt": "2026-09-02T17:25:00.000Z",
+      "sentences": [
+        {
+          "en": "AWS expands Graviton-based instances for memory-heavy workloads.",
+          "zh": "AWS 扩展了面向高内存负载的 Graviton 实例。"
+        },
+        {
+          "en": "The new sizes target in-memory databases and real-time analytics, with higher network throughput per vCPU.",
+          "zh": "新规格面向内存数据库和实时分析，每个 vCPU 的网络吞吐更高。"
+        },
+        {
+          "en": "Customers can migrate existing Arm images without changing their deployment pipelines.",
+          "zh": "客户可以迁移现有的 Arm 镜像，而无需改动部署流水线。"
+        }
+      ]
+    },
+    {
+      "id": "seed-google-ai",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Google open-sources a smaller on-device model for offline translation",
+      "url": "https://blog.google",
+      "publishedAt": "2026-09-02T15:10:00.000Z",
+      "sentences": [
+        {
+          "en": "Google open-sources a smaller on-device model for offline translation.",
+          "zh": "Google 开源了一款更小的端侧离线翻译模型。"
+        },
+        {
+          "en": "The release includes quantized weights and a reference Android sample that runs without a network connection.",
+          "zh": "此次发布包含量化权重，以及一个无需网络即可运行的 Android 参考示例。"
+        },
+        {
+          "en": "Researchers note that on-device inference trades some fluency for privacy and latency.",
+          "zh": "研究人员指出，端侧推理会用部分流畅度换取隐私和更低延迟。"
+        }
+      ]
+    },
+    {
+      "id": "seed-ms-typescript",
+      "sourceId": "ms-devblogs",
+      "category": "release-notes",
+      "title": "TypeScript previews faster project references for monorepos",
+      "url": "https://devblogs.microsoft.com",
+      "publishedAt": "2026-09-02T13:35:00.000Z",
+      "sentences": [
+        {
+          "en": "TypeScript previews faster project references for monorepos.",
+          "zh": "TypeScript 预览了面向单体仓库的更快项目引用。"
+        },
+        {
+          "en": "The compiler can now reuse incremental graphs across packages, cutting cold-start times in large workspaces.",
+          "zh": "编译器现在可以在包之间复用增量图，从而缩短大型工作区的冷启动时间。"
+        },
+        {
+          "en": "The team is asking for feedback from repositories that already split types into dedicated packages.",
+          "zh": "团队正在向已经把类型拆到独立包里的仓库征求反馈。"
+        }
+      ]
+    },
+    {
+      "id": "seed-cf-security",
+      "sourceId": "cloudflare-blog",
+      "category": "security",
+      "title": "Cloudflare details a new bot fight mode for API gateways",
+      "url": "https://blog.cloudflare.com",
+      "publishedAt": "2026-09-02T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Cloudflare details a new bot fight mode for API gateways.",
+          "zh": "Cloudflare 介绍了面向 API 网关的新反机器人模式。"
+        },
+        {
+          "en": "Instead of blocking only browsers, the feature scores machine-to-machine traffic using request rhythm and token reuse.",
+          "zh": "该功能不只拦截浏览器，还会根据请求节奏和令牌复用对机器对机器流量打分。"
+        },
+        {
+          "en": "False positives can be tuned with allowlists for known CI systems and partner integrations.",
+          "zh": "可通过为已知 CI 系统和合作伙伴集成设置白名单，来调节误报。"
+        }
+      ]
+    },
+    {
+      "id": "seed-k8s-gateway",
+      "sourceId": "k8s-blog",
+      "category": "cloud",
+      "title": "Gateway API graduates another feature for traffic splitting",
+      "url": "https://kubernetes.io/blog/",
+      "publishedAt": "2026-09-02T10:45:00.000Z",
+      "sentences": [
+        {
+          "en": "Gateway API graduates another feature for traffic splitting.",
+          "zh": "Gateway API 又有一项流量分割功能毕业。"
+        },
+        {
+          "en": "Cluster operators can now declare canary weights in a portable way across conforming implementations.",
+          "zh": "集群运维现在可以用可移植的方式，在符合规范的实现之间声明金丝雀权重。"
+        },
+        {
+          "en": "The Kubernetes SIG Network says the change reduces the need for vendor-specific annotations.",
+          "zh": "Kubernetes SIG Network 表示，这一变化减少了对厂商专有注解的依赖。"
+        }
+      ]
+    }
+  ]
+}
