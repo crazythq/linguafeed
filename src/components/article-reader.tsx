@@ -1,6 +1,7 @@
 import Link from "next/link";
-import { ExternalLink, X } from "lucide-react";
+import { ExternalLink } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
+import { DictionaryFloat } from "@/components/dictionary-float";
 import { sourceById } from "@/lib/feeds";
 import { tokenize } from "@/lib/sentences";
 import type { DigestItem, LearningMode, WordDefinition } from "@/lib/types";
@@ -90,7 +91,8 @@ export function ArticleReader({
                         {token.text}
                       </Link>
                       {isActive && definition ? (
-                        <DictionaryPopover
+                        <DictionaryFloat
+                          anchorId={`word-${index}-${tokenIndex}`}
                           definition={definition}
                           sentence={definition.example ?? sentence}
                           articleId={item.id}
@@ -122,80 +124,6 @@ export function ArticleReader({
         ))}
       </div>
     </article>
-  );
-}
-
-function DictionaryPopover({
-  definition,
-  sentence,
-  articleId,
-  articleTitle,
-  mode,
-  sentenceIndex,
-  closeHref,
-}: {
-  definition: WordDefinition;
-  sentence: string;
-  articleId: string;
-  articleTitle: string;
-  mode: LearningMode;
-  sentenceIndex: number;
-  closeHref: string;
-}) {
-  return (
-    <div
-      id="dictionary"
-      role="dialog"
-      aria-label="词典"
-      className="absolute left-1/2 top-[calc(100%+0.4rem)] z-50 w-[min(18.5rem,calc(100vw-2rem))] -translate-x-1/2 rounded-xl bg-popover p-3 text-sm text-popover-foreground shadow-lg ring-1 ring-foreground/10"
-    >
-      <div className="mb-2 flex items-start justify-between gap-2">
-        <div>
-          <p className="text-xs text-muted-foreground">词典</p>
-          <p className="text-lg font-medium leading-tight">
-            {definition.word}{" "}
-            {definition.phonetic ? (
-              <span className="text-sm font-normal text-muted-foreground">{definition.phonetic}</span>
-            ) : null}
-          </p>
-        </div>
-        <Link
-          href={closeHref}
-          className="inline-flex size-7 items-center justify-center rounded-md text-muted-foreground hover:bg-muted hover:text-foreground"
-          aria-label="关闭词典"
-        >
-          <X className="size-4" />
-        </Link>
-      </div>
-      <div className="space-y-1.5">
-        <p>{definition.definitionEn ?? "暂无英文释义，仍可收藏。"}</p>
-        <p className="text-muted-foreground">{definition.definitionZh ?? "暂无中文释义"}</p>
-        {definition.example ? (
-          <p className="text-xs leading-5 text-muted-foreground">例句：{definition.example}</p>
-        ) : null}
-      </div>
-      <form action="/vocab/add" method="post" className="mt-3">
-        <input type="hidden" name="term" value={definition.word} />
-        <input type="hidden" name="type" value="word" />
-        <input type="hidden" name="phonetic" value={definition.phonetic ?? ""} />
-        <input type="hidden" name="definitionEn" value={definition.definitionEn ?? ""} />
-        <input type="hidden" name="definitionZh" value={definition.definitionZh ?? ""} />
-        <input type="hidden" name="sentence" value={sentence} />
-        <input type="hidden" name="articleId" value={articleId} />
-        <input type="hidden" name="articleTitle" value={articleTitle} />
-        <input
-          type="hidden"
-          name="returnTo"
-          value={`/read/${articleId}?mode=${mode}&w=${encodeURIComponent(definition.word)}&s=${sentenceIndex}`}
-        />
-        <button
-          type="submit"
-          className="inline-flex h-8 items-center rounded-lg bg-primary px-3 text-sm text-primary-foreground"
-        >
-          加入生词本
-        </button>
-      </form>
-    </div>
   );
 }
 
