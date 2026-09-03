@@ -3,21 +3,30 @@ import { Badge } from "@/components/ui/badge";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import type { DigestPayload } from "@/lib/digest-payload";
 import { CATEGORIES, sourceById } from "@/lib/feeds";
-import type { DigestItem } from "@/lib/types";
+import type { CategoryId, DigestItem } from "@/lib/types";
 
 export function HomeFeed({
   initial,
   category,
   extraItems,
+  enabledSourceIds,
+  enabledCategories,
 }: {
   initial: DigestPayload;
   category: string;
   extraItems: DigestItem[];
+  enabledSourceIds: string[];
+  enabledCategories: CategoryId[];
 }) {
   const payload = initial;
   const serverItems = payload.digest?.items ?? [];
-  const merged = [...extraItems, ...serverItems];
+  const merged = [...extraItems, ...serverItems].filter((item) => {
+    const sourceOk = item.custom || enabledSourceIds.includes(item.sourceId);
+    const categoryOk = enabledCategories.includes(item.category);
+    return sourceOk && categoryOk;
+  });
   const items = category === "all" ? merged : merged.filter((item) => item.category === category);
+  const visibleCategories = CATEGORIES.filter((item) => enabledCategories.includes(item.id));
 
   if (!payload.digest || payload.digest.items.length === 0) {
     return (
@@ -50,7 +59,7 @@ export function HomeFeed({
         <FilterChip href="/" active={category === "all"}>
           全部
         </FilterChip>
-        {CATEGORIES.map((item) => (
+        {visibleCategories.map((item) => (
           <FilterChip key={item.id} href={`/?category=${item.id}`} active={category === item.id}>
             {item.label}
           </FilterChip>
@@ -59,8 +68,8 @@ export function HomeFeed({
 
       {items.length === 0 ? (
         <Empty title="这个分类没有内容" detail="试试打开更多分类，或到设置里启用对应的官方源。">
-          <Link href="/" className="inline-flex h-8 items-center rounded-lg border px-3 text-sm">
-            查看全部
+          <Link href="/settings" className="inline-flex h-8 items-center rounded-lg border px-3 text-sm">
+            调整订阅
           </Link>
         </Empty>
       ) : (

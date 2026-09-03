@@ -11,5 +11,13 @@ export default async function HomePage({
 }) {
   const { category = "all" } = await searchParams;
   const [initial, progress] = await Promise.all([loadBestDigest(), readProgress()]);
-  return <HomeFeed initial={initial} category={category} extraItems={progress.customItems} />;
+  return (
+    <HomeFeed
+      initial={initial}
+      category={category}
+      extraItems={progress.customItems}
+      enabledSourceIds={progress.enabledSourceIds}
+      enabledCategories={progress.enabledCategories}
+    />
+  );
 }

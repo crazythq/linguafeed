@@ -2,10 +2,11 @@
 
 import { redirect } from "next/navigation";
 import { collectCustomFeed } from "@/lib/collect";
+import { collectAndSave } from "@/lib/digest";
 import { isOfficialFeedUrl } from "@/lib/feeds";
 import { readProgress, writeProgress } from "@/lib/progress";
 import { vocabId } from "@/lib/storage";
-import type { VocabEntry } from "@/lib/types";
+import type { CategoryId, VocabEntry } from "@/lib/types";
 
 export async function addVocabAction(formData: FormData): Promise<void> {
   const term = String(formData.get("term") ?? "").trim();
@@ -73,4 +74,34 @@ export async function updateReadingPrefsAction(formData: FormData): Promise<void
   progress.maskTranslation = formData.get("maskTranslation") === "on";
   await writeProgress(progress);
   redirect("/settings?ok=" + encodeURIComponent("阅读偏好已保存"));
+}
+
+export async function updateSubscriptionsAction(formData: FormData): Promise<void> {
+  const progress = await readProgress();
+  const sources = formData.getAll("source").map(String).filter(Boolean);
+  const categories = formData.getAll("category").map(String).filter(Boolean) as CategoryId[];
+  if (sources.length === 0) {
+    redirect(`/settings?error=${encodeURIComponent("请至少保留一个官方源")}`);
+  }
+  if (categories.length === 0) {
+    redirect(`/settings?error=${encodeURIComponent("请至少保留一个关注分类")}`);
+  }
+  progress.enabledSourceIds = sources;
+  progress.enabledCategories = categories;
+  await writeProgress(progress);
+  redirect("/settings?ok=" + encodeURIComponent("订阅设置已保存"));
+}
+
+export async function collectPresetAction(): Promise<void> {
+  try {
+    const digest = await collectAndSave(null);
+    const failNote =
+      digest.failures.length > 0 ? `，${digest.failures.length} 个源失败` : "";
+    redirect(
+      `/settings?ok=${encodeURIComponent(`采集完成：${digest.items.length} 条昨日要闻${failNote}`)}`,
+    );
+  } catch (error) {
+    const message = error instanceof Error ? error.message : "采集失败";
+    redirect(`/settings?error=${encodeURIComponent(message)}`);
+  }
 }
