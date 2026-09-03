@@ -73,7 +73,7 @@ export async function updateReadingPrefsAction(formData: FormData): Promise<void
   const progress = await readProgress();
   progress.maskTranslation = formData.get("maskTranslation") === "on";
   await writeProgress(progress);
-  redirect("/settings?ok=" + encodeURIComponent("阅读偏好已保存"));
+  redirect("/settings");
 }
 
 export async function updateSubscriptionsAction(formData: FormData): Promise<void> {
@@ -90,6 +90,42 @@ export async function updateSubscriptionsAction(formData: FormData): Promise<voi
   progress.enabledCategories = categories;
   await writeProgress(progress);
   redirect("/settings?ok=" + encodeURIComponent("订阅设置已保存"));
+}
+
+export async function toggleSubscriptionAction(formData: FormData): Promise<void> {
+  const progress = await readProgress();
+  const kind = String(formData.get("kind") ?? "");
+  const id = String(formData.get("id") ?? "");
+  const enable = String(formData.get("enable") ?? "") === "1";
+
+  if (kind === "source") {
+    const set = new Set(progress.enabledSourceIds);
+    if (enable) {
+      set.add(id);
+    } else {
+      set.delete(id);
+    }
+    if (set.size === 0) {
+      redirect(`/settings?error=${encodeURIComponent("请至少保留一个官方源")}`);
+    }
+    progress.enabledSourceIds = [...set];
+  } else if (kind === "category") {
+    const set = new Set(progress.enabledCategories);
+    if (enable) {
+      set.add(id as CategoryId);
+    } else {
+      set.delete(id as CategoryId);
+    }
+    if (set.size === 0) {
+      redirect(`/settings?error=${encodeURIComponent("请至少保留一个关注分类")}`);
+    }
+    progress.enabledCategories = [...set];
+  } else {
+    redirect(`/settings?error=${encodeURIComponent("未知的订阅项")}`);
+  }
+
+  await writeProgress(progress);
+  redirect("/settings");
 }
 
 export async function collectPresetAction(): Promise<void> {
