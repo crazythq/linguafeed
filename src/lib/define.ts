@@ -49,7 +49,7 @@ export async function defineWord(
   try {
     const response = await fetch(
       `https://api.dictionaryapi.dev/api/v2/entries/en/${encodeURIComponent(cleaned.toLowerCase())}`,
-      { signal: AbortSignal.timeout(10_000) },
+      { signal: AbortSignal.timeout(4_000) },
     );
     if (response.ok) {
       const data = (await response.json()) as DictionaryEntry[];
@@ -70,6 +70,6 @@ export async function defineWord(
     // ignore
   }
 
-  const definitionZh = await translateOne(cleaned, llm);
+  const definitionZh = await translateOne(`the word "${cleaned}" in: ${sentence.slice(0, 160)}`, llm);
   return { ...fallback, definitionZh };
 }
