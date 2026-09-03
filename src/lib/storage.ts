@@ -1,7 +1,7 @@
 import type { CategoryId, DigestItem, LearningMode, UserState, VocabEntry } from "./types";
 import { DEFAULT_ENABLED_CATEGORIES, DEFAULT_ENABLED_SOURCE_IDS } from "./feeds";
 
-const STORAGE_KEY = "chendu-user-state-v1";
+export const STORAGE_KEY = "chendu-user-state-v1";
 
 export const defaultUserState = (): UserState => ({
   version: 1,
@@ -20,31 +20,52 @@ export const defaultUserState = (): UserState => ({
   },
 });
 
+export const SERVER_USER_STATE: UserState = defaultUserState();
+
+let cachedRaw: string | null | undefined;
+let cachedState: UserState = SERVER_USER_STATE;
+
+function parseState(raw: string | null): UserState {
+  if (!raw) {
+    return SERVER_USER_STATE;
+  }
+  try {
+    const parsed = JSON.parse(raw) as Partial<UserState>;
+    return { ...defaultUserState(), ...parsed, version: 1 };
+  } catch {
+    return SERVER_USER_STATE;
+  }
+}
+
 function isBrowser(): boolean {
   return typeof window !== "undefined";
 }
 
-export function loadUserState(): UserState {
+export function getUserStateSnapshot(): UserState {
   if (!isBrowser()) {
-    return defaultUserState();
+    return SERVER_USER_STATE;
   }
-  try {
-    const raw = window.localStorage.getItem(STORAGE_KEY);
-    if (!raw) {
-      return defaultUserState();
-    }
-    const parsed = JSON.parse(raw) as Partial<UserState>;
-    return { ...defaultUserState(), ...parsed, version: 1 };
-  } catch {
-    return defaultUserState();
+  const raw = window.localStorage.getItem(STORAGE_KEY);
+  if (raw === cachedRaw) {
+    return cachedState;
   }
+  cachedRaw = raw;
+  cachedState = parseState(raw);
+  return cachedState;
+}
+
+export function loadUserState(): UserState {
+  return getUserStateSnapshot();
 }
 
 export function saveUserState(state: UserState): void {
   if (!isBrowser()) {
     return;
   }
-  window.localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
+  const raw = JSON.stringify(state);
+  cachedRaw = raw;
+  cachedState = state;
+  window.localStorage.setItem(STORAGE_KEY, raw);
 }
 
 export function exportUserState(state: UserState, includeKey: boolean): string {

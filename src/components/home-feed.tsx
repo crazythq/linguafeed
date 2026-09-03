@@ -17,7 +17,7 @@ type DigestResponse = {
 };
 
 export function HomeFeed() {
-  const { state, update, hydrated } = useUserState();
+  const { state, update } = useUserState();
   const [payload, setPayload] = useState<DigestResponse | null>(null);
   const [error, setError] = useState<string | null>(null);
   const [category, setCategory] = useState<string>("all");
@@ -64,7 +64,7 @@ export function HomeFeed() {
     );
   }
 
-  if (!payload || !hydrated) {
+  if (!payload) {
     return <p className="text-sm text-muted-foreground">正在整理昨天的官方要闻…</p>;
   }
 

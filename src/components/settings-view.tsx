@@ -17,16 +17,12 @@ import { exportUserState, importUserState } from "@/lib/storage";
 import type { CategoryId, Digest, DigestItem } from "@/lib/types";
 
 export function SettingsView() {
-  const { state, update, hydrated } = useUserState();
+  const { state, update } = useUserState();
   const [collecting, setCollecting] = useState(false);
   const [customUrl, setCustomUrl] = useState("");
   const [includeKey, setIncludeKey] = useState(false);
   const [failures, setFailures] = useState<{ sourceId: string; error: string }[]>([]);
   const fileRef = useRef<HTMLInputElement>(null);
-
-  if (!hydrated) {
-    return <p className="text-sm text-muted-foreground">正在读取本机设置…</p>;
-  }
 
   async function collectPreset() {
     setCollecting(true);

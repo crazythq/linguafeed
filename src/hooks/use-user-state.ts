@@ -1,7 +1,7 @@
 "use client";
 
 import { useCallback, useSyncExternalStore } from "react";
-import { loadUserState, saveUserState } from "@/lib/storage";
+import { getUserStateSnapshot, loadUserState, saveUserState, SERVER_USER_STATE } from "@/lib/storage";
 import type { UserState } from "@/lib/types";
 
 const listeners = new Set<() => void>();
@@ -20,19 +20,23 @@ function subscribe(listener: () => void): () => void {
 }
 
 function getSnapshot(): UserState {
-  return loadUserState();
+  return getUserStateSnapshot();
 }
 
 function getServerSnapshot(): UserState {
-  return loadUserState();
+  return SERVER_USER_STATE;
 }
+
+const subscribeHydrated = (): (() => void) => () => undefined;
+const getHydratedSnapshot = (): boolean => true;
+const getHydratedServerSnapshot = (): boolean => false;
 
 export function useUserState() {
   const state = useSyncExternalStore(subscribe, getSnapshot, getServerSnapshot);
   const hydrated = useSyncExternalStore(
-    subscribe,
-    () => true,
-    () => false,
+    subscribeHydrated,
+    getHydratedSnapshot,
+    getHydratedServerSnapshot,
   );
 
   const update = useCallback((updater: (current: UserState) => UserState) => {

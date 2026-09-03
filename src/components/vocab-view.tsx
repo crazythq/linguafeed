@@ -12,7 +12,7 @@ import { useUserState } from "@/hooks/use-user-state";
 import type { VocabType } from "@/lib/types";
 
 export function VocabView() {
-  const { state, update, hydrated } = useUserState();
+  const { state, update } = useUserState();
   const [query, setQuery] = useState("");
   const [tab, setTab] = useState<VocabType | "all">("all");
 
@@ -24,10 +24,6 @@ export function VocabView() {
       return typeOk && (!q || text.includes(q));
     });
   }, [state.vocab, query, tab]);
-
-  if (!hydrated) {
-    return <p className="text-sm text-muted-foreground">正在读取本机生词本…</p>;
-  }
 
   return (
     <div className="space-y-5">

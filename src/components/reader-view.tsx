@@ -18,7 +18,7 @@ type DigestResponse = { digest: Digest | null };
 
 export function ReaderView({ params }: { params: Promise<{ id: string }> }) {
   const { id } = use(params);
-  const { state, update, hydrated } = useUserState();
+  const { state, update } = useUserState();
   const [item, setItem] = useState<DigestItem | null | undefined>(undefined);
   const [lookup, setLookup] = useState<WordDefinition | null>(null);
   const [lookupLoading, setLookupLoading] = useState(false);
@@ -114,7 +114,7 @@ export function ReaderView({ params }: { params: Promise<{ id: string }> }) {
     }
   }
 
-  if (item === undefined || !hydrated) {
+  if (item === undefined) {
     return <p className="text-sm text-muted-foreground">正在打开对照阅读…</p>;
   }
 
