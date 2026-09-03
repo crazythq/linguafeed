@@ -67,3 +67,10 @@ export async function collectCustomAction(formData: FormData): Promise<void> {
     redirect(`/settings?error=${encodeURIComponent(message)}`);
   }
 }
+
+export async function updateReadingPrefsAction(formData: FormData): Promise<void> {
+  const progress = await readProgress();
+  progress.maskTranslation = formData.get("maskTranslation") === "on";
+  await writeProgress(progress);
+  redirect("/settings?ok=" + encodeURIComponent("阅读偏好已保存"));
+}

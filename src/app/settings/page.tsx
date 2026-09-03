@@ -22,6 +22,35 @@ export default async function SettingsPage({
 
       <Card>
         <CardHeader>
+          <CardTitle>阅读偏好</CardTitle>
+          <CardDescription>
+            中文译文默认用灰色斜体弱化。开启遮挡后，译文被盖住，鼠标移上去才显示。
+          </CardDescription>
+        </CardHeader>
+        <CardContent>
+          <form action="/settings/prefs" method="post" className="space-y-3">
+            <label className="flex items-start gap-3 rounded-lg border px-3 py-2 text-sm">
+              <input
+                type="checkbox"
+                name="maskTranslation"
+                value="on"
+                defaultChecked={progress.maskTranslation}
+                className="mt-1"
+              />
+              <span>
+                <span className="block font-medium">遮挡中文译文</span>
+                <span className="text-xs text-muted-foreground">对照阅读时先藏起译文，悬停再看，方便先猜再对照。</span>
+              </span>
+            </label>
+            <button type="submit" className="inline-flex h-8 items-center rounded-lg bg-primary px-3 text-sm text-primary-foreground">
+              保存偏好
+            </button>
+          </form>
+        </CardContent>
+      </Card>
+
+      <Card>
+        <CardHeader>
           <CardTitle>自定义官方 RSS</CardTitle>
           <CardDescription>
             必须是白名单里的出版方域名。非官方聚合站会被拒绝。结果保存在本机 Cookie，不写入共享简报。

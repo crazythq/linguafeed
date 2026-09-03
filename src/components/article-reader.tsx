@@ -12,6 +12,7 @@ export function ArticleReader({
   activeWord,
   definition,
   savedTerms,
+  maskTranslation,
 }: {
   item: DigestItem;
   mode: LearningMode;
@@ -19,6 +20,7 @@ export function ArticleReader({
   activeWord: string | null;
   definition: WordDefinition | null;
   savedTerms: Set<string>;
+  maskTranslation: boolean;
 }) {
   const source = sourceById(item.sourceId);
   const showTranslation = mode !== "immersive";
@@ -104,7 +106,17 @@ export function ArticleReader({
               })()}
             </p>
             {showTranslation ? (
-              <p className="text-sm leading-7 text-muted-foreground">{entry.zh ?? "暂无译文"}</p>
+              <p
+                tabIndex={maskTranslation ? 0 : undefined}
+                title={maskTranslation ? "移入或点按查看译文" : undefined}
+                className={
+                  maskTranslation
+                    ? "cursor-help rounded-md bg-muted/90 px-1 text-sm leading-7 text-transparent italic outline-none transition-colors hover:bg-transparent hover:text-muted-foreground/55 focus:bg-transparent focus:text-muted-foreground/55 active:bg-transparent active:text-muted-foreground/55"
+                    : "text-sm leading-7 text-muted-foreground/55 italic"
+                }
+              >
+                {entry.zh ?? "暂无译文"}
+              </p>
             ) : null}
           </section>
         ))}

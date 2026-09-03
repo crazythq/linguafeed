@@ -51,6 +51,7 @@ export default async function ReadPage({
       activeWord={word}
       definition={definition}
       savedTerms={savedTerms}
+      maskTranslation={progress.maskTranslation}
     />
   );
 }
