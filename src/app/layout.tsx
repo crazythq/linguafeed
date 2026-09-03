@@ -1,3 +1,4 @@
+import { headers } from "next/headers";
 import type { Metadata } from "next";
 import { Geist, Geist_Mono, Source_Serif_4 } from "next/font/google";
 import { AppShell } from "@/components/app-shell";
@@ -24,7 +25,8 @@ export const metadata: Metadata = {
   description: "每天从官方 RSS 读昨天的全球要闻和科技博客，对照学习英语并积累单词、短语。",
 };
 
-export default function RootLayout({ children }: LayoutProps<"/">) {
+export default async function RootLayout({ children }: LayoutProps<"/">) {
+  const pathname = (await headers()).get("x-pathname") ?? "/";
   return (
     <html
       lang="zh-CN"
@@ -32,7 +34,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
     >
       <body className="min-h-full flex flex-col font-sans">
         <Providers>
-          <AppShell>{children}</AppShell>
+          <AppShell pathname={pathname}>{children}</AppShell>
         </Providers>
       </body>
     </html>

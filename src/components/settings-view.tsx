@@ -11,15 +11,14 @@ import { Separator } from "@/components/ui/separator";
 import { Switch } from "@/components/ui/switch";
 import { Textarea } from "@/components/ui/textarea";
 import { useUserState } from "@/hooks/use-user-state";
-import { CATEGORIES, isOfficialFeedUrl, OFFICIAL_SOURCES } from "@/lib/feeds";
+import { CATEGORIES, OFFICIAL_SOURCES } from "@/lib/feeds";
 import { llmHeaders } from "@/lib/llm-headers";
 import { exportUserState, importUserState } from "@/lib/storage";
-import type { CategoryId, Digest, DigestItem } from "@/lib/types";
+import type { CategoryId, Digest } from "@/lib/types";
 
 export function SettingsView() {
   const { state, update } = useUserState();
   const [collecting, setCollecting] = useState(false);
-  const [customUrl, setCustomUrl] = useState("");
   const [includeKey, setIncludeKey] = useState(false);
   const [failures, setFailures] = useState<{ sourceId: string; error: string }[]>([]);
   const fileRef = useRef<HTMLInputElement>(null);
@@ -38,45 +37,6 @@ export function SettingsView() {
       }
       setFailures(data.digest?.failures ?? []);
       toast.success(`采集完成：${data.digest?.items.length ?? 0} 条昨日要闻`);
-    } catch (error) {
-      toast.error(error instanceof Error ? error.message : "采集失败");
-    } finally {
-      setCollecting(false);
-    }
-  }
-
-  async function collectCustom() {
-    const check = isOfficialFeedUrl(customUrl.trim());
-    if (!check.ok) {
-      toast.error(check.error);
-      return;
-    }
-    setCollecting(true);
-    try {
-      const response = await fetch("/api/collect", {
-        method: "POST",
-        headers: { "Content-Type": "application/json", ...llmHeaders(state.llm) },
-        body: JSON.stringify({ kind: "custom", feedUrl: customUrl.trim() }),
-      });
-      const data = (await response.json()) as { items?: DigestItem[]; sourceName?: string; error?: string };
-      if (!response.ok) {
-        throw new Error(data.error ?? "采集失败");
-      }
-      const items = data.items ?? [];
-      update((current) => {
-        const ids = new Set(current.customItems.map((item) => item.id));
-        const merged = [...items.filter((item) => !ids.has(item.id)), ...current.customItems];
-        const feedId = customUrl.trim();
-        const feeds = current.customFeeds.some((feed) => feed.url === feedId)
-          ? current.customFeeds
-          : [
-              ...current.customFeeds,
-              { id: feedId, url: feedId, name: data.sourceName ?? check.url.hostname, enabled: true },
-            ];
-        return { ...current, customItems: merged, customFeeds: feeds };
-      });
-      toast.success(`已加入 ${items.length} 条，来自 ${data.sourceName}`);
-      setCustomUrl("");
     } catch (error) {
       toast.error(error instanceof Error ? error.message : "采集失败");
     } finally {
@@ -195,47 +155,6 @@ export function SettingsView() {
               </label>
             );
           })}
-        </CardContent>
-      </Card>
-
-      <Card>
-        <CardHeader>
-          <CardTitle>自定义官方 RSS</CardTitle>
-          <CardDescription>必须是白名单里的出版方域名。结果只存在本机，不会写入共享简报。</CardDescription>
-        </CardHeader>
-        <CardContent className="space-y-3">
-          <div className="flex flex-col gap-2 sm:flex-row">
-            <Input
-              value={customUrl}
-              onChange={(event) => setCustomUrl(event.target.value)}
-              placeholder="https://github.blog/feed/"
-            />
-            <Button variant="outline" onClick={collectCustom} disabled={collecting}>
-              拉取并加入
-            </Button>
-          </div>
-          {state.customFeeds.length > 0 ? (
-            <ul className="space-y-1 text-sm">
-              {state.customFeeds.map((feed) => (
-                <li key={feed.id} className="flex items-center justify-between gap-2">
-                  <span className="truncate">{feed.name}</span>
-                  <Button
-                    size="sm"
-                    variant="ghost"
-                    onClick={() =>
-                      update((current) => ({
-                        ...current,
-                        customFeeds: current.customFeeds.filter((item) => item.id !== feed.id),
-                        customItems: current.customItems.filter((item) => item.sourceId !== `custom-${new URL(feed.url).hostname}` && !feed.url.includes(item.url)),
-                      }))
-                    }
-                  >
-                    移除
-                  </Button>
-                </li>
-              ))}
-            </ul>
-          ) : null}
         </CardContent>
       </Card>
 

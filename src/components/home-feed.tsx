@@ -1,29 +1,23 @@
-"use client";
-
-import { useMemo, useState } from "react";
 import Link from "next/link";
 import { Badge } from "@/components/ui/badge";
-import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
-import { useUserState } from "@/hooks/use-user-state";
-import { CATEGORIES, sourceById } from "@/lib/feeds";
 import type { DigestPayload } from "@/lib/digest-payload";
-import { filterVisibleItems } from "@/lib/storage";
+import { CATEGORIES, sourceById } from "@/lib/feeds";
+import type { DigestItem } from "@/lib/types";
 
-export function HomeFeed({ initial }: { initial: DigestPayload }) {
-  const { state, update } = useUserState();
+export function HomeFeed({
+  initial,
+  category,
+  extraItems,
+}: {
+  initial: DigestPayload;
+  category: string;
+  extraItems: DigestItem[];
+}) {
   const payload = initial;
-  const [category, setCategory] = useState<string>("all");
-
-  const items = useMemo(() => {
-    const serverItems = payload.digest?.items ?? [];
-    const merged = [...serverItems, ...state.customItems];
-    const visible = filterVisibleItems(merged, state.enabledSourceIds, state.enabledCategories);
-    if (category === "all") {
-      return visible;
-    }
-    return visible.filter((item) => item.category === category);
-  }, [payload, state.customItems, state.enabledSourceIds, state.enabledCategories, category]);
+  const serverItems = payload.digest?.items ?? [];
+  const merged = [...extraItems, ...serverItems];
+  const items = category === "all" ? merged : merged.filter((item) => item.category === category);
 
   if (!payload.digest || payload.digest.items.length === 0) {
     return (
@@ -31,7 +25,9 @@ export function HomeFeed({ initial }: { initial: DigestPayload }) {
         title="还没有昨天的简报"
         detail={`按 Asia/Shanghai 计算，昨天是 ${payload.requestedDate}。可到设置页立即采集，或等待每天 06:00 的定时任务。`}
       >
-        <Button render={<Link href="/settings" />}>去设置采集</Button>
+        <Link href="/settings" className="inline-flex h-8 items-center rounded-lg bg-primary px-3 text-sm text-primary-foreground">
+          去设置采集
+        </Link>
       </Empty>
     );
   }
@@ -51,11 +47,11 @@ export function HomeFeed({ initial }: { initial: DigestPayload }) {
       </div>
 
       <div className="flex gap-2 overflow-x-auto pb-1">
-        <FilterChip active={category === "all"} onClick={() => setCategory("all")}>
+        <FilterChip href="/" active={category === "all"}>
           全部
         </FilterChip>
-        {CATEGORIES.filter((item) => state.enabledCategories.includes(item.id)).map((item) => (
-          <FilterChip key={item.id} active={category === item.id} onClick={() => setCategory(item.id)}>
+        {CATEGORIES.map((item) => (
+          <FilterChip key={item.id} href={`/?category=${item.id}`} active={category === item.id}>
             {item.label}
           </FilterChip>
         ))}
@@ -63,30 +59,22 @@ export function HomeFeed({ initial }: { initial: DigestPayload }) {
 
       {items.length === 0 ? (
         <Empty title="这个分类没有内容" detail="试试打开更多分类，或到设置里启用对应的官方源。">
-          <Button render={<Link href="/settings" />} variant="outline">
-            调整订阅
-          </Button>
+          <Link href="/" className="inline-flex h-8 items-center rounded-lg border px-3 text-sm">
+            查看全部
+          </Link>
         </Empty>
       ) : (
         <div className="grid gap-3">
           {items.map((item) => {
             const source = sourceById(item.sourceId);
-            const read = state.readIds.includes(item.id);
             return (
-              <Link key={item.id} href={`/read/${item.id}`} onClick={() => {
-                update((current) =>
-                  current.readIds.includes(item.id)
-                    ? current
-                    : { ...current, readIds: [...current.readIds, item.id] },
-                );
-              }}>
+              <Link key={item.id} href={`/read/${item.id}`}>
                 <Card size="sm" className="transition-colors hover:bg-secondary/40">
                   <CardHeader>
                     <div className="flex flex-wrap items-center gap-2">
                       <Badge variant="secondary">{source?.name ?? item.sourceId}</Badge>
                       <Badge variant="outline">{item.category}</Badge>
                       {item.custom ? <Badge variant="outline">自定义源</Badge> : null}
-                      {read ? <span className="text-xs text-muted-foreground">已读</span> : null}
                     </div>
                     <CardTitle className="text-base leading-6">{item.title}</CardTitle>
                     <CardDescription className="line-clamp-2">
@@ -107,24 +95,23 @@ export function HomeFeed({ initial }: { initial: DigestPayload }) {
 }
 
 function FilterChip({
+  href,
   active,
-  onClick,
   children,
 }: {
+  href: string;
   active: boolean;
-  onClick: () => void;
   children: React.ReactNode;
 }) {
   return (
-    <button
-      type="button"
-      onClick={onClick}
+    <Link
+      href={href}
       className={`shrink-0 rounded-full border px-3 py-1 text-xs ${
         active ? "border-primary bg-primary text-primary-foreground" : "border-border bg-card text-muted-foreground"
       }`}
     >
       {children}
-    </button>
+    </Link>
   );
 }
 

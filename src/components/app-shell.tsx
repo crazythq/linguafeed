@@ -1,8 +1,5 @@
-"use client";
-
-import Link from "next/link";
-import { usePathname } from "next/navigation";
 import { BookOpen, Newspaper, Settings } from "lucide-react";
+import Link from "next/link";
 import { cn } from "@/lib/utils";
 
 const NAV = [
@@ -11,9 +8,13 @@ const NAV = [
   { href: "/settings", label: "设置", icon: Settings },
 ] as const;
 
-export function AppShell({ children }: { children: React.ReactNode }) {
-  const pathname = usePathname();
-
+export function AppShell({
+  children,
+  pathname,
+}: {
+  children: React.ReactNode;
+  pathname: string;
+}) {
   return (
     <div className="flex min-h-full flex-col">
       <header className="sticky top-0 z-40 border-b bg-background/90 backdrop-blur">
