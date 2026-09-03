@@ -14,7 +14,7 @@ npm run dev
 打开 [http://127.0.0.1:43127](http://127.0.0.1:43127)。仓库里已有一份种子简报，即使还没采集也能开始对照阅读。
 
 ```bash
-npm test          # 时区、分句、白名单
+npm test          # 时区、分句、URL 校验
 npm run collect   # 立刻采集「昨天」（Asia/Shanghai）的官方源
 ```
 
@@ -39,7 +39,7 @@ npm run collect   # 立刻采集「昨天」（Asia/Shanghai）的官方源
 预置世界源：BBC World、NPR、The Guardian World、UN News、Al Jazeera。  
 预置科技源：GitHub Blog、AWS News Blog、The Keyword（Google）、Microsoft DevBlogs、Cloudflare Blog、Kubernetes Blog。
 
-自定义 RSS 必须落在官方域名白名单内，经服务端代理拉取，结果只写入本机。
+自定义 RSS 可填任意公开 feed，经服务端代理拉取，结果只写入本机 Cookie。
 
 ## 翻译
 

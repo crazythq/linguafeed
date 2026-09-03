@@ -191,9 +191,9 @@ export default async function SettingsPage({
 
       <Card>
         <CardHeader>
-          <CardTitle>自定义官方 RSS</CardTitle>
+          <CardTitle>自定义 RSS</CardTitle>
           <CardDescription>
-            必须是白名单里的出版方域名。非官方聚合站会被拒绝。结果保存在本机 Cookie，不写入共享简报。
+            粘贴任意公开的 RSS/Atom 链接即可拉取。结果保存在本机 Cookie，不写入共享简报。
           </CardDescription>
         </CardHeader>
         <CardContent className="space-y-3">

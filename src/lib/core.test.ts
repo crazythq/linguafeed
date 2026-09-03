@@ -1,6 +1,6 @@
 import { splitSentences } from "./sentences";
 import { yesterdayShanghai, shanghaiDate, isOnShanghaiDate } from "./timezone";
-import { isOfficialFeedUrl } from "./feeds";
+import { parseFeedUrl } from "./feeds";
 import assert from "node:assert/strict";
 import test from "node:test";
 
@@ -27,9 +27,13 @@ test("isOnShanghaiDate respects timezone", () => {
   assert.equal(isOnShanghaiDate(utcEvening, "2026-09-02"), false);
 });
 
-test("official feed whitelist rejects aggregators", () => {
-  const bad = isOfficialFeedUrl("https://news.google.com/rss");
+test("parseFeedUrl accepts any http(s) feed", () => {
+  const aggregator = parseFeedUrl("https://news.google.com/rss");
+  assert.equal(aggregator.ok, true);
+  const official = parseFeedUrl("https://github.blog/feed/");
+  assert.equal(official.ok, true);
+  const bad = parseFeedUrl("ftp://example.com/feed");
   assert.equal(bad.ok, false);
-  const good = isOfficialFeedUrl("https://github.blog/feed/");
-  assert.equal(good.ok, true);
+  const nonsense = parseFeedUrl("not a url");
+  assert.equal(nonsense.ok, false);
 });

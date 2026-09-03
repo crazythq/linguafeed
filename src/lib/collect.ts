@@ -1,5 +1,5 @@
 import { XMLParser } from "fast-xml-parser";
-import { categorize, isOfficialFeedUrl, OFFICIAL_SOURCES, sourceById } from "./feeds";
+import { categorize, OFFICIAL_SOURCES, parseFeedUrl, sourceById } from "./feeds";
 import { shortId } from "./hash";
 import { stripHtml } from "./html";
 import { splitSentences } from "./sentences";
@@ -8,7 +8,7 @@ import { translateSentences } from "./translate";
 import type { Digest, DigestFailure, DigestItem, LlmConfig, OfficialSource } from "./types";
 
 const FETCH_HEADERS = {
-  "User-Agent": "ChenDu/1.0 (educational English reader; official RSS only)",
+  "User-Agent": "ChenDu/1.0 (educational English reader; RSS/Atom)",
   Accept: "application/rss+xml, application/atom+xml, application/xml, text/xml;q=0.9, */*;q=0.8",
 };
 
@@ -219,14 +219,18 @@ export async function collectCustomFeed(
   feedUrl: string,
   llm: LlmConfig | null,
 ): Promise<{ items: DigestItem[]; sourceName: string }> {
-  const check = isOfficialFeedUrl(feedUrl);
+  const check = parseFeedUrl(feedUrl);
   if (!check.ok) {
     throw new Error(check.error);
   }
-  const matched = OFFICIAL_SOURCES.find((source) => source.feedUrl === check.url.toString())
-    ?? OFFICIAL_SOURCES.find((source) => source.hosts.includes(check.url.hostname));
+  const host = check.url.hostname.toLowerCase();
+  const matched =
+    OFFICIAL_SOURCES.find((source) => source.feedUrl === check.url.toString()) ??
+    OFFICIAL_SOURCES.find((source) =>
+      source.hosts.some((item) => host === item || host.endsWith(`.${item}`)),
+    );
   const source: Pick<OfficialSource, "id" | "defaultCategory"> = matched
-    ?? { id: `custom-${check.url.hostname}`, defaultCategory: "world" };
+    ?? { id: `custom-${host}`, defaultCategory: "world" };
   const xml = await fetchFeedXml(check.url.toString());
   const entries = parseFeedEntries(xml);
   const date = yesterdayShanghai();
@@ -235,7 +239,7 @@ export async function collectCustomFeed(
     custom: true,
     limit: 6,
   });
-  return { items, sourceName: matched?.name ?? check.url.hostname };
+  return { items, sourceName: matched?.name ?? host };
 }
 
 export function sourceName(sourceId: string): string {

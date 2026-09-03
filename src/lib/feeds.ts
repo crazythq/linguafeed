@@ -113,49 +113,15 @@ export const OFFICIAL_SOURCES: OfficialSource[] = [
   },
 ];
 
-const EXTRA_OFFICIAL_HOSTS = [
-  "developers.googleblog.com",
-  "developer.android.com",
-  "cloud.google.com",
-  "openai.com",
-  "blogs.nvidia.com",
-  "www.cncf.io",
-  "blog.rust-lang.org",
-  "nodejs.org",
-  "blog.python.org",
-  "www.ietf.org",
-  "security.googleblog.com",
-  "aws.amazon.com",
-];
-
-export function officialHostSet(): Set<string> {
-  const hosts = new Set<string>(EXTRA_OFFICIAL_HOSTS);
-  for (const source of OFFICIAL_SOURCES) {
-    for (const host of source.hosts) {
-      hosts.add(host);
-    }
-  }
-  return hosts;
-}
-
-export function isOfficialFeedUrl(rawUrl: string): { ok: true; url: URL } | { ok: false; error: string } {
+export function parseFeedUrl(rawUrl: string): { ok: true; url: URL } | { ok: false; error: string } {
   let url: URL;
   try {
-    url = new URL(rawUrl);
+    url = new URL(rawUrl.trim());
   } catch {
     return { ok: false, error: "链接不是合法 URL。" };
   }
   if (url.protocol !== "https:" && url.protocol !== "http:") {
-    return { ok: false, error: "只接受 http(s) 的官方 RSS/Atom。" };
-  }
-  const host = url.hostname.toLowerCase();
-  const allowed = officialHostSet();
-  const matched = [...allowed].some((item) => host === item || host.endsWith(`.${item}`));
-  if (!matched) {
-    return {
-      ok: false,
-      error: "该域名不在官方源白名单。晨读只接受出版方自己的 RSS/Atom，不接受聚合站。",
-    };
+    return { ok: false, error: "只接受 http(s) 的 RSS/Atom 链接。" };
   }
   return { ok: true, url };
 }

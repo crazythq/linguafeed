@@ -3,7 +3,7 @@
 import { redirect } from "next/navigation";
 import { collectCustomFeed } from "@/lib/collect";
 import { collectAndSave } from "@/lib/digest";
-import { isOfficialFeedUrl } from "@/lib/feeds";
+import { parseFeedUrl } from "@/lib/feeds";
 import { readProgress, writeProgress } from "@/lib/progress";
 import { vocabId } from "@/lib/storage";
 import type { CategoryId, VocabEntry } from "@/lib/types";
@@ -46,7 +46,7 @@ export async function removeVocabAction(formData: FormData): Promise<void> {
 
 export async function collectCustomAction(formData: FormData): Promise<void> {
   const feedUrl = String(formData.get("feedUrl") ?? "").trim();
-  const check = isOfficialFeedUrl(feedUrl);
+  const check = parseFeedUrl(feedUrl);
   if (!check.ok) {
     redirect(`/settings?error=${encodeURIComponent(check.error)}`);
   }

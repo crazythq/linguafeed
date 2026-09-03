@@ -1,6 +1,6 @@
 import { collectCustomFeed } from "@/lib/collect";
 import { collectAndSave } from "@/lib/digest";
-import { isOfficialFeedUrl } from "@/lib/feeds";
+import { parseFeedUrl } from "@/lib/feeds";
 import { llmFromHeaders } from "@/lib/translate";
 
 export const dynamic = "force-dynamic";
@@ -17,7 +17,7 @@ export async function POST(request: Request) {
 
   if (body.kind === "custom") {
     const feedUrl = body.feedUrl?.trim() ?? "";
-    const check = isOfficialFeedUrl(feedUrl);
+    const check = parseFeedUrl(feedUrl);
     if (!check.ok) {
       return Response.json({ error: check.error }, { status: 400 });
     }
