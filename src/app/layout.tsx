@@ -21,7 +21,7 @@ const sourceSerif = Source_Serif_4({
 });
 
 export const metadata: Metadata = {
-  title: "晨读 · 程序员英文晨报",
+  title: "晨读",
   description: "每天从官方 RSS 读昨天的全球要闻和科技博客，对照学习英语并积累单词、短语。",
 };
 
