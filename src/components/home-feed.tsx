@@ -13,6 +13,10 @@ import { mergeDigestPayload, type DigestPayload } from "@/lib/digest-payload";
 import { CATEGORIES, sourceById } from "@/lib/feeds";
 import type { CategoryId, DigestItem } from "@/lib/types";
 
+const subscribeHydrated = (): (() => void) => () => undefined;
+const getHydratedSnapshot = (): boolean => true;
+const getHydratedServerSnapshot = (): boolean => false;
+
 export function HomeFeed({
   initial,
   category,
@@ -26,12 +30,17 @@ export function HomeFeed({
   enabledSourceIds: string[];
   enabledCategories: CategoryId[];
 }) {
+  const hydrated = useSyncExternalStore(
+    subscribeHydrated,
+    getHydratedSnapshot,
+    getHydratedServerSnapshot,
+  );
   const overlay = useSyncExternalStore(
     subscribeDigestOverlay,
     getDigestOverlaySnapshot,
     getDigestOverlayServerSnapshot,
   );
-  const payload = mergeDigestPayload(initial, overlay);
+  const payload = mergeDigestPayload(initial, hydrated ? overlay : null);
   const serverItems = payload.digest?.items ?? [];
   const merged = [...extraItems, ...serverItems].filter((item) => {
     const sourceOk = item.custom || enabledSourceIds.includes(item.sourceId);
