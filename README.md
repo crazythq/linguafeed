@@ -24,6 +24,8 @@ npm run collect   # 立刻采集「昨天」（Asia/Shanghai）的官方源
 0 22 * * * cd /path/to/chendu && npm run collect
 ```
 
+部署在 Vercel 时，函数文件系统只读，网页上点「采集昨日官方要闻」不会写入仓库 JSON，结果保存在本机浏览器。站点级共享简报请继续用 GitHub Action 提交 `data/digests/`。
+
 ## 学习方式
 
 - **对照阅读**（第一版）：英文分句 + 可开关的中文译文

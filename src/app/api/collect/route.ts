@@ -30,6 +30,11 @@ export async function POST(request: Request) {
     }
   }
 
-  const digest = await collectAndSave(llm);
-  return Response.json({ digest });
+  try {
+    const digest = await collectAndSave(llm);
+    return Response.json({ digest });
+  } catch (error) {
+    const message = error instanceof Error ? error.message : "采集失败";
+    return Response.json({ error: message }, { status: 502 });
+  }
 }
