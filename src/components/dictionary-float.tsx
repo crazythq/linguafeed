@@ -2,7 +2,6 @@
 
 import { useEffect, useLayoutEffect, useRef, useState, useSyncExternalStore } from "react";
 import { createPortal } from "react-dom";
-import Link from "next/link";
 import { X } from "lucide-react";
 import { useUserState } from "@/hooks/use-user-state";
 import { llmHeaders } from "@/lib/llm-headers";
@@ -34,7 +33,6 @@ export function DictionaryFloat({
   articleTitle,
   mode,
   sentenceIndex,
-  closeHref,
   onClose,
 }: {
   anchorId: string;
@@ -44,7 +42,6 @@ export function DictionaryFloat({
   articleTitle: string;
   mode: LearningMode;
   sentenceIndex: number;
-  closeHref: string;
   onClose: () => void;
 }) {
   const panelRef = useRef<HTMLDivElement>(null);
@@ -75,7 +72,7 @@ export function DictionaryFloat({
       return;
     }
 
-    const controller = new AbortController();
+    let cancelled = false;
     setDefinition(null);
     setLoading(true);
 
@@ -85,18 +82,17 @@ export function DictionaryFloat({
           method: "POST",
           headers: { "Content-Type": "application/json", ...llmHeaders(state.llm) },
           body: JSON.stringify({ word, sentence }),
-          signal: controller.signal,
         });
         const data = (await response.json()) as { definition?: WordDefinition; error?: string };
         if (!response.ok || !data.definition) {
           throw new Error(data.error ?? "查词失败");
         }
         definitionCache.set(cacheKey, data.definition);
-        if (!controller.signal.aborted) {
+        if (!cancelled) {
           setDefinition(data.definition);
         }
       } catch {
-        if (controller.signal.aborted) {
+        if (cancelled) {
           return;
         }
         setDefinition({
@@ -107,14 +103,16 @@ export function DictionaryFloat({
           example: sentence,
         });
       } finally {
-        if (!controller.signal.aborted) {
+        if (!cancelled) {
           setLoading(false);
         }
       }
     })();
 
-    return () => controller.abort();
-  }, [cacheKey, sentence, state.llm, word]);
+    return () => {
+      cancelled = true;
+    };
+  }, [cacheKey, sentence, state.llm.apiKey, state.llm.baseUrl, state.llm.model, word]);
 
   useLayoutEffect(() => {
     if (!mounted) {
@@ -186,17 +184,14 @@ export function DictionaryFloat({
             ) : null}
           </p>
         </div>
-        <Link
-          href={closeHref}
-          onClick={(event) => {
-            event.preventDefault();
-            onClose();
-          }}
+        <button
+          type="button"
+          onClick={onClose}
           className="inline-flex size-7 items-center justify-center rounded-md text-muted-foreground hover:bg-muted hover:text-foreground"
           aria-label="关闭词典"
         >
           <X className="size-4" />
-        </Link>
+        </button>
       </div>
       <div className="space-y-1.5">
         {loading ? (

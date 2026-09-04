@@ -39,7 +39,6 @@ export function ArticleReader({
       ? { text: activeWord, sentenceIndex, tokenIndex: -1 }
       : null,
   );
-  const closeHref = `/read/${item.id}?mode=${mode}`;
 
   return (
     <article className="space-y-6">
@@ -94,12 +93,10 @@ export function ArticleReader({
                   }
                   return (
                     <span key={`${index}-${tokenIndex}`} className="relative inline">
-                      <Link
-                        href={`/read/${item.id}?mode=${mode}&w=${encodeURIComponent(token.text)}&s=${index}#word-${index}-${tokenIndex}`}
+                      <button
+                        type="button"
                         id={`word-${index}-${tokenIndex}`}
-                        prefetch={false}
-                        onClick={(event) => {
-                          event.preventDefault();
+                        onClick={() => {
                           setActive({ text: token.text, sentenceIndex: index, tokenIndex });
                         }}
                         className={`rounded-sm px-0.5 underline decoration-dotted decoration-primary/40 hover:bg-primary/10 ${
@@ -107,7 +104,7 @@ export function ArticleReader({
                         } ${isActive ? "bg-primary/15 text-primary ring-1 ring-primary/30" : ""}`}
                       >
                         {token.text}
-                      </Link>
+                      </button>
                       {isActive ? (
                         <DictionaryFloat
                           anchorId={`word-${index}-${tokenIndex}`}
@@ -117,7 +114,6 @@ export function ArticleReader({
                           articleTitle={item.title}
                           mode={mode}
                           sentenceIndex={index}
-                          closeHref={closeHref}
                           onClose={() => setActive(null)}
                         />
                       ) : null}
