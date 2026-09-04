@@ -2,7 +2,6 @@
 
 import { useState } from "react";
 import Link from "next/link";
-import { Button } from "@/components/ui/button";
 import { buildArticleQuiz, gradeQuiz } from "@/lib/quiz";
 import type { DigestItem } from "@/lib/types";
 
@@ -40,6 +39,35 @@ export function ArticleQuiz({
       <p className="rounded-lg border bg-secondary/50 px-3 py-2 text-sm text-muted-foreground">
         根据本文英文原句出题，检查有没有读懂。不需要 API Key。
       </p>
+
+      <div className="sticky top-14 z-30 flex flex-wrap items-center gap-3 border-y bg-background/95 py-3">
+        {grade ? (
+          <>
+            <p className="text-sm font-medium" aria-live="polite">
+              答对 {grade.correct} / {grade.total}
+            </p>
+            <button
+              type="button"
+              onClick={reset}
+              className="inline-flex h-8 items-center rounded-lg border px-3 text-sm hover:bg-secondary/40"
+            >
+              再测一次
+            </button>
+            <Link href={`/read/${item.id}?mode=bilingual`} className="text-sm text-primary hover:underline">
+              回对照阅读
+            </Link>
+          </>
+        ) : (
+          <button
+            type="button"
+            id="quiz-submit"
+            onClick={() => setSubmitted(true)}
+            className="inline-flex h-8 items-center rounded-lg bg-primary px-3 text-sm text-primary-foreground hover:bg-primary/80"
+          >
+            提交答案
+          </button>
+        )}
+      </div>
 
       {quiz.questions.map((question, index) => {
         const result = resultById.get(question.id);
@@ -103,24 +131,6 @@ export function ArticleQuiz({
           </fieldset>
         );
       })}
-
-      {grade ? (
-        <div className="flex flex-wrap items-center gap-3">
-          <p className="text-sm font-medium" aria-live="polite">
-            答对 {grade.correct} / {grade.total}
-          </p>
-          <Button type="button" variant="outline" onClick={reset}>
-            再测一次
-          </Button>
-          <Link href={`/read/${item.id}?mode=bilingual`} className="text-sm text-primary hover:underline">
-            回对照阅读
-          </Link>
-        </div>
-      ) : (
-        <Button type="button" onClick={() => setSubmitted(true)}>
-          提交答案
-        </Button>
-      )}
     </div>
   );
 }
