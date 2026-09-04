@@ -1,7 +1,15 @@
+"use client";
+
 import Link from "next/link";
+import { useSyncExternalStore } from "react";
 import { Badge } from "@/components/ui/badge";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
-import type { DigestPayload } from "@/lib/digest-payload";
+import {
+  getDigestOverlayServerSnapshot,
+  getDigestOverlaySnapshot,
+  subscribeDigestOverlay,
+} from "@/lib/digest-overlay";
+import { mergeDigestPayload, type DigestPayload } from "@/lib/digest-payload";
 import { CATEGORIES, sourceById } from "@/lib/feeds";
 import type { CategoryId, DigestItem } from "@/lib/types";
 
@@ -18,7 +26,12 @@ export function HomeFeed({
   enabledSourceIds: string[];
   enabledCategories: CategoryId[];
 }) {
-  const payload = initial;
+  const overlay = useSyncExternalStore(
+    subscribeDigestOverlay,
+    getDigestOverlaySnapshot,
+    getDigestOverlayServerSnapshot,
+  );
+  const payload = mergeDigestPayload(initial, overlay);
   const serverItems = payload.digest?.items ?? [];
   const merged = [...extraItems, ...serverItems].filter((item) => {
     const sourceOk = item.custom || enabledSourceIds.includes(item.sourceId);
