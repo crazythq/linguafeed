@@ -1,15 +1,11 @@
 "use client";
 
 import Link from "next/link";
-import { useEffect, useState, useSyncExternalStore } from "react";
+import { useEffect, useState } from "react";
 import { ArticleReader } from "@/components/article-reader";
-import {
-  getDigestOverlayServerSnapshot,
-  getDigestOverlaySnapshot,
-  subscribeDigestOverlay,
-} from "@/lib/digest-overlay";
-import { llmHeaders } from "@/lib/llm-headers";
+import { useDigestOverlay } from "@/hooks/use-digest-overlay";
 import { useUserState } from "@/hooks/use-user-state";
+import { llmHeaders } from "@/lib/llm-headers";
 import type { LearningMode, WordDefinition } from "@/lib/types";
 
 export function OverlayArticleReader({
@@ -27,14 +23,16 @@ export function OverlayArticleReader({
   savedTerms: string[];
   maskTranslation: boolean;
 }) {
-  const { state, hydrated } = useUserState();
-  const overlay = useSyncExternalStore(
-    subscribeDigestOverlay,
-    getDigestOverlaySnapshot,
-    getDigestOverlayServerSnapshot,
-  );
+  const { state } = useUserState();
+  const overlay = useDigestOverlay();
   const item = overlay?.items.find((entry) => entry.id === id) ?? null;
+  const [ready, setReady] = useState(false);
   const [fetched, setFetched] = useState<{ word: string; definition: WordDefinition } | null>(null);
+
+  useEffect(() => {
+    const timer = window.setTimeout(() => setReady(true), 0);
+    return () => window.clearTimeout(timer);
+  }, []);
 
   useEffect(() => {
     if (!activeWord || !item) {
@@ -65,7 +63,7 @@ export function OverlayArticleReader({
     };
   }, [activeWord, item, sentenceIndex, state.llm]);
 
-  if (!hydrated) {
+  if (!ready) {
     return <p className="text-sm text-muted-foreground">正在读取本机简报…</p>;
   }
   if (!item) {

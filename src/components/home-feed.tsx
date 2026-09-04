@@ -1,21 +1,12 @@
 "use client";
 
 import Link from "next/link";
-import { useSyncExternalStore } from "react";
 import { Badge } from "@/components/ui/badge";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
-import {
-  getDigestOverlayServerSnapshot,
-  getDigestOverlaySnapshot,
-  subscribeDigestOverlay,
-} from "@/lib/digest-overlay";
+import { useDigestOverlay } from "@/hooks/use-digest-overlay";
 import { mergeDigestPayload, type DigestPayload } from "@/lib/digest-payload";
 import { CATEGORIES, sourceById } from "@/lib/feeds";
 import type { CategoryId, DigestItem } from "@/lib/types";
-
-const subscribeHydrated = (): (() => void) => () => undefined;
-const getHydratedSnapshot = (): boolean => true;
-const getHydratedServerSnapshot = (): boolean => false;
 
 export function HomeFeed({
   initial,
@@ -30,17 +21,8 @@ export function HomeFeed({
   enabledSourceIds: string[];
   enabledCategories: CategoryId[];
 }) {
-  const hydrated = useSyncExternalStore(
-    subscribeHydrated,
-    getHydratedSnapshot,
-    getHydratedServerSnapshot,
-  );
-  const overlay = useSyncExternalStore(
-    subscribeDigestOverlay,
-    getDigestOverlaySnapshot,
-    getDigestOverlayServerSnapshot,
-  );
-  const payload = mergeDigestPayload(initial, hydrated ? overlay : null);
+  const overlay = useDigestOverlay();
+  const payload = mergeDigestPayload(initial, overlay);
   const serverItems = payload.digest?.items ?? [];
   const merged = [...extraItems, ...serverItems].filter((item) => {
     const sourceOk = item.custom || enabledSourceIds.includes(item.sourceId);

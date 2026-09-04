@@ -1,7 +1,7 @@
 "use client";
 
 import { useRouter } from "next/navigation";
-import { useState } from "react";
+import { useState, type FormEvent } from "react";
 import { toast } from "sonner";
 import { useUserState } from "@/hooks/use-user-state";
 import { saveDigestOverlay } from "@/lib/digest-overlay";
@@ -13,7 +13,8 @@ export function CollectOfficialButton() {
   const { state } = useUserState();
   const [busy, setBusy] = useState(false);
 
-  async function collect(): Promise<void> {
+  async function collect(event: FormEvent<HTMLFormElement>): Promise<void> {
+    event.preventDefault();
     if (busy) {
       return;
     }
@@ -46,15 +47,14 @@ export function CollectOfficialButton() {
   }
 
   return (
-    <button
-      type="button"
-      disabled={busy}
-      onClick={() => {
-        void collect();
-      }}
-      className="inline-flex h-8 items-center rounded-lg bg-primary px-3 text-sm text-primary-foreground disabled:opacity-60"
-    >
-      {busy ? "采集中…" : "采集昨日官方要闻"}
-    </button>
+    <form action="/settings/collect" method="post" onSubmit={(event) => void collect(event)}>
+      <button
+        type="submit"
+        disabled={busy}
+        className="inline-flex h-8 items-center rounded-lg bg-primary px-3 text-sm text-primary-foreground disabled:opacity-60"
+      >
+        {busy ? "采集中…" : "采集昨日官方要闻"}
+      </button>
+    </form>
   );
 }
