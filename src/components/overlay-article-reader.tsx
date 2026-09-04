@@ -9,6 +9,7 @@ import type { LearningMode } from "@/lib/types";
 export function OverlayArticleReader({
   id,
   mode,
+  stage,
   sentenceIndex,
   activeWord,
   savedTerms,
@@ -16,6 +17,7 @@ export function OverlayArticleReader({
 }: {
   id: string;
   mode: LearningMode;
+  stage?: string;
   sentenceIndex: number;
   activeWord: string | null;
   savedTerms: string[];
@@ -49,6 +51,7 @@ export function OverlayArticleReader({
     <ArticleReader
       item={item}
       mode={mode}
+      stage={stage}
       sentenceIndex={sentenceIndex}
       activeWord={activeWord}
       savedTerms={savedTerms}
