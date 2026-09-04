@@ -36,13 +36,7 @@ export function ArticleQuiz({
   }
 
   return (
-    <form
-      className="space-y-5"
-      onSubmit={(event) => {
-        event.preventDefault();
-        setSubmitted(true);
-      }}
-    >
+    <div className="space-y-5">
       <p className="rounded-lg border bg-secondary/50 px-3 py-2 text-sm text-muted-foreground">
         根据本文英文原句出题，检查有没有读懂。不需要 API Key。
       </p>
@@ -112,7 +106,7 @@ export function ArticleQuiz({
 
       {grade ? (
         <div className="flex flex-wrap items-center gap-3">
-          <p className="text-sm font-medium">
+          <p className="text-sm font-medium" aria-live="polite">
             答对 {grade.correct} / {grade.total}
           </p>
           <Button type="button" variant="outline" onClick={reset}>
@@ -123,8 +117,10 @@ export function ArticleQuiz({
           </Link>
         </div>
       ) : (
-        <Button type="submit">提交答案</Button>
+        <Button type="button" onClick={() => setSubmitted(true)}>
+          提交答案
+        </Button>
       )}
-    </form>
+    </div>
   );
 }
