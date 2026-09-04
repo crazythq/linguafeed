@@ -1,11 +1,10 @@
 "use client";
 
-import { useEffect, useLayoutEffect, useRef, useState, useSyncExternalStore } from "react";
+import { useLayoutEffect, useRef, useState, useSyncExternalStore } from "react";
 import { createPortal } from "react-dom";
 import { X } from "lucide-react";
-import { useUserState } from "@/hooks/use-user-state";
-import { llmHeaders } from "@/lib/llm-headers";
-import type { LearningMode, WordDefinition } from "@/lib/types";
+import { useWordDefinition } from "@/hooks/use-word-definition";
+import type { LearningMode } from "@/lib/types";
 
 type Side = "top" | "bottom";
 
@@ -23,7 +22,6 @@ const ARROW = 8;
 const PANEL_WIDTH = 296;
 
 const emptySubscribe = (): (() => void) => () => undefined;
-const definitionCache = new Map<string, WordDefinition>();
 
 export function DictionaryFloat({
   anchorId,
@@ -33,6 +31,7 @@ export function DictionaryFloat({
   articleTitle,
   mode,
   sentenceIndex,
+  stage,
   onClose,
 }: {
   anchorId: string;
@@ -42,15 +41,11 @@ export function DictionaryFloat({
   articleTitle: string;
   mode: LearningMode;
   sentenceIndex: number;
+  stage?: string;
   onClose: () => void;
 }) {
   const panelRef = useRef<HTMLDivElement>(null);
-  const { state } = useUserState();
-  const cacheKey = word.toLowerCase();
-  const [definition, setDefinition] = useState<WordDefinition | null>(
-    () => definitionCache.get(cacheKey) ?? null,
-  );
-  const [loading, setLoading] = useState(() => !definitionCache.has(cacheKey));
+  const { definition, loading } = useWordDefinition(word, sentence);
   const mounted = useSyncExternalStore(
     emptySubscribe,
     () => true,
@@ -63,56 +58,6 @@ export function DictionaryFloat({
     arrowLeft: PANEL_WIDTH / 2,
     ready: false,
   });
-
-  useEffect(() => {
-    const cached = definitionCache.get(cacheKey);
-    if (cached) {
-      setDefinition(cached);
-      setLoading(false);
-      return;
-    }
-
-    let cancelled = false;
-    setDefinition(null);
-    setLoading(true);
-
-    void (async () => {
-      try {
-        const response = await fetch("/api/define", {
-          method: "POST",
-          headers: { "Content-Type": "application/json", ...llmHeaders(state.llm) },
-          body: JSON.stringify({ word, sentence }),
-        });
-        const data = (await response.json()) as { definition?: WordDefinition; error?: string };
-        if (!response.ok || !data.definition) {
-          throw new Error(data.error ?? "查词失败");
-        }
-        definitionCache.set(cacheKey, data.definition);
-        if (!cancelled) {
-          setDefinition(data.definition);
-        }
-      } catch {
-        if (cancelled) {
-          return;
-        }
-        setDefinition({
-          word,
-          phonetic: null,
-          definitionEn: null,
-          definitionZh: null,
-          example: sentence,
-        });
-      } finally {
-        if (!cancelled) {
-          setLoading(false);
-        }
-      }
-    })();
-
-    return () => {
-      cancelled = true;
-    };
-  }, [cacheKey, sentence, state.llm.apiKey, state.llm.baseUrl, state.llm.model, word]);
 
   useLayoutEffect(() => {
     if (!mounted) {
@@ -218,7 +163,7 @@ export function DictionaryFloat({
         <input
           type="hidden"
           name="returnTo"
-          value={`/read/${articleId}?mode=${mode}&w=${encodeURIComponent(shown.word)}&s=${sentenceIndex}`}
+          value={`/read/${articleId}?mode=${mode}${stage === "read" ? "&stage=read" : ""}&w=${encodeURIComponent(shown.word)}&s=${sentenceIndex}`}
         />
         <button
           type="submit"
