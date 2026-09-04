@@ -8,5 +8,5 @@ export function proxy(request: NextRequest): NextResponse {
 }
 
 export const config = {
-  matcher: ["/((?!_next/static|_next/image|favicon.ico).*)"],
+  matcher: ["/((?!_next/static|_next/image|_next/hmr|_next/webpack-hmr|favicon.ico).*)"],
 };

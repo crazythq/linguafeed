@@ -3,6 +3,7 @@
 import { useState } from "react";
 import Link from "next/link";
 import { ExternalLink } from "lucide-react";
+import { ArticleQuiz } from "@/components/article-quiz";
 import { Badge } from "@/components/ui/badge";
 import { DictionaryFloat } from "@/components/dictionary-float";
 import { PreVocabPanel } from "@/components/pre-vocab-panel";
@@ -36,7 +37,6 @@ export function ArticleReader({
 }) {
   const source = sourceById(item.sourceId);
   const showTranslation = mode !== "immersive";
-  const upcoming = mode === "quiz";
   const studying = mode === "pre-vocab" && stage !== "read";
   const preVocabTerms = mode === "pre-vocab" ? extractPreVocab(item) : [];
   const preVocab = new Set(preVocabTerms.map((entry) => entry.term.toLowerCase()));
@@ -70,13 +70,9 @@ export function ArticleReader({
 
       <ModeBar id={item.id} mode={mode} />
 
-      {upcoming ? (
-        <p className="rounded-lg border bg-secondary/50 px-3 py-2 text-sm text-muted-foreground">
-          该模式即将推出。当前仍可对照阅读：点单词查看释义并加入生词本。
-        </p>
-      ) : null}
-
-      {studying ? (
+      {mode === "quiz" ? (
+        <ArticleQuiz item={item} savedTerms={savedTerms} />
+      ) : studying ? (
         <PreVocabPanel
           articleId={item.id}
           articleTitle={item.title}
@@ -182,7 +178,7 @@ function ModeBar({ id, mode }: { id: string; mode: LearningMode }) {
     { id: "bilingual", label: "对照阅读", ready: true },
     { id: "immersive", label: "沉浸阅读", ready: true },
     { id: "pre-vocab", label: "先学后读", ready: true },
-    { id: "quiz", label: "读后测验", ready: false },
+    { id: "quiz", label: "读后测验", ready: true },
   ];
   return (
     <div className="flex flex-wrap gap-1.5">
