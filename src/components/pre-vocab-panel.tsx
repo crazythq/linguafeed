@@ -111,11 +111,7 @@ function PreVocabCard({
             <input type="hidden" name="articleId" value={articleId} />
             <input type="hidden" name="articleTitle" value={articleTitle} />
             <input type="hidden" name="returnTo" value={`/read/${articleId}?mode=pre-vocab`} />
-            <button
-              type="submit"
-              disabled={loading}
-              className="inline-flex h-8 items-center rounded-lg border px-3 text-sm disabled:opacity-50"
-            >
+            <button type="submit" className="inline-flex h-8 items-center rounded-lg border px-3 text-sm">
               加入生词本
             </button>
           </form>

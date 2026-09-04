@@ -36,6 +36,7 @@ export function useWordDefinition(word: string, sentence: string): {
           method: "POST",
           headers: { "Content-Type": "application/json", ...llmHeaders(state.llm) },
           body: JSON.stringify({ word, sentence }),
+          signal: AbortSignal.timeout(8_000),
         });
         const data = (await response.json()) as { definition?: WordDefinition; error?: string };
         if (!response.ok || !data.definition) {
