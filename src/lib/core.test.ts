@@ -3,6 +3,11 @@ import { yesterdayShanghai, shanghaiDate, isOnShanghaiDate } from "./timezone";
 import { parseFeedUrl } from "./feeds";
 import { mergeDigestPayload } from "./digest-payload";
 import { isReadOnlyFsError, resolveDigestStorePaths, writeDigestJson } from "./digest-store";
+import {
+  DIGEST_OVERLAY_KEY,
+  getDigestOverlaySnapshot,
+  saveDigestOverlay,
+} from "./digest-overlay";
 import type { Digest } from "./types";
 import assert from "node:assert/strict";
 import { chmod, mkdir, mkdtemp, readFile, rm } from "node:fs/promises";
@@ -132,5 +137,30 @@ test("writeDigestJson skips read-only dir and writes fallback", async () => {
   } finally {
     await chmod(locked, 0o755);
     await rm(root, { recursive: true, force: true });
+  }
+});
+
+test("digest overlay snapshot is referentially stable", () => {
+  const store: Record<string, string> = {};
+  const previous = (globalThis as { window?: unknown }).window;
+  (globalThis as { window: unknown }).window = {
+    localStorage: {
+      getItem: (key: string) => store[key] ?? null,
+      setItem: (key: string, value: string) => {
+        store[key] = value;
+      },
+    },
+    addEventListener() {},
+    removeEventListener() {},
+  };
+  try {
+    saveDigestOverlay(sampleDigest("2026-09-03", "fresh"));
+    assert.equal(Boolean(store[DIGEST_OVERLAY_KEY]), true);
+    const first = getDigestOverlaySnapshot();
+    const second = getDigestOverlaySnapshot();
+    assert.equal(first, second);
+    assert.equal(first?.items[0]?.title, "fresh");
+  } finally {
+    (globalThis as { window?: unknown }).window = previous;
   }
 });
