@@ -1,44 +1,62 @@
-import { mkdir, readdir, readFile, writeFile } from "node:fs/promises";
+import { readdir, readFile } from "node:fs/promises";
+import os from "node:os";
 import path from "node:path";
 import { collectOfficialSources } from "./collect";
+import {
+  digestCandidateDirs,
+  resolveDigestStorePaths,
+  writeDigestJson,
+} from "./digest-store";
 import { yesterdayShanghai } from "./timezone";
 import type { Digest, LlmConfig } from "./types";
 
-function digestDir(): string {
-  return path.join(process.cwd(), "data", "digests");
-}
+const memoryDigests = new Map<string, Digest>();
 
-function digestPath(date: string): string {
-  return path.join(digestDir(), `${date}.json`);
+function candidateDirs(): string[] {
+  return digestCandidateDirs(resolveDigestStorePaths());
 }
 
 export async function saveDigest(digest: Digest): Promise<string> {
-  await mkdir(digestDir(), { recursive: true });
-  const filePath = digestPath(digest.date);
-  await writeFile(filePath, `${JSON.stringify(digest, null, 2)}\n`, "utf8");
-  return filePath;
+  memoryDigests.set(digest.date, digest);
+  const { writable } = resolveDigestStorePaths();
+  const tmpOverlay = path.join(os.tmpdir(), "chendu-digests");
+  const dirs = writable === tmpOverlay ? [writable] : [writable, tmpOverlay];
+  return writeDigestJson(digest, dirs);
 }
 
 export async function readDigestFile(date: string): Promise<Digest | null> {
-  try {
-    const raw = await readFile(digestPath(date), "utf8");
-    return JSON.parse(raw) as Digest;
-  } catch {
-    return null;
+  const cached = memoryDigests.get(date);
+  if (cached) {
+    return cached;
   }
+  for (const dir of candidateDirs()) {
+    try {
+      const raw = await readFile(path.join(dir, `${date}.json`), "utf8");
+      const digest = JSON.parse(raw) as Digest;
+      memoryDigests.set(date, digest);
+      return digest;
+    } catch {
+      continue;
+    }
+  }
+  return null;
 }
 
 export async function listDigestDates(): Promise<string[]> {
-  try {
-    const files = await readdir(digestDir());
-    return files
-      .filter((file) => file.endsWith(".json"))
-      .map((file) => file.replace(/\.json$/, ""))
-      .sort()
-      .reverse();
-  } catch {
-    return [];
+  const dates = new Set<string>(memoryDigests.keys());
+  for (const dir of candidateDirs()) {
+    try {
+      const files = await readdir(dir);
+      for (const file of files) {
+        if (file.endsWith(".json")) {
+          dates.add(file.replace(/\.json$/, ""));
+        }
+      }
+    } catch {
+      continue;
+    }
   }
+  return [...dates].sort().reverse();
 }
 
 export async function loadBestDigest(now: Date = new Date()): Promise<{
@@ -71,7 +89,11 @@ export async function collectAndSave(llm: LlmConfig | null, now: Date = new Date
   if (existing && existing.items.length > 0) {
     return {
       ...existing,
-      failures: [...existing.failures, ...digest.failures, { sourceId: "collect", error: "本次采集无昨日条目，保留已有简报。" }],
+      failures: [
+        ...existing.failures,
+        ...digest.failures,
+        { sourceId: "collect", error: "本次采集无昨日条目，保留已有简报。" },
+      ],
     };
   }
   await saveDigest(digest);

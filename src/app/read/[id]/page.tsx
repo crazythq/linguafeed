@@ -1,5 +1,5 @@
-import Link from "next/link";
 import { ArticleReader } from "@/components/article-reader";
+import { OverlayArticleReader } from "@/components/overlay-article-reader";
 import { defineWord } from "@/lib/define";
 import { loadBestDigest } from "@/lib/digest";
 import { readProgress } from "@/lib/progress";
@@ -27,13 +27,14 @@ export default async function ReadPage({
   const item = digest?.items.find((entry) => entry.id === id) ?? progress.customItems.find((entry) => entry.id === id) ?? null;
   if (!item) {
     return (
-      <div className="space-y-3">
-        <h1 className="text-xl font-semibold">找不到这篇文章</h1>
-        <p className="text-sm text-muted-foreground">它可能尚未采集，或来自已清除的自定义源。</p>
-        <Link href="/" className="inline-flex h-8 items-center rounded-lg border px-3 text-sm">
-          返回今日
-        </Link>
-      </div>
+      <OverlayArticleReader
+        id={id}
+        mode={asMode(query.mode)}
+        sentenceIndex={Number(query.s ?? "0") || 0}
+        activeWord={query.w?.trim() || null}
+        savedTerms={progress.vocab.filter((entry) => entry.articleId === id).map((entry) => entry.term.toLowerCase())}
+        maskTranslation={progress.maskTranslation}
+      />
     );
   }
 

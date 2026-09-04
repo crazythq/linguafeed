@@ -1,3 +1,4 @@
+import { CollectOfficialButton } from "@/components/collect-official-button";
 import { SettingsExtras } from "@/components/settings-extras";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { CATEGORIES, OFFICIAL_SOURCES } from "@/lib/feeds";
@@ -77,17 +78,11 @@ export default async function SettingsPage({
           <CardTitle>立即采集</CardTitle>
           <CardDescription>
             拉取官方 RSS 中「昨天」（Asia/Shanghai）的条目。无 API Key 时用免费翻译，失败则只保留英文。
+            Vercel 等只读环境会把结果保存在本机浏览器，站点级共享简报仍由定时任务写入仓库。
           </CardDescription>
         </CardHeader>
         <CardContent>
-          <form action="/settings/collect" method="post">
-            <button
-              type="submit"
-              className="inline-flex h-8 items-center rounded-lg bg-primary px-3 text-sm text-primary-foreground"
-            >
-              采集昨日官方要闻
-            </button>
-          </form>
+          <CollectOfficialButton />
         </CardContent>
       </Card>
 
