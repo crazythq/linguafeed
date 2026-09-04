@@ -1,9 +1,11 @@
 "use client";
 
-import { useLayoutEffect, useRef, useState, useSyncExternalStore } from "react";
+import { useEffect, useLayoutEffect, useRef, useState, useSyncExternalStore } from "react";
 import { createPortal } from "react-dom";
 import Link from "next/link";
 import { X } from "lucide-react";
+import { useUserState } from "@/hooks/use-user-state";
+import { llmHeaders } from "@/lib/llm-headers";
 import type { LearningMode, WordDefinition } from "@/lib/types";
 
 type Side = "top" | "bottom";
@@ -22,27 +24,36 @@ const ARROW = 8;
 const PANEL_WIDTH = 296;
 
 const emptySubscribe = (): (() => void) => () => undefined;
+const definitionCache = new Map<string, WordDefinition>();
 
 export function DictionaryFloat({
   anchorId,
-  definition,
+  word,
   sentence,
   articleId,
   articleTitle,
   mode,
   sentenceIndex,
   closeHref,
+  onClose,
 }: {
   anchorId: string;
-  definition: WordDefinition;
+  word: string;
   sentence: string;
   articleId: string;
   articleTitle: string;
   mode: LearningMode;
   sentenceIndex: number;
   closeHref: string;
+  onClose: () => void;
 }) {
   const panelRef = useRef<HTMLDivElement>(null);
+  const { state } = useUserState();
+  const cacheKey = word.toLowerCase();
+  const [definition, setDefinition] = useState<WordDefinition | null>(
+    () => definitionCache.get(cacheKey) ?? null,
+  );
+  const [loading, setLoading] = useState(() => !definitionCache.has(cacheKey));
   const mounted = useSyncExternalStore(
     emptySubscribe,
     () => true,
@@ -55,6 +66,55 @@ export function DictionaryFloat({
     arrowLeft: PANEL_WIDTH / 2,
     ready: false,
   });
+
+  useEffect(() => {
+    const cached = definitionCache.get(cacheKey);
+    if (cached) {
+      setDefinition(cached);
+      setLoading(false);
+      return;
+    }
+
+    const controller = new AbortController();
+    setDefinition(null);
+    setLoading(true);
+
+    void (async () => {
+      try {
+        const response = await fetch("/api/define", {
+          method: "POST",
+          headers: { "Content-Type": "application/json", ...llmHeaders(state.llm) },
+          body: JSON.stringify({ word, sentence }),
+          signal: controller.signal,
+        });
+        const data = (await response.json()) as { definition?: WordDefinition; error?: string };
+        if (!response.ok || !data.definition) {
+          throw new Error(data.error ?? "查词失败");
+        }
+        definitionCache.set(cacheKey, data.definition);
+        if (!controller.signal.aborted) {
+          setDefinition(data.definition);
+        }
+      } catch {
+        if (controller.signal.aborted) {
+          return;
+        }
+        setDefinition({
+          word,
+          phonetic: null,
+          definitionEn: null,
+          definitionZh: null,
+          example: sentence,
+        });
+      } finally {
+        if (!controller.signal.aborted) {
+          setLoading(false);
+        }
+      }
+    })();
+
+    return () => controller.abort();
+  }, [cacheKey, sentence, state.llm, word]);
 
   useLayoutEffect(() => {
     if (!mounted) {
@@ -104,7 +164,15 @@ export function DictionaryFloat({
       window.removeEventListener("resize", place);
       window.removeEventListener("scroll", place, true);
     };
-  }, [mounted, anchorId, definition.word]);
+  }, [mounted, anchorId, word, loading, definition?.definitionEn]);
+
+  const shown = definition ?? {
+    word,
+    phonetic: null,
+    definitionEn: null,
+    definitionZh: null,
+    example: sentence,
+  };
 
   const content = (
     <>
@@ -112,14 +180,18 @@ export function DictionaryFloat({
         <div>
           <p className="text-xs text-muted-foreground">词典</p>
           <p className="text-lg font-medium leading-tight">
-            {definition.word}{" "}
-            {definition.phonetic ? (
-              <span className="text-sm font-normal text-muted-foreground">{definition.phonetic}</span>
+            {shown.word}{" "}
+            {shown.phonetic ? (
+              <span className="text-sm font-normal text-muted-foreground">{shown.phonetic}</span>
             ) : null}
           </p>
         </div>
         <Link
           href={closeHref}
+          onClick={(event) => {
+            event.preventDefault();
+            onClose();
+          }}
           className="inline-flex size-7 items-center justify-center rounded-md text-muted-foreground hover:bg-muted hover:text-foreground"
           aria-label="关闭词典"
         >
@@ -127,29 +199,36 @@ export function DictionaryFloat({
         </Link>
       </div>
       <div className="space-y-1.5">
-        <p>{definition.definitionEn ?? "暂无英文释义，仍可收藏。"}</p>
-        <p className="text-muted-foreground">{definition.definitionZh ?? "暂无中文释义"}</p>
-        {definition.example ? (
-          <p className="text-xs leading-5 text-muted-foreground">例句：{definition.example}</p>
-        ) : null}
+        {loading ? (
+          <p className="text-muted-foreground">正在查询释义…</p>
+        ) : (
+          <>
+            <p>{shown.definitionEn ?? "暂无英文释义，仍可收藏。"}</p>
+            <p className="text-muted-foreground">{shown.definitionZh ?? "暂无中文释义"}</p>
+            {shown.example ? (
+              <p className="text-xs leading-5 text-muted-foreground">例句：{shown.example}</p>
+            ) : null}
+          </>
+        )}
       </div>
       <form action="/vocab/add" method="post" className="mt-3">
-        <input type="hidden" name="term" value={definition.word} />
+        <input type="hidden" name="term" value={shown.word} />
         <input type="hidden" name="type" value="word" />
-        <input type="hidden" name="phonetic" value={definition.phonetic ?? ""} />
-        <input type="hidden" name="definitionEn" value={definition.definitionEn ?? ""} />
-        <input type="hidden" name="definitionZh" value={definition.definitionZh ?? ""} />
+        <input type="hidden" name="phonetic" value={shown.phonetic ?? ""} />
+        <input type="hidden" name="definitionEn" value={shown.definitionEn ?? ""} />
+        <input type="hidden" name="definitionZh" value={shown.definitionZh ?? ""} />
         <input type="hidden" name="sentence" value={sentence} />
         <input type="hidden" name="articleId" value={articleId} />
         <input type="hidden" name="articleTitle" value={articleTitle} />
         <input
           type="hidden"
           name="returnTo"
-          value={`/read/${articleId}?mode=${mode}&w=${encodeURIComponent(definition.word)}&s=${sentenceIndex}`}
+          value={`/read/${articleId}?mode=${mode}&w=${encodeURIComponent(shown.word)}&s=${sentenceIndex}`}
         />
         <button
           type="submit"
-          className="inline-flex h-8 items-center rounded-lg bg-primary px-3 text-sm text-primary-foreground"
+          disabled={loading}
+          className="inline-flex h-8 items-center rounded-lg bg-primary px-3 text-sm text-primary-foreground disabled:opacity-50"
         >
           加入生词本
         </button>
@@ -180,6 +259,7 @@ export function DictionaryFloat({
       id="dictionary"
       role="dialog"
       aria-label="词典"
+      aria-busy={loading}
       style={{
         position: "fixed",
         top: pos.top,

@@ -1,22 +1,95 @@
+import { stripHtml } from "./html";
 import { chatJson, translateOne } from "./translate";
 import type { LlmConfig, WordDefinition } from "./types";
 
-type DictionaryMeaning = {
-  definitions?: { definition?: string; example?: string }[];
+export type DefineDeps = {
+  fetchImpl?: typeof fetch;
+  translate?: (text: string, llm: LlmConfig | null) => Promise<string | null>;
+  chat?: typeof chatJson;
 };
 
-type DictionaryEntry = {
-  word?: string;
-  phonetic?: string;
-  phonetics?: { text?: string }[];
-  meanings?: DictionaryMeaning[];
+type WiktionarySense = {
+  definition?: string;
+  examples?: string[];
 };
+
+type WiktionaryEntry = {
+  partOfSpeech?: string;
+  definitions?: WiktionarySense[];
+};
+
+const SKIP_POS = new Set(["symbol", "character", "punctuation", "letter"]);
+const WIKTIONARY_UA =
+  "LinguaFeed/0.1 (https://github.com/crazythq/linguafeed; educational dictionary lookup)";
+
+function isJunkDefinition(text: string): boolean {
+  return /^ISO 639-\d language code/i.test(text);
+}
+
+function plainText(html: string): string {
+  return stripHtml(html)
+    .replace(/ +([,.!?;:])/g, "$1")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+export function parseWiktionaryDefinition(
+  data: unknown,
+): { definitionEn: string; example: string | null } | null {
+  if (!data || typeof data !== "object") {
+    return null;
+  }
+  const en = (data as { en?: WiktionaryEntry[] }).en;
+  if (!Array.isArray(en)) {
+    return null;
+  }
+
+  for (const entry of en) {
+    const pos = (entry.partOfSpeech ?? "").toLowerCase();
+    if (SKIP_POS.has(pos)) {
+      continue;
+    }
+    for (const sense of entry.definitions ?? []) {
+      const definitionEn = sense.definition ? plainText(sense.definition) : "";
+      if (!definitionEn || isJunkDefinition(definitionEn)) {
+        continue;
+      }
+      const example = sense.examples?.[0] ? plainText(sense.examples[0]) : null;
+      return { definitionEn, example };
+    }
+  }
+  return null;
+}
+
+async function lookupWiktionary(
+  word: string,
+  fetchImpl: typeof fetch,
+  signal: AbortSignal,
+): Promise<{ definitionEn: string; example: string | null } | null> {
+  const url = `https://en.wiktionary.org/api/rest_v1/page/definition/${encodeURIComponent(word.toLowerCase())}`;
+  const response = await fetchImpl(url, {
+    headers: {
+      Accept: "application/json",
+      "User-Agent": WIKTIONARY_UA,
+    },
+    signal,
+    cache: "force-cache",
+  });
+  if (!response.ok) {
+    return null;
+  }
+  return parseWiktionaryDefinition(await response.json());
+}
 
 export async function defineWord(
   word: string,
   sentence: string,
   llm: LlmConfig | null,
+  deps: DefineDeps = {},
 ): Promise<WordDefinition> {
+  const fetchImpl = deps.fetchImpl ?? fetch;
+  const translate = deps.translate ?? translateOne;
+  const chat = deps.chat ?? chatJson;
   const cleaned = word.trim().replace(/^[^\w]+|[^\w]+$/g, "");
   const fallback: WordDefinition = {
     word: cleaned,
@@ -26,9 +99,29 @@ export async function defineWord(
     example: sentence || null,
   };
 
+  if (!cleaned) {
+    return fallback;
+  }
+
+  try {
+    const english = await lookupWiktionary(cleaned, fetchImpl, AbortSignal.timeout(3_000));
+    if (english) {
+      const definitionZh = await translate(english.definitionEn, llm);
+      return {
+        word: cleaned,
+        phonetic: null,
+        definitionEn: english.definitionEn,
+        definitionZh,
+        example: english.example ?? sentence ?? null,
+      };
+    }
+  } catch {
+    // LLM / sentence-context fallback
+  }
+
   if (llm) {
     try {
-      const result = await chatJson(
+      const result = await chat(
         llm,
         "You help Chinese programmers learn English news vocabulary. Return JSON only.",
         `Define the word "${cleaned}" as used in: ${sentence}\nReturn {"phonetic": string|null, "definitionEn": string, "definitionZh": string}`,
@@ -42,34 +135,13 @@ export async function defineWord(
         example: sentence || null,
       };
     } catch {
-      // dictionary fallback
+      // ignore
     }
   }
 
-  try {
-    const response = await fetch(
-      `https://api.dictionaryapi.dev/api/v2/entries/en/${encodeURIComponent(cleaned.toLowerCase())}`,
-      { signal: AbortSignal.timeout(4_000) },
-    );
-    if (response.ok) {
-      const data = (await response.json()) as DictionaryEntry[];
-      const entry = data[0];
-      const definitionEn = entry?.meanings?.[0]?.definitions?.[0]?.definition ?? null;
-      const example = entry?.meanings?.[0]?.definitions?.[0]?.example ?? sentence ?? null;
-      const phonetic = entry?.phonetic || entry?.phonetics?.find((item) => item.text)?.text || null;
-      const definitionZh = definitionEn ? await translateOne(definitionEn, llm) : null;
-      return {
-        word: cleaned,
-        phonetic,
-        definitionEn,
-        definitionZh,
-        example,
-      };
-    }
-  } catch {
-    // ignore
-  }
-
-  const definitionZh = await translateOne(`the word "${cleaned}" in: ${sentence.slice(0, 160)}`, llm);
+  const definitionZh = await translate(
+    `the word "${cleaned}" in: ${sentence.slice(0, 160)}`,
+    llm,
+  );
   return { ...fallback, definitionZh };
 }

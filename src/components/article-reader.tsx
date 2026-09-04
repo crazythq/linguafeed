@@ -1,17 +1,25 @@
+"use client";
+
+import { useState } from "react";
 import Link from "next/link";
 import { ExternalLink } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
 import { DictionaryFloat } from "@/components/dictionary-float";
 import { sourceById } from "@/lib/feeds";
 import { tokenize } from "@/lib/sentences";
-import type { DigestItem, LearningMode, WordDefinition } from "@/lib/types";
+import type { DigestItem, LearningMode } from "@/lib/types";
+
+type ActiveWord = {
+  text: string;
+  sentenceIndex: number;
+  tokenIndex: number;
+};
 
 export function ArticleReader({
   item,
   mode,
   sentenceIndex,
   activeWord,
-  definition,
   savedTerms,
   maskTranslation,
 }: {
@@ -19,14 +27,18 @@ export function ArticleReader({
   mode: LearningMode;
   sentenceIndex: number;
   activeWord: string | null;
-  definition: WordDefinition | null;
-  savedTerms: Set<string>;
+  savedTerms: string[];
   maskTranslation: boolean;
 }) {
   const source = sourceById(item.sourceId);
   const showTranslation = mode !== "immersive";
   const upcoming = mode === "pre-vocab" || mode === "quiz";
-  const sentence = item.sentences[sentenceIndex]?.en ?? item.sentences[0]?.en ?? item.title;
+  const saved = new Set(savedTerms);
+  const [active, setActive] = useState<ActiveWord | null>(() =>
+    activeWord
+      ? { text: activeWord, sentenceIndex, tokenIndex: -1 }
+      : null,
+  );
   const closeHref = `/read/${item.id}?mode=${mode}`;
 
   return (
@@ -72,9 +84,10 @@ export function ArticleReader({
                     return <span key={`${index}-${tokenIndex}`}>{token.text}</span>;
                   }
                   const matchesActive =
-                    Boolean(activeWord) &&
-                    index === sentenceIndex &&
-                    token.text.toLowerCase() === activeWord!.toLowerCase();
+                    Boolean(active) &&
+                    index === active!.sentenceIndex &&
+                    token.text.toLowerCase() === active!.text.toLowerCase() &&
+                    (active!.tokenIndex === -1 || tokenIndex === active!.tokenIndex);
                   const isActive = matchesActive && !shownActive;
                   if (isActive) {
                     shownActive = true;
@@ -84,22 +97,28 @@ export function ArticleReader({
                       <Link
                         href={`/read/${item.id}?mode=${mode}&w=${encodeURIComponent(token.text)}&s=${index}#word-${index}-${tokenIndex}`}
                         id={`word-${index}-${tokenIndex}`}
+                        prefetch={false}
+                        onClick={(event) => {
+                          event.preventDefault();
+                          setActive({ text: token.text, sentenceIndex: index, tokenIndex });
+                        }}
                         className={`rounded-sm px-0.5 underline decoration-dotted decoration-primary/40 hover:bg-primary/10 ${
-                          savedTerms.has(token.text.toLowerCase()) ? "bg-primary/10 text-primary" : ""
+                          saved.has(token.text.toLowerCase()) ? "bg-primary/10 text-primary" : ""
                         } ${isActive ? "bg-primary/15 text-primary ring-1 ring-primary/30" : ""}`}
                       >
                         {token.text}
                       </Link>
-                      {isActive && definition ? (
+                      {isActive ? (
                         <DictionaryFloat
                           anchorId={`word-${index}-${tokenIndex}`}
-                          definition={definition}
-                          sentence={definition.example ?? sentence}
+                          word={token.text}
+                          sentence={entry.en}
                           articleId={item.id}
                           articleTitle={item.title}
                           mode={mode}
-                          sentenceIndex={sentenceIndex}
+                          sentenceIndex={index}
                           closeHref={closeHref}
+                          onClose={() => setActive(null)}
                         />
                       ) : null}
                     </span>

@@ -8,7 +8,7 @@
     "start": "next start --port 43127 --hostname 0.0.0.0",
     "lint": "eslint",
     "collect": "tsx scripts/collect-news.ts",
-    "test": "tsx --test src/lib/core.test.ts"
+    "test": "tsx --test src/lib/*.test.ts"
   },
   "dependencies": {
     "@base-ui/react": "^1.7.0",

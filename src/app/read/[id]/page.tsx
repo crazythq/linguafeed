@@ -1,6 +1,5 @@
 import Link from "next/link";
 import { ArticleReader } from "@/components/article-reader";
-import { defineWord } from "@/lib/define";
 import { loadBestDigest } from "@/lib/digest";
 import { readProgress } from "@/lib/progress";
 import type { LearningMode } from "@/lib/types";
@@ -39,9 +38,9 @@ export default async function ReadPage({
 
   const word = query.w?.trim() || null;
   const sentenceIndex = Number(query.s ?? "0") || 0;
-  const sentence = item.sentences[sentenceIndex]?.en ?? item.title;
-  const definition = word ? await defineWord(word, sentence, null) : null;
-  const savedTerms = new Set(progress.vocab.filter((entry) => entry.articleId === id).map((entry) => entry.term.toLowerCase()));
+  const savedTerms = progress.vocab
+    .filter((entry) => entry.articleId === id)
+    .map((entry) => entry.term.toLowerCase());
 
   return (
     <ArticleReader
@@ -49,7 +48,6 @@ export default async function ReadPage({
       mode={asMode(query.mode)}
       sentenceIndex={sentenceIndex}
       activeWord={word}
-      definition={definition}
       savedTerms={savedTerms}
       maskTranslation={progress.maskTranslation}
     />
