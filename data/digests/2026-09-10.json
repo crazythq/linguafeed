@@ -1,0 +1,985 @@
+{
+  "date": "2026-09-10",
+  "collectedAt": "2026-09-11T03:11:21.221Z",
+  "items": [
+    {
+      "id": "e196e6533e5a286b",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack",
+      "url": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T15:54:17.000Z",
+      "sentences": [
+        {
+          "en": "Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack.",
+          "zh": "以色列内塔尼亚胡起诉报纸声称阿联酋警告他10月7日的袭击。"
+        },
+        {
+          "en": "The paper said it stood by its reporting, after publishing extracts from a book where the claim appears.",
+          "zh": "该报称，在出版了一本出现索赔的书的摘录后，它坚持其报告。"
+        }
+      ]
+    },
+    {
+      "id": "c5332bbc5dc5f168",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Barbara Keating died in the 9/11 attack. She's finally being laid to rest",
+      "url": "https://www.npr.org/2026/09/10/nx-s1-5962791/barbara-keating-9-11-victim-burial",
+      "publishedAt": "2026-09-10T15:44:12.000Z",
+      "sentences": [
+        {
+          "en": "Barbara Keating died in the 9/11 attack.",
+          "zh": "芭芭拉·基廷在9/11袭击中丧生。"
+        },
+        {
+          "en": "She's finally being laid to rest.",
+          "zh": "她终于安息了。"
+        },
+        {
+          "en": "Barbara Keating died aboard one of the planes that hijackers slammed into the World Trade Center.",
+          "zh": "芭芭拉·基廷（ Barbara Keating ）死于劫机者撞击世贸中心的一架飞机上。"
+        },
+        {
+          "en": "Her remains were finally identified last year, and her family is gathering for a long-delayed funeral.",
+          "zh": "去年，她的遗体终于被确认，她的家人正在聚集在一起参加一场拖延已久的葬礼。"
+        },
+        {
+          "en": "(Image credit: Family of Barbara Keating, used with permission)",
+          "zh": "（图片来源： Barbara Keating的家人，经许可使用）"
+        }
+      ]
+    },
+    {
+      "id": "30f91e18ad404359",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Elon Musk threatens to sue over Gibney documentary's \"space lasers\" claim",
+      "url": "https://www.npr.org/2026/09/10/g-s1-142713/musk-trump-2024-lasers-space",
+      "publishedAt": "2026-09-10T15:13:09.000Z",
+      "sentences": [
+        {
+          "en": "Elon Musk threatens to sue over Gibney documentary's \"space lasers\" claim.",
+          "zh": "埃隆·马斯克（ Elon Musk ）威胁要起诉吉布尼（ Gibney ）纪录片的“太空激光”主张。"
+        },
+        {
+          "en": "The tech billionaire's attorney has put documentarian Alex Gibney and his production company on legal notice, claiming the Oscar-winning director defamed Musk in his nearly four-hour documentary.",
+          "zh": "这位科技亿万富翁的律师已经向纪录片导演亚历克斯·吉布尼（ Alex Gibney ）和他的制作公司发出了法律通知，声称这位奥斯卡获奖导演在他近四个小时的纪录片中诽谤了马斯克"
+        },
+        {
+          "en": "(Image credit: Evan Vucci)",
+          "zh": "（图片来源： Evan Vucci ）"
+        }
+      ]
+    },
+    {
+      "id": "50c6e3aacd4fe7bc",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "'I've never seen anything like this' -- A U.S. doctor treats Ebola's youngest victims",
+      "url": "https://www.npr.org/2026/09/10/g-s1-142545/ebola-children-democratic-republic-congo",
+      "publishedAt": "2026-09-10T15:06:20.000Z",
+      "sentences": [
+        {
+          "en": "'I've never seen anything like this' -- A U.S. doctor treats Ebola's youngest victims.",
+          "zh": "“我从未见过这样的事情” --一位美国医生为埃博拉病毒最年轻的受害者提供治疗。"
+        },
+        {
+          "en": "Dr. Rupa Narra is a U.S. pediatrician who arrived in the Democratic Republic of Congo to help care for stricken children.",
+          "zh": "鲁帕·纳拉（ Rupa Narra ）博士是美国儿科医生，他来到刚果民主共和国帮助照顾受灾儿童。"
+        },
+        {
+          "en": "Nothing could have prepared her for what she'd face.",
+          "zh": "没有什么能让她准备好面对她将要面对的事情。"
+        },
+        {
+          "en": "(Image credit: Courtesy of Dr. Rupa Narra.",
+          "zh": "（图片来源：由Rupa Narra博士提供。"
+        },
+        {
+          "en": "Diptych by NPR.)",
+          "zh": "NPR的双联画。）"
+        }
+      ]
+    },
+    {
+      "id": "b93c9b637fcbc675",
+      "sourceId": "npr-news",
+      "category": "security",
+      "title": "How did 9/11 reshape national security?",
+      "url": "https://www.npr.org/2026/09/10/nx-s1-5910729/how-did-9-11-reshape-national-security",
+      "publishedAt": "2026-09-10T14:53:37.000Z",
+      "sentences": [
+        {
+          "en": "How did 9/11 reshape national security?.",
+          "zh": "9/11是如何重塑国家安全的？"
+        },
+        {
+          "en": "Sept.",
+          "zh": "9月"
+        },
+        {
+          "en": "11 represented a new kind of national security threat, and a new national security architecture was created to confront it.",
+          "zh": "11代表了一种新的国家安全威胁，并创建了一个新的国家安全架构来应对它。"
+        }
+      ]
+    },
+    {
+      "id": "176075f5e7b13eb2",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Royal family rift after popular TV news presenter chosen to succeed Ugandan king",
+      "url": "https://www.bbc.co.uk/news/articles/c8jdpj4ydm2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T13:12:40.000Z",
+      "sentences": [
+        {
+          "en": "Royal family rift after popular TV news presenter chosen to succeed Ugandan king.",
+          "zh": "流行电视新闻主持人被选中接替乌干达国王之后的皇室裂痕。"
+        },
+        {
+          "en": "King Oyo's family say he left a will naming his young son as heir to the Tooro kingdom.",
+          "zh": "Oyo国王的家人说，他留下了一份遗嘱，将他的小儿子命名为Tooro王国的继承人。"
+        }
+      ]
+    },
+    {
+      "id": "e42d17814d459c86",
+      "sourceId": "cloudflare-blog",
+      "category": "science",
+      "title": "1.1.1.1 now supports post-quantum DNSSEC, all 2,420 bytes of it",
+      "url": "https://blog.cloudflare.com/post-quantum-dnssec-1111/",
+      "publishedAt": "2026-09-10T13:00:00.000Z",
+      "sentences": [
+        {
+          "en": "1.1.1.1 now supports post-quantum DNSSEC, all 2,420 bytes of it.",
+          "zh": "1.1.1.1现在支持后量子DNSSEC ，所有2,420字节。"
+        },
+        {
+          "en": "1.1.1.1 now validates DNSSEC signatures made with ML-DSA-44 , a post-quantum signature algorithm standardized by the National Institute of Standards and Technology (NIST) .",
+          "zh": "1.1.1.1现在验证使用ML-DSA-44制作的DNSSEC签名， ML-DSA-44是由美国国家标准与技术研究院（ NIST ）标准化的后量子签名算法。"
+        },
+        {
+          "en": "This is a first step toward preparing DNSSEC for a future in which today’s signature algorithms are no longer secure.",
+          "zh": "这是为今天的签名算法不再安全的未来做好DNSSEC准备的第一步。"
+        },
+        {
+          "en": "Cloudflare plans to achieve full post-quantum security by 2029 .",
+          "zh": "Cloudflare计划到2029年实现全面的后量子安全。"
+        },
+        {
+          "en": "Much of the work so far has focused on TLS, but public-key cryptography is used in many other systems, including DNSSEC.",
+          "zh": "到目前为止，大部分工作都集中在TLS上，但公钥加密被用于许多其他系统，包括DNSSEC。"
+        },
+        {
+          "en": "While we began experimenting with post-quantum key agreement in TLS in 2019 and enabled support for all customers in 2022, post-quantum signatures have not yet received comparable testing in DNSSEC.",
+          "zh": null
+        },
+        {
+          "en": "There is also some urgency.",
+          "zh": null
+        },
+        {
+          "en": "Widespread client adoption of post-quantum TLS took years, partly because larger messages exposed assumptions and bugs in existing network software.",
+          "zh": null
+        },
+        {
+          "en": "That experience showed why early large-scale testing matters.",
+          "zh": null
+        },
+        {
+          "en": "We cannot wait until quantum computers become an immediate threat.",
+          "zh": null
+        },
+        {
+          "en": "The problem is that post-quantum signatures are large.",
+          "zh": null
+        },
+        {
+          "en": "Each ML-DSA-44 signature is 2,420 bytes, exceeding common DNS-over- UDP limits before the response includes anything else.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "50f92fe38778814c",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Drive profitable growth with new data and measurement tools",
+      "url": "https://blog.google/products/ads-commerce/data-strength-updates/",
+      "publishedAt": "2026-09-10T13:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Drive profitable growth with new data and measurement tools.",
+          "zh": "借助新的数据和测量工具推动盈利增长。"
+        },
+        {
+          "en": "New capabilities across our measurement suite can help you make better, faster decisions that drive business growth.",
+          "zh": "我们测量套件的新功能可以帮助您做出更好、更快的决策，从而推动业务增长。"
+        }
+      ]
+    },
+    {
+      "id": "cd2921890a8a23ff",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Japan seeks change to new UN world map over Russia 'misconception'",
+      "url": "https://www.theguardian.com/world/2026/sep/10/japan-seeks-change-to-new-un-world-map-over-russia-misconception",
+      "publishedAt": "2026-09-10T12:55:03.000Z",
+      "sentences": [
+        {
+          "en": "Japan seeks change to new UN world map over Russia 'misconception'.",
+          "zh": "日本寻求将俄罗斯的“误解”改为新的联合国世界地图。"
+        },
+        {
+          "en": "The new ‘true-scale’ map shrinks Europe and North America while enlarging Africa – and depicts the disputed Kuril islands as ruled by Moscow Japan has asked for the revision of a new world map adopted by the UN because it said it made the disputed Kuril islands appear to belong to Russia.",
+          "zh": "新的“真实比例”地图缩小了欧洲和北美，同时扩大了非洲–并描绘了由莫斯科统治的有争议的千岛群岛日本要求修改联合国通过的新世界地图，因为它说它使有争议的千岛群岛似乎属于俄罗斯。"
+        },
+        {
+          "en": "The UN general assembly voted on Friday to adopt the new map, which makes the African continent larger while also shrinking North America and Europe, drawing condemnation from the US.",
+          "zh": "联合国大会周五投票通过了新地图，该地图使非洲大陆变得更大，同时也缩小了北美和欧洲，引起了美国的谴责。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "def365b933ba1126",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Twenty-five dead after fire on cargo ship in eastern China",
+      "url": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T12:24:54.000Z",
+      "sentences": [
+        {
+          "en": "Twenty-five dead after fire on cargo ship in eastern China.",
+          "zh": "中国东部货船起火后有25人死亡。"
+        },
+        {
+          "en": "Of the 42 people on board, 17 were were evacuated, CCTV reports.",
+          "zh": "据中央电视台报道，在船上的42人中，有17人被疏散。"
+        }
+      ]
+    },
+    {
+      "id": "150f1b6fac0ffdd7",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Human cost of violence in South Sudan ‘continues to grow’",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168307",
+      "publishedAt": "2026-09-10T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Human cost of violence in South Sudan ‘continues to grow’.",
+          "zh": "南苏丹暴力的人类代价“继续增长”。"
+        },
+        {
+          "en": "Independent human rights investigators voiced deep concern over growing risks to both civilians and South Sudan’s political transition following their latest fact-finding mission to the world’s youngest nation – their 14th in a decade.",
+          "zh": "独立人权调查员对平民和南苏丹政治过渡所面临的日益严重的风险深表关切，他们最近对世界上最年轻的国家进行了实况调查访问，这是他们十年来的第14次访问。"
+        }
+      ]
+    },
+    {
+      "id": "f4fae9560e243f11",
+      "sourceId": "un-news",
+      "category": "security",
+      "title": "Security Council LIVE: Fresh attacks prompt emergency meeting on Yemen",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168309",
+      "publishedAt": "2026-09-10T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Security Council LIVE: Fresh attacks prompt emergency meeting on Yemen.",
+          "zh": "安理会现场直播：新的袭击事件促使也门召开紧急会议。"
+        },
+        {
+          "en": "On the heels of reported Houthi attacks on Saudi Arabia on Tuesday and the capture of another key port by the militants on Yemen’s Red Sea coast – including the seizure of eight UN vehicles from a key aid hub there – the Security Council is meeting on Thursday at 3pm in New York to discuss the latest developments.",
+          "zh": "在胡塞武装周二对沙特阿拉伯发动袭击以及武装分子在也门红海沿岸占领另一个关键港口（包括从那里的一个主要援助中心扣押了八辆联合国车辆）之后，安理会将于周四下午3点在纽约举行会议，讨论最新事态发展。"
+        }
+      ]
+    },
+    {
+      "id": "b4649c2b3f85e8e2",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "‘An assault on humanity itself’: Guterres pays tribute to 9/11 victims, survivors and first responders",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168310",
+      "publishedAt": "2026-09-10T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "‘An assault on humanity itself’: Guterres pays tribute to 9/11 victims, survivors and first responders.",
+          "zh": "“对人类本身的攻击” ：古特雷斯向9/11受害者、幸存者和急救人员致敬。"
+        },
+        {
+          "en": "Twenty-five years ago, the heinous terrorist attacks of 11 September 2001 against the United States claimed thousands of lives and represented “an assault on humanity itself”, the UN chief said on Thursday.",
+          "zh": "这位联合国秘书长周四表示， 25年前， 2001年9月11日针对美国的令人发指的恐怖袭击夺去了数千人的生命，代表着“对人类本身的攻击”。"
+        }
+      ]
+    },
+    {
+      "id": "3c12152d169ee094",
+      "sourceId": "un-news",
+      "category": "security",
+      "title": "UN climate chief warns political division is undermining fight against ‘economic security emergency’",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168311",
+      "publishedAt": "2026-09-10T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "UN climate chief warns political division is undermining fight against ‘economic security emergency’.",
+          "zh": "联合国气候负责人警告说，政治分歧正在破坏对抗“经济安全紧急情况”的斗争。"
+        },
+        {
+          "en": "The head of the UN's climate body has warned that treating global warming as a partisan issue is dangerously out of step with reality, as he set out a stark account of the economic toll climate change is already inflicting on Europe.",
+          "zh": "联合国气候机构负责人警告说，将全球变暖视为一个党派问题是危险的，因为他对气候变化已经对欧洲造成的经济损失进行了严厉的描述。"
+        }
+      ]
+    },
+    {
+      "id": "f6a10ff080494af5",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Ukraine: Drone attacks on Chornobyl are ‘gambling with the safety of millions of people’",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168312",
+      "publishedAt": "2026-09-10T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Ukraine: Drone attacks on Chornobyl are ‘gambling with the safety of millions of people’.",
+          "zh": "乌克兰：对切尔诺贝利的无人机袭击“与数百万人的安全赌博”。"
+        },
+        {
+          "en": "A drone strike on the protective structure at the Chornobyl Nuclear Power Plant could have endangered the safety of millions of people, UN Development Programme (UNDP) Administrator Alexander De Croo told reporters via video link from Kyiv on Thursday.",
+          "zh": "联合国开发计划署（ UNDP ）署长亚历山大·德克罗（ Alexander De Croo ）周四在基辅通过视频链接告诉记者，无人机袭击切尔诺贝利核电站的保护结构可能会危及数百万人的安全。"
+        }
+      ]
+    },
+    {
+      "id": "5553b10237dd0335",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Trump promises Americans $5K if GOP wins. And, Kirk supporters reflect on his death",
+      "url": "https://www.npr.org/2026/09/10/g-s1-142670/up-first-newsletter-trump-midterm-convention-missouri-denny-hoskins-apple-charlie-kirk",
+      "publishedAt": "2026-09-10T11:27:14.000Z",
+      "sentences": [
+        {
+          "en": "Trump promises Americans $5K if GOP wins.",
+          "zh": "特朗普承诺，如果共和党获胜，美国人将获得5000 $。"
+        },
+        {
+          "en": "And, Kirk supporters reflect on his death.",
+          "zh": "而且，柯克的支持者对他的死进行了反思。"
+        },
+        {
+          "en": "President Trump tries to incentivize voters by promising $5,000 to Americans if the GOP wins the midterms.",
+          "zh": "如果共和党赢得中期选举，特朗普总统试图通过向美国人承诺5000 $来激励选民。"
+        },
+        {
+          "en": "And, young conservatives reflect on the party one year after Charlie Kirk's death.",
+          "zh": "而且，年轻的保守派在查理·柯克去世一年后反思党。"
+        },
+        {
+          "en": "(Image credit: Andrew Harnik)",
+          "zh": "（图片来源： Andrew Harnik ）"
+        }
+      ]
+    },
+    {
+      "id": "058da771460461d4",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Exploring Creative Intelligence with London’s Southbank Centre",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/exploring-creative-intelligence-with-londons-southbank-centre/",
+      "publishedAt": "2026-09-10T11:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Exploring Creative Intelligence with London’s Southbank Centre.",
+          "zh": "与伦敦南岸中心一起探索创意智慧。"
+        },
+        {
+          "en": "A new weekend explores how artists, digital innovation and AI are reshaping the world we live in.",
+          "zh": "在新的周末，我们将探索艺术家、数字创新和人工智能如何重塑我们生活的世界。"
+        }
+      ]
+    },
+    {
+      "id": "f3cb81d5a80eef82",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Iran war won't end until after crucial November elections, says Trump",
+      "url": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T10:43:53.000Z",
+      "sentences": [
+        {
+          "en": "Iran war won't end until after crucial November elections, says Trump.",
+          "zh": "特朗普表示，直到11月的关键选举之后，伊朗战争才会结束。"
+        },
+        {
+          "en": "The president also said oil prices won't come down until after the November races, claiming without evidence that Iran wants to impact the election.",
+          "zh": "总统还表示，直到11月大选之后，油价才会下降，声称没有证据表明伊朗希望影响选举。"
+        }
+      ]
+    },
+    {
+      "id": "e032a3a41e597c74",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
+      "url": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T09:32:34.000Z",
+      "sentences": [
+        {
+          "en": "Apple's new boss starts with big gamble on £1,999 first folding iPhone.",
+          "zh": "苹果的新老板从£ 1,999首次折叠iPhone的大赌注开始。"
+        },
+        {
+          "en": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
+          "zh": "苹果公司在一次活动中展示了iPhone近20年来的首次重大设计变更。"
+        }
+      ]
+    },
+    {
+      "id": "6ed15f689f3aa641",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Vance, Trump speaking at the Republican midterm convention in Dallas",
+      "url": "https://www.npr.org/2026/09/10/nx-s1-5963880/trump-republican-midterm-convention-vance",
+      "publishedAt": "2026-09-10T09:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Vance, Trump speaking at the Republican midterm convention in Dallas.",
+          "zh": "万斯，特朗普在达拉斯举行的共和党中期大会上发表讲话。"
+        },
+        {
+          "en": "President Trump promised to send every adult citizen $5,000, but only if Republicans maintain control of Congress in the midterm election, drawing a strong response from House Democrats.",
+          "zh": "特朗普总统承诺向每个成年公民发放5000 $ ，但前提是共和党人在中期选举中保持对国会的控制，并得到众议院民主党人的强烈反应。"
+        },
+        {
+          "en": "(Image credit: Justin Sullivan)",
+          "zh": "（图片来源： Justin Sullivan ）"
+        }
+      ]
+    },
+    {
+      "id": "f018aa6bc00663bf",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Wall Street Journal publisher convicted in Hong Kong of deterring reporter from union role",
+      "url": "https://www.theguardian.com/world/2026/sep/10/wall-street-journal-selina-cheng-termination-lawsuit",
+      "publishedAt": "2026-09-10T05:57:31.000Z",
+      "sentences": [
+        {
+          "en": "Wall Street Journal publisher convicted in Hong Kong of deterring reporter from union role.",
+          "zh": "《华尔街日报》出版商在香港因阻止记者担任工会职务而被定罪。"
+        },
+        {
+          "en": "Dow Jones convicted of one count of deterring Selina Cheng from role at Hong Kong Journalist Association but cleared of second charge A Hong Kong court has convicted the publisher of the Wall Street Journal of deterring a reporter from taking up a trade union role, in a case that raised concerns about press freedom in the city.",
+          "zh": "道琼斯被判犯有一项阻止Selina Cheng在香港记者协会担任职务的罪名，但第二项指控被清除。一家香港法院判定《华尔街日报》出版商阻止一名记者担任工会职务，此案引发了对该市新闻自由的担忧。"
+        },
+        {
+          "en": "The newspaper dismissed Selina Cheng just weeks after she was appointed chair of the Hong Kong Journalist Association (HKJA) in 2024.",
+          "zh": "该报在2024年被任命为香港记者协会（ HKJA ）主席后几周就解雇了Selina Cheng。"
+        },
+        {
+          "en": "She was told at the time her termination was officially due to restructuring.",
+          "zh": "当时她被告知，由于重组，她被正式解雇。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "5379868a0640d8eb",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Deadly Philippines ferry fire triggers search for scores of missing",
+      "url": "https://www.theguardian.com/world/2026/sep/10/deadly-philippines-ferry-fire-leaves-scores-of-people-missing",
+      "publishedAt": "2026-09-10T05:54:14.000Z",
+      "sentences": [
+        {
+          "en": "Deadly Philippines ferry fire triggers search for scores of missing.",
+          "zh": "致命的菲律宾渡轮火灾引发了搜寻数十起失踪事件。"
+        },
+        {
+          "en": "Multiple search and rescue vessels deployed after blaze off Palawan island leaves at least five dead, says coast guard A large-scale ⁠search and rescue operation ​is under way off the western Philippine island of Palawan on Thursday after a passenger ferry caught fire, killing five people and leaving ⁠scores of passengers missing.",
+          "zh": "海岸警卫队表示，在巴拉望岛发生火灾后部署的多艘搜救船只造成至少5人死亡。菲律宾西部巴拉望岛周四发生客轮起火，造成5人死亡，数十名乘客失踪，目前正在进行大规模搜救行动。"
+        },
+        {
+          "en": "The Philippine coast guard said multiple vessels and other assets were searching for survivors as rescue teams used drift-modelling tools ⁠to identify areas where people may have been carried by currents.",
+          "zh": "菲律宾海岸警卫队表示，多艘船只和其他资产正在寻找幸存者，因为救援队伍使用漂移建模工具来确定可能有人被洋流带走的区域。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "54e5ad7e07d638f1",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "North Korea has built new uranium facility to expand nuclear arsenal, UN agency says",
+      "url": "https://www.theguardian.com/world/2026/sep/10/north-korea-has-built-new-uranium-facility-to-expand-nuclear-arsenal-un-agency-says",
+      "publishedAt": "2026-09-10T05:08:46.000Z",
+      "sentences": [
+        {
+          "en": "North Korea has built new uranium facility to expand nuclear arsenal, UN agency says.",
+          "zh": "联合国机构表示，朝鲜建造了新的铀设施，以扩大核武库。"
+        },
+        {
+          "en": "The International Atomic Energy Agency voices ‘serious concerns’ over expansion of Yongbyon facility to enrich uranium The International Atomic Energy Agency (IAEA) has voiced “serious concern” over evidence that North Korea has built a facility capable of enriching weapons-grade uranium to bolster its nuclear arsenal.",
+          "zh": "国际原子能机构（ IAEA ）对宁边铀浓缩设施的扩建表示“严重关切”国际原子能机构（ IAEA ）对有证据表明朝鲜已经建立了一个能够浓缩武器级铀以加强其核武库的设施表示“严重关切”。"
+        },
+        {
+          "en": "The new building, located at the the country’s main Yongbyon nuclear facility, can house up to 28 centrifuge cascades – machinery commonly used to enrich uranium – according to a report by the nuclear watchdog released this week.",
+          "zh": "根据核监管机构本周发布的一份报告，位于该国宁边主要核设施的新建筑可容纳多达28台离心机级联–通常用于浓缩铀的机器。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "38c49032c563ac41",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches",
+      "url": "https://www.bbc.co.uk/news/articles/c804d9lyj2jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T04:43:54.000Z",
+      "sentences": [
+        {
+          "en": "Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches.",
+          "zh": "俄罗斯的新型喷气式无人机以每天发射的速度超过了乌克兰的防空系统。"
+        },
+        {
+          "en": "The new models can travel at speeds of up to 300mph, faster than Ukraine's air defence interceptors.",
+          "zh": "新型号可以以高达300英里/小时的速度飞行，比乌克兰的防空拦截器更快。"
+        }
+      ]
+    },
+    {
+      "id": "abf7ae78862ffadf",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Four key takeaways from Republican midterms convention",
+      "url": "https://www.bbc.co.uk/news/articles/cg7kjlzlev1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T04:07:44.000Z",
+      "sentences": [
+        {
+          "en": "Four key takeaways from Republican midterms convention.",
+          "zh": "共和党中期大会的四个关键要点。"
+        },
+        {
+          "en": "The US president covered many of the subjects he has returned to time and again - with a few surprises thrown in.",
+          "zh": "这位美国总统谈到了他反复提到的许多话题，并带来了一些惊喜。"
+        }
+      ]
+    },
+    {
+      "id": "13745abf28fa2ee3",
+      "sourceId": "github-blog",
+      "category": "open-source",
+      "title": "GitHub availability report: August 2026",
+      "url": "https://github.blog/news-insights/company-news/github-availability-report-august-2026/",
+      "publishedAt": "2026-09-10T02:05:17.000Z",
+      "sentences": [
+        {
+          "en": "GitHub availability report: August 2026.",
+          "zh": "GitHub可用性报告： 2026年8月。"
+        },
+        {
+          "en": "While we continue to make progress, August proved to be a challenging month for availability.",
+          "zh": "虽然我们继续取得进展，但事实证明， 8月是一个充满挑战的月份。"
+        },
+        {
+          "en": "You can read more about these incidents in a blog post we published last month.",
+          "zh": "您可以在我们上个月发布的博客文章中进一步了解这些事件。"
+        },
+        {
+          "en": "We are aggressively investing in both architectural improvements and moving to Azure, which will give us more capacity.",
+          "zh": "我们正在积极投资于架构改进和迁移到Azure ，这将为我们提供更多容量。"
+        },
+        {
+          "en": "Meanwhile, we continue to see significant growth on our platform.",
+          "zh": "与此同时，我们的平台继续大幅增长。"
+        },
+        {
+          "en": "We are prioritizing the most impactful work while minimizing risk, but as these incidents in August show, we cannot completely eliminate risk.",
+          "zh": "我们正在优先考虑最具影响力的工作，同时将风险降至最低，但正如8月份的这些事件所显示的那样，我们无法完全消除风险。"
+        },
+        {
+          "en": "Ultimately, all the work needs to be done, and incidents give us an opportunity to adjust our priorities.",
+          "zh": "最终，所有的工作都需要完成，而事件让我们有机会调整我们的优先事项。"
+        },
+        {
+          "en": "As repair items from these incidents, we ve made significant improvements to our capacity monitoring and management, retry policies that led to bigger impact, and resiliency improvements to core services.",
+          "zh": "作为这些事故的维修项目，我们对容量监控和管理进行了重大改进，重试了带来更大影响的策略，并改善了核心服务的弹性。"
+        },
+        {
+          "en": "We ve also continued to make great progress across many durable work streams.",
+          "zh": "我们还在许多持久的工作流程中继续取得重大进展。"
+        },
+        {
+          "en": "On August 11, GitHub ran a production MySQL primary from Azure for the first time.",
+          "zh": "8月11日， GitHub首次从Azure运行MySQL生产主体。"
+        },
+        {
+          "en": "Client-observed write impact was minimal, and no customer impact occurred in the transition.",
+          "zh": "客户观察到的写入影响很小，过渡期间没有对客户产生影响。"
+        },
+        {
+          "en": "We repeated the pattern with two more primaries on August 27.",
+          "zh": "我们在8月27日与另外两个初选重复了这个模式。"
+        }
+      ]
+    },
+    {
+      "id": "ed48fe8dff852ae3",
+      "sourceId": "guardian-world",
+      "category": "business",
+      "title": "Rubio signals shift to working with allies to fight drug trade as latest boat strike kills three",
+      "url": "https://www.theguardian.com/us-news/2026/sep/09/rubio-us-allies-drug-trafficking",
+      "publishedAt": "2026-09-10T01:02:42.000Z",
+      "sentences": [
+        {
+          "en": "Rubio signals shift to working with allies to fight drug trade as latest boat strike kills three.",
+          "zh": "卢比奥发出的信号转向与盟国合作打击毒品贸易，因为最近的船只袭击造成三人死亡。"
+        },
+        {
+          "en": "Rubio visits Ecuador and welcomes cooperation after campaign of unilateral strikes on alleged ‘narco-terrorists’ The US secretary of state, Marco Rubio, gave new clarity on the approach toward combating drug trafficking in Latin American waters, saying the Trump administration was focused on working with allied countries and aligning with their laws but insisted the military would “still blow up ships if need be”.",
+          "zh": "卢比奥访问厄瓜多尔，并欢迎在对涉嫌“毒品恐怖分子”进行单方面打击后进行合作。美国国务卿马可·卢比奥（ Marco Rubio ）对打击拉丁美洲海域毒品贩运的方法进行了新的澄清，称特朗普政府重视与盟国合作并遵守其法律，但坚称军方“如果需要，仍会炸毁船只”。"
+        },
+        {
+          "en": "The public acknowledgment of a shift in US strategy comes a year after Washington began a campaign of unilateral deadly strikes against those it calls “narco-terrorists” operating boats in international waters.",
+          "zh": "华盛顿在国际水域开始对所谓的“毒品恐怖分子”船只进行单方面致命打击一年后，公开承认了美国战略的转变。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "a38c9539b2cc35b8",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Notorious Ecuadorian crime gang designated a terrorist group by US",
+      "url": "https://www.theguardian.com/world/2026/sep/09/ecuador-drugs-gang-terrorist-group-los-tiguerones-rubio",
+      "publishedAt": "2026-09-09T22:19:25.000Z",
+      "sentences": [
+        {
+          "en": "Notorious Ecuadorian crime gang designated a terrorist group by US.",
+          "zh": "臭名昭著的厄瓜多尔犯罪团伙被美国指定为恐怖组织。"
+        },
+        {
+          "en": "Trump administration to seek extra funding from Congress to ‘dismantle’ Los Tiguerones over narcotics trafficking The US has designated Ecuador’s Los Tiguerones gang, which stormed a television station during a live broadcast in 2024, as a terrorist organisation as the Trump administration expands its campaign against narcotics traffickers it says are destabilising Latin America.",
+          "zh": "特朗普政府将从国会寻求额外资金，以“拆除” Los Tiguerones的毒品贩运美国已将厄瓜多尔的Los Tiguerones团伙指定为恐怖组织，因为特朗普政府正在扩大其打击毒品贩运者的运动，据称该团伙正在破坏拉丁美洲的稳定。Los Tiguerones团伙在2024年的一次直播中袭击了一家电视台。"
+        },
+        {
+          "en": "The US secretary of state, Marco Rubio, made the announcement in Quito, where he met Ecuadorian president Daniel Noboa, one of several rightwing allies of Donald Trump whom Rubio is courting as a security partner during a three-nation tour through Latin America that began on Tuesday.",
+          "zh": "美国国务卿马可·卢比奥（ Marco Rubio ）在基多宣布了这一消息，在那里他会见了厄瓜多尔总统丹尼尔·诺沃亚（ Daniel Noboa ） ，他是唐纳德·特朗普（ Donald Trump ）的几个右翼盟友之一，卢比奥在周二开始的拉丁美洲三国之行中将他作为安全合作伙伴。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "f2d2bb90d76213de",
+      "sourceId": "aws-news",
+      "category": "cloud",
+      "title": "Introducing Amazon EBS Volume Clones across AWS accounts",
+      "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-ebs-volume-clones-across-aws-accounts/",
+      "publishedAt": "2026-09-09T22:01:47.000Z",
+      "sentences": [
+        {
+          "en": "Introducing Amazon EBS Volume Clones across AWS accounts.",
+          "zh": "介绍跨AWS帐户的Amazon EBS卷克隆。"
+        },
+        {
+          "en": "Last year, we introduced Volume Clones of Amazon Elastic Block Store (Amazon EBS) , a new capability that lets you create instant point-in-time copies of your EBS volumes within the same Availability Zone.",
+          "zh": "去年，我们推出了Amazon Elastic Block Store (Amazon EBS)的卷克隆，这是一项新功能，允许您在同一可用区内创建EBS卷的即时时间点副本。"
+        },
+        {
+          "en": "Today, we are extending Volume Clones with cross-account copy, so you can create copies of your EBS volumes into other AWS accounts and optionally re-encrypt them with an AWS Key Management Service (AWS KMS) key in the target account.",
+          "zh": "今天，我们将使用跨帐户副本扩展卷克隆，因此您可以将EBS卷的副本创建到其他AWS帐户，并可选择使用目标帐户中的AWS密钥管理服务(AWS KMS)密钥对其进行重新加密。"
+        },
+        {
+          "en": "With this new feature, you can use your latest application data to develop, test, and experiment in a secondary environment, while protecting and isolating the information in the production environment.",
+          "zh": "借助此新功能，您可以使用最新的应用程序数据在辅助环境中进行开发、测试和实验，同时保护和隔离生产环境中的信息。"
+        },
+        {
+          "en": "For example, you can create copies of a production environment to refresh test and development environments set up in separate accounts with the desired EBS encryption.",
+          "zh": "例如，您可以创建生产环境的副本，以便使用所需的EBS加密刷新在单独帐户中设置的测试和开发环境。"
+        },
+        {
+          "en": "Copy EBS volumes across AWS accounts in action To create a copy of an EBS volume across accounts, the owners of the volume can first grant the target account access to their volume in AWS Resource Access Manager (RAM) , which provides a way to share resources across AWS accounts or within an AWS Organization.",
+          "zh": "跨AWS帐户复制EBS卷的实际操作要跨帐户创建EBS卷的副本，卷的所有者可以首先在AWS资源访问管理器(RAM)中授予目标帐户对其卷的访问权限，这提供了一种跨AWS帐户或在AWS组织内共享资源的方法。"
+        },
+        {
+          "en": "Then, from the target account, they can locate the volume they have access to create a copy of it.",
+          "zh": "然后，从目标帐户中，他们可以找到他们有权访问的卷，以创建该卷的副本。"
+        },
+        {
+          "en": "To get started, choose Share volume for the volume you want to share with the target account in the Amazon EBS console .",
+          "zh": "若要开始，请在Amazon EBS控制台中选择要与目标帐户共享的卷的“共享卷”。"
+        },
+        {
+          "en": "Share the volume with other AWS accounts by adding it to existing resource shares, or create a new resource share in the AWS RAM console.",
+          "zh": "通过将其添加到现有资源共享与其他AWS帐户共享卷，或在AWS RAM控制台中创建新的资源共享。"
+        },
+        {
+          "en": "For more details, refer to the AWS RAM User Guide .",
+          "zh": "有关更多详细信息，请参阅AWS RAM用户指南。"
+        },
+        {
+          "en": "You can now see confirmation that the volume has been shared in the Volume sharing tab of the volume detail page.",
+          "zh": "现在，您可以在卷详细信息页面的卷共享选项卡中看到该卷已共享的确认。"
+        },
+        {
+          "en": "A target account must accept the resource share on the RAM console.",
+          "zh": "目标帐户必须接受RAM控制台上的资源共享。"
+        }
+      ]
+    },
+    {
+      "id": "3c9b2a656c234d9c",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
+      "url": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-09T21:23:45.000Z",
+      "sentences": [
+        {
+          "en": "Spanish intelligence warned of Ceuta mass crossing plans before surge.",
+          "zh": "西班牙情报部门在飙升前警告休达群众过境计划。"
+        },
+        {
+          "en": "Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of thousands entered Ceuta.",
+          "zh": "解密文件显示，在数万人进入休达的前一天，西班牙和摩洛哥当局接到了社交媒体要求大规模移民越境的警报。"
+        }
+      ]
+    },
+    {
+      "id": "1bf01c3c33d621ca",
+      "sourceId": "k8s-blog",
+      "category": "cloud",
+      "title": "Kubernetes v1.37: Introducing Node Lifecycle Conditions",
+      "url": "https://kubernetes.io/blog/2026/09/09/kubernetes-v1-37-node-lifecycle-conditions/",
+      "publishedAt": "2026-09-09T18:30:00.000Z",
+      "sentences": [
+        {
+          "en": "Kubernetes v1.37: Introducing Node Lifecycle Conditions.",
+          "zh": null
+        },
+        {
+          "en": "Kubernetes has many ways to describe what is happening on a Node.",
+          "zh": null
+        },
+        {
+          "en": "Readiness, taints, Pod state, labels, annotations, and provider-specific APIs each expose part of the picture.",
+          "zh": null
+        },
+        {
+          "en": "What has been missing is a shared, Kubernetes-owned way to say that a Node is draining , undergoing maintenance, or undergoing Graceful Node Shutdown .",
+          "zh": null
+        },
+        {
+          "en": "Kubernetes v1.37 introduces five well-known Node conditions that provide that description: DrainInProgress Drained MaintenancePlanned MaintenanceInProgress GracefulNodeShutdownInProgress The new Node lifecycle conditions Condition What it reports DrainInProgress The Node is actively being drained according to the administrator's chosen drain criteria.",
+          "zh": null
+        },
+        {
+          "en": "Drained The Node has reached the drain criteria selected by the administrator.",
+          "zh": null
+        },
+        {
+          "en": "MaintenancePlanned The Node is expected to undergo a change in the future.",
+          "zh": null
+        },
+        {
+          "en": "MaintenanceInProgress The Node is actively undergoing maintenance.",
+          "zh": null
+        },
+        {
+          "en": "GracefulNodeShutdownInProgress Graceful Node Shutdown is determined to be in progress on the Node.",
+          "zh": null
+        },
+        {
+          "en": "Maintenance can include hardware or software rollout, remediation, decommissioning, or debugging.",
+          "zh": null
+        },
+        {
+          "en": "Whether maintenance requires a drain depends on its impact.",
+          "zh": null
+        },
+        {
+          "en": "A Kubernetes upgrade usually should follow a drain, while a kernel live patch might not need one.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "b1cb57bc7c1f46f2",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Uganda to withdraw from Invictus Games ‘out of respect for King Charles’, says military chief",
+      "url": "https://www.theguardian.com/world/2026/sep/09/uganda-withdraws-invictus-games-out-of-respect-king-charles",
+      "publishedAt": "2026-09-09T18:20:24.000Z",
+      "sentences": [
+        {
+          "en": "Uganda to withdraw from Invictus Games ‘out of respect for King Charles’, says military chief.",
+          "zh": "乌干达退出Invictus Games “出于对查尔斯国王的尊重” ，军事首领说。"
+        },
+        {
+          "en": "Gen Muhoozi Kainerugaba announces decision to pull out in post on X, citing tensions over ‘Harry-Meghan nonsense’ Uganda is withdrawing from the Duke of Sussex’s Invictus Games, the country’s military chief has said, out of respect for King Charles amid division over the “Harry-Meghan nonsense”.",
+          "zh": "Muhoozi Kainerugaba将军宣布决定在X上退出，理由是“哈里-梅根胡说八道”的紧张局势乌干达正在退出苏塞克斯公爵的Invictus Games ，该国军事首领表示，出于对查尔斯国王的尊重，在“哈里-梅根胡说八道”的分歧中。"
+        },
+        {
+          "en": "Gen Muhoozi Kainerugaba, son of the Ugandan president, made the surprise announcement in a post on X on Wednesday.",
+          "zh": "乌干达总统的儿子Muhoozi Kainerugaba将军周三在X的帖子中宣布了这一意外消息。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "da64721081cae3a8",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "A new deep learning model maps global methane emissions from space.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/mapping-global-methane-emissions-from-space/",
+      "publishedAt": "2026-09-09T18:15:00.000Z",
+      "sentences": [
+        {
+          "en": "A new deep learning model maps global methane emissions from space.",
+          "zh": "一种新的深度学习模型绘制了来自太空的全球甲烷排放图。"
+        },
+        {
+          "en": "Google and NASA JPL developed an AI model to map and quantify global methane emissions from space using EMIT.",
+          "zh": "谷歌和美国宇航局喷气推进实验室开发了一个人工智能模型，使用排放物来绘制和量化全球太空甲烷排放量。"
+        }
+      ]
+    },
+    {
+      "id": "3f21ae085698ff13",
+      "sourceId": "guardian-world",
+      "category": "science",
+      "title": "Indonesian foragers may have sucked on mind-altering nuts 25,000 years ago, research finds",
+      "url": "https://www.theguardian.com/science/2026/sep/09/indonesian-foragers-mind-altering-nuts-research-finds",
+      "publishedAt": "2026-09-09T18:00:02.000Z",
+      "sentences": [
+        {
+          "en": "Indonesian foragers may have sucked on mind-altering nuts 25,000 years ago, research finds.",
+          "zh": "研究发现，印度尼西亚的觅食者可能在25000年前就吸食了改变思维的坚果。"
+        },
+        {
+          "en": "Analysis of two skeletons reveals tooth wear and traces of psychoactive substance in what may be earliest known evidence for human drug taking What may be the earliest known evidence for human drug taking has been traced to ancient Indonesian foragers who sucked on mind-altering nuts as long as 25,000 years ago.",
+          "zh": "对两具骨骼的分析揭示了牙齿磨损和精神活性物质的痕迹，这可能是人类服用药物的最早已知证据。人类服用药物的最早已知证据可以追溯到25000年前的古代印度尼西亚觅食者，他们吸食改变思想的坚果。"
+        },
+        {
+          "en": "Analysis of two exceptionally rare skeletons from the Indonesian island of Sulawesi revealed dramatic tooth wear and traces of a psychoactive substance in the individuals’ remaining teeth, suggesting they routinely sucked on hard, abrasive betel nuts.",
+          "zh": "对来自印度尼西亚苏拉威西岛的两具异常罕见的骨骼的分析显示，这些人的剩余牙齿中存在剧烈的牙齿磨损和精神活性物质的痕迹，这表明他们经常吸食坚硬的槟榔。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "a622f43ee197a11b",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Tackle your to-do list with new features in our Google AI plans.",
+      "url": "https://blog.google/products-and-platforms/products/google-one/fall-2026-ai-plan-updates/",
+      "publishedAt": "2026-09-09T17:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Tackle your to-do list with new features in our Google AI plans.",
+          "zh": "使用我们的Google AI套餐中的新功能来处理您的待办事项。"
+        },
+        {
+          "en": "Subscribers can try Google Pics and Sheets canvas — plus, new voice features in Gmail, Docs, and Keep.",
+          "zh": "订阅者可以试用Google图片和Google表格画布，以及Gmail、文档和Keep中的新语音功能。"
+        }
+      ]
+    },
+    {
+      "id": "c9b388b084809898",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "4 ways Gemini makes administrative chores quick and easy",
+      "url": "https://blog.google/products-and-platforms/products/gemini/ai-navigate-bureaucracy/",
+      "publishedAt": "2026-09-09T16:00:00.000Z",
+      "sentences": [
+        {
+          "en": "4 ways Gemini makes administrative chores quick and easy.",
+          "zh": "双子座让行政事务快速简便的4种方法。"
+        },
+        {
+          "en": "People are turning to Gemini for help with complex government tasks, like filing taxes, preparing fines, and accessing social services.",
+          "zh": "人们正在向Gemini寻求帮助，以完成复杂的政府工作，例如报税、准备罚款和获得社会服务。"
+        }
+      ]
+    },
+    {
+      "id": "73af7527f82e0ada",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Get ready for the game with new football features in Search",
+      "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
+      "publishedAt": "2026-09-09T16:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Get ready for the game with new football features in Search.",
+          "zh": "使用搜索中的新足球功能为比赛做好准备。"
+        },
+        {
+          "en": "Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season.",
+          "zh": "跟踪实时游戏动态，探索详细统计数据，并直接在本赛季的搜索中获取自定义幻想推荐。"
+        }
+      ]
+    },
+    {
+      "id": "82b8bf7db8ec7233",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Recreating a 70-year love story frame by frame",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+      "publishedAt": "2026-09-09T16:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Recreating a 70-year love story frame by frame.",
+          "zh": "逐帧重现70年的爱情故事。"
+        },
+        {
+          "en": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"",
+          "zh": "了解电影制作人和Google DeepMind如何在短片“Love, Rendered”中使用人工智能来重现一对夫妇未被记录的过去。"
+        }
+      ]
+    },
+    {
+      "id": "6e36e285835b0b35",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Google Accelerators have spent the last decade helping global startups succeed.",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/google-accelerators-10-years/",
+      "publishedAt": "2026-09-09T16:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Google Accelerators have spent the last decade helping global startups succeed.",
+          "zh": "谷歌加速器在过去十年中一直在帮助全球初创企业取得成功。"
+        },
+        {
+          "en": "Since 2016, we’ve supported 2,115 startups, developers, research organizations, and NGOs across 92 countries.",
+          "zh": "自2016年以来，我们为92个国家的2,115家初创公司、开发商、研究机构和非政府组织提供了支持。"
+        }
+      ]
+    }
+  ],
+  "failures": []
+}
