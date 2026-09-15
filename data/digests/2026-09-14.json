@@ -1,0 +1,659 @@
+{
+  "date": "2026-09-14",
+  "collectedAt": "2026-09-15T03:34:24.671Z",
+  "items": [
+    {
+      "id": "438b3b431878f625",
+      "sourceId": "aws-news",
+      "category": "ai",
+      "title": "AWS Weekly Roundup: OpenAI GPT-6 Astra on Amazon Bedrock, Amazon Quick desktop GA, Kiro for students, and more (September 14, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-openai-gpt-6-astra-on-amazon-bedrock-amazon-quick-desktop-ga-kiro-for-students-and-more-september-14-2026/",
+      "publishedAt": "2026-09-14T15:56:33.000Z",
+      "sentences": [
+        {
+          "en": "AWS Weekly Roundup: OpenAI GPT-6 Astra on Amazon Bedrock, Amazon Quick desktop GA, Kiro for students, and more (September 14, 2026).",
+          "zh": "AWS每周综述： Amazon Bedrock上的OpenAI GPT-6 Astra、Amazon Quick desktop GA、面向学生的Kiro等（ 2026年9月14日）。"
+        },
+        {
+          "en": "There’s a particular energy to mid-September in New York.",
+          "zh": "9月中旬在纽约有一个特别的能量。"
+        },
+        {
+          "en": "Pumpkin spice lattes are flowing, temperatures are dropping, and it’s nearly sweater weather.",
+          "zh": "南瓜香料拿铁正在流动，气温正在下降，几乎是毛衣般的天气。"
+        },
+        {
+          "en": "The city is back at full speed, and so is the AWS launch calendar.",
+          "zh": "这座城市正在全速回归， AWS发布日历也是如此。"
+        },
+        {
+          "en": "This week that energy showed up in a new frontier model on Amazon Bedrock, a desktop app for Amazon Quick, and a reminder that the developers seeing the biggest gains from AI agents aren’t just using better tools — they’re working differently.",
+          "zh": "本周，这种能量出现在Amazon Bedrock的新前沿模型中， Amazon Quick的桌面应用程序，并提醒人们，看到人工智能代理最大收益的开发人员不仅仅是在使用更好的工具，他们正在以不同的方式工作。"
+        },
+        {
+          "en": "Let’s dive in.",
+          "zh": "接下来进入正题。"
+        },
+        {
+          "en": "Headlines OpenAI GPT-6 Astra is now generally available on Amazon Bedrock – GPT-6 Astra is OpenAI’s latest and most capable model to date, and you can now run it on Amazon Bedrock.",
+          "zh": "标题OpenAI GPT-6 Astra现已在Amazon Bedrock上正式推出– GPT-6 Astra是OpenAI迄今为止最新、功能最强大的型号，您现在可以在Amazon Bedrock上运行它。"
+        },
+        {
+          "en": "It brings deeper reasoning and judgment, professional-quality writing and design, and advanced computer and browser use to demanding business workflows.",
+          "zh": "它为苛刻的业务工作流程带来了更深入的推理和判断、专业品质的写作和设计，以及先进的计算机和浏览器使用。"
+        },
+        {
+          "en": "The model supports a context window of up to 1 million input tokens, so you can send it large codebases, long contracts, or extensive document collections and ask it to reconcile competing inputs.",
+          "zh": "该模型支持多达100万个输入令牌的上下文窗口，因此您可以向其发送大型代码库、长合约或大量文档集合，并要求其协调竞争输入。"
+        },
+        {
+          "en": "You can call GPT-6 Astra through supported Amazon Bedrock APIs, or configure ChatGPT Work and Codex to use the model on Amazon Bedrock.",
+          "zh": "您可以通过支持的Amazon Bedrock API调用GPT-6 Astra ，或将ChatGPT Work和Codex配置为在Amazon Bedrock上使用该模型。"
+        },
+        {
+          "en": "Alongside the launch, OpenAI is introducing new enterprise plugins for ChatGPT Work that extend Astra’s browser-use capabilities across common business applications.",
+          "zh": "除此之外， OpenAI还为ChatGPT Work引入了新的企业插件，将Astra的浏览器使用功能扩展到常见的业务应用程序中。"
+        },
+        {
+          "en": "Established AWS controls help you secure workloads, govern access, and audit model invocation activity, and your inference data isn’t used for model training.",
+          "zh": "已建立的AWS控件可帮助您保护工作负载、管理访问和审计模型调用活动，并且您的推理数据不会用于模型培训。"
+        }
+      ]
+    },
+    {
+      "id": "056185506a00613e",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Trump says he will consider releasing more 9/11 records after families’ request",
+      "url": "https://www.theguardian.com/us-news/2026/sep/14/trump-911-saudi-arabia-records",
+      "publishedAt": "2026-09-14T15:45:18.000Z",
+      "sentences": [
+        {
+          "en": "Trump says he will consider releasing more 9/11 records after families’ request.",
+          "zh": "特朗普表示，在家人提出要求后，他将考虑发布更多9/11记录。"
+        },
+        {
+          "en": "Families have asked Trump to declassify records that could shed light on Saudi Arabia’s alleged role in the 2001 attacks Donald Trump said on Sunday that he will look into requests from families of 9/11 victims to release records that could shed light on Saudi Arabia’s alleged role in the attacks 25 years ago.",
+          "zh": "家属们要求特朗普解密可能揭示沙特阿拉伯在2001年袭击事件中所扮演角色的记录，唐纳德特朗普周日表示，他将调查9/11受害者家属的请求，以发布可能揭示沙特阿拉伯在25年前袭击事件中所扮演角色的记录。"
+        },
+        {
+          "en": "Several families have long alleged that a group of extremist religious leaders in Saudi Arabia gained influence in the kingdom’s government and aided the hijackers.",
+          "zh": "几个家庭长期以来一直声称，沙特阿拉伯的一群极端主义宗教领袖在王国政府中获得了影响力，并帮助了劫机者。"
+        },
+        {
+          "en": "Fifteen of the 19 hijackers were Saudis, but the Saudi government has long denied any involvement in the attacks.",
+          "zh": "19名劫机者中有15人是沙特人，但沙特政府长期以来一直否认参与袭击。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "89119778f2f0ed6a",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Gonorrhoea and syphilis rise by more than 50% in Australia with ‘concerning’ rise in cases in women",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/15/gonorrhoea-and-syphilis-rise-by-more-than-50-in-australia",
+      "publishedAt": "2026-09-14T15:00:12.000Z",
+      "sentences": [
+        {
+          "en": "Gonorrhoea and syphilis rise by more than 50% in Australia with ‘concerning’ rise in cases in women.",
+          "zh": "在澳大利亚，淋病和梅毒增加了50 ％以上，女性病例“令人担忧”。"
+        },
+        {
+          "en": "Newly collated data also shows Indigenous Australians experiencing disproportionally high rates of infection Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Rates of reported gonorrhoea and infectious syphilis have increased by more than 50% across Australia over the past decade, with experts warning of concerning rises among women.",
+          "zh": "新整理的数据还显示，澳大利亚土著居民的感染率不成比例地高。请关注我们的澳大利亚新闻直播博客，了解最新动态。获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客。在过去十年中，澳大利亚各地报告的淋病和传染性梅毒的发病率增加了50%以上，专家警告称，女性感染率上升令人担忧。"
+        },
+        {
+          "en": "Newly collated sexual health data from the University of New South Wales’ Kirby Institute shows 42,393 gonorrhoea notifications and 5,986 infectious syphilis notifications were recorded in 2025.",
+          "zh": "新南威尔士大学柯比研究所新整理的性健康数据显示， 2025年记录了42,393份淋病通知和5,986份传染性梅毒通知。"
+        },
+        {
+          "en": "The figures represent 10-year increases of 57% and 56%, respectively.",
+          "zh": "这些数字分别代表10年增长57%和56%。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "3d4c985275dfe442",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Cloudy with a chance of rainbow: iridescent clouds brighten the sky over parts of Victoria",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/15/iridescent-rainbow-clouds-phenomenon-seen-victoria-australia",
+      "publishedAt": "2026-09-14T15:00:12.000Z",
+      "sentences": [
+        {
+          "en": "Cloudy with a chance of rainbow: iridescent clouds brighten the sky over parts of Victoria.",
+          "zh": "多云，可能有彩虹：彩虹色的云彩照亮了维多利亚部分地区的天空。"
+        },
+        {
+          "en": "Rainbow clouds are not uncommon in Australia but rarely photographed, and experts say they get their colours when light is diffracted around ice crystals Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Rainbow clouds shone over parts of Victoria over the weekend, in an unusual visual phenomenon known as iridescent clouds.",
+          "zh": "彩虹云在澳大利亚并不罕见，但很少被拍摄，专家表示，当光线衍射到冰晶周围时，它们会变成颜色。请关注我们的澳大利亚新闻直播博客，了解最新动态。获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客。周末，彩虹云在维多利亚州的部分地区闪耀，这是一种不寻常的视觉现象，被称为彩虹云。"
+        },
+        {
+          "en": "Photographs of the spectacle were taken by onlookers in the Melbourne suburbs of Mount Waverley and Caroline Springs.",
+          "zh": "观众在墨尔本郊区的Mount Waverley和Caroline Springs拍摄了奇观的照片。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "b8d83c2a515b4d97",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Australia’s dependence on gas generation during evening energy peak falls by almost 70%",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/15/australias-dependence-on-gas-generation-during-evening-energy-peak-falls-by-almost-70",
+      "publishedAt": "2026-09-14T15:00:12.000Z",
+      "sentences": [
+        {
+          "en": "Australia’s dependence on gas generation during evening energy peak falls by almost 70%.",
+          "zh": "澳大利亚在傍晚能源高峰期对天然气发电的依赖下降了近70%。"
+        },
+        {
+          "en": "Batteries now meet almost half of the grid’s dispatchable power needs during hours of highest demand Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Australia’s dependence on gas for power during the evening, when the grid is under the most pressure, has fallen by almost nearly 70% over the past year as batteries surged in, replacing the fossil fuel .",
+          "zh": "在需求最高的时段，电池现在满足了电网近一半的可调度电力需求。关注我们的澳大利亚新闻直播博客，了解最新动态。获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客澳大利亚在晚上对天然气的依赖，当电网承受最大压力时，随着电池的涌入，电量在过去一年中下降了近70% ，取代了化石燃料。"
+        },
+        {
+          "en": "Gas generation during the busy early evening, between 5pm and 8pm, fell by 67% in the year to August, as large-scale batteries continued to come online and 500,000 home batteries were installed under the government’s subsidy program, analysis by consultancy EnergyEdge found.",
+          "zh": "咨询公司EnergyEdge的分析发现，在繁忙的傍晚5点至8点之间的天然气发电量在截至8月的一年中下降了67% ，因为大型电池继续上线，并且在政府的补贴计划下安装了50万个家庭电池。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "e5d491c30f4bf7dc",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Queensland homeless man shot with Taser after being given move-on order to make way for kite festival",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/15/queensland-homeless-man-shot-with-taser-after-being-given-move-on-order-to-make-way-for-kite-festival-ntwnfb",
+      "publishedAt": "2026-09-14T15:00:11.000Z",
+      "sentences": [
+        {
+          "en": "Queensland homeless man shot with Taser after being given move-on order to make way for kite festival.",
+          "zh": "昆士兰州无家可归的男子在被命令为风筝节让路后被泰瑟枪杀。"
+        },
+        {
+          "en": "Exclusive: Advocate says homeless clearances should be halted after man is hospitalised during confrontation in Brisbane park Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A homeless man was shot with a Taser by police after attempting to take his own life during a tent city clearance, sparking calls for mental health considerations when dealing with move-on orders amid Queensland’s homelessness crisis.",
+          "zh": "独家：倡导者表示，男子在布里斯班公园对抗期间住院后，应停止无家可归者的通行证。请关注我们的澳大利亚新闻直播博客，了解最新动态。获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客。一名无家可归的男子在帐篷城市通行证期间试图自杀，被警察用泰瑟枪击中，引发了在昆士兰州无家可归危机期间处理移动订单时考虑心理健康的呼声。"
+        },
+        {
+          "en": "On 1 September, Moreton Bay city council rangers gave six homeless residents 24 hours to leave Pelican Park north of Brisbane, where Martin* had been living in a camper trailer, to make way for a kite festival this weekend.",
+          "zh": "9月1日，摩顿湾市议会护林员给六名无家可归的居民24小时离开布里斯班北部的鹈鹕公园，马丁*一直住在露营车拖车里，为本周末的风筝节让路。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "da52fd3111490ea8",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Body of missing runner found in South Africa",
+      "url": "https://www.bbc.co.uk/news/articles/cxyvzggzd5jgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-14T14:58:48.000Z",
+      "sentences": [
+        {
+          "en": "Body of missing runner found in South Africa.",
+          "zh": "在南非发现失踪跑步者的尸体。"
+        },
+        {
+          "en": "A nationwide appeal was launched after Elizabeth Moselakgomo went missing last week.",
+          "zh": "Elizabeth Moselakgomo上周失踪后，在全国范围内发起了呼吁。"
+        },
+        {
+          "en": "Four other women's bodies have been found nearby.",
+          "zh": "附近还发现了其他四具女性尸体。"
+        }
+      ]
+    },
+    {
+      "id": "58fbd384e0294ab0",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Wild dogs record 2,500-mile trek across Zambia in search of a mate",
+      "url": "https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-14T14:08:12.000Z",
+      "sentences": [
+        {
+          "en": "Wild dogs record 2,500-mile trek across Zambia in search of a mate.",
+          "zh": "野狗在赞比亚长途跋涉2500英里寻找伴侣。"
+        },
+        {
+          "en": "Scientists say the record-breaking journey by three brothers offers hope wildlife can survive growing pressures.",
+          "zh": "科学家说，三兄弟破纪录的旅程给野生动物带来了希望，可以承受日益增长的压力。"
+        }
+      ]
+    },
+    {
+      "id": "dd6c46143b127bac",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "The producer of Fleabag and Baby Reindeer's tip for finding a hit? Don't look for one",
+      "url": "https://www.npr.org/2026/09/14/nx-s1-5968566/francesca-moody-fleabag-producer-hits-edinburgh",
+      "publishedAt": "2026-09-14T14:03:14.000Z",
+      "sentences": [
+        {
+          "en": "The producer of Fleabag and Baby Reindeer's tip for finding a hit?",
+          "zh": "《Fleabag and Baby Reindeer's tip for find a hit》的制作人？"
+        },
+        {
+          "en": "Don't look for one.",
+          "zh": "不要寻找一个。"
+        },
+        {
+          "en": "Theatre producer Francesca Moody has a remarkable record of spotting shows that go on to have wide success.",
+          "zh": "剧院制片人弗朗西斯卡·穆迪（ Francesca Moody ）在现场表演方面有着非凡的记录，并取得了广泛的成功。"
+        },
+        {
+          "en": "At the Edinburgh Fringe festival, she told NPR about what she looks for in a performance.",
+          "zh": "在爱丁堡艺穗节（ Edinburgh Fringe festival ）上，她向美国国家公共广播电台（ NPR ）介绍了自己在表演"
+        },
+        {
+          "en": "(Image credit: Jeff J Mitchell)",
+          "zh": "（图片来源： Jeff J Mitchell ）"
+        }
+      ]
+    },
+    {
+      "id": "5945dbc4b87ef774",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "We’re exploring a potential data center in Lea County, New Mexico.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/lea-county-new-mexico/",
+      "publishedAt": "2026-09-14T14:00:00.000Z",
+      "sentences": [
+        {
+          "en": "We’re exploring a potential data center in Lea County, New Mexico.",
+          "zh": "我们正在探索新墨西哥州Lea县的潜在数据中心。"
+        },
+        {
+          "en": "Google is exploring a new data center project in Lea County, New Mexico.",
+          "zh": "谷歌正在新墨西哥州Lea县探索一个新的数据中心项目。"
+        },
+        {
+          "en": "While discussions are ongoing, we recognize residents are asking questions about data center dev…",
+          "zh": "虽然讨论仍在进行中，但我们认识到居民正在询问有关数据中心开发的问题……"
+        }
+      ]
+    },
+    {
+      "id": "e23cc8caa2ff7077",
+      "sourceId": "guardian-world",
+      "category": "business",
+      "title": "The London hospital funded by donors who invested in the slave trade",
+      "url": "https://www.theguardian.com/uk-news/ng-interactive/2026/sep/14/london-hospital-st-barts-funded-donors-invested-slave-trade",
+      "publishedAt": "2026-09-14T13:00:58.000Z",
+      "sentences": [
+        {
+          "en": "The London hospital funded by donors who invested in the slave trade.",
+          "zh": "伦敦医院由投资贩卖奴隶的捐赠者资助。"
+        },
+        {
+          "en": "St Barts is one of many UK institutions whose benefactors were involved in the trafficking of enslaved Africans Inside the Great Hall of St Bartholomew’s North Wing, alongside stately portraits of the apostle from whom London’s oldest hospital takes its name and King Henry VIII, extravagant commemorative boards adorn the walls.",
+          "zh": "圣巴茨是英国众多机构之一，其捐助者参与了圣巴塞洛缪北翼大厅内贩卖非洲奴隶的活动，还有伦敦最古老的医院以其名字命名的使徒和亨利八世国王的庄严肖像，墙上装饰着奢华的纪念板。"
+        },
+        {
+          "en": "The Great Hall was a grand, formal space where governors weighed their philanthropic donations and drafted their wills, many while investing in the stock of companies built on the trafficking of enslaved Africans.",
+          "zh": "人民大会堂是一个宏伟而正式的空间，州长们在那里权衡他们的慈善捐款并起草他们的遗嘱，同时投资于以贩卖非洲奴隶为基础的公司的股票。"
+        },
+        {
+          "en": "Today, many of those donors are commemorated in acrylic gold paint on the boards.",
+          "zh": "如今，许多捐赠者在板上用亚克力金漆来纪念。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "9379438944ff81f5",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Africa’s richest man aiming to make $23bn from continent’s biggest-ever IPO",
+      "url": "https://www.theguardian.com/world/2026/sep/14/aliko-dangote-nigeria-africa-richest-man-ipo",
+      "publishedAt": "2026-09-14T12:38:51.000Z",
+      "sentences": [
+        {
+          "en": "Africa’s richest man aiming to make $23bn from continent’s biggest-ever IPO.",
+          "zh": "这位非洲首富的目标是从非洲大陆有史以来规模最大的IPO中赚取230亿美元$。"
+        },
+        {
+          "en": "Public offering of Aliko Dangote’s Nigerian oil refinery business could swell his net wealth by two-thirds The fortune of Africa’s richest person could swell by two thirds to nearly $60bn (£44bn) after his refinery in Nigeria listed publicly in the continent’s biggest-ever initial public offering.",
+          "zh": "阿里科·丹格特（ Aliko Dangote ）的尼日利亚炼油厂业务的公开发行可能会使他的净财富增加三分之二。在他的尼日利亚炼油厂公开上市后，非洲最富有的人的财富可能会增加三分之二，达到近600亿美元（ 440亿英镑）。这是非洲大陆有史以来最大的首次公开募股。"
+        },
+        {
+          "en": "If Monday’s flotation of Dangote Petroleum Refinery and Petrochemicals on the Nigerian exchange goes to plan, then Aliko Dangote will add a further $23bn (£17bn) to his $35bn net worth.",
+          "zh": "如果周一Dangote炼油厂和石化产品在尼日利亚交易所的上市按计划进行，那么Aliko Dangote的净资产将再增加230亿美元（ 170亿英镑）。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "946bd08bbb4ced5c",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "South Sudan: UNICEF reaches communities cut off by conflict in Jonglei state",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168324",
+      "publishedAt": "2026-09-14T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "South Sudan: UNICEF reaches communities cut off by conflict in Jonglei state.",
+          "zh": "南苏丹：联合国儿童基金会帮助琼格莱州因冲突而与世隔绝的社区。"
+        },
+        {
+          "en": "The UN Children’s Fund (UNICEF) and partners have delivered lifesaving assistance to families in conflict-affected communities in South Sudan’s Jonglei state, many of whom had gone months without humanitarian support.",
+          "zh": "联合国儿童基金会（ UNICEF ）及其合作伙伴为南苏丹琼莱州受冲突影响社区的家庭提供了救生援助，其中许多家庭在没有人道主义援助的情况下度过了数月。"
+        }
+      ]
+    },
+    {
+      "id": "8551343435d690ee",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "IAEA chief underscores commitment to nuclear safety and verification",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168325",
+      "publishedAt": "2026-09-14T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "IAEA chief underscores commitment to nuclear safety and verification.",
+          "zh": "原子能机构负责人强调对核安全与核查的承诺。"
+        },
+        {
+          "en": "The Director General of the UN nuclear watchdog, IAEA, opened its 70th General Conference on Monday in Vienna with a message full of optimism, stressing that despite the many difficulties and tensions the world is witnessing a “common spirit of dedication” which still guides their work.",
+          "zh": "联合国核监督机构总干事国际原子能机构周一在维也纳宣布第70届大会开幕，发出了充满乐观的信息，强调尽管存在许多困难和紧张局势，世界仍在见证指导其工作的“共同奉献精神”。"
+        }
+      ]
+    },
+    {
+      "id": "1be97fe29b0cf3a2",
+      "sourceId": "un-news",
+      "category": "ai",
+      "title": "Countries must increase AI regulation to avoid ‘existential risks’: Türk",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168326",
+      "publishedAt": "2026-09-14T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Countries must increase AI regulation to avoid ‘existential risks’: Türk.",
+          "zh": "各国必须加强人工智能监管，以避免“生存风险” ： Türk。"
+        },
+        {
+          "en": "Voluntary self-regulation by companies developing frontier artificial intelligence (AI) is “nowhere near sufficient” to address existing harms and prevent advanced autonomous AI models from circumventing human safeguards, UN human rights chief Volker Türk wrote on Monday.",
+          "zh": "联合国人权事务主管沃尔克·图尔克（ Volker Türk ）周一写道，开发前沿人工智能（ AI ）的公司的自愿自我监管“远远不足以”解决现有危害并防止先进的自主AI模型绕过人类保障措施。"
+        }
+      ]
+    },
+    {
+      "id": "d9b0dce103f6167e",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Civilians bear the brunt, with deadly US strikes in Iran and thousands displaced in Yemen",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168328",
+      "publishedAt": "2026-09-14T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Civilians bear the brunt, with deadly US strikes in Iran and thousands displaced in Yemen.",
+          "zh": "平民首当其冲，美国在伊朗发动致命袭击，数千人在也门流离失所。"
+        },
+        {
+          "en": "Independent UN human rights investigators called for an immediate cessation of hostilities on Monday following a series of United States airstrikes on Iran in recent weeks that have killed civilians as tensions ripple through the region.",
+          "zh": "联合国独立人权调查员周一呼吁立即停止敌对行动，此前美国最近几周对伊朗发动了一系列空袭，随着该地区的紧张局势蔓延，造成平民死亡。"
+        }
+      ]
+    },
+    {
+      "id": "64a8f43a86f2cbe0",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Highly persistent toxic waste threatens ‘many, if not all, human rights’",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168329",
+      "publishedAt": "2026-09-14T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Highly persistent toxic waste threatens ‘many, if not all, human rights’.",
+          "zh": "高持久性有毒废物威胁到“许多，如果不是全部，人权”。"
+        },
+        {
+          "en": "Poor management of toxic chemicals and hazardous waste threatens “many, if not all, human rights,” the newly appointed independent human rights independent expert on the rising threat told the Human Rights Council on Monday.",
+          "zh": "新任命的日益严重的威胁问题独立人权专家周一向人权理事会表示，对有毒化学品和危险废物的管理不善威胁着“许多（如果不是全部）人权”。"
+        }
+      ]
+    },
+    {
+      "id": "95fd52c98eb78b7c",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Money sent home by migrants nearly doubles in a decade",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168330",
+      "publishedAt": "2026-09-14T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Money sent home by migrants nearly doubles in a decade.",
+          "zh": "移民寄回家的钱在十年内几乎翻了一番。"
+        },
+        {
+          "en": "Migrants sent $728.6 billion home to families in low and middle-income countries in 2025, nearly double the amount recorded a decade earlier, according to a new report from the UN’s International Fund for Agricultural Development (IFAD).",
+          "zh": "根据联合国国际农业发展基金（ IFAD ）的一份新报告，移民在2025年向低收入和中等收入国家的家庭汇款7,286 $ ，几乎是十年前的两倍。"
+        }
+      ]
+    },
+    {
+      "id": "bb262cb4f933ae76",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "UN agencies warn humanitarian system in Sudan ‘could collapse’",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168331",
+      "publishedAt": "2026-09-14T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "UN agencies warn humanitarian system in Sudan ‘could collapse’.",
+          "zh": "联合国机构警告苏丹人道主义系统“可能崩溃”。"
+        },
+        {
+          "en": "UN aid agencies on Monday said they may be forced to scale back humanitarian aid in Sudan – home of the world’s worst hunger and displacement crisis – due to funding shortfalls.",
+          "zh": "联合国援助机构周一表示，由于资金短缺，他们可能被迫缩减对苏丹的人道主义援助。苏丹是世界上最严重的饥饿和流离失所危机的所在地。"
+        }
+      ]
+    },
+    {
+      "id": "e053f598eba74a29",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Six UN staff killed in Gaza school strike; Lebanon violations mount",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168333",
+      "publishedAt": "2026-09-14T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Six UN staff killed in Gaza school strike; Lebanon violations mount.",
+          "zh": "六名联合国工作人员在加沙学校罢工中丧生；黎巴嫩的违规行为不断"
+        },
+        {
+          "en": "Israeli strikes killed six UN workers and civilians at a school sheltering displaced families in Gaza as needs grow, according to the UN agency for Palestine refugees, UNRWA.",
+          "zh": "根据联合国近东巴勒斯坦难民救济和工程处（ UNRWA ）的数据，随着需求的增长，以色列的罢工在加沙一所收容流离失所家庭的学校造成6名联合国工作人员和平民死亡。"
+        }
+      ]
+    },
+    {
+      "id": "6f307317b3f25ed2",
+      "sourceId": "npr-news",
+      "category": "ai",
+      "title": "Key leaders sound the alarm on AI. And, Iran-Gulf diplomacy hits a setback",
+      "url": "https://www.npr.org/2026/09/14/g-s1-143148/up-first-newsletter-ai-anthropic-openai-midterms-trump-oman-iran-talks",
+      "publishedAt": "2026-09-14T11:39:06.000Z",
+      "sentences": [
+        {
+          "en": "Key leaders sound the alarm on AI.",
+          "zh": "关键领导者对人工智能敲响警钟。"
+        },
+        {
+          "en": "And, Iran-Gulf diplomacy hits a setback.",
+          "zh": "而且，伊朗-海湾外交遇到了挫折。"
+        },
+        {
+          "en": "Some key leaders at artificial intelligence companies call for a slowdown in AI development.",
+          "zh": "人工智能公司的一些关键领导人呼吁放缓人工智能的发展。"
+        },
+        {
+          "en": "And, Iran-Gulf diplomacy hits a setback as talks in Oman are delayed.",
+          "zh": "而且，随着阿曼会谈的推迟，伊朗-海湾外交遇到了挫折。"
+        },
+        {
+          "en": "(Image credit: Karl Mondon)",
+          "zh": "（图片来源： Karl Mondon ）"
+        }
+      ]
+    },
+    {
+      "id": "4286b8e0fcfd0642",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Zambians warned not to eat dead wildlife after anthrax kills dozens of animals",
+      "url": "https://www.bbc.co.uk/news/articles/ce8en6v3601o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-14T11:35:08.000Z",
+      "sentences": [
+        {
+          "en": "Zambians warned not to eat dead wildlife after anthrax kills dozens of animals.",
+          "zh": "在炭疽杀死数十只动物后，赞比亚人警告不要吃死去的野生动物。"
+        },
+        {
+          "en": "At least 12 people are being treated for anthrax after eating infected meat from wildlife carcasses.",
+          "zh": "至少有12人在食用野生动物尸体上受感染的肉类后正在接受炭疽治疗。"
+        }
+      ]
+    },
+    {
+      "id": "49139d83bc01d4e6",
+      "sourceId": "bbc-world",
+      "category": "ai",
+      "title": "China criticises idea it is in 'malicious competition' over AI",
+      "url": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-14T11:31:39.000Z",
+      "sentences": [
+        {
+          "en": "China criticises idea it is in 'malicious competition' over AI.",
+          "zh": "中国批评人们认为它在人工智能方面存在“恶意竞争”。"
+        },
+        {
+          "en": "It follows the Anthropic CEO's calls for a slowdown in AI development - but in a way that prevents China from pulling ahead in the race.",
+          "zh": "此前， Anthropic首席执行官呼吁放缓人工智能的发展，但这种方式阻止了中国在竞赛中领先。"
+        }
+      ]
+    },
+    {
+      "id": "142ace4865ee7ff0",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Hyrox apologises for allowing race to continue after athlete soils herself",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z5y37p90o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-14T11:20:07.000Z",
+      "sentences": [
+        {
+          "en": "Hyrox apologises for allowing race to continue after athlete soils herself.",
+          "zh": "Hyrox为允许运动员自己弄脏后继续比赛而道歉。"
+        },
+        {
+          "en": "Some raised concerns around hygiene while others praised the competitor's resolve to finish the race and push through adversity.",
+          "zh": "一些人对卫生问题表示担忧，而另一些人则称赞竞争对手决心完成比赛并克服逆境。"
+        }
+      ]
+    },
+    {
+      "id": "e10575838cb295e1",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Malaysian boy acquitted for murder of schoolgirl on grounds of insanity",
+      "url": "https://www.bbc.co.uk/news/articles/ce87qzrz7p8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-14T08:58:27.000Z",
+      "sentences": [
+        {
+          "en": "Malaysian boy acquitted for murder of schoolgirl on grounds of insanity.",
+          "zh": "马来西亚男孩因精神错乱谋杀女学生而被无罪释放。"
+        },
+        {
+          "en": "The killing of the 16-year-old nearly a year ago had shocked Malaysia and sparked debate about social media.",
+          "zh": "近一年前，这名16岁的男子被杀害，令马来西亚感到震惊，并引发了关于社交媒体的辩论。"
+        }
+      ]
+    },
+    {
+      "id": "a11ce0f8a3afcff6",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Indonesian police investigate deaths of Australian man and two children in Bali as suspected murder-suicide",
+      "url": "https://www.theguardian.com/world/2026/sep/14/indonesian-police-deaths-of-australian-man-and-two-children-ntwnfb",
+      "publishedAt": "2026-09-14T08:44:44.000Z",
+      "sentences": [
+        {
+          "en": "Indonesian police investigate deaths of Australian man and two children in Bali as suspected murder-suicide.",
+          "zh": "印度尼西亚警方调查了澳大利亚男子和两名儿童在巴厘岛因涉嫌谋杀自杀而死亡的事件。"
+        },
+        {
+          "en": "Police in Bali believe the two young children died as a result of violence, while a 57-year-old man is believed to have taken his own life Indonesian police are investigating the deaths of three Australians who died in Bali over the weekend, with initial reports suggesting a father killed his two young children before taking his own life.",
+          "zh": "巴厘岛警方认为，两名年幼的孩子死于暴力，而据信一名57岁的男子自杀身亡。印度尼西亚警方正在调查周末在巴厘岛死亡的三名澳大利亚人的死亡事件，初步报告显示，一名父亲在自杀前杀死了他的两个年幼的孩子。"
+        },
+        {
+          "en": "The man, 57, and his two children, seven and four, who are also Indonesian citizens, were discovered deceased in a bungalow in Kuta on Sunday morning.",
+          "zh": "这名57岁的男子和他的两个孩子，七岁和四岁，也是印度尼西亚公民，周日早上在库塔的一间平房里被发现死亡。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "8ce20e10c73a229b",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Bali police investigate after Australian man and children found dead in home",
+      "url": "https://www.bbc.co.uk/news/articles/ckgwzlwglldo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-14T07:15:35.000Z",
+      "sentences": [
+        {
+          "en": "Bali police investigate after Australian man and children found dead in home.",
+          "zh": "澳大利亚男子和儿童在家中被发现死亡后，巴厘岛警方进行了调查。"
+        },
+        {
+          "en": "Police were called after the man's wife became concerned and asked neighbours to check on her family.",
+          "zh": "在该男子的妻子开始担心并要求邻居检查她的家人后，警方报警。"
+        }
+      ]
+    },
+    {
+      "id": "49eac2969b438776",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-13T19:34:36.000Z",
+      "sentences": [
+        {
+          "en": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit.",
+          "zh": "特朗普表示，在结束为期两天的访问后，他将取消所有爱尔兰威士忌关税。"
+        },
+        {
+          "en": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
+          "zh": "在爱尔兰共和国蒸馏的威士忌将面临15%的标准关税，该关税适用于进入美国的欧盟商品。"
+        }
+      ]
+    }
+  ],
+  "failures": []
+}
