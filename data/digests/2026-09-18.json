@@ -1,0 +1,915 @@
+{
+  "date": "2026-09-18",
+  "collectedAt": "2026-09-19T03:18:02.884Z",
+  "items": [
+    {
+      "id": "f3e5088aaa5e94e7",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Dozens of suspected illegal miners die in Nigerian custody",
+      "url": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T15:47:28.000Z",
+      "sentences": [
+        {
+          "en": "Dozens of suspected illegal miners die in Nigerian custody.",
+          "zh": "数十名涉嫌非法采矿者在尼日利亚被拘留期间死亡。"
+        },
+        {
+          "en": "Authorities linked the deaths to disease, but this has been disputed by intelligence reports and relatives of the accused.",
+          "zh": "当局将死亡与疾病联系起来，但情报报告和被告的亲属对此提出异议。"
+        }
+      ]
+    },
+    {
+      "id": "18bdedfb0c5ed6fd",
+      "sourceId": "github-blog",
+      "category": "open-source",
+      "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
+      "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/",
+      "publishedAt": "2026-09-18T15:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Should you read the code, is RAG dead, and did Skills kill MCP?.",
+          "zh": "您是否应该阅读代码，抹布是否已死， Skills是否杀死了MCP ？。"
+        },
+        {
+          "en": "Hot takes turn complicated topics into one confident sentence.",
+          "zh": "HOT把复杂的话题变成一个自信的句子。"
+        },
+        {
+          "en": "That makes them great for engagement, but not necessarily for understanding.",
+          "zh": "这使他们非常适合参与，但不一定适合理解。"
+        },
+        {
+          "en": "At the surface level, they do not matter much.",
+          "zh": "从表面上看，它们并不重要。"
+        },
+        {
+          "en": "You agree, disagree, repost, argue for a few minutes, and move on.",
+          "zh": "您同意、不同意、重新发布、争论几分钟，然后继续前进。"
+        },
+        {
+          "en": "Sometimes the take is directionally right.",
+          "zh": "有时采取的方向是正确的。"
+        },
+        {
+          "en": "Sometimes it is complete nonsense.",
+          "zh": "有时这完全是胡说八道。"
+        },
+        {
+          "en": "The value of hot takes is in what happens when you stop reacting and start pulling them apart.",
+          "zh": "热拍的价值在于当你停止反应并开始将它们分开时会发生什么。"
+        },
+        {
+          "en": "Under what conditions is this true?",
+          "zh": "这在什么情况下是真的？"
+        },
+        {
+          "en": "What context is missing?",
+          "zh": "缺少什么背景？"
+        },
+        {
+          "en": "What assumptions does it make?",
+          "zh": "它做出了什么假设？"
+        },
+        {
+          "en": "What changes when you apply it to real work?",
+          "zh": "当您将其应用于实际工作时，会发生什么变化？"
+        }
+      ]
+    },
+    {
+      "id": "d92122e53ec9d4f7",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "New experts join Google’s AI & Economy team",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+      "publishedAt": "2026-09-18T14:00:00.000Z",
+      "sentences": [
+        {
+          "en": "New experts join Google’s AI & Economy team.",
+          "zh": null
+        },
+        {
+          "en": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "44ec3a3d6fdc7de7",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Co-creating the future of fashion with Google",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+      "publishedAt": "2026-09-18T13:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Co-creating the future of fashion with Google.",
+          "zh": null
+        },
+        {
+          "en": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "8cacc6627e99601e",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Ronaldo named in first Portugal squad since World Cup - at age of 41",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T12:45:25.000Z",
+      "sentences": [
+        {
+          "en": "Ronaldo named in first Portugal squad since World Cup - at age of 41.",
+          "zh": "罗纳尔多在41岁时入选世界杯以来的第一支葡萄牙队。"
+        },
+        {
+          "en": "Cristiano Ronaldo is named in the first squad selected by new Portugal coach Jorge Jesus for their upcoming Nations League games.",
+          "zh": "克里斯蒂亚诺·罗纳尔多（ Cristiano Ronaldo ）是葡萄牙新教练豪尔赫·热苏斯（ Jorge Jesus ）为即将到来的国家联赛（ Nations League ）"
+        }
+      ]
+    },
+    {
+      "id": "672bbab5cf75f1a1",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Build campaigns that drive high-converting, sales-ready leads.",
+      "url": "https://blog.google/products/ads-commerce/ads-decoded-podcast-data-strength/",
+      "publishedAt": "2026-09-18T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Build campaigns that drive high-converting, sales-ready leads.",
+          "zh": null
+        },
+        {
+          "en": "In this Ads Decoded episode, we break down data strength: What is it?",
+          "zh": null
+        },
+        {
+          "en": "How can you build it?",
+          "zh": null
+        },
+        {
+          "en": "And why do lead gen campaigns need it?",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "1a652891961de3fd",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Yemen’s humanitarian crisis growing by the hour amid spike in displacement",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168364",
+      "publishedAt": "2026-09-18T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Yemen’s humanitarian crisis growing by the hour amid spike in displacement.",
+          "zh": "在流离失所人数激增的情况下，也门的人道主义危机每小时都在加剧。"
+        },
+        {
+          "en": "People displaced by the renewed fighting in Yemen have described fleeing for their lives amid shelling and gunfire, aid agencies reported on Friday, while highlighting the dramatic increase in humanitarian needs in the country and in Djibouti, where thousands have sought shelter.",
+          "zh": "援助机构周五报告称，也门重新爆发的战斗导致流离失所者在炮击和枪击中逃离家园，同时强调该国和吉布提的人道主义需求急剧增加，成千上万的人在那里寻求庇护。"
+        }
+      ]
+    },
+    {
+      "id": "891250133d19a75c",
+      "sourceId": "un-news",
+      "category": "science",
+      "title": "Nepal floods: ‘Apocalyptic’ destruction signals wider climate threat across Himalayas",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168365",
+      "publishedAt": "2026-09-18T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Nepal floods: ‘Apocalyptic’ destruction signals wider climate threat across Himalayas.",
+          "zh": "尼泊尔洪水： “世界末日”的破坏标志着喜马拉雅山脉更广泛的气候威胁。"
+        },
+        {
+          "en": "The catastrophic flooding that swept away entire villages in northern Nepal could occur again in the country or elsewhere in the Himalayas due to climate change.",
+          "zh": "由于气候变化，席卷尼泊尔北部整个村庄的灾难性洪水可能会再次发生在该国或喜马拉雅山脉的其他地方。"
+        }
+      ]
+    },
+    {
+      "id": "5fe9ed85db3b4c43",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Haiti: Child malnutrition crisis worsens amid escalating violence",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168366",
+      "publishedAt": "2026-09-18T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Haiti: Child malnutrition crisis worsens amid escalating violence.",
+          "zh": "海地：暴力升级导致儿童营养不良危机恶化。"
+        },
+        {
+          "en": "Haiti is facing a worsening child malnutrition crisis, with an estimated 253,725 children aged 6 to 59 months projected to suffer from acute malnutrition between June 2026 and May 2027, new UN-backed analysis has revealed.",
+          "zh": "新的联合国支持的分析显示，海地正面临着日益恶化的儿童营养不良危机，预计在2026年6月至2027年5月期间，将有253,725名6至59个月的儿童患上急性营养不良。"
+        }
+      ]
+    },
+    {
+      "id": "3a05dbbbcbe4f6b9",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Women and girls pay high price in DR Congo Ebola outbreak",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168368",
+      "publishedAt": "2026-09-18T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Women and girls pay high price in DR Congo Ebola outbreak.",
+          "zh": "在刚果民主共和国埃博拉疫情中，妇女和女童付出了高昂的代价。"
+        },
+        {
+          "en": "The deadly Ebola outbreak in the Democratic Republic of the Congo (DRC) has taken a disproportionate toll on women and girls, many of whom are on the frontlines caring for patients as well as their own families despite the high risk of infection.",
+          "zh": "刚果民主共和国（ DRC ）致命的埃博拉疫情对妇女和女孩造成了不成比例的损失，尽管感染风险很高，但她们中的许多人仍在前线照顾患者以及自己的家人。"
+        }
+      ]
+    },
+    {
+      "id": "c178690dcd347104",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Less than 4 years from development goals deadline, progress shows what’s possible",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168371",
+      "publishedAt": "2026-09-18T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Less than 4 years from development goals deadline, progress shows what’s possible.",
+          "zh": "距离发展目标截止日期不到4年，进展表明了什么是可能的。"
+        },
+        {
+          "en": "For Benin, making progress on the UN’s Sustainable Development Goals (SDGs) has meant finding new ways to finance development.",
+          "zh": "对贝宁来说，在联合国可持续发展目标（ SDG ）方面取得进展意味着寻找新的发展筹资方式。"
+        }
+      ]
+    },
+    {
+      "id": "06d4773e1d2a3755",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Sexual violence against civilians and POW’s in Ukraine widespread and ‘abhorrent’",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168374",
+      "publishedAt": "2026-09-18T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Sexual violence against civilians and POW’s in Ukraine widespread and ‘abhorrent’.",
+          "zh": "在乌克兰，针对平民和战俘的性暴力普遍存在且“令人憎恶”。"
+        },
+        {
+          "en": "Over 1,000 cases of sexual violence against civilians and prisoners of war (POWs) in Ukraine have been documented from the start of Russia’s invasion to the end of July this year.",
+          "zh": "从俄罗斯入侵开始到今年7月底，乌克兰记录了1000多起针对平民和战俘的性暴力案件。"
+        }
+      ]
+    },
+    {
+      "id": "945ef25a8741b08d",
+      "sourceId": "un-news",
+      "category": "security",
+      "title": "Security Council LIVE: UN peacekeeping under pressure",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168376",
+      "publishedAt": "2026-09-18T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Security Council LIVE: UN peacekeeping under pressure.",
+          "zh": "安理会现场直播：联合国维和行动面临压力。"
+        },
+        {
+          "en": "UN peacekeepers have increasingly been sent into places where there is no peace to keep – under resourced, outgunned and exposed to violence they are not equipped to counter.",
+          "zh": "联合国维和人员越来越多地被派往没有和平可维持的地方--资源不足，枪支不足，面临暴力，他们没有能力应对。"
+        },
+        {
+          "en": "The Security Council meets this afternoon in New York to confront that problem, with Secretary-General António Guterres briefing ambassadors on how to close the gap.",
+          "zh": "安全理事会今天下午在纽约举行会议，以应对这一问题，秘书长安东尼奥·古特雷斯向各位大使简要介绍了如何缩小差距。"
+        }
+      ]
+    },
+    {
+      "id": "df8e7e8f6368b943",
+      "sourceId": "un-news",
+      "category": "ai",
+      "title": "‘Violence will only defer a problem’: UN Assembly President on trust, AI and lessons from the Rohingya crisis",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168375",
+      "publishedAt": "2026-09-18T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "‘Violence will only defer a problem’: UN Assembly President on trust, AI and lessons from the Rohingya crisis.",
+          "zh": "“暴力只会推迟问题” ：联合国大会主席谈到信任、人工智能和罗兴亚危机的教训。"
+        },
+        {
+          "en": "Khalilur Rahman took the gavel as President of the UN General Assembly's 81st session amid what he calls a crisis of confidence in the organization he has served – in one capacity or another – for 35 years.",
+          "zh": "哈利卢尔·拉赫曼（ Khalilur Rahman ）担任联合国大会第81届会议主席，他称之为对他以某种身份服务了35年的组织的信任危机。"
+        }
+      ]
+    },
+    {
+      "id": "60852a32054a5131",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Shots heard as police start moving migrants from Ceuta beaches",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T11:59:42.000Z",
+      "sentences": [
+        {
+          "en": "Shots heard as police start moving migrants from Ceuta beaches.",
+          "zh": "警方开始从休达海滩运送移民时听到枪声。"
+        },
+        {
+          "en": "Police reportedly fired into the air on Friday morning as they struggled to contain crowds jostling to secure a place at the tented site.",
+          "zh": "据报道，警方周五早上向空中开枪，当时他们正在努力控制挤在帐篷现场的人群。"
+        }
+      ]
+    },
+    {
+      "id": "95a2b79c5ab320e7",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Lindsay Clancy holdout juror says he had no doubt she deliberately killed her children",
+      "url": "https://www.bbc.co.uk/news/articles/c54g7jdmw032o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T11:49:46.000Z",
+      "sentences": [
+        {
+          "en": "Lindsay Clancy holdout juror says he had no doubt she deliberately killed her children.",
+          "zh": "Lindsay Clancy坚持陪审员说，他毫不怀疑她是故意杀害她的孩子的。"
+        },
+        {
+          "en": "It is the first time the juror, who refused to side with the others and acquit Clancy, has spoken publicly about his decision.",
+          "zh": "这是陪审员第一次公开谈论他的决定，他拒绝与其他人站在一起并宣告克兰西无罪。"
+        }
+      ]
+    },
+    {
+      "id": "3ebebb24e161e78e",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "British woman who was kidnapped in Malawi rescued by police after shootout",
+      "url": "https://www.theguardian.com/world/2026/sep/18/british-woman-kidnapped-malawi-police-shootout",
+      "publishedAt": "2026-09-18T11:21:36.000Z",
+      "sentences": [
+        {
+          "en": "British woman who was kidnapped in Malawi rescued by police after shootout.",
+          "zh": "在马拉维被绑架的英国妇女在枪战后被警方救出。"
+        },
+        {
+          "en": "Four of Nurat Osman’s alleged abductors were killed during rescue after she was taken from outside her home last week A British woman kidnapped in Malawi last week has been rescued by police after a shootout in which four of her alleged abductors were killed.",
+          "zh": "上周，努拉特·奥斯曼（ Nurat Osman ）被指控的绑架者中有四人在被从家外带走后在救援中丧生。上周在马拉维被绑架的一名英国妇女在枪战中被警察救出，其中四名被指控的绑架者被杀。"
+        },
+        {
+          "en": "Nusrat Osman was abducted outside her home in the southern city of Blantyre on 11 September at about 12.30pm.",
+          "zh": "9月11日下午12点30分左右，努斯拉特·奥斯曼在她位于南部城市布兰太尔的家外被绑架。"
+        },
+        {
+          "en": "Police had offered a reward of 30m Malawi kwacha (£12,950) for information leading to her rescue and the arrest of the perpetrators.",
+          "zh": "警方悬赏3000万马拉维克瓦查（ £ 12,950 ） ，以获取帮助她获救和逮捕肇事者的信息。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "a0e9be02e38f2f3a",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Judge says Trump can't demolish Kennedy Center. And, lawsuits target voter intimidation",
+      "url": "https://www.npr.org/2026/09/18/g-s1-143913/up-first-newsletter-kennedy-center-trump-voter-intimidation-lawsuit-poland-russia-ukraine",
+      "publishedAt": "2026-09-18T11:09:24.000Z",
+      "sentences": [
+        {
+          "en": "Judge says Trump can't demolish Kennedy Center.",
+          "zh": "法官说，特朗普不能拆除肯尼迪中心。"
+        },
+        {
+          "en": "And, lawsuits target voter intimidation.",
+          "zh": "而且，诉讼针对的是选民恐吓。"
+        },
+        {
+          "en": "A federal judge ruled yesterday that President Trump cannot tear down the Kennedy Center without a 30-day notice.",
+          "zh": "一名联邦法官昨天裁定，特朗普总统不能在没有提前30天通知的情况下拆除肯尼迪中心。"
+        },
+        {
+          "en": "And, recent lawsuits seek to keep armed federal officers away from polling sites.",
+          "zh": "而且，最近的诉讼试图让武装的联邦官员远离投票站。"
+        },
+        {
+          "en": "(Image credit: Kent Nishimura)",
+          "zh": "（图片来源： Kent Nishimura ）"
+        }
+      ]
+    },
+    {
+      "id": "b760bb1a6980eac1",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Three dead and eight injured in Philippines school shooting",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T11:01:46.000Z",
+      "sentences": [
+        {
+          "en": "Three dead and eight injured in Philippines school shooting.",
+          "zh": "菲律宾校园枪击事件造成3人死亡， 8人受伤。"
+        },
+        {
+          "en": "The gunman is among the dead in what is the third school shooting in the country since June.",
+          "zh": "枪手是自6月以来该国第三起学校枪击事件的死者之一。"
+        }
+      ]
+    },
+    {
+      "id": "8063cb8d87e53e58",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Ms. Rachel has entered her album era, and she is so happy about it",
+      "url": "https://www.npr.org/2026/09/18/nx-s1-5938847/ms-rachel-mr-aron-new-album-im-so-happy",
+      "publishedAt": "2026-09-18T11:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Ms. Rachel has entered her album era, and she is so happy about it.",
+          "zh": "Rachel女士已经进入了她的专辑时代，她对此感到非常高兴。"
+        },
+        {
+          "en": "Ms. Rachel has conquered YouTube, Netflix and the toy aisle.",
+          "zh": "Rachel女士已经征服了YouTube、Netflix和玩具过道。"
+        },
+        {
+          "en": "Now she's making an album, with real instruments, big feelings and her littlest listeners in mind.",
+          "zh": "现在，她正在制作一张专辑，里面有真实的乐器、深刻的情感和最小的听众。"
+        },
+        {
+          "en": "(Image credit: Dimitrios Kambouris)",
+          "zh": "（图片来源： Dimitrios Kambouris ）"
+        }
+      ]
+    },
+    {
+      "id": "3835cf4a54d77ae1",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Warren Buffett steps down as Berkshire Hathaway chairman",
+      "url": "https://www.npr.org/2026/09/18/nx-s1-5973852/warren-buffett-steps-down",
+      "publishedAt": "2026-09-18T10:58:49.000Z",
+      "sentences": [
+        {
+          "en": "Warren Buffett steps down as Berkshire Hathaway chairman.",
+          "zh": "沃伦·巴菲特辞去伯克希尔哈撒韦公司董事长一职。"
+        },
+        {
+          "en": "Warren Buffett is stepping down as chairman of Berkshire Hathaway after serving in the role for more than 50 years.",
+          "zh": "沃伦·巴菲特（ Warren Buffett ）在伯克希尔哈撒韦公司（ Berkshire Hathaway ）任职50多年后辞去该公司董事长一职。"
+        },
+        {
+          "en": "His son, Howard, will become Berkshire Hathaway's new chairman (Image credit: Nati Harnik)",
+          "zh": "他的儿子霍华德将成为伯克希尔哈撒韦公司的新董事长（图片来源： Nati Harnik ）"
+        }
+      ]
+    },
+    {
+      "id": "7615b03194330650",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "South Africa 'feels like a prison' for women amid spate of femicides",
+      "url": "https://www.npr.org/2026/09/18/nx-s1-5973822/south-africa-feels-like-a-prison-for-women-amid-spate-of-femicides",
+      "publishedAt": "2026-09-18T10:39:14.000Z",
+      "sentences": [
+        {
+          "en": "South Africa 'feels like a prison' for women amid spate of femicides.",
+          "zh": "在大量杀戮女性事件中，南非对女性来说“感觉就像一座监狱”。"
+        },
+        {
+          "en": "South Africa has some of the highest rates of violence against women in the world, and a spate of killings of nine women in the same area in recent weeks has led to renewed outrage.",
+          "zh": "南非是世界上暴力侵害妇女行为发生率最高的国家之一，最近几周在同一地区发生的一连串杀害9名妇女的事件再次引发了愤怒。"
+        },
+        {
+          "en": "(Image credit: Themba Hadebe)",
+          "zh": "（图片来源： Themba Hadebe ）"
+        }
+      ]
+    },
+    {
+      "id": "83ec12d1b6d72cb9",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Australian man accused of murdering Thai teenager and putting body in suitcase pleads not guilty",
+      "url": "https://www.theguardian.com/world/2026/sep/18/australian-man-accused-of-murdering-thai-teenager-and-putting-body-in-suitcase-pleads-not-guilty-ntwnfb",
+      "publishedAt": "2026-09-18T10:00:35.000Z",
+      "sentences": [
+        {
+          "en": "Australian man accused of murdering Thai teenager and putting body in suitcase pleads not guilty.",
+          "zh": "澳大利亚男子被指控谋杀泰国青少年并将尸体放入手提箱，他表示无罪。"
+        },
+        {
+          "en": "Simon Peter Carman appeared in a Pattaya court on Friday charged with killing Tunchanok Donhomla An Australian man accused of murdering a Thai teenager and putting her body in a suitcase pleaded not guilty on Friday in a hearing in the seaside resort city of Pattaya, a court official said.",
+          "zh": "一名法院官员表示，西蒙·彼得·卡曼（ Simon Peter Carman ）周五出现在芭堤雅法院，被指控杀害Tunchanok Donhomla一名澳大利亚男子被指控谋杀一名泰国少年，并将她的尸体放在一个手提箱中，周五在海滨度假城市芭堤雅举行的听证会上表示无罪。"
+        },
+        {
+          "en": "Simon Peter Carman, 45, was arrested in June after 17-year-old Tunchanok Donhomla was reported missing in Pattaya City, about 150km south-east of Bangkok.",
+          "zh": "45岁的西蒙·彼得·卡曼（ Simon Peter Carman ）在曼谷东南约150公里的芭堤雅市据报失踪后，于6月被捕。"
+        },
+        {
+          "en": "A suitcase containing her body was found shortly after.",
+          "zh": "不久之后，发现了一个装有她尸体的手提箱。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "b253e5df4b5744c1",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Louisiana firefighters find feline native to sub-Saharan Africa while responding to house fire",
+      "url": "https://www.theguardian.com/us-news/2026/sep/18/louisiana-firefighters-sub-saharan-africa-feline",
+      "publishedAt": "2026-09-18T10:00:15.000Z",
+      "sentences": [
+        {
+          "en": "Louisiana firefighters find feline native to sub-Saharan Africa while responding to house fire.",
+          "zh": "路易斯安那州消防队员在应对房屋火灾时，发现了原产于撒哈拉以南非洲的猫科动物。"
+        },
+        {
+          "en": "The African serval, illegally enclosed in the back yard, was subdued and transferred to an animal welfare facility Louisiana firefighters responding to a small house blaze found a wildcat native to sub-Saharan Africa illegally enclosed in the back yard, prompting an animal welfare agency to seek placing the creature in an appropriate environment, according to officials.",
+          "zh": "据官员称，非法封闭在后院的非洲薮猫被制服并转移到路易斯安那州的一家动物福利机构，以应对一场小房子大火，发现一只原产于撒哈拉以南非洲的野猫被非法封闭在后院，促使动物福利机构寻求将该生物置于适当的环境中。"
+        },
+        {
+          "en": "Firefighters investigating a report of a minor fire at a home in the suburban New Orleans community of Marrero on Tuesday spotted the cat in question – an African serval – behind the residence in a chain-linked enclosure resembling a cramped baseball batting cage, a spokesperson for the local animal protection services said.",
+          "zh": "当地动物保护局发言人表示，消防员正在调查周二在新奥尔良郊区马雷罗社区一所房屋发生轻微火灾的报告，他们在住宅后面的一个类似于狭窄棒球击球笼的连锁围栏中发现了这只有问题的猫–一只非洲仆人。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "4ac13a181c8f583c",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Weather tracker: Thunderstorms hit Spain as Japan braces for typhoon",
+      "url": "https://www.theguardian.com/environment/2026/sep/18/weather-tracker-thunderstorms-spain-japan-typhoon",
+      "publishedAt": "2026-09-18T08:36:50.000Z",
+      "sentences": [
+        {
+          "en": "Weather tracker: Thunderstorms hit Spain as Japan braces for typhoon.",
+          "zh": "气象追踪器：雷暴袭击西班牙，因为日本正在为台风做准备。"
+        },
+        {
+          "en": "At least one person dead as stormy weather causes severe flooding in Barcelona and Valencia Intense and slow-moving thunderstorms broke out on Wednesday afternoon across parts of eastern Spain, bringing some severe flooding and killing at least one person .",
+          "zh": "由于暴风雨天气导致巴塞罗那和瓦伦西亚发生严重洪灾，至少有一人死亡。周三下午，西班牙东部部分地区爆发了强烈而缓慢的雷暴，造成一些严重洪灾，至少有一人死亡。"
+        },
+        {
+          "en": "Storms first struck over the Castilla-La Mancha region during the afternoon before passing over Spain’s east coast, becoming very slow-moving and continuing overnight.",
+          "zh": "风暴首先在下午袭击了卡斯蒂利亚-拉曼查地区，然后经过西班牙东海岸，变得非常缓慢，并持续了一夜。"
+        },
+        {
+          "en": "Torrential rainfall, strong winds and large hail were reported in Valencia and Barcelona, causing widespread flooding in both cities.",
+          "zh": "据报道，瓦伦西亚和巴塞罗那有暴雨、强风和大冰雹，导致这两个城市普遍发生洪水。"
+        },
+        {
+          "en": "Weather stations west of Barcelona recorded some of the highest totals with more than 100mm (4in) of rain falling in the space of a few hours, and locally 70mm in just 30 minutes in the early hours of Thursday morning.",
+          "zh": "巴塞罗那以西的气象站记录了一些最高的总雨量，在几个小时内降雨量超过100毫米（ 4英寸） ，在周四凌晨的30分钟内降雨量仅为70毫米。"
+        },
+        {
+          "en": "Cars and roads were submerged, and flights were cancelled across the region.",
+          "zh": "汽车和道路被淹没，整个地区的航班被取消。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "9ab6038bcd128c61",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "‘We demand the truth’: Olga Tokarczuk and JM Coetzee lead calls for proof of life of disappeared Eritrean writers",
+      "url": "https://www.theguardian.com/books/2026/sep/18/olga-tokarczuk-j-m-coetzee-lead-calls-for-release-of-disappeared-eritrean-writers",
+      "publishedAt": "2026-09-18T08:30:12.000Z",
+      "sentences": [
+        {
+          "en": "‘We demand the truth’: Olga Tokarczuk and JM Coetzee lead calls for proof of life of disappeared Eritrean writers.",
+          "zh": "“我们要求真相” ： Olga Tokarczuk和JM Coetzee领导呼吁提供失踪的厄立特里亚作家的生活证据。"
+        },
+        {
+          "en": "More than 180 writers sign letter renewing calls for information on 12 authors detained incommunicado since 2001 crackdown on free speech by Isaias Afwerki More than 180 writers have signed a letter to Eritrean president Isaias Afwerki calling for proof of life for 12 writers arrested in 2001.",
+          "zh": "180多名作家签署了一封信，再次呼吁提供自2001年伊萨亚斯·阿费沃基（ Isaias Afwerki ）镇压言论自由以来被单独监禁的12名作家的信息。180多名作家签署了一封致厄立特里亚总统伊萨亚斯·阿费沃基（ Isaias Afwerki ）的信，呼吁为2001年被捕的12名作家提供生命证明。"
+        },
+        {
+          "en": "Nobel laureates Olga Tokarczuk and JM Coetzee join prominent writers including Colm Tóibín, Elif Shafak, Isabel Allende, Ben Okri, Yann Martel, Kamila Shamsie and Tsitsi Dangarembga in signing the letter organised by PEN International and dated 18 September, marking 25 years since a government crackdown on the independent press.",
+          "zh": "诺贝尔奖获得者Olga Tokarczuk和JM Coetzee与Colm Tóibín、Elif Shafak、Isabel Allende、Ben Okri、Yann Martel、Kamila Shamsie和Tsitsi Dangarembga等著名作家一起签署了由国际笔会组织的日期为9月18日的信件，标志着政府镇压独立媒体25周年。"
+        },
+        {
+          "en": "“Within days, Eritrea’s free press and the nation’s independent voices were systematically crushed,” opens the letter.",
+          "zh": "信中写道： “几天之内，厄立特里亚的新闻自由和国家的独立声音就被系统地压制了。”"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "73408c5bf564af3a",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Japan raises interest rates to 31-year high to curb impact of rising prices",
+      "url": "https://www.theguardian.com/business/2026/sep/18/japan-raises-interest-rates-to-31-year-high-rising-prices",
+      "publishedAt": "2026-09-18T07:14:13.000Z",
+      "sentences": [
+        {
+          "en": "Japan raises interest rates to 31-year high to curb impact of rising prices.",
+          "zh": "日本将利率提高到31年来的最高水平，以遏制物价上涨的影响。"
+        },
+        {
+          "en": "Increase from 1% to 1.25% follows US Federal Reserve and European Central Bank tightening monetary policy Business live – latest updates Japan’s central bank has increased interest rates to a fresh 31-year high as it attempts to combat global inflation linked to the war in Iran.",
+          "zh": "在美联储和欧洲央行收紧货币政策后，利率从1%上升至1.25%。日本央行试图打击与伊朗战争相关的全球通胀，因此将利率提高至31年来的新高。"
+        },
+        {
+          "en": "The Bank of Japan (BoJ) voted to raise its target interest rate from 1% to 1.25%, the highest level since 1995.",
+          "zh": "日本央行（ BoJ ）投票决定将其目标利率从1 ％提高到1.25 ％ ，这是自1995年以来的最高水平。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "a1d3bab5ad26e2ac",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "South Korea will not send military to support US war on Iran, defying Trump pressure",
+      "url": "https://www.theguardian.com/world/2026/sep/18/south-korea-will-not-send-military-to-support-us-war-on-iran-defying-trump-pressure",
+      "publishedAt": "2026-09-18T05:54:29.000Z",
+      "sentences": [
+        {
+          "en": "South Korea will not send military to support US war on Iran, defying Trump pressure.",
+          "zh": "韩国无视特朗普的压力，不会派军队支持美国对伊朗的战争。"
+        },
+        {
+          "en": "Seoul resolves recent speculation over sending military to strait of Hormuz, saying ‘there won’t be deployment that would involve or enter war’ South Korea’s president, Lee Jae Myung, has said he will ⁠not deploy the military to the ⁠Middle East in a way ​that could draw the country into conflict, resisting calls from Donald Trump to support his war in Iran.",
+          "zh": "首尔解决了最近关于向霍尔木兹海峡派遣军队的猜测，称“不会有涉及或进入战争的部署”韩国总统李在明表示，他将不会以可能导致该国陷入冲突的方式向中东部署军队，抵制唐纳德特朗普支持他在伊朗的战争的呼吁。"
+        },
+        {
+          "en": "“There won’t be deployment that would involve or enter war.",
+          "zh": "“不会有涉及或进入战争的部署。"
+        },
+        {
+          "en": "I can tell you that very clearly,” Lee said at a ⁠news conference on Friday.",
+          "zh": "我可以非常清楚地告诉你， ”李在周五的新闻发布会上说。"
+        },
+        {
+          "en": "“We won’t deploy military assets in any form to that end.” Continue reading..",
+          "zh": "“我们不会为此部署任何形式的军事资产。”继续阅读。"
+        }
+      ]
+    },
+    {
+      "id": "4d77763678438396",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Why US plan to sell F-35 warplanes to Saudi Arabia is controversial",
+      "url": "https://www.bbc.co.uk/news/articles/c3x2zrn01pxko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T01:31:43.000Z",
+      "sentences": [
+        {
+          "en": "Why US plan to sell F-35 warplanes to Saudi Arabia is controversial.",
+          "zh": "为什么美国计划向沙特阿拉伯出售F-35战机存在争议。"
+        },
+        {
+          "en": "Saudi Arabia has lobbied the US for years to buy F35s, the world's most advanced fighter jet.",
+          "zh": "沙特阿拉伯多年来一直在游说美国购买F35 ，这是世界上最先进的战斗机。"
+        }
+      ]
+    },
+    {
+      "id": "7ddeefee8efc856d",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Canadians dream of Europe as Carney floats longshot plan for living and working in EU",
+      "url": "https://www.bbc.co.uk/news/articles/cx980qj57r89o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T01:23:10.000Z",
+      "sentences": [
+        {
+          "en": "Canadians dream of Europe as Carney floats longshot plan for living and working in EU.",
+          "zh": "加拿大人梦想着欧洲，因为卡尼提出了在欧盟生活和工作的远景计划。"
+        },
+        {
+          "en": "Torontonians are excited by the possibility of moving to the EU, even if it is unlikely anytime soon.",
+          "zh": "多伦多人对搬到欧盟的可能性感到兴奋，即使短期内不太可能。"
+        }
+      ]
+    },
+    {
+      "id": "37d7169cc1a46494",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "'This is our company': Nigerians show off oil wealth after share-buying frenzy",
+      "url": "https://www.bbc.co.uk/news/articles/cw7v4jr2932ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-17T23:24:07.000Z",
+      "sentences": [
+        {
+          "en": "'This is our company': Nigerians show off oil wealth after share-buying frenzy.",
+          "zh": "“这是我们的公司” ：尼日利亚人在疯狂购买股票后炫耀石油财富。"
+        },
+        {
+          "en": "Many Nigerians buy their first ever shares - in the oil refinery owned by Africa's richest man, Aliko Dangote.",
+          "zh": "许多尼日利亚人在非洲首富阿里科·丹格特（ Aliko Dangote ）拥有的炼油厂购买了他们的第一批股票。"
+        }
+      ]
+    },
+    {
+      "id": "da8ef8ae8b2ef2d6",
+      "sourceId": "aws-news",
+      "category": "release-notes",
+      "title": "New low-cost burstable Amazon EC2 T8i instances are generally available",
+      "url": "https://aws.amazon.com/blogs/aws/new-low-cost-burstable-amazon-ec2-t8i-instances-are-generally-available/",
+      "publishedAt": "2026-09-17T21:11:48.000Z",
+      "sentences": [
+        {
+          "en": "New low-cost burstable Amazon EC2 T8i instances are generally available.",
+          "zh": "新的低成本突发性Amazon EC2 T8i实例正式推出。"
+        },
+        {
+          "en": "Today, we’re announcing the general availability of new low-cost burstable Amazon EC2 T8i instances powered by custom sixth generation Intel Xeon Scalable Processors (Granite Rapids), available only on AWS.",
+          "zh": "今天，我们宣布推出新的低成本突发性Amazon EC2 T8i实例，这些实例由定制的第六代英特尔至强可扩展处理器（ Granite Rapids ）提供支持，仅在AWS上提供。"
+        },
+        {
+          "en": "T8i instances are among the lowest-cost EC2 instances and deliver up to 30% better price performance over previous generation T3 instances .",
+          "zh": "T8i实例是成本最低的EC2实例之一，与上一代T3实例相比，性价比提高了30%。"
+        },
+        {
+          "en": "These instances are designed to run a variety of low-to-moderate CPU utilization workloads such as freemium services, training and demo environments, staging and development, data processing, microservices, low-traffic websites, and login gateways.",
+          "zh": "这些实例旨在运行各种低到中等CPU利用率工作负载，例如免费增值服务、培训和演示环境、暂存和开发、数据处理、微服务、低流量网站和登录网关。"
+        },
+        {
+          "en": "T8i instances Thousands and thousands of customers run various lightweight workloads on T3 instances that require small, cost-effective compute configurations.",
+          "zh": "T8i实例成千上万的客户在需要经济高效的小型计算配置的T3实例上运行各种轻量级工作负载。"
+        },
+        {
+          "en": "These include microservices architectures, low-traffic websites, development and testing environments, small databases, data processing jobs, and short-duration compute tasks.",
+          "zh": "其中包括微服务架构、低流量网站、开发和测试环境、小型数据库、数据处理作业和短期计算任务。"
+        },
+        {
+          "en": "Many of these customers like T family’s burstable performance model, which provides a baseline level of CPU performance with the ability to burst above the baseline when needed using CPU credits.",
+          "zh": "其中许多客户喜欢T系列的突发性能模型，该模型提供了CPU性能的基线水平，并能够在需要时使用CPU信用额度突破基线。"
+        },
+        {
+          "en": "As customers modernize their infrastructure, migrate from on-premises environments, adopt event-driven and microservices architectures, and experiment with AI inference workloads, they have asked for newer generation cost-optimized small instances, better price performance to reduce their total cost of ownership, and a seamless migration path that leverages their existing knowledge and tooling.",
+          "zh": "随着客户对其基础设施进行现代化改造，从本地环境迁移，采用事件驱动和微服务架构，并尝试使用AI推理工作负载，他们要求新一代成本优化的小型实例，更好的性价比以降低其总拥有成本，以及利用其现有知识和工具的无缝迁移路径。"
+        },
+        {
+          "en": "T8i instances address each of these requests: Up to 30% better price performance.",
+          "zh": "T8i实例可满足这些要求：性价比提高多达30%。"
+        },
+        {
+          "en": "Powered by the AWS Nitro System and custom sixth generation Intel Xeon Scalable Processors (Granite Rapids), T8i instances enable customers to lower their total cost of ownership with up to 30% better price performance.",
+          "zh": "T8i实例由AWS Nitro系统和定制的第六代英特尔至强可扩展处理器（ Granite Rapids ）提供支持，使客户能够以高达30%的性价比降低总拥有成本。"
+        },
+        {
+          "en": "Up to 70% higher compute performance.",
+          "zh": "计算性能提高多达70%。"
+        },
+        {
+          "en": "T8i instances deliver up to 70% higher compute performance, up to 1.25x higher network bandwidth, and up to 2.4x higher EBS bandwidth compared to T3 instances.",
+          "zh": "与T3实例相比， T8i实例的计算性能提高了70% ，网络带宽提高了1.25倍， EBS带宽提高了2.4倍。"
+        }
+      ]
+    },
+    {
+      "id": "4b0483ab4145d11a",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "New cat species identified for first time in more than a century in Bolivia",
+      "url": "https://www.theguardian.com/world/2026/sep/17/new-cat-species-identified-bolivia",
+      "publishedAt": "2026-09-17T20:43:38.000Z",
+      "sentences": [
+        {
+          "en": "New cat species identified for first time in more than a century in Bolivia.",
+          "zh": "玻利维亚一个多世纪以来首次发现新的猫科动物物种。"
+        },
+        {
+          "en": "New species of wild feline was discovered in Bolivia’s Yungas forest that is smaller than the average domestic ⁠cat A diminutive wild cat that inhabits Bolivia’s ⁠cloud forest has been identified as a previously unknown species, marking the first time a new living feline species has been formally named and described in more than a century.",
+          "zh": "在玻利维亚的永加斯（ Yungas ）森林中发现了野生猫科动物的新物种，该物种比家猫的平均体型小。栖息在玻利维亚云雾森林中的小型野生猫科动物已被确定为以前未知的物种，这标志着一个多世纪以来首次正式命名和描述了一种新的活猫科动物物种。"
+        },
+        {
+          "en": "The cat, called tilcayo by local communities, is part of a group called tiger ⁠cats found across much of South ⁠America.",
+          "zh": "这只猫被当地社区称为tilcayo ，是南美洲大部分地区发现的虎猫的一部分。"
+        },
+        {
+          "en": "It was found in Bolivia’s ​lush Yungas forest, a mountainous region where forests are often covered by clouds and surrounded by high humidity, according to researchers.",
+          "zh": "根据研究人员的说法，它被发现在玻利维亚郁郁葱葱的Yungas森林中，这是一个山区，森林经常被云层覆盖，周围湿度很高。"
+        },
+        {
+          "en": "It measures about 18in (46cm) long and weighs about 3lb (1.4kg), making it smaller than the average domestic ⁠cat.",
+          "zh": "它长约18英寸（ 46厘米） ，重约3磅（ 1.4公斤） ，比普通家猫小。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "590df77dc8c3726e",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Making global data easier to explore",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+      "publishedAt": "2026-09-17T20:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Making global data easier to explore.",
+          "zh": null
+        },
+        {
+          "en": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "a484957885e899c6",
+      "sourceId": "aws-news",
+      "category": "cloud",
+      "title": "AWS Elastic Beanstalk introduces Cluster Mode",
+      "url": "https://aws.amazon.com/blogs/aws/aws-elastic-beanstalk-introduces-cluster-mode/",
+      "publishedAt": "2026-09-17T19:20:21.000Z",
+      "sentences": [
+        {
+          "en": "AWS Elastic Beanstalk introduces Cluster Mode.",
+          "zh": "AWS Elastic Beanstalk引入了集群模式。"
+        },
+        {
+          "en": "Since the first launch of AWS Elastic Beanstalk in 2011, customers have deployed full-stack applications in Java, .NET, Python, Node.js, PHP, Ruby, and Go, trusting Elastic Beanstalk to manage deployment and infrastructure operations so they could focus on business logic.",
+          "zh": "自2011年首次推出AWS Elastic Beanstalk以来，客户已在Java、.NET、Python、Node.js、PHP、Ruby和Go中部署了全栈应用程序，信任Elastic Beanstalk来管理部署和基础设施操作，以便他们可以专注于业务逻辑。"
+        },
+        {
+          "en": "Fifteen years later, that trust has only deepened, and the service has been rebuilt to match it.",
+          "zh": "十五年后，这种信任只会加深，服务已经重建以匹配它。"
+        },
+        {
+          "en": "Now, AWS Elastic Beanstalk is the application management service on AWS that takes full operational responsibility for your production environments.",
+          "zh": null
+        },
+        {
+          "en": "Bring applications however they exist today: source code, Dockerfiles, or container images.",
+          "zh": null
+        },
+        {
+          "en": "Elastic Beanstalk creates and manages the production environment underneath.",
+          "zh": null
+        },
+        {
+          "en": "You manage your application.",
+          "zh": null
+        },
+        {
+          "en": "AWS manages everything else, deploying, scaling, patching, monitoring, and maintaining it continuously.",
+          "zh": null
+        },
+        {
+          "en": "That operational responsibility stays with AWS, for the life of the application.",
+          "zh": null
+        },
+        {
+          "en": "We have been rebuilding the operational engine underneath and delivering a series of capabilities that make it more powerful than ever.",
+          "zh": null
+        },
+        {
+          "en": "Elastic Beanstalk now uses AI-powered environment analysis to diagnose health issues and recommend fixes automatically.",
+          "zh": null
+        },
+        {
+          "en": "A new official GitHub Action lets teams deploy directly from their existing CI/CD workflows with a single YAML configuration.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "e78be4774342acdb",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "The new CC, an AI agent built for families",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
+      "publishedAt": "2026-09-17T18:15:00.000Z",
+      "sentences": [
+        {
+          "en": "The new CC, an AI agent built for families.",
+          "zh": null
+        },
+        {
+          "en": "Google Labs is expanding CC to groups, starting with families and households, so they can spend less time on logistics.",
+          "zh": null
+        }
+      ]
+    }
+  ],
+  "failures": []
+}
