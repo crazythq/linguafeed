@@ -1,0 +1,683 @@
+{
+  "date": "2026-09-19",
+  "collectedAt": "2026-09-20T03:35:26.025Z",
+  "items": [
+    {
+      "id": "63e68a4214b33b04",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "CNN, MS NOW, Politico reporters denied access to White House following Trump ban",
+      "url": "https://www.npr.org/2026/09/19/nx-s1-5974854/trump-cnn-msnow-politico-ban",
+      "publishedAt": "2026-09-19T15:26:31.000Z",
+      "sentences": [
+        {
+          "en": "CNN, MS NOW, Politico reporters denied access to White House following Trump ban.",
+          "zh": "美国有线电视新闻网， MS NOW ， Politico记者在特朗普禁令后拒绝进入白宫。"
+        },
+        {
+          "en": "Three reporters were blocked from the White House grounds Saturday morning, a day after President Trump said CNN, Politico, and MS NOW would be banned for reporting \"FICTION and LIES.\"",
+          "zh": "星期六早上，特朗普总统表示， CNN、Politico和MS现在将因报道“虚构和谎言”而被禁止，一天后，三名记者被阻止进入白宫。"
+        },
+        {
+          "en": "(Image credit: Charles McQuillan)",
+          "zh": "（图片来源： Charles McQuillan ）"
+        }
+      ]
+    },
+    {
+      "id": "f093c80dbbe022d7",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Jewish heirs of Holocaust victims sue California museum over Nazi-looted art",
+      "url": "https://www.theguardian.com/world/2026/sep/19/lawsuit-california-museum-nazi-looted-art",
+      "publishedAt": "2026-09-19T14:52:24.000Z",
+      "sentences": [
+        {
+          "en": "Jewish heirs of Holocaust victims sue California museum over Nazi-looted art.",
+          "zh": "犹太大屠杀受害者的继承人因纳粹掠夺的艺术品而起诉加利福尼亚博物馆。"
+        },
+        {
+          "en": "Pasadena’s Norton Simon Museum holds 16th-century paintings stolen by the Nazis during the second world war Jewish heirs of Holocaust victims and their representatives have filed two lawsuits in California staking their claims to Nazi -looted paintings that still hang on the walls of prominent museums in Los Angeles and Auschwitz.",
+          "zh": "帕萨迪纳的诺顿·西蒙博物馆（ Norton Simon Museum ）收藏着在第二次世界大战期间被纳粹偷走的大屠杀受害者犹太继承人的画作，他们的代表在加利福尼亚州提起了两起诉讼，声称纳粹掠夺的画作仍然挂在洛杉矶和奥斯威辛集中营著名博物馆的墙上。"
+        },
+        {
+          "en": "This pair of lawsuits are the first to be filed after the recent passage of laws by California and the US Congress, which strengthen US-based claims to artwork that were forcibly taken from Jewish families during the second world war.",
+          "zh": "这两起诉讼是在加利福尼亚州和美国国会最近通过法律之后提起的第一起诉讼，该法律加强了美国对二战期间从犹太家庭强行带走的艺术品的主张。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "42d346cc30283afe",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Converse pulls 'deeply upsetting' advert after backlash",
+      "url": "https://www.bbc.co.uk/news/articles/crwyzj53pl1lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T14:05:01.000Z",
+      "sentences": [
+        {
+          "en": "Converse pulls 'deeply upsetting' advert after backlash.",
+          "zh": "匡威在强烈反对后拉出“令人深感不安”的广告。"
+        },
+        {
+          "en": "Social media users say an image from the brand's Instagram account resembled a KKK hood and hanging.",
+          "zh": "社交媒体用户表示，该品牌Instagram帐户中的图片类似于三K党的头巾和悬挂物。"
+        }
+      ]
+    },
+    {
+      "id": "0dd033f2a0e63c73",
+      "sourceId": "bbc-world",
+      "category": "ai",
+      "title": "Google's Gemini AI hacked three companies in security test",
+      "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T13:39:32.000Z",
+      "sentences": [
+        {
+          "en": "Google's Gemini AI hacked three companies in security test.",
+          "zh": "谷歌的Gemini AI在安全测试中入侵了三家公司。"
+        },
+        {
+          "en": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
+          "zh": "一位谷歌官员告诉英国广播公司，人工智能模型访问互联网并猜测三个网站的凭据。"
+        }
+      ]
+    },
+    {
+      "id": "f5e856b512204491",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Why the UN General Assembly still matters",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168361",
+      "publishedAt": "2026-09-19T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Why the UN General Assembly still matters.",
+          "zh": "为什么联合国大会仍然重要。"
+        },
+        {
+          "en": "More than eight decades on, the UN General Assembly remains the place where the UN’s 193 Member States come together to debate the defining challenges of the day, from war and peace – to development, climate change and human rights.",
+          "zh": "八十多年来，联合国大会仍然是联合国193个会员国聚集一堂，讨论当今决定性挑战的地方，从战争与和平到发展、气候变化和人权。"
+        }
+      ]
+    },
+    {
+      "id": "5398587adee3db67",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "The race to build a pandemic-proof world",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168377",
+      "publishedAt": "2026-09-19T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "The race to build a pandemic-proof world.",
+          "zh": "打造防疫世界的竞赛。"
+        },
+        {
+          "en": "Six years after COVID-19 killed millions, battered health systems, disrupted lives and brought the global economy to a virtual standstill, the world is still grappling with how we can prepare better for the next pandemic.",
+          "zh": "在新冠肺炎疫情造成数百万人死亡、卫生系统受到重创、生命受到破坏并使全球经济几乎陷入停滞的六年后，世界仍在努力为下一次大流行做好准备。"
+        }
+      ]
+    },
+    {
+      "id": "11a50a1535a81472",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Opinion: Remembering Annie Dillard, nature writer",
+      "url": "https://www.npr.org/2026/09/19/nx-s1-5966624/opinion-remembering-annie-dillard-nature-writer",
+      "publishedAt": "2026-09-19T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Opinion: Remembering Annie Dillard, nature writer.",
+          "zh": "观点：记住自然作家安妮·迪拉德。"
+        },
+        {
+          "en": "With her 1974 book, \"Pilgrim at Tinker Creek,\" Annie Dillard became the youngest woman to win the Pulitzer Prize.",
+          "zh": "安妮·迪拉德（ Annie Dillard ）在1974年出版了《廷克溪的朝圣者》（ Pilgrim at Tinker Creek ）一书，成为获得普利策奖的最年轻女性。"
+        },
+        {
+          "en": "We take a moment to remember her and her work.",
+          "zh": "我们花点时间记住她和她的工作。"
+        },
+        {
+          "en": "(Image credit: BOB CHILD/AP)",
+          "zh": "（图片来源： BOB CHILD/AP ）"
+        }
+      ]
+    },
+    {
+      "id": "d8b7730cfe224684",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Shark attack prompts rare kill order in Western Australia as victim named",
+      "url": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T11:50:22.000Z",
+      "sentences": [
+        {
+          "en": "Shark attack prompts rare kill order in Western Australia as victim named.",
+          "zh": "鲨鱼袭击在西澳大利亚州提示罕见的杀戮命令，作为受害者的名字。"
+        },
+        {
+          "en": "Greg O'Neill \"loved the ocean\", his family say, as police boats and helicopters patrol Perth's beaches in search of his body and the shark that attacked him.",
+          "zh": "他的家人说，格雷格·奥尼尔（ Greg O'Neill ） “喜欢大海” ，因为警察船只和直升机在珀斯的海滩上巡逻，寻找他的尸体和袭击他的鲨鱼。"
+        }
+      ]
+    },
+    {
+      "id": "222ab0e12777fffb",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Life in Kabul 5 years after the Taliban's return",
+      "url": "https://www.npr.org/2026/09/19/nx-s1-5961263/life-in-kabul-5-years-after-the-talibans-return",
+      "publishedAt": "2026-09-19T11:40:40.000Z",
+      "sentences": [
+        {
+          "en": "Life in Kabul 5 years after the Taliban's return.",
+          "zh": "塔利班回归5年后的喀布尔生活。"
+        },
+        {
+          "en": "Five years after the return of Taliban rule, NPR visited Kabul to see how Afghans are dealing with their new government's strict social restrictions.",
+          "zh": "塔利班重新统治五年后，国家公共广播电台访问了喀布尔，了解阿富汗人如何应对新政府的严格社会限制。"
+        }
+      ]
+    },
+    {
+      "id": "4dd7e4d1fbbee056",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Betel nuts are a top mind-affecting substance. Now there's evidence of ancient use",
+      "url": "https://www.npr.org/2026/09/19/g-s1-144054/ancient-teeth-betel-nuts-mind-altering-drugs",
+      "publishedAt": "2026-09-19T11:21:56.000Z",
+      "sentences": [
+        {
+          "en": "Betel nuts are a top mind-affecting substance.",
+          "zh": "槟榔是一种影响大脑的物质。"
+        },
+        {
+          "en": "Now there's evidence of ancient use.",
+          "zh": "现在有古代使用的证据。"
+        },
+        {
+          "en": "New research on ancient human remains suggests the habitual usage of betel nuts, a plant seed with mind-affecting properties that is popular in parts of Asia despite the health risks it presents.",
+          "zh": "对古代人类遗骸的新研究表明，习惯性使用槟榔是一种具有影响心灵特性的植物种子，尽管它存在健康风险，但在亚洲部分地区很受欢迎。"
+        },
+        {
+          "en": "(Image credit: Claire Harbage/NPR)",
+          "zh": "（图片来源： Claire Harbage/NPR ）"
+        }
+      ]
+    },
+    {
+      "id": "f4b390b8712ebbb3",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Millions without power as Cuba hit by latest major blackout",
+      "url": "https://www.bbc.co.uk/news/articles/c6j9x4387lzxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T10:27:37.000Z",
+      "sentences": [
+        {
+          "en": "Millions without power as Cuba hit by latest major blackout.",
+          "zh": "由于古巴最近一次大停电，数百万人没有电。"
+        },
+        {
+          "en": "Widespread power outages have become increasingly common due to fuel shortages made worse by a US blockade.",
+          "zh": "由于美国的封锁加剧了燃料短缺，大范围停电已变得越来越普遍。"
+        }
+      ]
+    },
+    {
+      "id": "eb20b1fd18f4e5e7",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Archaeologists are racing to save precious artifacts in Alaska after last year's storm",
+      "url": "https://www.npr.org/2026/09/19/nx-s1-5966568/ex-typhoon-halong-nunallaq-artifacts-archaeological-dig-site-alaska-quinhagak",
+      "publishedAt": "2026-09-19T09:01:00.000Z",
+      "sentences": [
+        {
+          "en": "Archaeologists are racing to save precious artifacts in Alaska after last year's storm.",
+          "zh": "去年的风暴过后，考古学家正在竞相拯救阿拉斯加的珍贵文物。"
+        },
+        {
+          "en": "Last year, remnants of a typhoon damaged homes, infrastructure and an archaeological dig site.",
+          "zh": "去年，台风残骸破坏了房屋、基础设施和考古挖掘场地。"
+        },
+        {
+          "en": "Now, archaeologists are trying to get as many objects out as possible before the next storm.",
+          "zh": "现在，考古学家正试图在下一场风暴来临之前把尽可能多的物体弄出来。"
+        },
+        {
+          "en": "(Image credit: MaryCait Dolan)",
+          "zh": "（图片来源： MaryCait Dolan ）"
+        }
+      ]
+    },
+    {
+      "id": "93e40ec25bb9a781",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Ever wonder how the Fed's interest rate actually works? We've got answers",
+      "url": "https://www.npr.org/2026/09/19/nx-s1-5969816/federal-reserve-interest-rate-inflation-economy",
+      "publishedAt": "2026-09-19T09:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Ever wonder how the Fed's interest rate actually works?",
+          "zh": "有没有想过美联储的利率实际上是如何运作的？"
+        },
+        {
+          "en": "We've got answers.",
+          "zh": "我们成竹在胸。"
+        },
+        {
+          "en": "The Federal Reserve just raised interest rates this week for the first time this year.",
+          "zh": "美联储本周刚刚今年首次加息。"
+        },
+        {
+          "en": "So how does it actually work?",
+          "zh": "那么它实际上是如何工作的呢？"
+        },
+        {
+          "en": "And what does it mean for the economy — and the rest of us?",
+          "zh": "这对经济以及我们其他人意味着什么？"
+        },
+        {
+          "en": "Here are some answers.",
+          "zh": "以下是一些答案。"
+        },
+        {
+          "en": "(Image credit: LM Otero)",
+          "zh": "（图片来源： LM Otero ）"
+        }
+      ]
+    },
+    {
+      "id": "37234f9a78b2d79c",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Record fuel prices across EU prompt calls for bloc-wide windfall tax on firms",
+      "url": "https://www.theguardian.com/world/2026/sep/18/eu-europe-fuel-prices-calls-windfall-tax-energy-firms",
+      "publishedAt": "2026-09-19T06:46:18.000Z",
+      "sentences": [
+        {
+          "en": "Record fuel prices across EU prompt calls for bloc-wide windfall tax on firms.",
+          "zh": "整个欧盟的燃油价格创纪录，这促使人们呼吁对企业征收全集团范围的暴利税。"
+        },
+        {
+          "en": "German minister says companies are ‘exploiting situation’ in Middle East, as sky-high prices become major domestic issue for leaders European governments have discussed imposing a bloc-wide windfall tax on energy companies, as near-record fuel and gas prices pile pressure on leaders desperate to contain mounting public discontent and the challenge of the far right.",
+          "zh": "德国部长表示，公司正在“利用中东局势” ，因为天价成为领导人的主要国内问题欧洲各国政府已经讨论了对能源公司征收全集团的意外利得税，因为接近创纪录的燃料和天然气价格给迫切希望遏制公众不满和极右翼挑战的领导人带来了压力。"
+        },
+        {
+          "en": "With elections due next year in eight EU countries including France, Italy, Spain and Poland, leaders are scrambling to head off the potential fallout from what analysts have warned could be one of the continent’s biggest energy shocks in decades.",
+          "zh": "随着包括法国、意大利、西班牙和波兰在内的八个欧盟国家将于明年举行大选，各国领导人正在争先恐后地阻止分析师警告称，这可能是欧洲大陆几十年来最大的能源冲击之一。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "543e2c05d2c60220",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Shark catch-and-kill order issued after swimmer dies off popular Perth beach",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/18/swimmer-dies-after-being-bitten-by-shark-off-popular-perth-beach",
+      "publishedAt": "2026-09-19T06:43:52.000Z",
+      "sentences": [
+        {
+          "en": "Shark catch-and-kill order issued after swimmer dies off popular Perth beach.",
+          "zh": "游泳者在热门的珀斯海滩去世后发出鲨鱼捕杀令。"
+        },
+        {
+          "en": "Man, 63, fatally bitten by shark at Sorrento beach on Friday morning Get our breaking news email , free app or daily news podcast A shark that fatally attacked a man on a beach in Perth’s north will be “destroyed” if it is captured, after an order was issued by the Western Australian government.",
+          "zh": "63岁的男子，周五早上在索伦托海滩被鲨鱼致命咬伤。获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客。在西澳大利亚政府发布命令后，在珀斯北部海滩上致命袭击男子的鲨鱼如果被捕获，将被“摧毁”。"
+        },
+        {
+          "en": "As the hunt for the animal remained under way on Saturday, the WA fisheries minister, Jackie Jarvis, revealed she had greenlit the order.",
+          "zh": "由于周六仍在寻找这只动物，西澳大利亚州渔业部长杰基·贾维斯（ Jackie Jarvis ）透露，她已经批准了这项命令。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "afc919bcb77486b5",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Russia holds parliamentary vote in areas it seized from Ukraine in the war",
+      "url": "https://www.npr.org/2026/09/19/g-s1-144169/russia-holds-parliamentary-vote-in-areas-it-seized-from-ukraine",
+      "publishedAt": "2026-09-19T06:39:57.000Z",
+      "sentences": [
+        {
+          "en": "Russia holds parliamentary vote in areas it seized from Ukraine in the war.",
+          "zh": "俄罗斯在战争中从乌克兰手中夺取的地区举行议会投票。"
+        },
+        {
+          "en": "Russia's parliamentary election for the first time is being held in Ukraine's regions that Moscow illegally annexed after the start of its full-scale invasion more than 4 1/2 years ago.",
+          "zh": "俄罗斯议会选举首次在乌克兰地区举行，莫斯科在4年半前开始全面入侵后非法吞并了这些地区。"
+        },
+        {
+          "en": "(Image credit: AP Photo)",
+          "zh": "（图片来源：美联社照片）"
+        }
+      ]
+    },
+    {
+      "id": "5d9fe7c37ce9ef30",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "As Europe warms, Italy sees West Nile virus spread",
+      "url": "https://www.npr.org/2026/09/19/g-s1-144162/as-europe-warms-italy-sees-west-nile-virus-spread",
+      "publishedAt": "2026-09-19T05:13:18.000Z",
+      "sentences": [
+        {
+          "en": "As Europe warms, Italy sees West Nile virus spread.",
+          "zh": "随着欧洲变暖，意大利看到西尼罗河病毒蔓延。"
+        },
+        {
+          "en": "Italian health authorities see evidence that rising temperatures and longer warm seasons are helping mosquitoes spread West Nile virus across a wider area, during more months of the year.",
+          "zh": "意大利卫生当局看到的证据表明，气温上升和较长的温暖季节正在帮助蚊子在一年中的更多月份将西尼罗河病毒传播到更广阔的地区。"
+        },
+        {
+          "en": "(Image credit: Gregorio Borgia)",
+          "zh": "（图片来源： Gregorio Borgia ）"
+        }
+      ]
+    },
+    {
+      "id": "88a69e30188ad3d5",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "From ovations in Venice to death threats in Israel: the extreme responses to NAZA documentary",
+      "url": "https://www.theguardian.com/film/2026/sep/19/ovations-venice-death-threats-israel-extreme-responses-to-naza-documentary",
+      "publishedAt": "2026-09-19T05:00:37.000Z",
+      "sentences": [
+        {
+          "en": "From ovations in Venice to death threats in Israel: the extreme responses to NAZA documentary.",
+          "zh": "从威尼斯的掌声到以色列的死亡威胁：对NAZA纪录片的极端反应。"
+        },
+        {
+          "en": "As Gaza documentary wins cinematic acclaim, its directors face vitriol in Israel amid a febrile election campaign First there was a moment of stunned silence.",
+          "zh": "随着加沙纪录片赢得电影界的好评，其导演在激烈的竞选活动中在以色列面临讽刺。首先，有一个惊人的沉默时刻。"
+        },
+        {
+          "en": "Then, in the Sala Grande, the main screening hall of the Venice film festival within the Palazzo del Cinema, the audience stood almost as one and turned to applaud the film-makers for 25 minutes.",
+          "zh": "然后，在电影院内威尼斯电影节的主放映厅Sala Grande ，观众几乎站成一体，转身为电影制片人鼓掌25分钟。"
+        },
+        {
+          "en": "The film the audience had watched for 80 harrowing minutes was the Gaza documentary NAZA, which has been produced by the Guardian.",
+          "zh": "观众观看了80分钟的电影是《卫报》制作的加沙纪录片《NAZA》。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "f2469786169da060",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "‘My fear was too great’: the Pussy Riot member recruited by Russian spies to inform on fellow activists",
+      "url": "https://www.theguardian.com/world/2026/sep/19/pussy-riot-russian-spies-fsb-activists-rita-flores",
+      "publishedAt": "2026-09-19T04:00:36.000Z",
+      "sentences": [
+        {
+          "en": "‘My fear was too great’: the Pussy Riot member recruited by Russian spies to inform on fellow activists.",
+          "zh": "“我的恐惧太大了” ： Pussy Riot成员被俄罗斯间谍招募来报道其他活动家。"
+        },
+        {
+          "en": "Exclusive: In her first media interview since fleeing Russia, Rita Flores describes her three years of being run by the FSB First came the blackmail and death threats to secure cooperation, then came a series of tasks, each more sinister than the last: to inform on fellow activists, to elicit personal information from protest-minded artists and – eventually – to help with a plot to kidnap and murder a Kremlin enemy.",
+          "zh": "独家：在她逃离俄罗斯后的第一次媒体采访中，丽塔·弗洛雷斯（ Rita Flores ）描述了她被FSB管理的三年，首先是勒索和死亡威胁以确保合作，然后是一系列任务，每个任务都比上一个更险恶：告知其他活动家，从具有抗议精神的艺术家那里获取个人信息，并最终帮助策划绑架和谋杀克里姆林宫的敌人。"
+        },
+        {
+          "en": "That is how Rita Flores, a 29-year-old Russian artist, activist and former member of the Pussy Riot collective , described her recruitment and three-year handling by officers from Russia’s FSB security service, a cooperation she only broke when she fled the country last month.",
+          "zh": "29岁的俄罗斯艺术家、活动家和Pussy Riot团体的前成员丽塔·弗洛雷斯（ Rita Flores ）就是这样描述她被俄罗斯联邦安全局（ FSB ）官员招募和处理三年的情况的，这是她上个月逃离该国时才打破的合作关系。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "e27b1c10edc84c21",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Men deported from US bound and beaten in Equatorial Guinea detention hotel, lawyers say",
+      "url": "https://www.theguardian.com/us-news/2026/sep/18/us-men-deported-hotel-equatorial-guinea",
+      "publishedAt": "2026-09-18T23:08:49.000Z",
+      "sentences": [
+        {
+          "en": "Men deported from US bound and beaten in Equatorial Guinea detention hotel, lawyers say.",
+          "zh": "律师说，从美国被驱逐出境的男子在赤道几内亚拘留旅馆被绑架和殴打。"
+        },
+        {
+          "en": "Group trapped at Hotel Bamy after US removal as rights groups sound alarm over poor conditions and violence Two men that the Trump administration expelled to Equatorial Guinea were bound, fitted with bags over their heads, beaten and pushed down a flight of stairs, all in plain view of other US deportees, according to witnesses and human rights lawyers.",
+          "zh": "据目击者和人权律师称，在美国被驱逐出境后，两名被特朗普政府驱逐到赤道几内亚的男子被捆绑在一起，头上戴着袋子，被殴打并推下楼梯，所有这些都在其他美国被驱逐出境者的视线中。"
+        },
+        {
+          "en": "The men – one from Egypt and one from Eritrea – were then taken to a prison.",
+          "zh": "这些人--一人来自埃及，一人来自厄立特里亚--随后被关进监狱。"
+        },
+        {
+          "en": "About 30 detainees from the US remain trapped at a hotel in the outskirts of the coastal city of Malabo after being deported from the US.",
+          "zh": "大约30名来自美国的被拘留者被从美国驱逐出境后，仍被困在沿海城市马拉博郊区的一家酒店。"
+        },
+        {
+          "en": "Detainees have said they believe the men were beaten for telling the press and human rights advocates about the poor conditions and violence inside the hotel, and that they are haunted by flashbacks and terrified they will be retaliated against next.",
+          "zh": "被拘留者表示，他们认为这些人因为告诉媒体和人权倡导者酒店内的恶劣条件和暴力而受到殴打，他们被闪回所困扰，并害怕他们下一步会受到报复。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "97be3ab6a4079b10",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Grim discoveries of murdered women spark fear in South Africa",
+      "url": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T23:04:41.000Z",
+      "sentences": [
+        {
+          "en": "Grim discoveries of murdered women spark fear in South Africa.",
+          "zh": "在南非，被谋杀妇女的严峻发现引发了恐惧。"
+        },
+        {
+          "en": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
+          "zh": "Dineo Motapane是最近的九名受害者之一，他们的死亡使一个国家因暴力侵害妇女而受到创伤。"
+        }
+      ]
+    },
+    {
+      "id": "d07f08e5e517af9f",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents",
+      "url": "https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T23:03:38.000Z",
+      "sentences": [
+        {
+          "en": "A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents.",
+          "zh": "四分钟的警告是不够的：俄罗斯新的无情导弹战术耗尽了基辅居民的精力。"
+        },
+        {
+          "en": "Increasingly frequent and ferocious attacks on the Ukrainian capital have left many on edge.",
+          "zh": "对乌克兰首都日益频繁和猛烈的袭击使许多人感到不安。"
+        }
+      ]
+    },
+    {
+      "id": "78d2bea860ff396b",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Trump signs sweeping Russia sanctions bill",
+      "url": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T22:05:47.000Z",
+      "sentences": [
+        {
+          "en": "Trump signs sweeping Russia sanctions bill.",
+          "zh": "特朗普签署了全面的俄罗斯制裁法案。"
+        },
+        {
+          "en": "The bill is named after the late Senator Lindsey Graham, a staunch advocate of aid for Ukraine.",
+          "zh": "该法案以已故参议员林赛·格雷厄姆（ Lindsey Graham ）的名字命名，他是对乌克兰援助的坚定倡导者。"
+        }
+      ]
+    },
+    {
+      "id": "00b4c6ceffe43db1",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
+      "url": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T20:17:50.000Z",
+      "sentences": [
+        {
+          "en": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque.",
+          "zh": "在巴基斯坦清真寺装满炸药的车辆后，至少有21人死亡。"
+        },
+        {
+          "en": "A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility.",
+          "zh": "一名4岁儿童在袭击中丧生，枪手还向警察设施开火。"
+        }
+      ]
+    },
+    {
+      "id": "1ba3f11239185461",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Survivors recount panic and struggle to breathe in Nigerian prison cell where 37 died",
+      "url": "https://www.theguardian.com/world/2026/sep/18/survivor-panic-struggle-breathe-nigeria-prison-cell-died-minna",
+      "publishedAt": "2026-09-18T17:27:39.000Z",
+      "sentences": [
+        {
+          "en": "Survivors recount panic and struggle to breathe in Nigerian prison cell where 37 died.",
+          "zh": "幸存者讲述了尼日利亚监狱牢房的恐慌和呼吸困难， 37人死亡。"
+        },
+        {
+          "en": "Police fire teargas as protests break out in city of Minna after deaths of suspected illegal goldminers, many of whom were children Survivors from a prison cell in Nigeria where 37 suspected illegal goldminers died while in the custody of a paramilitary group this week have recounted their panic and struggle for breath, as police on Friday fired teargas at people protesting against the deaths and imposed an overnight curfew in the city of Minna.",
+          "zh": "在涉嫌非法的金矿开采者死亡后，明纳市爆发了抗议活动，警察发射了催泪瓦斯，其中许多人是尼日利亚监狱牢房的儿童幸存者，本周有37名涉嫌非法的金矿开采者在准军事组织拘留期间死亡，警察周五向抗议死亡的人发射了催泪瓦斯，并在明纳市实施了通宵宵禁。"
+        },
+        {
+          "en": "The victims – many of whom were children – were found dead on Thursday in the cells of the Nigeria Security and Civil Defence Corps (NSCDC), which had raided suspected illegal goldmines and ⁠locked up dozens of miners in the city, the state capital of the mineral-rich state of Niger.",
+          "zh": "受害者（其中许多是儿童）于周四被发现死在尼日利亚安全与民防部队（ NSCDC ）的牢房中，该部队突袭了涉嫌非法的金矿，并将数十名矿工锁定在该市，尼日尔矿产资源丰富的州首府。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "eb5e0e2da34b5b55",
+      "sourceId": "cloudflare-blog",
+      "category": "open-source",
+      "title": "Saving another 100TB of RAM with math (and Rust)",
+      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+      "publishedAt": "2026-09-18T17:23:58.000Z",
+      "sentences": [
+        {
+          "en": "Saving another 100TB of RAM with math (and Rust).",
+          "zh": "使用MATH （和Rust ）节省另外100TB的RAM。"
+        },
+        {
+          "en": "Cloudflare operates at a scale so big that even after working here for years, it doesn’t seem real.",
+          "zh": "Cloudflare的运营规模如此之大，即使在这里工作多年，也似乎并不真实。"
+        },
+        {
+          "en": "We have thousands of servers all over the world with petabytes of RAM and millions of CPU cores, and all of it is pushed to the max.",
+          "zh": "我们在全球拥有数千台服务器，拥有数PB的RAM和数百万个CPU内核，所有这些都被推到了最大值。"
+        },
+        {
+          "en": "As vast as those resources feel, they are still finite, and when you need every service to run on every node, it doesn’t leave room for wasted space.",
+          "zh": "尽管这些资源非常庞大，但它们仍然是有限的，当您需要在每个节点上运行每个服务时，它不会留下浪费空间的空间。"
+        },
+        {
+          "en": "At this scale, small improvements are greatly magnified, so even 1%-at-a-time improvements are worth celebrating.",
+          "zh": "在这个规模上，微小的改进会被大大放大，因此即使是1%的改进也值得庆祝。"
+        },
+        {
+          "en": "And some tweaks add up to a lot more: in this post, we’ll look at how small changes to a single algorithm reduced the memory footprint of one of our Pingora-based services significantly.",
+          "zh": "一些调整加起来要多得多：在这篇文章中，我们将了解对单个算法的微小更改如何显著减少我们基于Pingora的服务之一的内存占用。"
+        },
+        {
+          "en": "That allowed us to reclaim more than 100TB of RAM globally, on top of the 100TB of memory the DNS team was able to shed last month .",
+          "zh": "这使我们能够在全球范围内回收超过100TB的内存，此外， DNS团队上个月还能够节省100TB的内存。"
+        },
+        {
+          "en": "Waste not Maintaining equitable resource sharing between teams is not easy, especially in large organizations.",
+          "zh": "浪费不维护团队之间的公平资源共享并不容易，在大型组织中尤其如此。"
+        },
+        {
+          "en": "One of the ways Cloudflare ensures the balance is kept is through the tireless efforts of the wonderful Performance team.",
+          "zh": "Cloudflare确保平衡的方法之一是通过出色的性能团队的不懈努力。"
+        },
+        {
+          "en": "This story starts with a ticket filed by Ivan who found: Excessive memory usage from pingora-ketama in Pingora Backend Router .",
+          "zh": "这个故事始于Ivan提交的一张工单，他发现： Pingora后端路由器中pingora-ketama的内存使用过多。"
+        },
+        {
+          "en": "The finding was that our internal load-balancing service, Pingora Backend Router (yes, PBR), was using significantly more memory than expected — specifically in structures associated with pingora-ketama, which is our open-source library for handling consistent hashing.",
+          "zh": "调查结果表明，我们的内部负载平衡服务Pingora后端路由器（是的， PBR ）使用的内存比预期的要多得多，特别是在与pingora-ketama相关的结构中， pingora-ketama是我们用于处理一致哈希的开源库。"
+        },
+        {
+          "en": "In order to talk about how we addressed this seeming overuse of memory, we need to talk about what consistent hashing even is, why we are using it in PBR, and how it became so memory hungry.",
+          "zh": "为了讨论我们如何解决这种看似过度使用记忆的问题，我们需要讨论一致哈希是什么，为什么我们在PBR中使用它，以及它是如何变得如此缺乏记忆的。"
+        }
+      ]
+    },
+    {
+      "id": "acb2b4c655687412",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Brazil’s Lula announces higher welfare payments and free weight-loss jabs ahead of election",
+      "url": "https://www.theguardian.com/world/2026/sep/18/brazil-lula-welfare-payments-weight-loss-jabs-election",
+      "publishedAt": "2026-09-18T17:10:37.000Z",
+      "sentences": [
+        {
+          "en": "Brazil’s Lula announces higher welfare payments and free weight-loss jabs ahead of election.",
+          "zh": "巴西的卢拉在选举前宣布提高福利金和免费减肥刺戳。"
+        },
+        {
+          "en": "Critics say moves from leftwing incumbent president are electorally motivated two weeks before Brazil’s elections Brazil’s president, Luiz Inácio Lula da Silva, has announced a 15% increase in the country’s main cash-transfer programme for poor families, as well as free weight-loss jabs, prompting criticism from opponents who say the moves are electorally motivated just two weeks before the presidential election.",
+          "zh": "批评人士说，巴西总统路易斯·伊纳西奥·卢拉·达席尔瓦（ Luiz Inácio Lula da Silva ）在巴西大选前两周宣布，该国针对贫困家庭的主要现金转移计划增加了15 ％ ，以及免费减肥刺激，这引发了反对者的批评，他们说这些举动是在总统选举前两周的选举动机。"
+        },
+        {
+          "en": "On 4 October, the leftwing incumbent will face the far-right senator Flávio Bolsonaro, son of the former president Jair Bolsonaro, who has been gaining ground in recent weeks.",
+          "zh": "10月4日，这位左翼现任议员将面对极右翼参议员弗拉维奥·博尔索纳罗（ Flávio Bolsonaro ） ，他是前总统贾尔·博尔索纳罗（ Jair Bolsonaro ）的儿子，最近几周他一直在取得进展。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "43dae131a478eb98",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Earn continuing education and college credits for AI educator training.",
+      "url": "https://blog.google/products-and-platforms/products/education/college-credit-ai-educator-series/",
+      "publishedAt": "2026-09-18T16:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Earn continuing education and college credits for AI educator training.",
+          "zh": "通过人工智能教育工作者培训获得继续教育和大学学分。"
+        },
+        {
+          "en": "Earn college or continuing education credits by taking the Google AI Educator Series courses.",
+          "zh": "通过参加Google AI Educator系列课程，获得大学或继续教育学分。"
+        }
+      ]
+    }
+  ],
+  "failures": []
+}
