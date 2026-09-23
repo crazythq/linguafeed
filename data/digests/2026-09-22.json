@@ -1,0 +1,883 @@
+{
+  "date": "2026-09-22",
+  "collectedAt": "2026-09-23T03:29:55.002Z",
+  "items": [
+    {
+      "id": "76c585a3c7072075",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Autopsy shows Hayden Panettiere died from a drug overdose",
+      "url": "https://www.bbc.co.uk/news/articles/crn45d8dd2wdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T15:17:37.000Z",
+      "sentences": [
+        {
+          "en": "Autopsy shows Hayden Panettiere died from a drug overdose.",
+          "zh": "尸检显示， Hayden Panettiere死于药物过量。"
+        },
+        {
+          "en": "The death of the child star - who had fentanyl, Xanax, a muscle relaxant and antipsychotic medication in her system - was ruled an accident.",
+          "zh": "这位儿童明星的死亡-她的体内有芬太尼， Xanax ，一种肌肉松弛剂和抗精神病药物-被裁定为事故。"
+        }
+      ]
+    },
+    {
+      "id": "10d20e10ea8802d0",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Veteran BBC Africa correspondent Mark Doyle dies aged 67",
+      "url": "https://www.bbc.co.uk/news/articles/cq986214den3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T14:16:42.000Z",
+      "sentences": [
+        {
+          "en": "Veteran BBC Africa correspondent Mark Doyle dies aged 67.",
+          "zh": "资深BBC非洲记者马克·道尔去世，享年67岁。"
+        },
+        {
+          "en": "Doyle was best known for reporting on African conflicts in the 1990s and 2000s, notably in Rwanda and Sierra Leone.",
+          "zh": "Doyle以报道20世纪90年代和21世纪初的非洲冲突而闻名，特别是在卢旺达和塞拉利昂。"
+        }
+      ]
+    },
+    {
+      "id": "6a96baabbc49e6fb",
+      "sourceId": "cloudflare-blog",
+      "category": "security",
+      "title": "We just shipped support for the ugliest part of HTTP: Vary",
+      "url": "https://blog.cloudflare.com/vary-support/",
+      "publishedAt": "2026-09-22T14:04:31.000Z",
+      "sentences": [
+        {
+          "en": "We just shipped support for the ugliest part of HTTP: Vary.",
+          "zh": null
+        },
+        {
+          "en": "The response header, Vary , has been called “ the ugliest part of HTTP that we haven&#x27;t yet improved.",
+          "zh": null
+        },
+        {
+          "en": "” The same post describes it as a “horrible, kludgy mechanism” with “pretty abysmal interoperability” across intermediaries.",
+          "zh": null
+        },
+        {
+          "en": "That is usually where sensible engineers back away slowly with their hands raised.",
+          "zh": null
+        },
+        {
+          "en": "That’s not exactly an endorsement of Vary , but ugly doesn’t mean useless.",
+          "zh": null
+        },
+        {
+          "en": "One URL can have more than one correct response.",
+          "zh": null
+        },
+        {
+          "en": "A server might, for example, deliver different image formats to different browsers.",
+          "zh": null
+        },
+        {
+          "en": "If a cache ignores Vary , it risks serving the wrong bytes to a request.",
+          "zh": null
+        },
+        {
+          "en": "But if it treats every raw header value as distinct, a handful of similar requests can spread into thousands of barely reusable cache entries.",
+          "zh": null
+        },
+        {
+          "en": "Vary tells a cache which request fields may affect the response, but it does not tell the cache which differences actually matter.",
+          "zh": null
+        },
+        {
+          "en": "Vary support is now available in Cache Rules on every plan.",
+          "zh": null
+        },
+        {
+          "en": "The origin still names the request headers that may affect a response, but you decide how Cloudflare handles each one.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "f744e024d7018997",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Using AI to help local governments connect with constituents",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/sensemaking-ai/",
+      "publishedAt": "2026-09-22T14:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Using AI to help local governments connect with constituents.",
+          "zh": null
+        },
+        {
+          "en": "We’re supporting Jigsaw’s collaborative Sensemaking AI fund — and calling on leaders around the world to join us.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "3576d46893ca7b14",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Lindsay Clancy's lawyer asks judge to investigate juror and check his phone",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gvyw80dp2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T13:58:42.000Z",
+      "sentences": [
+        {
+          "en": "Lindsay Clancy's lawyer asks judge to investigate juror and check his phone.",
+          "zh": "Lindsay Clancy的律师要求法官调查陪审员并检查他的手机。"
+        },
+        {
+          "en": "The attorney wants the court to look at the juror's mobile phone use and answers on questionnaires.",
+          "zh": "律师希望法院查看陪审员的手机使用情况和问卷调查的答案。"
+        }
+      ]
+    },
+    {
+      "id": "35e78846eb7c2850",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Up to 169 killed in Yemen as Houthis battle for Red Sea coastal heights",
+      "url": "https://www.theguardian.com/world/2026/sep/22/yemen-houthis-battle-strategic-red-sea-heights",
+      "publishedAt": "2026-09-22T13:57:36.000Z",
+      "sentences": [
+        {
+          "en": "Up to 169 killed in Yemen as Houthis battle for Red Sea coastal heights.",
+          "zh": "在胡塞武装争夺红海沿岸高地时，多达169人在也门阵亡。"
+        },
+        {
+          "en": "Thousands flee fighting as Iran-aligned group seeks to consolidate territorial gains against Saudi-backed government forces Middle East live – latest updates As many as 169 people have been reportedly killed in Yemen in the last three days as Iran-aligned Houthis battle Saudi-backed government forces for control of strategic heights on the Red Sea coast, while thousands flee the violence.",
+          "zh": "随着与伊朗结盟的团体寻求巩固对沙特支持的中东政府军的领土收益，成千上万的人逃离战斗–最新更新据报道，在过去三天里，也门有多达169人被杀害，因为与伊朗结盟的胡塞武装与沙特支持的政府军争夺红海沿岸的战略高地控制权，而成千上万的人逃离暴力。"
+        },
+        {
+          "en": "Houthi military officials said at least 118 people had been killed in clashes as well as Saudi air and artillery strikes on Taiz, al-Jawf, Marib and Saada provinces since Sunday, Agence France-Presse reported.",
+          "zh": "据法新社报道，胡塞军方官员表示，自周日以来，至少有118人在塔伊兹、焦夫、马里卜和萨达省的冲突以及沙特空中和炮击中丧生。"
+        },
+        {
+          "en": "Yemeni government sources have said at least 36 people have been killed on their side of the conflict.",
+          "zh": "也门政府消息人士称，至少有36人在冲突中丧生。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "1fb27fe8888fcded",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T13:49:22.000Z",
+      "sentences": [
+        {
+          "en": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC.",
+          "zh": "总理告诉英国广播公司，立陶宛准备“反击” ，但面对俄罗斯的威胁，立陶宛有撤离计划。"
+        },
+        {
+          "en": "Sinkevičius told BBC Newsnight Lithuanians feel \"constantly threatened\" by Moscow, but the nation was prepared to \"fight back\" if attacked.",
+          "zh": "Sinkevičius告诉BBC新闻之夜，立陶宛人感到莫斯科“不断受到威胁” ，但该国准备在受到攻击时“反击”。"
+        }
+      ]
+    },
+    {
+      "id": "ec6747a4ee420515",
+      "sourceId": "guardian-world",
+      "category": "business",
+      "title": "British banks warned not to invest in planned Israeli settlement before UK trade ban begins",
+      "url": "https://www.theguardian.com/politics/2026/sep/22/mps-uk-banks-investment-israeli-settlement-trade-ban",
+      "publishedAt": "2026-09-22T13:43:41.000Z",
+      "sentences": [
+        {
+          "en": "British banks warned not to invest in planned Israeli settlement before UK trade ban begins.",
+          "zh": "英国银行警告说，在英国贸易禁令开始之前，不要投资计划中的以色列定居点。"
+        },
+        {
+          "en": "MPs send out letter as Israeli government seeks bids for construction of large E1 settlement in West Bank British banks and financial institutions are receiving written warnings from MPs that they should not invest in Israel’s E1 settlement project even though new UK laws banning trade with illegal settlements are unlikely to be in place for months.",
+          "zh": "在以色列政府寻求在约旦河西岸建造大型E1定居点时，议员们发出了信函。英国银行和金融机构正在收到议员的书面警告，即他们不应该投资于以色列的E1定居点项目，尽管英国禁止与非法定居点进行贸易的新法律不太可能在几个月内到位。"
+        },
+        {
+          "en": "A letter was sent to banks on Tuesday by the all-party Britain-Palestine group of MPs saying the onus was now on banks to review their obligations not to cooperate with new settlements.",
+          "zh": "周二，英国-巴勒斯坦多党议员小组向银行发送了一封信，称银行现在有责任审查他们不与新和解合作的义务。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "007b74de84db5761",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
+      "url": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T13:39:09.000Z",
+      "sentences": [
+        {
+          "en": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly.",
+          "zh": "七国集团在联合国大会召开之前表示，伊朗必须停止在也门武装胡塞武装。"
+        },
+        {
+          "en": "The G7 also condemns \"in the strongest terms\" Houthi attacks on Saudi Arabia, saying that the escalation in fighting in Yemen jeopardises global energy security.",
+          "zh": "七国集团还“最强烈地”谴责胡塞武装对沙特阿拉伯的袭击，称也门战斗升级危及全球能源安全。"
+        }
+      ]
+    },
+    {
+      "id": "c2ee8cb6be473312",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Sri Lanka court convicts 15 over deadly 2019 Easter bombings",
+      "url": "https://www.npr.org/2026/09/22/g-s1-144514/sri-lanka-court-convicts-15-over-deadly-2019-easter-bombings",
+      "publishedAt": "2026-09-22T13:30:01.000Z",
+      "sentences": [
+        {
+          "en": "Sri Lanka court convicts 15 over deadly 2019 Easter bombings.",
+          "zh": "斯里兰卡法院因2019年复活节爆炸案判处15人有罪。"
+        },
+        {
+          "en": "The Islamic State group-inspired attacks were among the deadliest in Sri Lanka's history, killing 42 foreigners.",
+          "zh": "伊斯兰国组织发动的袭击是斯里兰卡历史上最致命的袭击之一，造成42名外国人死亡。"
+        },
+        {
+          "en": "(Image credit: Eranga Jayawardane)",
+          "zh": "（图片来源： Eranga Jayawardane ）"
+        }
+      ]
+    },
+    {
+      "id": "ab302bb0477e2ce3",
+      "sourceId": "cloudflare-blog",
+      "category": "security",
+      "title": "Introducing Worker Previews: Isolated preview environments for every change your agent makes",
+      "url": "https://blog.cloudflare.com/worker-previews/",
+      "publishedAt": "2026-09-22T13:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Introducing Worker Previews: Isolated preview environments for every change your agent makes.",
+          "zh": null
+        },
+        {
+          "en": "Nothing is worse than testing out a change that works in staging, only to see it behave differently in production.",
+          "zh": null
+        },
+        {
+          "en": "That’s why we wanted to give you an environment that’s as close to production as possible — so you can battle-test your changes and make sure they behave exactly as you expect them to.",
+          "zh": null
+        },
+        {
+          "en": "Agents are helping us push more lines of code than ever before, and larger changes mean more ground needs to be tested ahead of release.",
+          "zh": null
+        },
+        {
+          "en": "Ideally, that testing is done in a way that doesn’t slow agents down , but gives them the tools to take on more of the development lifecycle.",
+          "zh": null
+        },
+        {
+          "en": "That’s why today we’re launching Worker Previews .",
+          "zh": null
+        },
+        {
+          "en": "Each Git branch gets a production-like place to run, with its own code, configuration, URL, observability, and state.",
+          "zh": null
+        },
+        {
+          "en": "So now, for every change in your codebase, you can: Deploy an isolated Preview with npx wrangler preview , using its own variables, secrets, and bindings, separate from production configuration and traffic.",
+          "zh": null
+        },
+        {
+          "en": "Share a stable Preview URL for the branch so that every push updates the same running Preview where you can send requests, click through the UI, and test runtime responses.",
+          "zh": null
+        },
+        {
+          "en": "Isolate Durable Objects and Containers per branch, keeping state changes, sessions, memory, migrations, and concurrent tests scoped to that Preview.",
+          "zh": null
+        },
+        {
+          "en": "Inspect logs, errors, metrics, and traces for that Preview to confirm the change works, catch failures, push a fix, and verify it before production sees it.",
+          "zh": null
+        },
+        {
+          "en": "Start from the Preview configuration you set, so each Preview begins with a copy of the variables, secrets, bindings, and settings you define — just like a code branch starts from main .",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "1fbd54746d123764",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Developing El Niño becomes strongest on record weeks before expected peak",
+      "url": "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T12:54:14.000Z",
+      "sentences": [
+        {
+          "en": "Developing El Niño becomes strongest on record weeks before expected peak.",
+          "zh": "在预期峰值之前的几周内，厄尔尼诺现象的发展最为强劲。"
+        },
+        {
+          "en": "Scientists say the developing El Niño is now the strongest on record with weather impacts already being felt around the world.",
+          "zh": "科学家说，正在发展的厄尔尼诺现象现在是有史以来最强烈的，世界各地已经感受到了天气的影响。"
+        }
+      ]
+    },
+    {
+      "id": "fbe4f21d7bb0433b",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Time to accept ‘hard truths’ so trust can be rebuilt: General Assembly President",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168394",
+      "publishedAt": "2026-09-22T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Time to accept ‘hard truths’ so trust can be rebuilt: General Assembly President.",
+          "zh": "是时候接受“硬道理”了，这样才能重建信任：大会主席。"
+        },
+        {
+          "en": "The UN’s survival for 80 years is not, by itself, proof of success, and now, the institution must confront painful truths if it hopes to rebuild public trust, said Khalilur Rahman, president of the General Assembly’s 81st session on Tuesday.",
+          "zh": "大会第81届会议主席哈利卢尔·拉赫曼（ Khalilur Rahman ）周二表示，联合国80年的生存本身并不是成功的证明，现在，如果希望重建公众信任，该机构必须面对痛苦的真相。"
+        }
+      ]
+    },
+    {
+      "id": "f060e1a0645ca855",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Diplomacy is the way to address global challenges, Brazil tells General Assembly",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168395",
+      "publishedAt": "2026-09-22T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Diplomacy is the way to address global challenges, Brazil tells General Assembly.",
+          "zh": "巴西告诉大会，外交是应对全球挑战的方式。"
+        },
+        {
+          "en": "Brazilian President Luiz Inácio Lula da Silva told the General Assembly on Tuesday that the UN needs to become a “temple of peace” once again, as it confronts one of the most critical periods in its 80-year history.",
+          "zh": "巴西总统路易斯·伊纳西奥·卢拉·达席尔瓦（ Luiz Inácio Lula da Silva ）周二告诉大会，联合国需要再次成为“和平圣殿” ，因为它面临着80年历史上最关键的时期之一。"
+        }
+      ]
+    },
+    {
+      "id": "186fd1ffc0f43b48",
+      "sourceId": "un-news",
+      "category": "ai",
+      "title": "Trump defends military action against Iran, Venezuela, and calls for rebrand of AI",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168397",
+      "publishedAt": "2026-09-22T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Trump defends military action against Iran, Venezuela, and calls for rebrand of AI.",
+          "zh": "特朗普为针对伊朗、委内瑞拉的军事行动辩护，并呼吁重塑人工智能品牌。"
+        },
+        {
+          "en": "US President Donald Trump used his address to the UN General Assembly on Tuesday to defend recent military action against Iran, urging countries to maintain economic pressure on Tehran – and declaring that he now faces a choice between making a deal, or taking far more drastic steps.",
+          "zh": "美国总统唐纳德·特朗普周二在联合国大会上发表讲话，为最近对伊朗采取的军事行动辩护，敦促各国保持对德黑兰的经济压力，并宣布他现在面临着在达成协议或采取更激烈措施之间的选择。"
+        }
+      ]
+    },
+    {
+      "id": "638ebfb593a5a025",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "UN rendered unable to fulfil its mission, Turkish President laments before world leaders",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168399",
+      "publishedAt": "2026-09-22T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "UN rendered unable to fulfil its mission, Turkish President laments before world leaders.",
+          "zh": "联合国无法完成其使命，土耳其总统在世界领导人面前哀叹。"
+        },
+        {
+          "en": "The United Nations continues to be weakened, and those who have tied their hopes to the world body – from Palestine to Sudan – have been disappointed, Türkiye’s President said, while adding that his country is committed to restoring confidence in the Organization.",
+          "zh": "土耳其总统说，联合国继续受到削弱，那些把希望寄托在这个世界机构--从巴勒斯坦到苏丹--的人感到失望，同时补充说，土耳其致力于恢复对本组织的信心。"
+        }
+      ]
+    },
+    {
+      "id": "59a866029d47f56d",
+      "sourceId": "un-news",
+      "category": "security",
+      "title": "Qatar: Absence of a regional collective security system is fuelling crisis in the Gulf",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168400",
+      "publishedAt": "2026-09-22T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Qatar: Absence of a regional collective security system is fuelling crisis in the Gulf.",
+          "zh": "卡塔尔：缺乏区域集体安全体系正在加剧海湾地区的危机。"
+        },
+        {
+          "en": "The crisis in the Gulf should come as a surprise to no one, the Emir of Qatar, Sheikh Tamim bin Hamad Al Thani said on Tuesday, describing it as the cumulative result of years of delay, crisis management through temporary fixes, and unrealistic policies.",
+          "zh": "卡塔尔埃米尔谢赫·塔米姆·本·哈马德·阿勒萨尼（ Sheikh Tamim bin Hamad Al Thani ）周二表示，海湾危机不应让任何人感到意外，他将其描述为多年拖延、通过临时修复进行危机管理和不切实际的政策的累积结果。"
+        }
+      ]
+    },
+    {
+      "id": "96f6c41081b515bc",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Choose international order over ‘law of the jungle’, urges Macron",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168402",
+      "publishedAt": "2026-09-22T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Choose international order over ‘law of the jungle’, urges Macron.",
+          "zh": "马克龙敦促，选择国际秩序而不是“丛林法则”。"
+        },
+        {
+          "en": "French President Emmanuel Macron said on Tuesday that the world faces a stark choice: “Do we want to live…with a return to the law of the jungle – or do we want to live in a civilized international society?”",
+          "zh": "法国总统埃马纽埃尔·马克龙（ Emmanuel Macron ）周二表示，世界面临着一个严峻的选择： “我们是想生活在……回到丛林法则中，还是想生活在一个文明的国际社会中？”"
+        }
+      ]
+    },
+    {
+      "id": "52265a693e2464db",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "‘Time is running out’ for Israel-Palestine two-State solution",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168401",
+      "publishedAt": "2026-09-22T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "‘Time is running out’ for Israel-Palestine two-State solution.",
+          "zh": "以色列-巴勒斯坦两国解决方案的“时间不多了”。"
+        },
+        {
+          "en": "The UN chief warned on Tuesday that the two-State solution for the Israel-Palestine conflict is at risk of collapse amid illegal Israeli settlement expansion and annexation.",
+          "zh": "这位联合国秘书长周二警告说，在以色列非法扩张和吞并定居点的情况下，以巴冲突的两国解决方案面临崩溃的风险。"
+        }
+      ]
+    },
+    {
+      "id": "ad3f4090f184fc50",
+      "sourceId": "un-news",
+      "category": "ai",
+      "title": "‘Ask us first’: Children demand a voice on AI’s future",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168403",
+      "publishedAt": "2026-09-22T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "‘Ask us first’: Children demand a voice on AI’s future.",
+          "zh": "“先问我们” ：孩子们要求对人工智能的未来发出声音。"
+        },
+        {
+          "en": "The first generation to grow up with AI may also be the last one anyone thinks to ask about it – and that has to change, the UN's top human rights official said on Tuesday.",
+          "zh": "联合国高级人权官员周二表示，随着人工智能成长起来的第一代人也可能是最后一个想问的人--这必须改变。"
+        }
+      ]
+    },
+    {
+      "id": "53296e5cc3c5b417",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "CNN, MS NOW and Politico sue Trump. And, Paramount settles in massive merger lawsuit",
+      "url": "https://www.npr.org/2026/09/22/g-s1-144512/up-first-newsletter-press-lawsuit-cnn-msnow-politico-unga-trump-speech-paramount-deal",
+      "publishedAt": "2026-09-22T11:01:01.000Z",
+      "sentences": [
+        {
+          "en": "CNN, MS NOW and Politico sue Trump.",
+          "zh": "CNN、MS NOW和Politico起诉特朗普。"
+        },
+        {
+          "en": "And, Paramount settles in massive merger lawsuit.",
+          "zh": "而且，派拉蒙在大规模合并诉讼中达成和解。"
+        },
+        {
+          "en": "CNN, MS NOW and Politico have sued Trump after the networks were suspended from the White House.",
+          "zh": "CNN、MS NOW和Politico在网络被白宫暂停后起诉了特朗普。"
+        },
+        {
+          "en": "And, Paramount makes concessions to resolve a lawsuit over its massive Warner Bros.",
+          "zh": "而且，派拉蒙在解决其庞大的华纳兄弟诉讼方面做出了让步。"
+        },
+        {
+          "en": "Discovery merger.",
+          "zh": "Discovery合并。"
+        },
+        {
+          "en": "(Image credit: Alex Wroblewski)",
+          "zh": "（图片来源： Alex Wroblewski ）"
+        }
+      ]
+    },
+    {
+      "id": "961bfe9ff7b6ed20",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Houthis try to push deeper into western Yemen, upending life, witnesses tell NPR",
+      "url": "https://www.npr.org/2026/09/22/g-s1-144261/yemen-houthis-saudi-iran-humanitarian-crisis",
+      "publishedAt": "2026-09-22T10:59:37.000Z",
+      "sentences": [
+        {
+          "en": "Houthis try to push deeper into western Yemen, upending life, witnesses tell NPR.",
+          "zh": "目击者告诉NPR ，胡塞武装试图深入也门西部，颠覆生活。"
+        },
+        {
+          "en": "As the U.S. conflict with Iran drags, the Iranian-backed Houthis in Yemen have opened a new front, taking new territory and displacing more than 100,000 people.",
+          "zh": "随着美国与伊朗冲突的拖延，伊朗支持的也门胡塞武装开辟了新的战线，占领了新的领土，使10多万人流离失所。"
+        },
+        {
+          "en": "(Image credit: Mohammed Huwais)",
+          "zh": "（图片来源： Mohammed Huwais ）"
+        }
+      ]
+    },
+    {
+      "id": "8a2a060e852f05fe",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "A journalist once barred from the White House says this media ban is different",
+      "url": "https://www.npr.org/2026/09/22/nx-s1-5976755/jim-acosta-white-house-media-ban",
+      "publishedAt": "2026-09-22T10:47:59.000Z",
+      "sentences": [
+        {
+          "en": "A journalist once barred from the White House says this media ban is different.",
+          "zh": "一名曾被白宫禁止的记者表示，这项媒体禁令与众不同。"
+        },
+        {
+          "en": "Jim Acosta has already been through a White House press-pass fight.",
+          "zh": "吉姆·阿科斯塔（ Jim Acosta ）已经经历了一场白宫的新闻发布会"
+        },
+        {
+          "en": "Now, three news organizations are barred, and he says the press is showing solidarity that should have come sooner.",
+          "zh": "现在，三家新闻机构被禁止，他说，媒体正在表现出应该更早出现的团结。"
+        }
+      ]
+    },
+    {
+      "id": "0bf9156e89877657",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Eleven injured in shooting outside Turkish school",
+      "url": "https://www.bbc.co.uk/news/articles/c6y0z4gv0le4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T10:42:47.000Z",
+      "sentences": [
+        {
+          "en": "Eleven injured in shooting outside Turkish school.",
+          "zh": "11人在土耳其学校外开枪受伤。"
+        },
+        {
+          "en": "Footage appears to show a male in the area carrying a firearm, while officials say the attacker has been captured.",
+          "zh": "录像显示，该地区有一名男性携带枪支，而官员称袭击者已被抓获。"
+        }
+      ]
+    },
+    {
+      "id": "58d5502f04dd97d1",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Australia investigating how F-35 fighter jet parts bound for US went missing in Hong Kong",
+      "url": "https://www.theguardian.com/world/2026/sep/22/australia-investigating-how-f-35-fighter-jet-parts-bound-for-us-went-missing-in-hong-kong",
+      "publishedAt": "2026-09-22T10:00:15.000Z",
+      "sentences": [
+        {
+          "en": "Australia investigating how F-35 fighter jet parts bound for US went missing in Hong Kong.",
+          "zh": "澳大利亚正在调查运往美国的F-35战斗机零部件是如何在香港失踪的。"
+        },
+        {
+          "en": "Disappearance of jet components sparks concern some of the program’s technology secrets could have been exposed Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The Department of Defence is examining how F-35 fighter jet parts bound for the US from Australia were unexpectedly diverted to Hong Kong, the acting prime minister, Richard Marles, has said.",
+          "zh": "代理总理理查德·马尔斯（ Richard Marles ）表示，喷气式飞机部件的消失引发了人们对该计划的一些技术机密可能已被曝光的担忧。请关注我们的澳大利亚新闻直播博客，了解最新动态。获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客。国防部正在研究如何将从澳大利亚运往美国的F-35战斗机部件意外地转移到香港。"
+        },
+        {
+          "en": "Marles said “very much everything that has occurred at the Australian end” would be reviewed, but claimed the technology parts were not “sensitive”, as first reported by Politico over the weekend .",
+          "zh": "Marles表示， “澳大利亚方面发生的一切”都将得到审查，但他声称，正如Politico上周末首次报道的那样，技术部分并不“敏感”。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "b1866916a2584832",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Burnham expects to find 'common ground' with Trump in first meeting",
+      "url": "https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T06:03:22.000Z",
+      "sentences": [
+        {
+          "en": "Burnham expects to find 'common ground' with Trump in first meeting.",
+          "zh": "伯纳姆希望在第一次会面中与特朗普找到“共同点”。"
+        },
+        {
+          "en": "In New York, the prime minister will also deliver a speech to the UN General Assembly expected to be focused on AI.",
+          "zh": "在纽约，总理还将在联合国大会上发表讲话，预计将重点关注人工智能。"
+        }
+      ]
+    },
+    {
+      "id": "afeb60b76bb858a7",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "At least four people killed in Japan as typhoon Dujuan triggers heavy rain, landslides",
+      "url": "https://www.theguardian.com/world/2026/sep/22/typhoon-dujuan-japan-latest-weather-millions-told-to-evacuate-tokyo",
+      "publishedAt": "2026-09-22T04:48:59.000Z",
+      "sentences": [
+        {
+          "en": "At least four people killed in Japan as typhoon Dujuan triggers heavy rain, landslides.",
+          "zh": "由于台风杜娟引发大雨和山体滑坡，日本至少有四人丧生。"
+        },
+        {
+          "en": "Rescuers search for missing in collapsed homes after storm causes landslides, travel chaos and power outages Typhoon Dujuan has killed at least four people and injured 22 in Japan, while tens of thousands of houses near Tokyo remained without power after the storm swept through the region, authorities said on Tuesday.",
+          "zh": "当局周二表示，在风暴导致山体滑坡、旅行混乱和停电后，救援人员在日本寻找倒塌房屋中的失踪人员，台风杜娟已造成至少4人死亡， 22人受伤，而东京附近的数万所房屋在风暴席卷该地区后仍未通电。"
+        },
+        {
+          "en": "Dujuan – which brought violent winds of 144km/h (89mph) – was moving away from Japan on Tuesday morning, allowing authorities to downgrade most heavy rain and landslide warnings.",
+          "zh": "杜胡安–带来了144公里/小时（ 89英里/小时）的狂风–周二早上正在离开日本，允许当局降级大多数大雨和山体滑坡警告。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "be6e7db8a0fd45ac",
+      "sourceId": "guardian-world",
+      "category": "ai",
+      "title": "British Columbia sues OpenAI and Sam Altman over Tumbler Ridge mass school shooting",
+      "url": "https://www.theguardian.com/technology/2026/sep/22/british-columbia-sues-openai-sam-altman-tumbler-ridge-school-shooting",
+      "publishedAt": "2026-09-22T04:29:22.000Z",
+      "sentences": [
+        {
+          "en": "British Columbia sues OpenAI and Sam Altman over Tumbler Ridge mass school shooting.",
+          "zh": "不列颠哥伦比亚省就Tumbler Ridge大规模学校枪击案起诉OpenAI和Sam Altman。"
+        },
+        {
+          "en": "Canadian province alleges deadly attack could have been prevented if company had warned police of shooter’s ChatGPT use British Columbia has sued OpenAI , saying a mass shooting at a school in the Canadian province could have been prevented if the company had warned local ⁠law enforcement that the shooter ⁠had used ChatGPT to ​plan the attack.",
+          "zh": "加拿大省声称，如果公司警告警方枪手使用不列颠哥伦比亚省的ChatGPT ，就可以防止致命的袭击，并起诉OpenAI ，称如果公司警告当地执法部门枪手使用ChatGPT策划袭击，就可以防止在加拿大省一所学校发生大规模枪击事件。"
+        },
+        {
+          "en": "The lawsuit, filed in San Francisco federal court on Monday, names OpenAI and its CEO, Sam Altman , as defendants.",
+          "zh": "该诉讼于周一在旧金山联邦法院提起，将OpenAI及其首席执行官Sam Altman列为被告。"
+        },
+        {
+          "en": "It is seeking damages to fund recovery efforts in the province after the February attack, as well as an order directing changes to the way the company handles ChatGPT conversations that could lead to violence.",
+          "zh": "它正在寻求损害赔偿，以资助2月袭击事件后该省的恢复工作，以及一项命令，指示改变公司处理可能导致暴力的ChatGPT对话的方式。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "a2708d97c64691b1",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Healthcare in Africa ‘under growing strain’ after US withdrawal from aid programs, report warns",
+      "url": "https://www.theguardian.com/us-news/2026/sep/21/africa-healthcare-aid-program-withdrawl",
+      "publishedAt": "2026-09-21T22:33:40.000Z",
+      "sentences": [
+        {
+          "en": "Healthcare in Africa ‘under growing strain’ after US withdrawal from aid programs, report warns.",
+          "zh": "报告警告说，在美国退出援助计划后，非洲的医疗保健“压力越来越大”。"
+        },
+        {
+          "en": "Accra Reset’s report states countries in the region and global south should take greater control of their health development after USAID debacle The United States’ withdrawal from key aid programs has put healthcare in Africa and the Global South “under growing strain” a new report warns.",
+          "zh": "阿克拉重置的报告指出，在美国国际开发署崩溃后，该地区和全球南方国家应该更好地控制自己的健康发展。一份新报告警告说，美国退出关键援助计划使非洲和全球南方的医疗保健“承受越来越大的压力”。"
+        },
+        {
+          "en": "The report says the Trump administration’s cuts to programs such as US Agency for International Development (USAID), as well as the Covid-19 pandemic and rising costs of living globally have brought “new urgency” for the need to reform healthcare in the region.",
+          "zh": "该报告称，特朗普政府削减美国国际开发署（ USAID ）等项目，以及新冠肺炎疫情和全球生活成本上升，给该地区改革医疗保健的必要性带来了“新的紧迫性”。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "6cf1cd00fdee63bd",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "UK to give support to Saudi jets in attempt to counter Houthi fighters",
+      "url": "https://www.theguardian.com/politics/2026/sep/21/uk-to-give-support-to-saudi-jets-in-attempt-to-counter-houthi-fighters",
+      "publishedAt": "2026-09-21T21:33:09.000Z",
+      "sentences": [
+        {
+          "en": "UK to give support to Saudi jets in attempt to counter Houthi fighters.",
+          "zh": "英国向沙特喷气式飞机提供支持，试图对抗胡塞武装分子。"
+        },
+        {
+          "en": "Andy Burnham seeks stability in Middle East to bring down prices at home as first meeting with Trump looms The UK has agreed to provide defensive air support to Saudi Arabia to help counter Houthi fighters and restore stability in the Middle East while driving down the cost of living at home, Andy Burnham has said, ahead of his first meeting with Donald Trump.",
+          "zh": "安迪·伯纳姆（ Andy Burnham ）在与唐纳德·特朗普（ Donald Trump ）首次会晤之前表示，英国已同意向沙特阿拉伯提供防御性空中支援，以帮助对抗胡塞武装并恢复中东的稳定，同时降低国内生活成本。"
+        },
+        {
+          "en": "The prime minister said he had agreed to a request for air-to-air refuelling of Saudi jets to defend energy infrastructure against the Iran-backed rebels and help keep oil flowing from the Gulf to ease global economic turmoil.",
+          "zh": "这位总理表示，他已同意沙特喷气式飞机的空中加油请求，以捍卫能源基础设施，抵御伊朗支持的叛乱分子，并帮助保持石油从海湾地区流出，以缓解全球经济动荡。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "206c285589f14136",
+      "sourceId": "k8s-blog",
+      "category": "cloud",
+      "title": "Kubernetes v1.37: Tracking When a PersistentVolumeClaim Was Last Used (Beta)",
+      "url": "https://kubernetes.io/blog/2026/09/21/kubernetes-v1-37-pvc-last-used-time/",
+      "publishedAt": "2026-09-21T18:30:00.000Z",
+      "sentences": [
+        {
+          "en": "Kubernetes v1.37: Tracking When a PersistentVolumeClaim Was Last Used (Beta).",
+          "zh": null
+        },
+        {
+          "en": "Kubernetes v1.37 promotes the PersistentVolumeClaimUnusedSinceTime feature gate to Beta (enabled by default).",
+          "zh": null
+        },
+        {
+          "en": "With this feature, the PersistentVolumeClaim (PVC) protection controller adds an Unused condition to each PVC, telling you whether any running pod currently references it — no custom tooling or cross-referencing required.",
+          "zh": null
+        },
+        {
+          "en": "For the API definition of PVC conditions, see the PersistentVolumeClaim API reference .",
+          "zh": null
+        },
+        {
+          "en": "Read on to learn how the Unused condition works and how to use it.",
+          "zh": null
+        },
+        {
+          "en": "Why track PVC usage?",
+          "zh": null
+        },
+        {
+          "en": "In large-scale Kubernetes clusters, it is common for users to create PVCs and then delete the associated pods without cleaning up the storage, because Kubernetes does not automatically delete PVCs when their pods are removed (to protect against accidental data loss).",
+          "zh": null
+        },
+        {
+          "en": "Over time, these orphaned PVCs may accumulate, silently consuming storage capacity and driving up cloud costs.",
+          "zh": null
+        },
+        {
+          "en": "Before Kubernetes v1.37, it was easy to identify an unused PersistentVolume, but much harder to determine whether a PVC was still being used.",
+          "zh": null
+        },
+        {
+          "en": "Doing so required cross-referencing pods, PersistentVolumes, and PVCs over a potentially large window of time.",
+          "zh": null
+        },
+        {
+          "en": "Administrators often resorted to custom monitoring pipelines or scripts to answer a seemingly simple question: \"Is anything actually using this volume?\"",
+          "zh": null
+        },
+        {
+          "en": "The PersistentVolumeClaimUnusedSinceTime feature solves this by making the answer available natively in the PVC status.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "dfd65b565953d98f",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Colombia declares public calamity as wildfire threatens popular tourist area",
+      "url": "https://www.theguardian.com/world/2026/sep/21/colombia-wildfire-villa-de-leyva",
+      "publishedAt": "2026-09-21T17:13:23.000Z",
+      "sentences": [
+        {
+          "en": "Colombia declares public calamity as wildfire threatens popular tourist area.",
+          "zh": "哥伦比亚宣布公共灾难，因为野火威胁着受欢迎的旅游区。"
+        },
+        {
+          "en": "Wildfire forces evacuations and burns through mountains surrounding Villa de Leyva in the north-east Colombian authorities declared a public calamity as a wildfire burned through mountains surrounding one of the country’s best-known colonial towns in the north-east, scorching large swaths of vegetation and forcing evacuations.",
+          "zh": "哥伦比亚东北部莱瓦别墅（ Villa de Leyva ）周围的山区被野火烧毁，当局宣布这是一场公共灾难，因为该国东北部最着名的殖民城镇之一周围的山区被野火烧毁，烧毁了大片植被并迫使疏散。"
+        },
+        {
+          "en": "Nearly 20 active fires are burning across the South American country.",
+          "zh": "整个南美国家有近20场正在燃烧的火灾。"
+        },
+        {
+          "en": "Dry conditions have increased fire danger in Colombia as it braces for the effects of El Niño, which can help wildfires spread.",
+          "zh": "干燥的条件增加了哥伦比亚的火灾危险，因为它可以应对厄尔尼诺现象的影响，这可以帮助野火蔓延。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "d4efdc247bb27016",
+      "sourceId": "aws-news",
+      "category": "cloud",
+      "title": "AWS Weekly Roundup: AWS Builder Center mobile apps, Amazon Connect Talent GA, Amazon Corretto 27, and more (September 21, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-builder-center-mobile-apps-amazon-connect-talent-ga-amazon-corretto-27-and-more-september-14-2026/",
+      "publishedAt": "2026-09-21T16:11:24.000Z",
+      "sentences": [
+        {
+          "en": "AWS Weekly Roundup: AWS Builder Center mobile apps, Amazon Connect Talent GA, Amazon Corretto 27, and more (September 21, 2026).",
+          "zh": "AWS每周综述： AWS Builder Center移动应用、Amazon Connect Talent GA、Amazon Corretto 27等（ 2026年9月21日）。"
+        },
+        {
+          "en": "Living in the Netherlands, I spend a fair amount of time on trains, and that is usually where I catch up on what the builder community is writing.",
+          "zh": "居住在荷兰，我在火车上花费了相当多的时间，这通常是我了解建筑商社区正在撰写的内容的地方。"
+        },
+        {
+          "en": "Until now, that meant opening a laptop or squinting at a browser tab on my phone.",
+          "zh": "到目前为止，这意味着打开笔记本电脑或眯着眼睛看手机上的浏览器标签。"
+        },
+        {
+          "en": "This week I found myself scrolling through trending articles and checking a workshop from the AWS Builder Center mobile app while waiting for a delayed train, and it made those spare twenty minutes very useful.",
+          "zh": "本周，我发现自己在等待延误的火车时，在AWS Builder Center移动应用程序中浏览热门文章并查看研讨会，这些空闲的20分钟非常有用。"
+        },
+        {
+          "en": "That is why I am glad to open this week with the Builder Center mobile app.",
+          "zh": "这就是为什么我很高兴本周使用Builder Center移动应用程序打开。"
+        },
+        {
+          "en": "AWS Builder Center is now available as a mobile app on iOS and Android , extending the experience beyond desktop and web.",
+          "zh": "AWS Builder Center现已作为iOS和Android上的移动应用程序提供，将体验扩展到桌面和Web之外。"
+        },
+        {
+          "en": "Using your AWS Builder ID, you stay signed in across sessions and can browse trending articles, access 600+ AWS Skill Builder courses, and manage hands-on workshops with free sandbox environments from your mobile device.",
+          "zh": null
+        },
+        {
+          "en": "You can follow AWS Heroes, Community Builders, and User Group Leaders, check Builder Loft event calendars on the go, and receive push notifications for subscribed topics and communities.",
+          "zh": null
+        },
+        {
+          "en": "The app also supports the Wishlist feature for submitting product feedback directly to AWS teams.",
+          "zh": null
+        },
+        {
+          "en": "It is available worldwide on the Apple App Store and Google Play Store.",
+          "zh": null
+        },
+        {
+          "en": "Builder Center also added two features this week.",
+          "zh": null
+        },
+        {
+          "en": "Polls give you a way to ask the community a question from the Home feed: write a question, add 2 to 5 answer options, set a deadline, and people vote, with results updating live and discussion happening in the comments.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "e842b9d30e0870ab",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Expanding free AI training for educators",
+      "url": "https://blog.google/products-and-platforms/products/education/digital-promise/",
+      "publishedAt": "2026-09-21T16:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Expanding free AI training for educators.",
+          "zh": null
+        },
+        {
+          "en": "At the United Nations General Assembly in New York City, Google.org is committing $4 million to Digital Promise to help equip teachers and faculty with free, practical A…",
+          "zh": null
+        }
+      ]
+    }
+  ],
+  "failures": []
+}
