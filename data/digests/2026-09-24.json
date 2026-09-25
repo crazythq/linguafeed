@@ -1,0 +1,951 @@
+{
+  "date": "2026-09-24",
+  "collectedAt": "2026-09-25T03:37:10.713Z",
+  "items": [
+    {
+      "id": "24a6d9427f52953a",
+      "sourceId": "bbc-world",
+      "category": "ai",
+      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-24T15:42:07.000Z",
+      "sentences": [
+        {
+          "en": "Rogue OpenAI agent 'infiltrated' Australian government website in world first.",
+          "zh": null
+        },
+        {
+          "en": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "74a19a6fb6094b5a",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Rick Wakeman performs piano concert to 150 rescued moon bears in Vietnam",
+      "url": "https://www.theguardian.com/world/2026/sep/24/rick-wakeman-vietnam-bears-moon-sanctuary",
+      "publishedAt": "2026-09-24T15:40:28.000Z",
+      "sentences": [
+        {
+          "en": "Rick Wakeman performs piano concert to 150 rescued moon bears in Vietnam.",
+          "zh": null
+        },
+        {
+          "en": "Former Yes musician plays at sanctuary to raise awareness of animals that remain stuck in cages at ‘bile farms’ Rick Wakeman has played to all kinds of people around the globe, but he has now performed to an audience he had never encountered before – an enclosure of 150 bears.",
+          "zh": null
+        },
+        {
+          "en": "The former Yes musician, who has gone on to have a prolific solo career, played the piano at a Vietnamese bear sanctuary.",
+          "zh": null
+        },
+        {
+          "en": "Continue reading..",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "01e07f482a47679d",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
+      "url": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-24T15:37:45.000Z",
+      "sentences": [
+        {
+          "en": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting.",
+          "zh": null
+        },
+        {
+          "en": "The military says its soldiers inflicted casualties as fears grow of a resumption of a full-blown civil war.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "583ce5a62ee40551",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar/",
+      "publishedAt": "2026-09-24T15:30:00.000Z",
+      "sentences": [
+        {
+          "en": "Introducing Gemini 3.8 Live with Live Avatar.",
+          "zh": null
+        },
+        {
+          "en": "Introducing Gemini 3.8 Live with Live Avatar, which brings near real-time visual presence to Gemini’s conversational AI.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "61aa7ffb925b5ac6",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Rebel offensive against Ethiopian army stokes fears of return to civil war",
+      "url": "https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army",
+      "publishedAt": "2026-09-24T15:29:42.000Z",
+      "sentences": [
+        {
+          "en": "Rebel offensive against Ethiopian army stokes fears of return to civil war.",
+          "zh": null
+        },
+        {
+          "en": "Fighting escalates after Tigrayan rebels form new coalition aimed at overthrowing Abiy Ahmed government There are growing fears of a return to civil war in Ethiopia after an offensive by fighters from Tigray into the neighbouring states of Afar and Amhara and the formation of a new rebel alliance aimed at overthrowing the government of the prime minister, Abiy Ahmed.",
+          "zh": null
+        },
+        {
+          "en": "About 600,000 people died between 2020 and 2022 during a devastating war between the Ethiopian army and the political party and paramilitary group the Tigray People’s Liberation Front (TPLF).",
+          "zh": null
+        },
+        {
+          "en": "Both sides are now accusing the other of triggering a return to open conflict.",
+          "zh": null
+        },
+        {
+          "en": "Continue reading..",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "277105ae8fc14d7a",
+      "sourceId": "cloudflare-blog",
+      "category": "cloud",
+      "title": "How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers",
+      "url": "https://blog.cloudflare.com/containers-cross-tenant-vulnerability/",
+      "publishedAt": "2026-09-24T15:00:00.000Z",
+      "sentences": [
+        {
+          "en": "How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers.",
+          "zh": null
+        },
+        {
+          "en": "On September 4, 2026, Oren Yomtov, a security researcher from Accomplish , responsibly reported a vulnerability affecting Cloudflare Containers and Cloudflare Sandboxes (which is built on Containers), through Cloudflare’s bug bounty program .",
+          "zh": null
+        },
+        {
+          "en": "Cloudflare has fully remediated the vulnerability, and we have no evidence that customer data has been compromised.",
+          "zh": null
+        },
+        {
+          "en": "This post was prepared in collaboration with Oren Yomtov and the Accomplish security research team, whose detailed report and controlled testing helped us validate the issue and respond quickly.",
+          "zh": null
+        },
+        {
+          "en": "Cloudflare Containers run workloads on multi-tenant infrastructure and automatically assign them to eligible servers; customers cannot select the underlying host.",
+          "zh": null
+        },
+        {
+          "en": "The researchers demonstrated that a customer with a Workers Paid account could recover residual disk blocks previously used by Containers on the same host.",
+          "zh": null
+        },
+        {
+          "en": "The technique could not target a particular customer, workload, host, or data, and residual data was not guaranteed to be present.",
+          "zh": null
+        },
+        {
+          "en": "Cloudflare applied a fix across the Containers fleet, with no customer-side configuration changes required.",
+          "zh": null
+        },
+        {
+          "en": "Within the historical disk-I/O telemetry available to us, we identified no evidence of malicious exploitation.",
+          "zh": null
+        },
+        {
+          "en": "Activity we could attribute to the reported technique came from the researchers and Cloudflare engineers conducting authorized validation.",
+          "zh": null
+        },
+        {
+          "en": "Here, we explain the underlying storage behavior, its potential impact, our investigation, and the actions we took in response.",
+          "zh": null
+        },
+        {
+          "en": "How container storage allocation works Cloudflare Containers use Linux device mapper thin provisioning (dm-thin) to provide each container with a writable root disk.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "c946d865f984675b",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "The economic squeeze is pushing up poverty rates for older adults",
+      "url": "https://www.npr.org/2026/09/24/nx-s1-5979857/senior-adult-poverty-affordability",
+      "publishedAt": "2026-09-24T15:00:00.000Z",
+      "sentences": [
+        {
+          "en": "The economic squeeze is pushing up poverty rates for older adults.",
+          "zh": null
+        },
+        {
+          "en": "Despite lower poverty overall, the rate for seniors has been steadily rising in recent years.",
+          "zh": null
+        },
+        {
+          "en": "A new AARP survey sheds light on how those over 50 are struggling in the crucial time before retirement.",
+          "zh": null
+        },
+        {
+          "en": "(Image credit: Eva Marie Uzcategui)",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "7f0ed01db00a4ac8",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Germany investigates 105-year-old suspected former Nazi prison camp guard",
+      "url": "https://www.theguardian.com/world/2026/sep/24/man-105-investigated-nazi-pow-camp-murders",
+      "publishedAt": "2026-09-24T14:55:51.000Z",
+      "sentences": [
+        {
+          "en": "Germany investigates 105-year-old suspected former Nazi prison camp guard.",
+          "zh": null
+        },
+        {
+          "en": "Man accused of being accessory to murders at Stalag 326 VI K amid race to prosecute suspects before they die A 105-year-old man is under investigation on suspicion of being an accessory to multiple murders at a Nazi prisoner of war camp, German prosecutors have said.",
+          "zh": null
+        },
+        {
+          "en": "The case, which is being handled by the public prosecutor’s office in Dortmund, centres on the Stalag 326 VI K camp in western Germany, in what is now the state of North Rhine-Westphalia.",
+          "zh": null
+        },
+        {
+          "en": "Continue reading..",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "4869940429368912",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
+      "url": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-24T14:37:34.000Z",
+      "sentences": [
+        {
+          "en": "105-year-old investigated for crimes at Nazi PoW camp in Germany.",
+          "zh": null
+        },
+        {
+          "en": "The suspect is alleged to have been an accessory to murder at the Stalag 326 camp, where tens of thousands of Soviet PoWs died.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "b63fb65a58c9888a",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Family of Iranian twins sentenced to death and decades in jail ask UN for help",
+      "url": "https://www.theguardian.com/world/2026/sep/24/twins-sentenced-to-death-and-jail-iran-un-appeal",
+      "publishedAt": "2026-09-24T13:15:48.000Z",
+      "sentences": [
+        {
+          "en": "Family of Iranian twins sentenced to death and decades in jail ask UN for help.",
+          "zh": null
+        },
+        {
+          "en": "Taraneh and Romina Rahimi were charged with ‘waging war against God’ after joining protests against Tehran regime The family of 21-year-old twins who have been sentenced respectively to death and decades in jail for protesting against the Iranian regime have appealed to the United Nations for help.",
+          "zh": null
+        },
+        {
+          "en": "A formal “submission of information” relating to the case of Taraneh and Romina Rahimi has been submitted by British human right lawyers on their family’s behalf.",
+          "zh": null
+        },
+        {
+          "en": "Continue reading..",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "5e4e2324e77ceb85",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Behind Project Suncatcher, our moonshot to put AI in space",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
+      "publishedAt": "2026-09-24T13:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Behind Project Suncatcher, our moonshot to put AI in space.",
+          "zh": null
+        },
+        {
+          "en": "Learn about Project Suncatcher, how we’re testing hardware survival for space, designing cooling systems for AI chips, and more.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "1170bd08f9453a79",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Trump and Xi strike cordial tone at summit amid underlying tensions",
+      "url": "https://www.npr.org/2026/09/24/g-s1-144806/trump-xi-summit",
+      "publishedAt": "2026-09-24T12:43:15.000Z",
+      "sentences": [
+        {
+          "en": "Trump and Xi strike cordial tone at summit amid underlying tensions.",
+          "zh": null
+        },
+        {
+          "en": "Despite the pageantry and the cordial tone, expectations for any big breakthroughs on issues ranging from AI to Iran to a trade war truce are low.",
+          "zh": null
+        },
+        {
+          "en": "(Image credit: Andrew Caballero-Reynolds)",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "dcc7aad233eb30ec",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Helping 25,000 veterans and military families build careers in skilled trades",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/veterans-skilled-trades/",
+      "publishedAt": "2026-09-24T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Helping 25,000 veterans and military families build careers in skilled trades.",
+          "zh": null
+        },
+        {
+          "en": "Google.org is supporting organizations to help veterans and military families find careers in skilled trades.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "db1b90f5d16d7021",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Palestinian existence under threat, Abbas tells UN, warning of ‘another Nakba’",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168426",
+      "publishedAt": "2026-09-24T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Palestinian existence under threat, Abbas tells UN, warning of ‘another Nakba’.",
+          "zh": null
+        },
+        {
+          "en": "Israeli policies now threaten “the very life and existence of the Palestinian people on their homeland”, Palestinian President Mahmoud Abbas told the UN General Assembly on Thursday, urging the world not to allow “another Nakba”.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "c2eb9173b34e28e5",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "World News in Brief: ‘New intensity’ to Russian attacks on Ukraine, Yemen, Gaza and Colombia updates",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168427",
+      "publishedAt": "2026-09-24T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "World News in Brief: ‘New intensity’ to Russian attacks on Ukraine, Yemen, Gaza and Colombia updates.",
+          "zh": null
+        },
+        {
+          "en": "Russian armed forces have carried out repeated attacks across Ukraine over the past several days, killing and injuring civilians and damaging homes, hospitals, shops and workplaces, UN human rights monitors said on Thursday.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "f100e93a7fa4915f",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "UNRWA work and mandate in ‘jeopardy’, Guterres warns",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168428",
+      "publishedAt": "2026-09-24T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "UNRWA work and mandate in ‘jeopardy’, Guterres warns.",
+          "zh": null
+        },
+        {
+          "en": "The UN Relief and Works Agency for Palestine refugees (UNRWA) continues to operate under “extraordinary pressure”, UN Secretary-General António Guterres said on Thursday.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "c450b1ab0deb82c4",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Haitians can’t wait to return home and vote in elections says Prime Minister",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168429",
+      "publishedAt": "2026-09-24T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Haitians can’t wait to return home and vote in elections says Prime Minister.",
+          "zh": null
+        },
+        {
+          "en": "“There is a people.",
+          "zh": null
+        },
+        {
+          "en": "A people who can wait no longer.",
+          "zh": null
+        },
+        {
+          "en": "A people waiting to regain security, to return home to work, to send their children to school, and to freely choose their leaders.” Those are the words of the Haitian Prime Minister, Alix Didier Fils-Aimé, who spoke at a special UN meeting on the future of security in Haiti.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "9981ce3c7d93521a",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "‘Rising seas are sinking futures’",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168430",
+      "publishedAt": "2026-09-24T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "‘Rising seas are sinking futures’.",
+          "zh": null
+        },
+        {
+          "en": "World leaders approved the UN Declaration on Sea Level Rise by consensus on Thursday as the UN chief warned that encroaching waters are already threatening the future of coastal communities worldwide.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "31d4d6e5b62b7deb",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Israeli leader at UN: ‘We’re going to win. We have no other choice’",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168431",
+      "publishedAt": "2026-09-24T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Israeli leader at UN: ‘We’re going to win.",
+          "zh": null
+        },
+        {
+          "en": "We have no other choice’.",
+          "zh": null
+        },
+        {
+          "en": "Prime Minister Benjamin Netanyahu used his address to the UN General Assembly to defend Israel’s strikes against Iran as a matter of national survival and described the violence in the West Bank as the work of a few “juvenile delinquents” and rejected accusations of genocide in Gaza as “the greatest lie of the century.”",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "a6d419a54b34510d",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Yemen’s path to stability depends on restoring the state, Leadership Council vice-president tells UN",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168432",
+      "publishedAt": "2026-09-24T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Yemen’s path to stability depends on restoring the state, Leadership Council vice-president tells UN.",
+          "zh": null
+        },
+        {
+          "en": "The Vice-President of Yemen’s Presidential Leadership Council, Abdullah Al-Alimi Bawazir, told the UN General Assembly on Thursday that his Government had engaged “responsibly and positively” with regional and international peace initiatives and made significant concessions to end the suffering of the Yemeni people.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "c6fd4e7218017036",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "‘Turn what we know into what we do,’ Barbados PM Mottley urges world leaders at UN",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168433",
+      "publishedAt": "2026-09-24T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "‘Turn what we know into what we do,’ Barbados PM Mottley urges world leaders at UN.",
+          "zh": null
+        },
+        {
+          "en": "Barbados Prime Minister Mia Mottley called on world leaders on Thursday to turn knowledge into action, reform international institutions and ensure that new technologies and global wealth benefit everyone.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "180a9a65ea61af8f",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Judge restores journalists' White House access. And, Tucker Carlson on his MAGA split",
+      "url": "https://www.npr.org/2026/09/24/g-s1-144850/up-first-newsletter-cnn-msnow-politico-iran-ukraine-unga-china-xi-jinping-trump",
+      "publishedAt": "2026-09-24T11:10:14.000Z",
+      "sentences": [
+        {
+          "en": "Judge restores journalists' White House access.",
+          "zh": null
+        },
+        {
+          "en": "And, Tucker Carlson on his MAGA split.",
+          "zh": null
+        },
+        {
+          "en": "A judge has ordered that the Trump administration restore journalists' access to White House.",
+          "zh": null
+        },
+        {
+          "en": "And, Tucker Carlson sits down with Morning Edition 's Steve Inskeep for a Newsmakers interview.",
+          "zh": null
+        },
+        {
+          "en": "(Image credit: Alex Wroblewski)",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "bd9de373e017ef30",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Needy couples got cash and a spending plan. Results were good -- and bad",
+      "url": "https://www.npr.org/2026/09/24/g-s1-144544/cash-transfer-poverty-liberia-partner-violence",
+      "publishedAt": "2026-09-24T10:43:25.000Z",
+      "sentences": [
+        {
+          "en": "Needy couples got cash and a spending plan.",
+          "zh": null
+        },
+        {
+          "en": "Results were good -- and bad.",
+          "zh": null
+        },
+        {
+          "en": "In Liberia, joint financial planning boosted cash aid's benefits.",
+          "zh": null
+        },
+        {
+          "en": "It also had an unexpected consequence for some families.",
+          "zh": null
+        },
+        {
+          "en": "(Image credit: Yasuyoshi Chiba/AFP)",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "4264506216ba0f46",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Trump's Board of Peace unveils $2.45bn Gaza recovery plan",
+      "url": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-24T10:11:15.000Z",
+      "sentences": [
+        {
+          "en": "Trump's Board of Peace unveils $2.45bn Gaza recovery plan.",
+          "zh": null
+        },
+        {
+          "en": "The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "3a79d50d4f73f424",
+      "sourceId": "guardian-world",
+      "category": "release-notes",
+      "title": "Global release announced for acclaimed Gaza documentary NAZA",
+      "url": "https://www.theguardian.com/film/2026/sep/24/global-release-announced-for-acclaimed-gaza-documentary-naza",
+      "publishedAt": "2026-09-24T10:00:05.000Z",
+      "sentences": [
+        {
+          "en": "Global release announced for acclaimed Gaza documentary NAZA.",
+          "zh": null
+        },
+        {
+          "en": "Theatrical rollout across 56 territories planned for documentary about Israel’s mass killing of civilians in Gaza before film will stream on Guardian website NAZA, the award-winning documentary from Israeli film-makers Yuval Abraham and Rachel Szor, is set to be released in cinemas in more than 50 countries before a digital global release on theguardian.com.",
+          "zh": null
+        },
+        {
+          "en": "The film, which the Guardian produced, premiered at the Venice film festival earlier this month, where it was met with a 25-minute standing ovation – a festival record.",
+          "zh": null
+        },
+        {
+          "en": "The documentary went on to win the special jury prize .",
+          "zh": null
+        },
+        {
+          "en": "Continue reading..",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "aa5f19b1f3358723",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Turning cultural artifacts into interactive learning companions",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/the-talking-museum-museum-memory/",
+      "publishedAt": "2026-09-24T10:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Turning cultural artifacts into interactive learning companions.",
+          "zh": null
+        },
+        {
+          "en": "Uncover the history of nearly 200 historical objects, or put your visual recall to the test in a freshly hung exhibition.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "cbe163b40645fce5",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Warren demands Trump officials explain removing a ban on interference in census data",
+      "url": "https://www.npr.org/2026/09/24/nx-s1-5979070/department-commerce-census-bureau-elizabeth-warren",
+      "publishedAt": "2026-09-24T09:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Warren demands Trump officials explain removing a ban on interference in census data.",
+          "zh": null
+        },
+        {
+          "en": "Democratic Sen.",
+          "zh": null
+        },
+        {
+          "en": "Elizabeth Warren asked Trump officials to explain why the Census Bureau's parent agency cut a ban on political interference from its scientific integrity policy, as NPR first reported.",
+          "zh": null
+        },
+        {
+          "en": "(Image credit: Cliff Owen)",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "bc7c9f1ae519bc2c",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "eBay bans airbag sales as concerns about faulty or counterfeit parts rise",
+      "url": "https://www.npr.org/2026/09/24/nx-s1-5978124/ebay-bans-airbags-faulty-counterfeit-auto-parts",
+      "publishedAt": "2026-09-24T09:00:00.000Z",
+      "sentences": [
+        {
+          "en": "eBay bans airbag sales as concerns about faulty or counterfeit parts rise.",
+          "zh": null
+        },
+        {
+          "en": "eBay became the latest online retailer to ban the sale of airbags and many of their components.",
+          "zh": null
+        },
+        {
+          "en": "Aftermarket parts can be risky if they turn out to be fake or defective.",
+          "zh": null
+        },
+        {
+          "en": "(Image credit: BERTRAND GUAY)",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "a664950dee1c6dd2",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Alarm bells sound in Brussels as EU sales of Chinese hybrid cars rocket",
+      "url": "https://www.theguardian.com/business/2026/sep/24/eu-sales-chinese-hybrid-cars-rocket",
+      "publishedAt": "2026-09-24T08:34:46.000Z",
+      "sentences": [
+        {
+          "en": "Alarm bells sound in Brussels as EU sales of Chinese hybrid cars rocket.",
+          "zh": null
+        },
+        {
+          "en": "Explosive growth in imported vehicles omitted from EV tariffs fuels concern for future of European carmakers EU imports three times more from China than bloc exports there Sales of Chinese hybrid cars have rocketed in the EU in the past four and a half years, data shows, underlining growing concerns in Brussels over the future of the European car industry.",
+          "zh": null
+        },
+        {
+          "en": "In 2022, just 659 Chinese-made fully hybrid cars (vehicles in which the petrol or diesel engine charge the motor and battery) were sold in the EU.",
+          "zh": null
+        },
+        {
+          "en": "However, after Brussels imposed anti-subsidy tariffs on fully electric cars from China in 2024, sales of hybrids have shot up to 160,662 in the first seven months of this year.",
+          "zh": null
+        },
+        {
+          "en": "Continue reading..",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "4559f7790e8501a6",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Why India's Election Commission is in the eye of a storm - again",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgw68yjg29o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-24T08:26:19.000Z",
+      "sentences": [
+        {
+          "en": "Why India's Election Commission is in the eye of a storm - again.",
+          "zh": null
+        },
+        {
+          "en": "India's polling monitor is facing yet another crisis of credibility with fresh allegations against its chief.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "7d7eb22e04cd5744",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Teen rocker Nene Royal becomes first Thai to win America's Got Talent",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjzl3d1409o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-24T06:47:12.000Z",
+      "sentences": [
+        {
+          "en": "Teen rocker Nene Royal becomes first Thai to win America's Got Talent.",
+          "zh": null
+        },
+        {
+          "en": "Her heavy metal performance trumped nine other finalists, including magicians and even a robot crew.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "105f3787e06edd1f",
+      "sourceId": "guardian-world",
+      "category": "business",
+      "title": "Trump greets Xi Jinping on arrival in rare move as US-China trade truce extended",
+      "url": "https://www.theguardian.com/us-news/2026/sep/23/trump-xi-jinping-china-us-state-visit",
+      "publishedAt": "2026-09-23T23:30:50.000Z",
+      "sentences": [
+        {
+          "en": "Trump greets Xi Jinping on arrival in rare move as US-China trade truce extended.",
+          "zh": null
+        },
+        {
+          "en": "President lays out red carpet as treasury secretary announces extension of ‘Busan agreement’ pausing trade war hostilities AI, trade, Taiwan and climate: what will and won’t be on agenda at Trump-Xi summit Donald Trump has welcomed Xi Jinping to the US, taking the unusual step of greeting the Chinese leader on the tarmac at Joint Base Andrews to kick off his state visit to Washington.",
+          "zh": null
+        },
+        {
+          "en": "Xi’s plane was met with a lavish arrival ceremony that included a 30-metre-long (100ft) red carpet flanked by US service members, a military flyover by two B-1 bombers and a presentation of the flags and national anthems of both countries.",
+          "zh": null
+        },
+        {
+          "en": "Continue reading..",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "46dd0b19303bba2b",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "UK survivor of Canadian poison seller says he exploited her despair",
+      "url": "https://www.bbc.co.uk/news/articles/cmvgy4237gq9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-23T21:16:00.000Z",
+      "sentences": [
+        {
+          "en": "UK survivor of Canadian poison seller says he exploited her despair.",
+          "zh": null
+        },
+        {
+          "en": "Elisabeth Belien tells Kenneth Law's sentencing hearing she took the poison when she was just 23 years old.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "c52229f1bfad317c",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Anyone can make stunning HD videos with Gemini Omni in Google Vids",
+      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-in-google-vids/",
+      "publishedAt": "2026-09-23T19:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Anyone can make stunning HD videos with Gemini Omni in Google Vids.",
+          "zh": null
+        },
+        {
+          "en": "Get high-quality video production right from your browser.",
+          "zh": null
+        },
+        {
+          "en": "Anyone with a Google account can create videos for free in Google Vids.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "effdad8bde17b3ff",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Milei threatens at UN that Argentina will take ‘matters into our own hands’ on Falklands",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/23/argentina-president-attacks-un-over-inaction-on-falkland-islands-sovereignty",
+      "publishedAt": "2026-09-23T18:50:43.000Z",
+      "sentences": [
+        {
+          "en": "Milei threatens at UN that Argentina will take ‘matters into our own hands’ on Falklands.",
+          "zh": null
+        },
+        {
+          "en": "Argentinian president accuses United Nations of being filled with ‘parasites’ in bellicose general assembly speech Javier Milei has condemned the UN as he warned that Argentina would take “matters into our own hands” in its dispute with Britain over the sovereignty of the Falkland Islands.",
+          "zh": null
+        },
+        {
+          "en": "In a caustic speech at the general assembly in New York, the Argentinian president criticised the UN for being ineffective when it came to the long-running tensions over the British overseas territory in the south Atlantic known in Argentina as the Malvinas.",
+          "zh": null
+        },
+        {
+          "en": "Continue reading..",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "0f1a07da5479caba",
+      "sourceId": "github-blog",
+      "category": "open-source",
+      "title": "Rendering huge pull requests in the GitHub Copilot app",
+      "url": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/",
+      "publishedAt": "2026-09-23T18:29:49.000Z",
+      "sentences": [
+        {
+          "en": "Rendering huge pull requests in the GitHub Copilot app.",
+          "zh": null
+        },
+        {
+          "en": "Broad refactors and migrations often have to land as one change.",
+          "zh": null
+        },
+        {
+          "en": "Stacked pull requests are a great way to split work into smaller changes, which makes reviews easier and helps teams ship with less risk.",
+          "zh": null
+        },
+        {
+          "en": "But some changes, like this one, can t be split cleanly.",
+          "zh": null
+        },
+        {
+          "en": "That leaves you with a single pull request that can get very large, and the review conversation causes it to grow.",
+          "zh": null
+        },
+        {
+          "en": "The review experience needs to remain fast and smooth even when the diff and its conversation are enormous.",
+          "zh": null
+        },
+        {
+          "en": "In the GitHub Copilot app , we rebuilt the pull request view with that requirement in mind.",
+          "zh": null
+        },
+        {
+          "en": "To see how far that goes, we opened the biggest pull request we could find: an open source one with 2,200 files, over a million changed lines, and more than 400 inline review comments.",
+          "zh": null
+        },
+        {
+          "en": "Here s how we made even this extreme pull request performant.",
+          "zh": null
+        },
+        {
+          "en": "The scope of the problem Rendering a large diff at speed is well-understood: virtualize the rows, keep the mounted DOM small, and lean on the fact that every row is a line of code at a known height.",
+          "zh": null
+        },
+        {
+          "en": "Comments are the hard part.",
+          "zh": null
+        },
+        {
+          "en": "A comment s height depends on how its markdown wraps, the expandable sections, whether there s a reply box in it, and whether its images have loaded yet.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "4dcb53e3691638b9",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Iran's president tells Trump it will never 'bend the knee'",
+      "url": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-23T18:15:31.000Z",
+      "sentences": [
+        {
+          "en": "Iran's president tells Trump it will never 'bend the knee'.",
+          "zh": null
+        },
+        {
+          "en": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "7889cc934a0a9b87",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "6 ways Android Enterprise is evolving for the modern workforce",
+      "url": "https://blog.google/products-and-platforms/products/android-enterprise/whats-new-android-enterprise-2026/",
+      "publishedAt": "2026-09-23T18:00:00.000Z",
+      "sentences": [
+        {
+          "en": "6 ways Android Enterprise is evolving for the modern workforce.",
+          "zh": null
+        },
+        {
+          "en": "The latest updates from Android Enterprise are designed to help IT teams safeguard corporate data while giving workers room to innovate.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "1ccf342131e2aeec",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Google Beam expands with new regions, partners, and customers",
+      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+      "publishedAt": "2026-09-23T18:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Google Beam expands with new regions, partners, and customers.",
+          "zh": null
+        },
+        {
+          "en": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "bd8061157af089d6",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "6 new Google Flow Tools built by industry creatives",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/six-new-tools-built-by-creatives/",
+      "publishedAt": "2026-09-23T16:00:00.000Z",
+      "sentences": [
+        {
+          "en": "6 new Google Flow Tools built by industry creatives.",
+          "zh": null
+        },
+        {
+          "en": "Explore 6 new tools in Google Flow built by creatives, for creatives.",
+          "zh": null
+        }
+      ]
+    }
+  ],
+  "failures": []
+}
