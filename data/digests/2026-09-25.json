@@ -1,0 +1,1057 @@
+{
+  "date": "2026-09-25",
+  "collectedAt": "2026-09-26T03:42:49.381Z",
+  "items": [
+    {
+      "id": "6b66f5ea1a69207d",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "There's a global pandemic treaty that's signed -- and in 'limbo.' What's the holdup?",
+      "url": "https://www.npr.org/2026/09/25/g-s1-144948/pandemic-prevention-treaty-agreement-world-health-organization",
+      "publishedAt": "2026-09-25T15:57:35.000Z",
+      "sentences": [
+        {
+          "en": "There's a global pandemic treaty that's signed -- and in 'limbo.'",
+          "zh": "有一项全球大流行条约已经签署，而且处于“边缘”状态。"
+        },
+        {
+          "en": "What's the holdup?.",
+          "zh": "怎么耽搁了？"
+        },
+        {
+          "en": "The treaty aims to help the countries of the world prepare for — and defeat — any future pandemic.",
+          "zh": "该条约旨在帮助世界各国为未来的任何疫情做好准备并战胜疫情。"
+        },
+        {
+          "en": "Why hasn't it gone into effect?",
+          "zh": "为什么还没有生效？"
+        },
+        {
+          "en": "(Image credit: Smith Collection/Gado/)",
+          "zh": "（图片来源： Smith Collection/Gado/）"
+        }
+      ]
+    },
+    {
+      "id": "39a6564fcfd2cfa2",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "The Supreme Court revives a controversial data system for citizenship checks",
+      "url": "https://www.npr.org/2026/09/25/nx-s1-5976804/supreme-court-trump-save-noncitizen-voting",
+      "publishedAt": "2026-09-25T15:40:57.000Z",
+      "sentences": [
+        {
+          "en": "The Supreme Court revives a controversial data system for citizenship checks.",
+          "zh": "最高法院恢复了一个有争议的公民身份检查数据系统。"
+        },
+        {
+          "en": "The Supreme Court is allowing use of a data system that Trump officials overhauled.",
+          "zh": "最高法院允许使用特朗普官员彻底改革的数据系统。"
+        },
+        {
+          "en": "The system has erroneously flagged U.S. citizens and a lower court found it violated federal privacy protections.",
+          "zh": "该系统错误地标记了美国公民，下级法院认为它违反了联邦隐私保护。"
+        },
+        {
+          "en": "(Image credit: David Delgado)",
+          "zh": "（图片来源： David Delgado ）"
+        }
+      ]
+    },
+    {
+      "id": "535466d2fc7082a1",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Students strike across Germany in protest against military service",
+      "url": "https://www.bbc.co.uk/news/articles/cxnvlnve52qdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-25T15:36:22.000Z",
+      "sentences": [
+        {
+          "en": "Students strike across Germany in protest against military service.",
+          "zh": "学生在德国各地罢工，抗议服兵役。"
+        },
+        {
+          "en": "A law establishing voluntary military service came into effect in January, but protest organisers fear compulsory service could follow.",
+          "zh": "规定志愿兵役的法律于1月生效，但抗议组织者担心随之而来的可能是义务兵役。"
+        }
+      ]
+    },
+    {
+      "id": "7073a37412ee58b7",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Senior Kazakh officials detained after 14 service members swept out to sea",
+      "url": "https://www.bbc.co.uk/news/articles/cm0reew1591zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-25T15:29:48.000Z",
+      "sentences": [
+        {
+          "en": "Senior Kazakh officials detained after 14 service members swept out to sea.",
+          "zh": "哈萨克斯坦高级官员在14名军人出海后被拘留。"
+        },
+        {
+          "en": "Seventeen service members were swept out to the Caspian Sea during military exercises.",
+          "zh": "在军事演习中， 17名军人被扫荡到里海。"
+        }
+      ]
+    },
+    {
+      "id": "8d76ef61a03699ca",
+      "sourceId": "guardian-world",
+      "category": "ai",
+      "title": "OpenAI hack on Australian government reveals anxiety at heart of global artificial intelligence dilemma",
+      "url": "https://www.theguardian.com/technology/2026/sep/26/openai-hack-australian-government-anxiety-global-dilemma-artificial-intelligence",
+      "publishedAt": "2026-09-25T15:12:38.000Z",
+      "sentences": [
+        {
+          "en": "OpenAI hack on Australian government reveals anxiety at heart of global artificial intelligence dilemma.",
+          "zh": "OpenAI对澳大利亚政府的黑客攻击揭示了全球人工智能困境的核心焦虑。"
+        },
+        {
+          "en": "As the UN warns traditional safeguards are ‘unravelling’, Donald Trump says he will encourage, not restrain, the AI race When the Australian prime minister, Anthony Albanese, sat down for an interview in the heart of Silicon Valley at the weekend he had known for two days that his was the first government known to have been attacked by a rogue AI agent.",
+          "zh": "由于联合国警告传统的保障措施正在“瓦解” ，唐纳德·特朗普（ Donald Trump ）表示，他将鼓励而不是限制人工智能竞赛。当澳大利亚总理安东尼·阿尔巴尼斯（ Anthony Albanese ）周末在硅谷中心坐下来接受采访时，他两天前就知道他是第一个被流氓人工智能特工袭击的政府。"
+        },
+        {
+          "en": "He didn’t reveal the attack then, but he sounded a warning about the march of AI: “the risk is that AI develops in a way in which humans are no longer in control of what AI is producing.” Continue reading..",
+          "zh": "他当时没有透露这次攻击，但他对人工智能的发展发出了警告： “风险在于，人工智能的发展方式使人类不再控制人工智能的产物。”继续阅读。"
+        }
+      ]
+    },
+    {
+      "id": "43155d15a311d094",
+      "sourceId": "bbc-world",
+      "category": "ai",
+      "title": "Pope warns against 'losing humanity' to AI machines",
+      "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-25T15:06:41.000Z",
+      "sentences": [
+        {
+          "en": "Pope warns against 'losing humanity' to AI machines.",
+          "zh": "教皇警告不要让人工智能机器“失去人性”。"
+        },
+        {
+          "en": "The pontiff delivered the warning on the first day of his trip to France on Friday.",
+          "zh": "教皇在周五访问法国的第一天就发出了警告。"
+        }
+      ]
+    },
+    {
+      "id": "32a4c301d770a504",
+      "sourceId": "guardian-world",
+      "category": "science",
+      "title": "‘Robust little’ vessel begins treacherous 22,000km journey around Antarctica in the name of climate science",
+      "url": "https://www.theguardian.com/environment/2026/sep/26/saildrone-unmanned-hurricane-proof-ship-antarctica-climate-hobart",
+      "publishedAt": "2026-09-25T15:00:11.000Z",
+      "sentences": [
+        {
+          "en": "‘Robust little’ vessel begins treacherous 22,000km journey around Antarctica in the name of climate science.",
+          "zh": "“坚固的小型”船只以气候科学的名义开始了22,000公里的南极洲之旅。"
+        },
+        {
+          "en": "Powered by sun and wind, the uncrewed vehicle will collect data to help Australian scientists better understand how oceans absorb emissions Get our breaking news email , free app or daily news podcast A small uncrewed vessel has embarked on a lap around Antarctica and may not return for months.",
+          "zh": "由太阳和风驱动的无人船将收集数据，帮助澳大利亚科学家更好地了解海洋如何吸收排放。获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客一艘小型无人船已经在南极洲周围航行，可能几个月都不会回来。"
+        },
+        {
+          "en": "The seven-metre craft, which looks like a large kayak in hi-vis orange, is expected to travel about 22,000km through inhospitable waters, propelled by powerful westerly winds and energy from the sun.",
+          "zh": "这艘7米长的船看起来像一艘大型橙色皮划艇，预计将在强大的西风和太阳能量的推动下，通过荒凉的水域行驶约22,000公里。"
+        },
+        {
+          "en": "The journey is seven times the distance between Sydney and Perth.",
+          "zh": "旅程是悉尼和珀斯之间距离的七倍。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "c6ab1f25135f39c7",
+      "sourceId": "github-blog",
+      "category": "open-source",
+      "title": "Improving site performance by shipping more CSS",
+      "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
+      "publishedAt": "2026-09-25T15:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Improving site performance by shipping more CSS.",
+          "zh": "通过提供更多CSS来提高网站性能。"
+        },
+        {
+          "en": "The Primer Design System powers many of the experiences you see on GitHub today.",
+          "zh": "Primer Design System为您今天在GitHub上看到的许多体验提供支持。"
+        },
+        {
+          "en": "From buttons to banners to breadcrumbs, these foundational components are required to be accessible, flexible, and performant across a wide variety of scenarios.",
+          "zh": "从按钮、横幅到面包屑，这些基本组件必须在各种场景下都易于访问、灵活且高性能。"
+        },
+        {
+          "en": "Back in 2023, the number of components on certain pages began to explode.",
+          "zh": null
+        },
+        {
+          "en": "This led to several performance-related challenges with our existing CSS-in-JS solution: Initial page loads took longer due to styles being initialized on the client Server-side rendering performance declined as style collection shifted from the client Updates to styles grew out of control as component count grew on a page It became clear that the Primer team needed to address the issue at the source.",
+          "zh": null
+        },
+        {
+          "en": "We needed to find an alternative that would completely avoid the client and server costs that we were seeing with our current solution.",
+          "zh": null
+        },
+        {
+          "en": "Most importantly, any alternative we pick would need to work in a way that would avoid any breakage to GitHub during the migration.",
+          "zh": null
+        },
+        {
+          "en": "Introducing CSS (Modules) The Primer team found a solution that met all of our criteria: CSS Modules .",
+          "zh": null
+        },
+        {
+          "en": "This format would allow us to do one of our favorite things: write and use native CSS features, while still allowing some amount of the colocation and encapsulation that we had come to expect from CSS-in-JS.",
+          "zh": null
+        },
+        {
+          "en": "With CSS Modules, styles would be authored in a CSS file alongside the JavaScript source for the component.",
+          "zh": null
+        },
+        {
+          "en": "It would also allow us to treat all class names as local by default, preventing some of the collisions and challenges that can come from global selectors.",
+          "zh": null
+        },
+        {
+          "en": "This format also removes the need for any client or server runtime behavior.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "1e9ad3bc34174231",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Pope Leo warns a 'paradise of machines' could undermine humanity on his France visit",
+      "url": "https://www.npr.org/2026/09/25/nx-s1-5981140/pope-leo-france",
+      "publishedAt": "2026-09-25T14:55:12.000Z",
+      "sentences": [
+        {
+          "en": "Pope Leo warns a 'paradise of machines' could undermine humanity on his France visit.",
+          "zh": "教皇利奥在访问法国时警告说， “机器的天堂”可能会破坏人类。"
+        },
+        {
+          "en": "Pope Leo XIV raised existential concerns about scientific progress, life and human rights during a speech on his first papal visit to France.",
+          "zh": "教皇利奥十四世在教皇首次访问法国的演讲中提出了对科学进步、生命和人权的生存担忧。"
+        },
+        {
+          "en": "(Image credit: Teresa Suarez)",
+          "zh": "（图片来源： Teresa Suarez ）"
+        }
+      ]
+    },
+    {
+      "id": "ef7b3a9095084640",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Hurricane Nolo, a zig-zagging storm, threatens Hawaii with flooding rains",
+      "url": "https://www.npr.org/2026/09/25/nx-s1-5981082/hurricane-nolo-hawaii",
+      "publishedAt": "2026-09-25T14:46:28.000Z",
+      "sentences": [
+        {
+          "en": "Hurricane Nolo, a zig-zagging storm, threatens Hawaii with flooding rains.",
+          "zh": "飓风诺洛（ Nolo ）是一场曲折的飓风，雨水泛滥威胁着夏威夷。"
+        },
+        {
+          "en": "Nolo will slow down as it nears Hawaii's Big Island and is expected to become a major hurricane this weekend, bringing torrential rain to areas that have been flooded by big storms this summer.",
+          "zh": "Nolo将在接近夏威夷大岛时减速，预计本周末将成为一场大飓风，为今年夏天被大风暴淹没的地区带来暴雨。"
+        }
+      ]
+    },
+    {
+      "id": "1305a76102dba891",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Man shot during 2024 Trump campaign rally in Butler dies",
+      "url": "https://www.bbc.co.uk/news/articles/c5dj401d88l3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-25T13:23:33.000Z",
+      "sentences": [
+        {
+          "en": "Man shot during 2024 Trump campaign rally in Butler dies.",
+          "zh": "2024年在巴特勒举行的特朗普竞选集会期间被枪杀的男子去世。"
+        },
+        {
+          "en": "A gunman shot Jim Copenhaver twice while also killing another man and grazing Trump's ear with a bullet.",
+          "zh": "一名枪手向Jim Copenhaver开了两枪，同时还杀死了另一名男子，并用子弹擦伤了特朗普的耳朵。"
+        }
+      ]
+    },
+    {
+      "id": "25e1a4781366d77d",
+      "sourceId": "cloudflare-blog",
+      "category": "security",
+      "title": "Agents can now set up your website’s security with Turnstile Spin",
+      "url": "https://blog.cloudflare.com/turnstile-spin/",
+      "publishedAt": "2026-09-25T13:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Agents can now set up your website’s security with Turnstile Spin.",
+          "zh": null
+        },
+        {
+          "en": "In 2023, Cloudflare declared itself free from CAPTCHAs with the launch of Turnstile, our privacy-first client-side challenge.",
+          "zh": null
+        },
+        {
+          "en": "Turnstile is free to use, works on any site (no need to proxy traffic through Cloudflare), and never asks a visitor to solve a puzzle.",
+          "zh": null
+        },
+        {
+          "en": "Now, we are launching Turnstile Spin, an agent-mediated end-to-end implementation of Turnstile.",
+          "zh": null
+        },
+        {
+          "en": "Initially built with developers in mind, Turnstile requires a basic two-step implementation and understanding of frontend and backend development.",
+          "zh": null
+        },
+        {
+          "en": "First, you modify your frontend code to render the Turnstile widget; this allows Cloudflare to run the client-side challenges and issue a token.",
+          "zh": null
+        },
+        {
+          "en": "Second, you POST the token to our Siteverify API, which verifies the token and returns metadata about whether the visitor passed or failed the challenge.",
+          "zh": null
+        },
+        {
+          "en": "You can then act on this decision, like gating the login button until the visitor successfully solves a Turnstile challenge.",
+          "zh": null
+        },
+        {
+          "en": "Turnstile now processes about three billion verifications on a typical weekday, and in one recent week more than 23,000 accounts created a new widget in the Cloudflare dashboard.",
+          "zh": null
+        },
+        {
+          "en": "This rapid adoption pushed us to evaluate how we can help users achieve full Turnstile validation seamlessly.",
+          "zh": null
+        },
+        {
+          "en": "Turnstile was built for developers, but demand for simple bot protection reaches far beyond people who write backend code every day.",
+          "zh": null
+        },
+        {
+          "en": "AI raises the stakes: it helps more people build applications, while giving attackers more ways to automate abuse.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "1daf1c7a491f65c9",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Pomp over progress in Xi’s US summit with Trump is a win for China",
+      "url": "https://www.theguardian.com/us-news/2026/sep/25/donald-trump-xi-jinping-china-president-us-visit-red-carpet-treatment",
+      "publishedAt": "2026-09-25T12:41:14.000Z",
+      "sentences": [
+        {
+          "en": "Pomp over progress in Xi’s US summit with Trump is a win for China.",
+          "zh": "在习近平与特朗普的美国峰会上，对中国来说是一场胜利。"
+        },
+        {
+          "en": "While US president hailed visit as ‘great’, almost nothing of substance was achieved on resolving thorny issues Key takeaways from the Trump-Xi summit in Washington If the Beijing meeting between Donald Trump and Xi Jinping in May was the “ stalemate summit ”, the second round of talks between the presidents of the US and China this week seemed to give up entirely on the idea of breakthroughs.",
+          "zh": "虽然美国总统称赞这次访问是“伟大的” ，但在解决华盛顿特朗普-习近平峰会的棘手问题方面几乎没有取得任何实质性成果。如果5月份唐纳德特朗普和习近平在北京的会晤是“僵局峰会” ，那么本周中美两国元首之间的第二轮会谈似乎完全放弃了突破的想法。"
+        },
+        {
+          "en": "Instead, it was described as a celebration of “ diplotainment ” rather than diplomacy, where pomp prevailed over progress and where one of the main outcomes was the news that two giant pandas would soon be sent from China to Atlanta zoo.",
+          "zh": "相反，它被描述为“双重娱乐”而不是外交的庆祝活动，盛况压倒了进步，其中一个主要结果是两只大熊猫将很快从中国送到亚特兰大动物园的消息。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "ab7b23ce9fe973f6",
+      "sourceId": "un-news",
+      "category": "science",
+      "title": "Nepal PM urges climate justice after ‘Himalayan tsunami’ devastates country",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168441",
+      "publishedAt": "2026-09-25T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Nepal PM urges climate justice after ‘Himalayan tsunami’ devastates country.",
+          "zh": "尼泊尔总理敦促在“喜马拉雅海啸”摧毁该国后实现气候正义。"
+        },
+        {
+          "en": "Nepal’s Prime Minister Balendra Shah brought a stark warning from the Himalayas to the UN General Assembly on Thursday, saying catastrophic floods that killed at least 1,400 people in his country laid bare the human cost of climate change, and the failure of the international system to protect those least responsible for it.",
+          "zh": "尼泊尔总理巴伦德拉·沙阿（ Balendra Shah ）周四向联合国大会发出喜马拉雅山的严厉警告，称该国至少造成1400人死亡的灾难性洪水暴露了气候变化的人类代价，以及国际体系未能保护最不负责任的人。"
+        }
+      ]
+    },
+    {
+      "id": "d9a79573c67a476e",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "‘Invest with Iraq’: PM sets out vision for new economic future",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168443",
+      "publishedAt": "2026-09-25T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "‘Invest with Iraq’: PM sets out vision for new economic future.",
+          "zh": "“投资伊拉克” ：总理为新的经济未来设定了愿景。"
+        },
+        {
+          "en": "Iraq’s Prime Minister, Ali Faleh Al-Zaidi, said his country aims to exert its influence as an active economic power in the region, and as a bridge for dialogue and cooperation between its peoples.",
+          "zh": "伊拉克总理阿里·法莱赫·扎伊迪（ Ali Faleh Al-Zaidi ）表示，伊拉克的目标是发挥其作为该地区活跃经济大国的影响力，并作为其人民之间对话与合作的桥梁。"
+        }
+      ]
+    },
+    {
+      "id": "481de3a0385ef4d9",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "‘No one speaks on behalf of Lebanon’: PM Salam asserts State authority at UN",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168444",
+      "publishedAt": "2026-09-25T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "‘No one speaks on behalf of Lebanon’: PM Salam asserts State authority at UN.",
+          "zh": "“没有人代表黎巴嫩发言” ：萨拉姆总理宣称国家在联合国的权威。"
+        },
+        {
+          "en": "Lebanon’s Prime Minister, Nawaf Salam, has stressed that decisions over war and peace, and control of weapons, must rest solely with the State and its constitutional institutions.",
+          "zh": "黎巴嫩总理纳瓦夫·萨拉姆强调，关于战争与和平以及武器控制的决定必须完全取决于国家及其宪法机构。"
+        }
+      ]
+    },
+    {
+      "id": "d34ff7d45eae462a",
+      "sourceId": "un-news",
+      "category": "ai",
+      "title": "World News in Brief: West Bank demolitions accelerate, urgent support for Sudan, Haiti diplacement, AI hub to boost gender equality",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168447",
+      "publishedAt": "2026-09-25T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "World News in Brief: West Bank demolitions accelerate, urgent support for Sudan, Haiti diplacement, AI hub to boost gender equality.",
+          "zh": "《世界新闻简报》：约旦河西岸拆迁加速，紧急支持苏丹、海地安置、人工智能中心以促进性别平等。"
+        },
+        {
+          "en": "The situation in the occupied West Bank continues to deteriorate, the UN human rights office has said, pointing to the “mass destruction” of Palestinian villages and forcible transfer of residents in Msafer Yatta, South Hebron Hills.",
+          "zh": "联合国人权高专办表示，被占领的约旦河西岸的局势继续恶化，巴勒斯坦村庄遭到“大规模破坏” ，南希伯伦山Msafer Yatta的居民被迫迁移。"
+        }
+      ]
+    },
+    {
+      "id": "75006c2418a11049",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Tuvalu urges decisive global action as rising seas threaten its future",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168449",
+      "publishedAt": "2026-09-25T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Tuvalu urges decisive global action as rising seas threaten its future.",
+          "zh": "随着海平面上升威胁着图瓦卢的未来，图瓦卢敦促全球采取果断行动。"
+        },
+        {
+          "en": "Climate change remains the greatest existential threat to Tuvalu, Prime Minister Feleti Teo told the UN General Assembly on Friday, warning that the pace and scale of international action are still falling far short of what vulnerable island nations need.",
+          "zh": "图瓦卢总理费莱蒂·特奥（ Feleti Teo ）周五在联合国大会上表示，气候变化仍然是图瓦卢最大的生存威胁，并警告说，国际行动的速度和规模仍远远低于脆弱岛屿国家的需求。"
+        }
+      ]
+    },
+    {
+      "id": "621de1fe5bfb6436",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "UN voices grave concern as fighting spreads across northern Ethiopia",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168450",
+      "publishedAt": "2026-09-25T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "UN voices grave concern as fighting spreads across northern Ethiopia.",
+          "zh": "随着战斗在埃塞俄比亚北部蔓延，联合国表示严重关切。"
+        },
+        {
+          "en": "The UN said on Friday it remains gravely concerned by the continued deterioration of the security situation across northern Ethiopia, as fighting spreads across multiple fronts and increasingly disrupts humanitarian operations.",
+          "zh": "联合国周五表示，它仍然严重关切埃塞俄比亚北部安全局势的持续恶化，因为战斗蔓延到多个战线，并越来越多地扰乱人道主义行动。"
+        }
+      ]
+    },
+    {
+      "id": "b2dbb2b2f6e55b31",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Pakistan’s Sharif warns any diversion of Indus waters will be ‘treated as an act of war’",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168452",
+      "publishedAt": "2026-09-25T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Pakistan’s Sharif warns any diversion of Indus waters will be ‘treated as an act of war’.",
+          "zh": "巴基斯坦的谢里夫警告说，印度河水的任何转移都将“被视为战争行为”。"
+        },
+        {
+          "en": "Pakistani Prime Minister Shehbaz Sharif told the UN General Assembly on Friday that any attempt by India to stop, impede or divert Pakistan’s share of the Indus River waters “will be treated as an act of war”.",
+          "zh": "巴基斯坦总理谢赫巴兹·谢里夫（ Shehbaz Sharif ）周五在联合国大会上表示，印度阻止、阻碍或转移巴基斯坦在印度河水域份额的任何企图“将被视为战争行为”。"
+        }
+      ]
+    },
+    {
+      "id": "2cc01d0345b9bb7c",
+      "sourceId": "un-news",
+      "category": "security",
+      "title": "Haiti at ‘watershed moment’, Prime Minister tells UN, urging full backing for security force",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168453",
+      "publishedAt": "2026-09-25T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Haiti at ‘watershed moment’, Prime Minister tells UN, urging full backing for security force.",
+          "zh": "总理告诉联合国，海地处于“分水岭时刻” ，敦促全力支持安全部队。"
+        },
+        {
+          "en": "Haiti is at a “watershed moment” in its struggle against gang violence and needs sustained international support alongside stronger national security institutions, Prime Minister Alix Didier Fils-Aimé told the UN General Assembly on Friday.",
+          "zh": "海地总理阿利克斯·迪迪埃·菲尔斯-艾梅（ Alix Didier Fils-Aimé ）周五在联合国大会上表示，海地正处于打击帮派暴力斗争的“分水岭” ，需要持续的国际支持和更强大的国家安全机构。"
+        }
+      ]
+    },
+    {
+      "id": "0e34f3bdf0b7dd17",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+      "url": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-25T11:44:44.000Z",
+      "sentences": [
+        {
+          "en": "Netanyahu defends Israeli military action as delegates walk out before UN speech.",
+          "zh": "内塔尼亚胡为以色列的军事行动辩护，因为代表们在联合国发言前走出家门。"
+        },
+        {
+          "en": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
+          "zh": "这位以色列领导人将那些在联合国大会上发表讲话的人称为“道德懦夫”。"
+        }
+      ]
+    },
+    {
+      "id": "9ce0516d0410b1bf",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Trump and Xi strike cordial tone at summit. And, Netanyahu gives defiant UNGA speech",
+      "url": "https://www.npr.org/2026/09/25/g-s1-144994/up-first-newsletter-trump-xi-netanyahu-united-nations-mortgage-rates",
+      "publishedAt": "2026-09-25T11:18:52.000Z",
+      "sentences": [
+        {
+          "en": "Trump and Xi strike cordial tone at summit.",
+          "zh": "特朗普和习近平在峰会上表达了亲切的语气。"
+        },
+        {
+          "en": "And, Netanyahu gives defiant UNGA speech.",
+          "zh": "而且，内塔尼亚胡发表了挑衅性的联合国大会演讲。"
+        },
+        {
+          "en": "Trump and Xi's U.S. summit continues after a state dinner Thursday night.",
+          "zh": "特朗普和习近平的美国峰会在周四晚间的国宴后继续举行。"
+        },
+        {
+          "en": "And, Netanyahu returns to Israel after giving a defensive and defiant speech at the U.N.",
+          "zh": "而且，内塔尼亚胡在联合国发表了防御性和挑衅性的演讲后返回以色列。"
+        },
+        {
+          "en": "General Assembly.",
+          "zh": "联合国大会。"
+        },
+        {
+          "en": "(Image credit: Mark Schiefelbein)",
+          "zh": "（图片来源： Mark Schiefelbein ）"
+        }
+      ]
+    },
+    {
+      "id": "650cb27003782ca6",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Why this Pokémon set is dropping in value",
+      "url": "https://www.npr.org/sections/planet-money/2026/09/25/nx-s1-5980393/why-this-pokemon-set-is-dropping-in-value",
+      "publishedAt": "2026-09-25T11:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Why this Pokémon set is dropping in value.",
+          "zh": "为什么这个精灵套装的价值在下降。"
+        },
+        {
+          "en": "Mew ex, Pokémon TCG 30th Celebration '/> How does one price a cemetery plot?",
+          "zh": "Mew ex, Pokémon TCG 30th Celebration '/>如何为墓地定价？"
+        },
+        {
+          "en": "Are they using dynamic pricing to figure it out?",
+          "zh": "他们是否使用动态定价来解决这个问题？"
+        },
+        {
+          "en": "We tackle that question and many more in this week's Indicator newsletter.",
+          "zh": "我们在本周的Indicator通讯中讨论了这个问题以及更多问题。"
+        },
+        {
+          "en": "(Image credit: Pokémon/Nintendo/Creatures/GAME FREAK.",
+          "zh": "（图片来源：神奇宝贝/任天堂/生物/游戏怪胎。"
+        },
+        {
+          "en": ")",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "0671bf4a49ebdd63",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Jay-Z rape accuser says her allegation was false",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g53547wygo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-25T10:51:28.000Z",
+      "sentences": [
+        {
+          "en": "Jay-Z rape accuser says her allegation was false.",
+          "zh": "Jay-Z强奸指控者说她的指控是虚假的。"
+        },
+        {
+          "en": "A woman who accused Jay-Z of raping her when she was 13 now says she has never met the rap superstar.",
+          "zh": "一名女子指责Jay-Z在她13岁时强奸了她，现在她说她从未见过这位说唱巨星。"
+        }
+      ]
+    },
+    {
+      "id": "2a0368ee25d3dfdc",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Hurricane Polo barrels towards Baja California region of Mexico",
+      "url": "https://www.theguardian.com/world/2026/sep/25/weather-tracker-hurricane-polo-baja-california-mexico",
+      "publishedAt": "2026-09-25T10:28:45.000Z",
+      "sentences": [
+        {
+          "en": "Hurricane Polo barrels towards Baja California region of Mexico.",
+          "zh": "飓风“马球”肆虐墨西哥下加利福尼亚州地区。"
+        },
+        {
+          "en": "Area’s second-most intense hurricane on record being fuelled by exceptionally warm Pacific waters Hurricane Polo is barreling towards the Baja California region of Mexico, the latest system in a Pacific hurricane season that has been notably active in recent months.",
+          "zh": "该地区有史以来第二强的飓风是由异常温暖的太平洋水域加剧的。飓风波罗正向墨西哥的下加利福尼亚州地区猛烈袭击，这是太平洋飓风季节的最新系统，近几个月来一直非常活跃。"
+        },
+        {
+          "en": "On 22 September, a measurement of 892 millibars was registered for Hurricane Polo, making it the second-most intense hurricane on record in the east Pacific.",
+          "zh": "9月22日，飓风波罗的测量值为892毫巴，成为东太平洋有史以来第二强的飓风。"
+        },
+        {
+          "en": "It is fuelled by exceptionally warm waters across the Pacific Ocean, providing favourable conditions for the system to maintain its considerable strength.",
+          "zh": "太平洋异常温暖的水域为该系统提供了动力，为该系统保持其相当大的强度提供了有利条件。"
+        },
+        {
+          "en": "Polo is expected to turn towards the west-north-west, before taking a more north-westerly trajectory on Saturday.",
+          "zh": "预计马球将转向西北偏西，然后在周六采取更偏西北的轨迹。"
+        },
+        {
+          "en": "It has maximum sustained winds of around 150mph, with even stronger gusts occurring within the most intense parts of the hurricane.",
+          "zh": "它最大的持续风速约为150英里/小时，在飓风最强烈的部分发生更强的阵风。"
+        },
+        {
+          "en": "Hurricane-force winds extend outward for approximately 40 miles from the centre, while tropical storm-force winds reach as far as 125 miles.",
+          "zh": "飓风强度风从中心向外延伸约40英里，而热带风暴强度风长达125英里。"
+        },
+        {
+          "en": "These powerful winds, combined with torrential rainfall and dangerous seas, could have significant impacts.",
+          "zh": "这些强风，加上暴雨和危险的海洋，可能会产生重大影响。"
+        },
+        {
+          "en": "Although some fluctuations in intensity are possible over the coming days, Polo is expected to remain powerful as it tracks north-westwards.",
+          "zh": "尽管在接下来的几天里，马球的强度可能会出现一些波动，但随着它向西北方向移动，预计它仍将保持强大。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "a0dba1a33ff32027",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "US backs Elon Musk's bid to overturn €120m EU fine against X",
+      "url": "https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-25T09:48:33.000Z",
+      "sentences": [
+        {
+          "en": "US backs Elon Musk's bid to overturn €120m EU fine against X.",
+          "zh": "美国支持埃隆·马斯克（ Elon Musk ）推翻欧盟对X的1.2亿欧元罚款。"
+        },
+        {
+          "en": "The EU had said X \"deceives users\" by selling blue ticks without \"meaningfully verifying\" accounts.",
+          "zh": "欧盟曾表示， X在没有“有意义地验证”账户的情况下通过出售蓝蜱来“欺骗用户”。"
+        }
+      ]
+    },
+    {
+      "id": "35cea508cfba814f",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
+      "url": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-25T03:57:09.000Z",
+      "sentences": [
+        {
+          "en": "Xi got Trump's red carpet welcome - but not everything he wanted.",
+          "zh": "习近平得到了特朗普的红地毯欢迎--但不是他想要的一切。"
+        },
+        {
+          "en": "China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for.",
+          "zh": "中国希望在贸易、技术和台湾方面取得进展，但没有达到预期。"
+        }
+      ]
+    },
+    {
+      "id": "2aa03f64463f2558",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Lula says Trump wants to ‘colonise’ and capture Brazil’s resources by meddling in election",
+      "url": "https://www.theguardian.com/world/2026/sep/25/lula-says-trump-wants-to-colonise-and-capture-brazils-resources-by-meddling-in-election",
+      "publishedAt": "2026-09-25T03:33:48.000Z",
+      "sentences": [
+        {
+          "en": "Lula says Trump wants to ‘colonise’ and capture Brazil’s resources by meddling in election.",
+          "zh": "卢拉表示，特朗普希望通过干预选举来“殖民”并夺取巴西的资源。"
+        },
+        {
+          "en": "A TV spot claims the US president is trying to sway October’s presidential vote in favour of Lula’s far-right opponents Luiz Inácio Lula da Silva’s presidential campaign has accused Donald Trump of wanting to “colonise” Brazil in order to capture its natural resources by meddling in next month’s presidential election.",
+          "zh": "一个电视广告声称，美国总统正试图动摇10月份的总统选举，支持卢拉的极右翼对手路易斯·伊纳西奥·卢拉·达席尔瓦（ Luiz Inácio Lula da Silva ）的总统竞选活动，指责唐纳德·特朗普（ Donald Trump ）想要“殖民”巴西，以便通过干涉下个月的总统选举来夺取其自然资源。"
+        },
+        {
+          "en": "The accusation came in a campaign advert that was published on social media on Thursday night by Lula’s team and will air on television on Friday amid growing fears over the impact alleged US interference could have on the vote.",
+          "zh": "这一指控是在周四晚上由卢拉的团队在社交媒体上发布的竞选广告中发布的，并将于周五在电视上播出，因为人们越来越担心所谓的美国干涉可能会对投票产生影响。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "ea1024bc4dee3d58",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "At Trump meeting, Xi Jinping lays out terms to avoid US-China military conflict",
+      "url": "https://www.theguardian.com/us-news/2026/sep/24/xi-jinping-trump-china-cooperation-thucydides-trap",
+      "publishedAt": "2026-09-24T23:58:11.000Z",
+      "sentences": [
+        {
+          "en": "At Trump meeting, Xi Jinping lays out terms to avoid US-China military conflict.",
+          "zh": "在特朗普会议上，习近平提出了避免美中军事冲突的条款。"
+        },
+        {
+          "en": "Chinese president’s proposals for lessening tensions come amid period of intense competition between the two countries over AI and trade Xi Jinping has called for extensive cooperation with Washington to avoid the “Thucydides trap” that could put the US and China on a military collision course amid rising tensions over artificial intelligence, trade and Taiwan.",
+          "zh": "中国国家主席提出缓解紧张局势的建议之际，两国在人工智能和贸易方面的激烈竞争，习近平呼吁与华盛顿进行广泛合作，以避免“修昔底德陷阱” ，这可能使美国和中国在人工智能、贸易和台湾问题上的紧张局势日益加剧。"
+        },
+        {
+          "en": "At the start of his summit meeting with Donald Trump in the White House, the Chinese president laid out terms for a mutual understanding that he said could steer the two competing superpowers away from future military conflict and on to a road of mutual gain.",
+          "zh": "在与唐纳德·特朗普（ Donald Trump ）在白宫举行的峰会开始时，中国国家主席提出了相互理解的条款，他说这些条款可以引导两个相互竞争的超级大国远离未来的军事冲突，走上互利的道路。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "4143f944294fdb6a",
+      "sourceId": "aws-news",
+      "category": "cloud",
+      "title": "Introducing enhanced custom event buses in Amazon EventBridge for enterprise-scale event-driven applications",
+      "url": "https://aws.amazon.com/blogs/aws/introducing-enhanced-custom-event-buses-in-amazon-eventbridge-for-enterprise-scale-event-driven-applications/",
+      "publishedAt": "2026-09-24T20:58:46.000Z",
+      "sentences": [
+        {
+          "en": "Introducing enhanced custom event buses in Amazon EventBridge for enterprise-scale event-driven applications.",
+          "zh": null
+        },
+        {
+          "en": "Organizations building event-driven applications on Amazon EventBridge typically start with a single custom event bus in one account.",
+          "zh": null
+        },
+        {
+          "en": "This works well when a single team owns the architecture.",
+          "zh": null
+        },
+        {
+          "en": "As adoption grows across the organization, though, things get complicated.",
+          "zh": null
+        },
+        {
+          "en": "AWS best practices recommend a multi-account structure, which means each team runs in its own account.",
+          "zh": null
+        },
+        {
+          "en": "To route events between them, teams create multiple event buses connected through cross-account rules or bus-to-bus configurations.",
+          "zh": null
+        },
+        {
+          "en": "This workaround reintroduces the operational complexity that serverless architectures are meant to eliminate.",
+          "zh": null
+        },
+        {
+          "en": "Platform teams lose visibility into who is subscribing to which events, cross-account and bus-to-bus routing charges compound quickly, and teams that need capabilities like event ordering are forced to build complex workarounds or adopt entirely different technologies.",
+          "zh": null
+        },
+        {
+          "en": "Today, we are announcing an enhanced custom event bus in Amazon EventBridge, purpose-built for organizations scaling event-driven applications across teams and accounts.",
+          "zh": null
+        },
+        {
+          "en": "With the new enhanced custom event bus, you can deploy a single, centralized event bus shared across all AWS accounts in your organization, with ordering guarantees, a simplified Subscriber resource, and a new pricing model that delivers improved economics at scale and cost allocation for publishers and subscribers.",
+          "zh": null
+        },
+        {
+          "en": "Let’s try it out To get started with an enhanced custom event bus, I navigated to the EventBridge console in the AWS Management Console and opened the Create custom event bus page.",
+          "zh": null
+        },
+        {
+          "en": "I selected Custom event bus, the recommended option labeled New.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "3d14844898469c56",
+      "sourceId": "github-blog",
+      "category": "open-source",
+      "title": "When chat is the wrong UI",
+      "url": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/",
+      "publishedAt": "2026-09-24T20:00:00.000Z",
+      "sentences": [
+        {
+          "en": "When chat is the wrong UI.",
+          "zh": null
+        },
+        {
+          "en": "We re 176 years into this AI experiment.",
+          "zh": null
+        },
+        {
+          "en": "Wait it s only been three years?",
+          "zh": null
+        },
+        {
+          "en": "Are you sure?",
+          "zh": null
+        },
+        {
+          "en": "Sometimes I remember things that happened last year, but it feels like it was so long ago.",
+          "zh": null
+        },
+        {
+          "en": "Did that really happen to me, or was it something that happened to my dad and he just told me about it when I was a kid?",
+          "zh": null
+        },
+        {
+          "en": "Anyway we re three years into this AI experiment and the primary interaction surface we have with LLMs is still chat.",
+          "zh": null
+        },
+        {
+          "en": "I m pretty sure it was @pmarca who first argued for a textarea component in the HTML spec.",
+          "zh": null
+        },
+        {
+          "en": "And I m pretty sure of that fact because I asked AI about it.",
+          "zh": null
+        },
+        {
+          "en": "In a textarea.",
+          "zh": null
+        },
+        {
+          "en": "But I would like to propose to you that perhaps, just maybe, chat is the wrong UI.",
+          "zh": null
+        },
+        {
+          "en": "Well, at least most of the time.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "f0334b38f67c40a3",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Trump swoons over strongman soulmate Xi – are you feeling jealous, Vladimir?",
+      "url": "https://www.theguardian.com/us-news/2026/sep/24/trump-xi-jinping-meeting-white-house",
+      "publishedAt": "2026-09-24T18:30:54.000Z",
+      "sentences": [
+        {
+          "en": "Trump swoons over strongman soulmate Xi – are you feeling jealous, Vladimir?.",
+          "zh": "特朗普扑向强人灵魂伴侣习近平–弗拉基米尔，你嫉妒吗？"
+        },
+        {
+          "en": "Deference was deafening as US president rolled out red carpet for world’s biggest jailer of journalists – perhaps he was seeking tips One is an authoritarian who represses the media and has a strong allergy to democratic elections.",
+          "zh": "当美国总统为世界上最大的记者狱卒铺设红地毯时，尊重震耳欲聋–也许他正在寻找提示一个是压制媒体的威权主义者，对民主选举有强烈的过敏反应。"
+        },
+        {
+          "en": "The other is head of the Chinese Communist party.",
+          "zh": "另一位是中国共产党的领导人。"
+        },
+        {
+          "en": "Donald Trump welcomed the Chinese president, Xi Jinping, to the White House on Thursday, setting the stage for a scene quite unlike anything the august old building has seen over more than two centuries.",
+          "zh": "唐纳德•特朗普(Donald Trump)周四欢迎中国国家主席习近平(Xi Jinping)来到白宫，为这一场景奠定了基础，与这座庄严的老建筑在两个多世纪以来所见过的任何场景都截然不同。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "4431c738b4b1e8a1",
+      "sourceId": "github-blog",
+      "category": "ai",
+      "title": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
+      "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/",
+      "publishedAt": "2026-09-24T18:26:12.000Z",
+      "sentences": [
+        {
+          "en": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent.",
+          "zh": null
+        },
+        {
+          "en": "If you re new to fuzzing and want to learn the fundamentals first, check out our Fuzzing 101 course at gh.io/fuzzing101 .",
+          "zh": null
+        },
+        {
+          "en": "Continuous fuzzing is not a magic solution that solves all your problems .",
+          "zh": null
+        },
+        {
+          "en": "Even projects that have been enrolled in OSS-Fuzz for years can still hide critical bugs, and the reason is almost always the same: someone needs to keep an eye on coverage, write new harnesses for the code that nobody is reaching, and triage the crashes that come out the other end.",
+          "zh": null
+        },
+        {
+          "en": "In other words, fuzzing still needs a human in the loop.",
+          "zh": null
+        },
+        {
+          "en": "So the natural question I kept asking myself was: how much of that human work can we actually hand over to an LLM agent?",
+          "zh": null
+        },
+        {
+          "en": "That is what led me to build the Fuzzing Taskflow, an autonomous fuzzing pipeline for C/C++ projects.",
+          "zh": null
+        },
+        {
+          "en": "You only need to point it at a GitHub repository, and it does the rest: it identifies the suitable entrypoints, analyzes the build system, writes the harnesses, runs AFL++, reads the coverage reports, improves the harnesses, triages every crash, and writes a vulnerability report for each unique bug, all without a human babysitting it.",
+          "zh": null
+        },
+        {
+          "en": "The Fuzzing Taskflow is built on top of the GitHub Security Lab Taskflow Agent , our framework for writing LLM-driven security automation, so the pipeline is expressed as a set of taskflows that an agent runs end to end.",
+          "zh": null
+        },
+        {
+          "en": "In this post, I ll walk you through how it works and the design decisions behind it.",
+          "zh": null
+        },
+        {
+          "en": "Let s get going!",
+          "zh": null
+        },
+        {
+          "en": "How to run it The simplest way to run it s just to go to https://github.com/GitHubSecurityLab/seclab-taskflows-fuzzing and start a codespace.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "58e71284a8e048fb",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Democratic lawmakers accuse Trump administration of interference in Brazilian elections",
+      "url": "https://www.theguardian.com/world/2026/sep/24/trump-brazil-election-interference",
+      "publishedAt": "2026-09-24T17:56:06.000Z",
+      "sentences": [
+        {
+          "en": "Democratic lawmakers accuse Trump administration of interference in Brazilian elections.",
+          "zh": "民主党议员指责特朗普政府干预巴西选举。"
+        },
+        {
+          "en": "Legislators sent letter to Marco Rubio saying US interference is weakening Brazil’s democratic institutions A group of 31 Democratic members of the US Congress has sent a letter to the secretary of state, Marco Rubio , criticising the Trump administration over “an apparent effort to interfere with, and potentially undermine” Brazil ’s elections.",
+          "zh": "立法者致函马尔科·卢比奥（ Marco Rubio ） ，称美国的干涉正在削弱巴西的民主机构美国国会的31名民主党议员已致函国务卿马尔科·卢比奥（ Marco Rubio ） ，批评特朗普政府“显然试图干涉并可能破坏”巴西的选举。"
+        },
+        {
+          "en": "Latin America’s largest country will hold the first round of its presidential election on 4 October, with polls showing a technical tie between the incumbent leftist president, Luiz Inácio Lula da Silva , and the far-right senator Flávio Bolsonaro .",
+          "zh": "拉丁美洲最大的国家将于10月4日举行第一轮总统选举，民意调查显示现任左翼总统路易斯·伊纳西奥·卢拉·达席尔瓦（ Luiz Inácio Lula da Silva ）和极右翼参议员弗拉维奥·博尔索纳罗（ Flávio Bolsonaro ）之间存在技术联系。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "10091e6a622a266c",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Our new health and safety tools are live in the Google Health app.",
+      "url": "https://blog.google/products-and-platforms/products/google-health/health-guardian-features-live/",
+      "publishedAt": "2026-09-24T17:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Our new health and safety tools are live in the Google Health app.",
+          "zh": null
+        },
+        {
+          "en": "Pixel Watch users can explore the new health and safety tools in the Google Health app.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "bd8f9dfa50ec22b1",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "5 Google Photos updates to make the most of summer memories.",
+      "url": "https://blog.google/products-and-platforms/products/photos/google-photos-updates/",
+      "publishedAt": "2026-09-24T17:00:00.000Z",
+      "sentences": [
+        {
+          "en": "5 Google Photos updates to make the most of summer memories.",
+          "zh": null
+        },
+        {
+          "en": "Five updates in Google Photos that will help you make the most of your summer memories.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "318da1acec02e8b4",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "5 ways to upgrade your study habits with Chrome",
+      "url": "https://blog.google/products-and-platforms/products/chrome/tips-for-school-and-studying/",
+      "publishedAt": "2026-09-24T17:00:00.000Z",
+      "sentences": [
+        {
+          "en": "5 ways to upgrade your study habits with Chrome.",
+          "zh": null
+        },
+        {
+          "en": "From managing complex research projects to minimizing digital distractions, Chrome has the tools you need to succeed this school year.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "bd67bc53dbc871b7",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Turn discovery into action with September’s Demand Gen Drop.",
+      "url": "https://blog.google/products/ads-commerce/demand-gen-drop-september-2026/",
+      "publishedAt": "2026-09-24T16:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Turn discovery into action with September’s Demand Gen Drop.",
+          "zh": null
+        },
+        {
+          "en": "Turn discovery into action with new seamless experiences and integrations from YouTube’s September Demand Gen Drop.",
+          "zh": null
+        }
+      ]
+    }
+  ],
+  "failures": []
+}
