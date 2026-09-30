@@ -1,0 +1,1411 @@
+{
+  "date": "2026-09-29",
+  "collectedAt": "2026-09-30T04:09:35.204Z",
+  "items": [
+    {
+      "id": "ed6b563e4dec3ccd",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Dutch police arrest suspected member of group that claimed FBI hack",
+      "url": "https://www.bbc.co.uk/news/articles/cw5ym18znr0ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-29T15:40:10.000Z",
+      "sentences": [
+        {
+          "en": "Dutch police arrest suspected member of group that claimed FBI hack.",
+          "zh": null
+        },
+        {
+          "en": "The suspect, 24, was arrested before the alleged cyber attack took place.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "1762217c895fe0f7",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "National Rally’s Jordan Bardella rails at ‘war’ on party after antisemitism claims",
+      "url": "https://www.theguardian.com/world/2026/sep/29/jordan-bardella-national-rally-antisemitism-claims-france",
+      "publishedAt": "2026-09-29T15:16:39.000Z",
+      "sentences": [
+        {
+          "en": "National Rally’s Jordan Bardella rails at ‘war’ on party after antisemitism claims.",
+          "zh": null
+        },
+        {
+          "en": "President of Marine Le Pen’s far-right party faces calls to resign over comments he allegedly wrote as a teenager Jordan Bardella , the head of Marine Le Pen’s far-right National Rally (RN), has claimed a “total war” is being waged against his party as he faces a political storm after the publication of antisemitic comments he allegedly wrote as a young party member.",
+          "zh": null
+        },
+        {
+          "en": "Bardella, who is facing calls from political opponents to resign, said on Tuesday that the report by the investigative website Mediapart was false.",
+          "zh": null
+        },
+        {
+          "en": "To a standing ovation from his party’s lawmakers and senators at a meeting in parliament, he said the report was an attempt to damage his party as Le Pen tops the polls before the 2027 presidential election.",
+          "zh": null
+        },
+        {
+          "en": "Continue reading..",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "e83f728b4e9f02b3",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "‘We will not be intimidated,’ says Estonian PM after attributing recent arson attack to Russia – as it happened",
+      "url": "https://www.theguardian.com/world/live/2026/sep/29/ukraine-russia-war-odesa-overnight-lithuania-mark-rutte-europe-latest-news-updates",
+      "publishedAt": "2026-09-29T15:03:15.000Z",
+      "sentences": [
+        {
+          "en": "‘We will not be intimidated,’ says Estonian PM after attributing recent arson attack to Russia – as it happened.",
+          "zh": null
+        },
+        {
+          "en": "Kristen Michal says attack ‘against Milrem Robotics was ordered by Russian special services’, after Kremlin denies involvement Rutte begins by recalling a drone shot down in Lithuanian airspace by Nato fighter jets two weeks ago.",
+          "zh": null
+        },
+        {
+          "en": "He says “the repeated drone incidents along our eastern flank showed the evolving nature of the threat, and we are strengthening our integrated air and missile defence.” “We are adapting and reinforcing our posture against drones.” Continue reading..",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "85a2ee1ccabf9baf",
+      "sourceId": "github-blog",
+      "category": "open-source",
+      "title": "Developer policy update: Transparency, state policy, and what’s ahead",
+      "url": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead/",
+      "publishedAt": "2026-09-29T15:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Developer policy update: Transparency, state policy, and what’s ahead.",
+          "zh": null
+        },
+        {
+          "en": "Policy decisions increasingly shape how developers build, collaborate, and participate in open source.",
+          "zh": null
+        },
+        {
+          "en": "That makes it important not only to be transparent about how GitHub responds to government requests, but also to help developers understand policy proposals that could affect their work and create opportunities for the open source community to engage.",
+          "zh": null
+        },
+        {
+          "en": "With that in mind, we re sharing our latest Transparency Center data , looking back at an unusually active 2026 state legislative session, and highlighting a few policy conversations we ll be following in the months ahead.",
+          "zh": null
+        },
+        {
+          "en": "Updating how we report government takedown requests One notable change in our H1 2026 Transparency Center data is a sharp increase in government takedown requests received, from 98 requests in all of 2025 to 708 requests in the first half of 2026 alone.",
+          "zh": null
+        },
+        {
+          "en": "This increase largely reflects changes to our reporting methodology rather than a change in our moderation practices.",
+          "zh": null
+        },
+        {
+          "en": "As we noted in our H1 2025 update , we expanded our reporting to include all government takedown requests received, regardless of whether they reference local law, a Terms of Service violation, or simply request the removal of content.",
+          "zh": null
+        },
+        {
+          "en": "We also updated our internal tracking to count all requests received, including duplicate requests concerning the same content.",
+          "zh": null
+        },
+        {
+          "en": "As a result, the higher number reflects the volume of government reporting activity GitHub receives, not a corresponding increase in content removals.",
+          "zh": null
+        },
+        {
+          "en": "Takedowns processed under local law or for Terms of Service violations remain relatively rare, and requests involving content deemed unlawful in a particular jurisdiction continue to be published in our government takedowns repository .",
+          "zh": null
+        },
+        {
+          "en": "Looking back at the 2026 U.S. state legislative session This year, GitHub has been more active than ever on state policy, including sharing developer-focused updates about policy proposals for age assurance, or approaches to verifying a user s age online in order to provide them with age-appropriate experiences, and content provenance, which provides transparency about whether content was generated or altered by AI.",
+          "zh": null
+        },
+        {
+          "en": "We publish these updates in part to help developers understand legislation that could affect the tools they use and the open source projects they contribute to.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "669d62cab54beea3",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Nigerian dances non-stop for seven days in world record bid",
+      "url": "https://www.bbc.co.uk/news/articles/cq8r6z2gjzd1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-29T14:50:09.000Z",
+      "sentences": [
+        {
+          "en": "Nigerian dances non-stop for seven days in world record bid.",
+          "zh": null
+        },
+        {
+          "en": "Crowds cheered on Ben Dancer as completed his challenge and he has now gone to hospital for a check-up",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "709e341b18d84618",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Spain announces plan to ease housing crisis amid outcry over eviction of 87-year-old",
+      "url": "https://www.theguardian.com/world/2026/sep/29/spanish-government-approves-measures-ease-housing-crisis-outcry-eviction",
+      "publishedAt": "2026-09-29T14:27:03.000Z",
+      "sentences": [
+        {
+          "en": "Spain announces plan to ease housing crisis amid outcry over eviction of 87-year-old.",
+          "zh": null
+        },
+        {
+          "en": "Measures, which need to be approved in Congress, include extending ban on evictions of vulnerable people Spain’s Socialist Workers’ party-led coalition government has approved a range of measures aimed at easing the country’s housing crisis, including extending a ban on evictions of vulnerable tenants until 2030, after a public outcry over the eviction of an 87-year-old disabled woman from her Madrid apartment last week.",
+          "zh": null
+        },
+        {
+          "en": "Two decrees have been approved by cabinet but will need to be approved in Congress, where the coalition lacks a majority.",
+          "zh": null
+        },
+        {
+          "en": "The government has requested a special parliamentary session on Friday in the hope of getting the decrees passed as soon as possible.",
+          "zh": null
+        },
+        {
+          "en": "Continue reading..",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "a5793733cbf44078",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Estonia blames Russia for arson attack on drone maker supplying Ukraine",
+      "url": "https://www.theguardian.com/world/2026/sep/29/estonia-blames-russia-arson-attack-drone-maker-ukraine",
+      "publishedAt": "2026-09-29T14:20:39.000Z",
+      "sentences": [
+        {
+          "en": "Estonia blames Russia for arson attack on drone maker supplying Ukraine.",
+          "zh": null
+        },
+        {
+          "en": "European and Nato leaders express support for Estonia after August attack on manufacturer in Tallinn Europe live – latest updates European and Nato leaders have expressed full support for Estonia and Ukraine after the Baltic state said an August arson attack on a drone manufacturer supplying Kyiv was an act of sabotage commissioned by Moscow’s security services.",
+          "zh": null
+        },
+        {
+          "en": "Estonia’s foreign minister, Margus Tsahkna, said on social media on Tuesday that such attacks were “absolutely unacceptable” and that Russia’s chargé d’affaires in the Estonian capital, Tallinn, was being summoned to his ministry.",
+          "zh": null
+        },
+        {
+          "en": "Continue reading..",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "8f2bc5604cfb952c",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Google is a technology partner for the launch of America.gov.",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/public-policy/america-gov-google-public-sector/",
+      "publishedAt": "2026-09-29T14:15:00.000Z",
+      "sentences": [
+        {
+          "en": "Google is a technology partner for the launch of America.gov.",
+          "zh": null
+        },
+        {
+          "en": "Google partners with America.gov to use Gemini to help 100 million people access federal services faster.",
+          "zh": null
+        },
+        {
+          "en": "See how we are modernizing public access.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "c24f76b49d265f9a",
+      "sourceId": "bbc-world",
+      "category": "ai",
+      "title": "Man charged over AI image of crocodile in Singapore reservoir",
+      "url": "https://www.bbc.co.uk/news/articles/c6grveg7d9zro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-29T13:08:55.000Z",
+      "sentences": [
+        {
+          "en": "Man charged over AI image of crocodile in Singapore reservoir.",
+          "zh": null
+        },
+        {
+          "en": "The defendant could face jail or a fine after the image sparked a search operation in the city’s largest reservoir.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "a5b98eda460e15a3",
+      "sourceId": "cloudflare-blog",
+      "category": "cloud",
+      "title": "Enforce positive security with Cloudflare Application Profiles",
+      "url": "https://blog.cloudflare.com/application-profiles/",
+      "publishedAt": "2026-09-29T13:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Enforce positive security with Cloudflare Application Profiles.",
+          "zh": null
+        },
+        {
+          "en": "Today, we are launching Application Profiles, a seamless way to enforce a positive security policy.",
+          "zh": null
+        },
+        {
+          "en": "By analyzing the structure and format of HTTP requests and identifying deviations, Cloudflare can help you significantly reduce the attack surface area.",
+          "zh": null
+        },
+        {
+          "en": "Every customer we speak to wants to know how we can protect them from attacks that use frontier AI models.",
+          "zh": null
+        },
+        {
+          "en": "This has become the number one priority for anyone working in security.",
+          "zh": null
+        },
+        {
+          "en": "Large language models (LLMs) allow even non-technical people to launch attacks with a single prompt.",
+          "zh": null
+        },
+        {
+          "en": "LLMs can generate malicious payloads, test known techniques, and probe applications autonomously by mutating their tactics based on the feedback from the application or the Web Application Firewall (WAF).",
+          "zh": null
+        },
+        {
+          "en": "Our tools have changed to stay a step ahead of the attackers.",
+          "zh": null
+        },
+        {
+          "en": "Managed WAF rules and machine learning-based detections remain essential for detecting techniques such as SQL injection, cross-site scripting, remote code execution, and new CVEs, including many variations of those attacks.",
+          "zh": null
+        },
+        {
+          "en": "The answer can’t simply be “patch faster”: this is not sustainable, and it doesn’t work if you haven’t completely mapped your vulnerabilities.",
+          "zh": null
+        },
+        {
+          "en": "What if you could learn what good requests look like by analyzing your traffic structure?",
+          "zh": null
+        },
+        {
+          "en": "Instead of looking only for requests that resemble known attacks, we could allow only requests that conform with what we expect.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "368653ddd4d48299",
+      "sourceId": "cloudflare-blog",
+      "category": "science",
+      "title": "Is your domain using post-quantum encryption? Now you can see for yourself",
+      "url": "https://blog.cloudflare.com/post-quantum-visibility/",
+      "publishedAt": "2026-09-29T13:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Is your domain using post-quantum encryption?",
+          "zh": null
+        },
+        {
+          "en": "Now you can see for yourself.",
+          "zh": null
+        },
+        {
+          "en": "Today, we are introducing additional post-quantum (PQ) cryptography visibility tools into Cloudflare&#x27;s Application Security and Logs products.",
+          "zh": null
+        },
+        {
+          "en": "You can now inspect and graph the adoption of post-quantum TLS 1.3 encryption for live traffic from directly within Logpush , Log Explorer , and the HTTP Traffic Analytics dashboard.",
+          "zh": null
+        },
+        {
+          "en": "By surfacing the key exchange algorithm negotiated on every incoming request from visitors to our platform, Cloudflare gives customers granular, per-connection telemetry to audit their post-quantum posture, assess compliance, and identify cryptographic gaps across their domains.",
+          "zh": null
+        },
+        {
+          "en": "Cloudflare is targeting 2029 for full post-quantum security, and executing a cryptographic transition at scale requires detailed telemetry.",
+          "zh": null
+        },
+        {
+          "en": "We’ve already deployed post-quantum encryption across many of our products, including in our cloud-proxy platform and on every on-ramp and off-ramp of our SASE platform .",
+          "zh": null
+        },
+        {
+          "en": "As many of our customers work towards quantum-readiness deadlines around 2030, we’re helping ease the transition by making post-quantum encryption the default in many of our products , sharing learnings from our internal cryptography discovery tool , and launching the new post-quantum visibility features for TLS that we’ll cover in this blog.",
+          "zh": null
+        },
+        {
+          "en": "Bringing post-quantum visibility to the domain level When it comes to post-quantum visibility, we already have macro-level visibility into Internet-wide post-quantum adoption in TLS through Cloudflare Radar .",
+          "zh": null
+        },
+        {
+          "en": "On Radar, we track global post-quantum encryption statistics, both when Cloudflare proxies HTTP requests from visitors (the visitor-to-Cloudflare connection) and when Cloudflare connects to origin servers (the Cloudflare-to-origin connections), as shown in this figure.",
+          "zh": null
+        },
+        {
+          "en": "From Radar we can see that about 70% of browser-generated traffic hitting Cloudflare&#x27;s network (on the visitor-to-Cloudflare connection) is protected with post-quantum encryption using hybrid ML-KEM ( FIPS 203 ).",
+          "zh": null
+        },
+        {
+          "en": "Meanwhile, we can see that today, just about 15% of origins that Cloudflare connects to use hybrid ML-KEM.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "d8c43f9aa1b35e90",
+      "sourceId": "cloudflare-blog",
+      "category": "cloud",
+      "title": "Introducing Threat Signals: agentic skills for open-source threat intelligence, free for every Cloudflare account",
+      "url": "https://blog.cloudflare.com/threat-signals/",
+      "publishedAt": "2026-09-29T13:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Introducing Threat Signals: agentic skills for open-source threat intelligence, free for every Cloudflare account.",
+          "zh": null
+        },
+        {
+          "en": "Organizations can now scale threat intelligence expertise the way they scale infrastructure.",
+          "zh": null
+        },
+        {
+          "en": "Threat intelligence analysts and network defenders have long automated the ingestion of structured threat feeds to help enrich their SIEM or WAF.",
+          "zh": null
+        },
+        {
+          "en": "The harder work has always been unstructured reporting: turning a research post into indicators your tools can use, without losing the context that explains why they matter.",
+          "zh": null
+        },
+        {
+          "en": "AI skills make that work possible to automate.",
+          "zh": null
+        },
+        {
+          "en": "A skill is a set of rich, detailed instructions that captures how an experienced analyst handles one part of the job, and it runs the same way on every report.",
+          "zh": null
+        },
+        {
+          "en": "Threat Signals puts that process into practice at scale.",
+          "zh": null
+        },
+        {
+          "en": "It’s launching today, and we made it available to every Cloudflare account.",
+          "zh": null
+        },
+        {
+          "en": "Threat Signals turns open-source reporting that you choose into intelligence you can act on.",
+          "zh": null
+        },
+        {
+          "en": "Its agentic skills summarize reports, surface key context, extract and normalize indicators of compromise, and apply tags — all within a private, account-scoped dataset.",
+          "zh": null
+        },
+        {
+          "en": "The end result is a contextualized indicator stored in your account’s private Threat Intelligence dataset as a Threat Event that can instantly be applied in your WAF policy.",
+          "zh": null
+        },
+        {
+          "en": "Starting today, we are also expanding access to Cloudforce One’s Threat Events Platform , our core threat intelligence offering, to all Cloudflare accounts for free.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "d8ecb294593159cc",
+      "sourceId": "cloudflare-blog",
+      "category": "ai",
+      "title": "We tested our own WAF with frontier AI models. Here’s what we found",
+      "url": "https://blog.cloudflare.com/adaptive-ai-waf-testing/",
+      "publishedAt": "2026-09-29T13:00:00.000Z",
+      "sentences": [
+        {
+          "en": "We tested our own WAF with frontier AI models.",
+          "zh": null
+        },
+        {
+          "en": "Here’s what we found.",
+          "zh": null
+        },
+        {
+          "en": "“Is your WAF ready for frontier AI models?” We keep hearing this question from our customers, so we decided to find out.",
+          "zh": null
+        },
+        {
+          "en": "When it comes to exploiting applications, what LLMs are really good at is iterating and mutating attack payloads faster than any human hacker could do.",
+          "zh": null
+        },
+        {
+          "en": "LLMs can use real-time responses to iterate and change their techniques by, for example, testing different encodings, sending the payload in a different part of the HTTP request, or moving to the next vulnerability to test.",
+          "zh": null
+        },
+        {
+          "en": "Even before LLMs were around, security engineers used two common approaches to test applications: static and dynamic application security testing.",
+          "zh": null
+        },
+        {
+          "en": "The former analyzes code without executing it to identify vulnerabilities, while the latter probes running applications to find runtime flaws.",
+          "zh": null
+        },
+        {
+          "en": "There are plenty of works scanning code with frontier AI models, including details on how to build your own harness.",
+          "zh": null
+        },
+        {
+          "en": "For the project described in this blog post, we took a dynamic approach: making the LLM act as if it was a hacker to evaluate whether a WAF is doing its job.",
+          "zh": null
+        },
+        {
+          "en": "The LLM had no visibility into source code, no view of the WAF&#x27;s rules, and could only see selected HTTP response data.",
+          "zh": null
+        },
+        {
+          "en": "We built a WAF tester that starts from known exploits and then iterates by changing how it is encoded or delivered, sends it again, and uses the response to choose the next variation.",
+          "zh": null
+        },
+        {
+          "en": "A request that was not blocked became a lead for human review, not a confirmed exploit.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "c066c42842bf5e9b",
+      "sourceId": "cloudflare-blog",
+      "category": "science",
+      "title": "Building a post-quantum certificate authority with Merkle Tree Certificates",
+      "url": "https://blog.cloudflare.com/pq-ca-with-mtcs/",
+      "publishedAt": "2026-09-29T13:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Building a post-quantum certificate authority with Merkle Tree Certificates.",
+          "zh": null
+        },
+        {
+          "en": "When you type in an address into a browser, how do you know you’re connecting to the right website?",
+          "zh": null
+        },
+        {
+          "en": "The Web Public Key Infrastructure (Web PKI) is the complex and distributed ecosystem of policies, protocols, and infrastructure operators that helps you trust that you’re not being misdirected to an incorrect or malicious website.",
+          "zh": null
+        },
+        {
+          "en": "In the past few decades, this ecosystem has undergone significant changes.",
+          "zh": null
+        },
+        {
+          "en": "One is the addition of transparency: the now-mandatory requirement that all certificates be logged in public certificate transparency logs.",
+          "zh": null
+        },
+        {
+          "en": "Now it faces another challenge: the imminent arrival of a quantum computer, which has prompted us to upgrade to post-quantum (PQ) cryptography by 2029 .",
+          "zh": null
+        },
+        {
+          "en": "This transition is not straightforward: simply swapping post-quantum cryptography into certificates at Internet scale would lead to unacceptable performance degradation.",
+          "zh": null
+        },
+        {
+          "en": "This moment calls for a new approach to the Web PKI, one that allows us to treat transparency as a first-party property rather than an add-on, and design a new system that scales post-quantum signatures efficiently.",
+          "zh": null
+        },
+        {
+          "en": "After gaining broad support across the industry, Merkle Tree Certificates (MTCs) have emerged as the path forward.",
+          "zh": null
+        },
+        {
+          "en": "This year, after a successful experimental deployment with Chrome , Cloudflare is full steam ahead on MTCs.",
+          "zh": null
+        },
+        {
+          "en": "Following today’s announcement that Cloudflare is becoming a certificate authority (CA) , we’re excited to share that this CA will support MTC issuance, targeting early 2027 for inclusion in Chrome’s newly launched Quantum-resistant Root Store .",
+          "zh": null
+        },
+        {
+          "en": "As part of our mission to help build a better Internet, and following in Cloudflare tradition of offering the strongest available cryptography for free , we will provide standard MTC issuance at no cost.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "86b7fcca6eeed63c",
+      "sourceId": "cloudflare-blog",
+      "category": "ai",
+      "title": "Adaptive application security for the AI era: how Cloudflare connects code, traffic, and intelligence to stop attacks",
+      "url": "https://blog.cloudflare.com/ai-era-framework/",
+      "publishedAt": "2026-09-29T13:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Adaptive application security for the AI era: how Cloudflare connects code, traffic, and intelligence to stop attacks.",
+          "zh": null
+        },
+        {
+          "en": "In July, AI agents testing new cybersecurity models compromised parts of OpenAI’s infrastructure and Hugging Face’s production environment.",
+          "zh": null
+        },
+        {
+          "en": "We&#x27;ve all just witnessed one of the first AI-driven successful cyber attacks.",
+          "zh": null
+        },
+        {
+          "en": "When given a task, the agents ignored existing guardrails and autonomously discovered previously unknown vulnerabilities, recovered exposed credentials, moved between cloud environments and coordinated their work through communication channels they created themselves.",
+          "zh": null
+        },
+        {
+          "en": "The speed of the final compromise was incredible.",
+          "zh": null
+        },
+        {
+          "en": "In under 13 hours, the agents went from executing code on a Hugging Face worker to gaining admin-level access across multiple clusters.",
+          "zh": null
+        },
+        {
+          "en": "But the incident had been brewing for much longer.",
+          "zh": null
+        },
+        {
+          "en": "Responders found clues of activity tracing back to May (agents created an unauthorized message board), to June (internal network scanning) and early July.",
+          "zh": null
+        },
+        {
+          "en": "The relationship between these events was understood only on July 20.",
+          "zh": null
+        },
+        {
+          "en": "The lesson here is not that AI agents exploit vulnerabilities.",
+          "zh": null
+        },
+        {
+          "en": "That’s not news; human attackers already do that.",
+          "zh": null
+        },
+        {
+          "en": "The change is that agents can work persistently, test multiple paths simultaneously, share discoveries, and chain vulnerabilities, credentials, and permissions into sophisticated attacks.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "e006b93f8b249b3c",
+      "sourceId": "cloudflare-blog",
+      "category": "security",
+      "title": "Building a certificate authority for the whole Internet",
+      "url": "https://blog.cloudflare.com/cloudflare-certificate-authority/",
+      "publishedAt": "2026-09-29T13:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Building a certificate authority for the whole Internet.",
+          "zh": null
+        },
+        {
+          "en": "Twelve years ago, during Birthday Week 2014, we turned on Universal SSL and nearly doubled the number of encrypted sites on the web overnight, giving free TLS to every site behind Cloudflare, including the ones that never paid us a cent.",
+          "zh": null
+        },
+        {
+          "en": "Encryption stopped being an expensive, time-intensive undertaking and instead became the default.",
+          "zh": null
+        },
+        {
+          "en": "For Birthday Week this year, we are taking the next step on that path.",
+          "zh": null
+        },
+        {
+          "en": "For more than a decade we have been one of the largest consumers of publicly trusted certificates on the Internet, and have never issued a single one ourselves.",
+          "zh": null
+        },
+        {
+          "en": "That is changing.",
+          "zh": null
+        },
+        {
+          "en": "Cloudflare is announcing our intent to become a public certificate authority (CA).",
+          "zh": null
+        },
+        {
+          "en": "Today we are announcing the first concrete milestones in that effort: We have applied for inclusion in the Chrome, Apple, Microsoft, and Mozilla root programs, and we have signed a definitive agreement to acquire an established, broadly trusted root from GlobalSign, so that we can offer certificates with the widest possible device reach the day we begin issuing.",
+          "zh": null
+        },
+        {
+          "en": "We’re also announcing our plans to be one of the first CAs to serve post-quantum certificates, targeting Chrome’s recently announced Quantum-resistant Root Program .",
+          "zh": null
+        },
+        {
+          "en": "We are not issuing certificates yet, and it will be a little while before we do.",
+          "zh": null
+        },
+        {
+          "en": "What we are doing is committing to the work in public, sharing the milestones as they land, and telling you exactly what we are building while working with the root programs and other members of the WebPKI community to achieve this.",
+          "zh": null
+        },
+        {
+          "en": "Two paths to trust A brand-new root is not widely useful for years.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "fabfe69a8a2b717e",
+      "sourceId": "cloudflare-blog",
+      "category": "ai",
+      "title": "Using AI to chart a course for our post-quantum migration",
+      "url": "https://blog.cloudflare.com/ai-driven-cryptography-discovery/",
+      "publishedAt": "2026-09-29T13:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Using AI to chart a course for our post-quantum migration.",
+          "zh": null
+        },
+        {
+          "en": "As laboratories around the world race to build out a cryptographically relevant quantum computer , we at Cloudflare are racing towards a 2029 target deadline for full post-quantum readiness .",
+          "zh": null
+        },
+        {
+          "en": "While we’ve already transitioned many of our products to post-quantum encryption, we still have work to do to support post-quantum authentication and achieve full post-quantum readiness across our platform.",
+          "zh": null
+        },
+        {
+          "en": "We’re taking a maximalist stance (“PQ everything!”), because as an infrastructure provider to the world, we want to give our customers the peace of mind that using Cloudflare ensures that their traffic is future-proofed against quantum adversaries.",
+          "zh": null
+        },
+        {
+          "en": "But how does one accomplish such a massive migration at an organization of our size and scale?",
+          "zh": null
+        },
+        {
+          "en": "After all, cryptography is the base layer for almost all of the world’s digital systems, including the software services and the networking protocols that power our platform.",
+          "zh": null
+        },
+        {
+          "en": "To drive our PQ migration, we have three key goals.",
+          "zh": null
+        },
+        {
+          "en": "First, we want to help our product and engineering teams understand how cryptography is being used and how they should be upgrading it.",
+          "zh": null
+        },
+        {
+          "en": "This should cover both the upgrades to post-quantum encryption and to post-quantum authentication.",
+          "zh": null
+        },
+        {
+          "en": "Many of our products have already been upgraded to post-quantum encryption over TLS 1.3, but we still want to cover the long tail of TLS connections, as well as upgrade any other uses of public-key encryption.",
+          "zh": null
+        },
+        {
+          "en": "Meanwhile, it’s still early days for our deployment of post-quantum authentication.",
+          "zh": null
+        },
+        {
+          "en": "Next, we want to provide progress metrics for the migration.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "88bf78170fd8e837",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "'I was lured into a trap': Evan Gershkovich on moment that led to 16 months in Russian jail",
+      "url": "https://www.bbc.co.uk/news/articles/ck9qr8jy8ynyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-29T12:43:04.000Z",
+      "sentences": [
+        {
+          "en": "'I was lured into a trap': Evan Gershkovich on moment that led to 16 months in Russian jail.",
+          "zh": null
+        },
+        {
+          "en": "The US journalist says he realised he was a \"a pawn in a greater game\" when he was not interrogated or tortured by FSB agents.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "db86f6713f4a521c",
+      "sourceId": "bbc-world",
+      "category": "business",
+      "title": "Israeli settlers attack West Bank village and block Palestinian family's return home",
+      "url": "https://www.bbc.co.uk/news/articles/cvlylj41egxgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-29T12:39:18.000Z",
+      "sentences": [
+        {
+          "en": "Israeli settlers attack West Bank village and block Palestinian family's return home.",
+          "zh": null
+        },
+        {
+          "en": "Two homes belonging to the al-Tubasi family were set on fire and Israeli security forces were also targeted by settlers.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "b12b6c78e7e181e4",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "French hard-right leader accuses opponents of 'total war' after claims of antisemitism",
+      "url": "https://www.bbc.co.uk/news/articles/cmn45k85gj34o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-29T12:20:02.000Z",
+      "sentences": [
+        {
+          "en": "French hard-right leader accuses opponents of 'total war' after claims of antisemitism.",
+          "zh": null
+        },
+        {
+          "en": "National Rally President Jordan Bardella says he will sue for libel over comments he is accused of making as a young activist.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "f572b3e0b13ff97e",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Yemen escalation fuels fears of further cholera, measles spread",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168480",
+      "publishedAt": "2026-09-29T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Yemen escalation fuels fears of further cholera, measles spread.",
+          "zh": null
+        },
+        {
+          "en": "Heavy fighting in Yemen is fuelling concerns of an uptick in cholera, measles and other preventable diseases, as overcrowding at displacement sites threatens to overwhelm the limited healthcare services still open.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "b62baf3344ee0611",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "DRC: Early access to care and oxygen decisive for Ebola patients’ survival – WHO",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168481",
+      "publishedAt": "2026-09-29T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "DRC: Early access to care and oxygen decisive for Ebola patients’ survival – WHO.",
+          "zh": null
+        },
+        {
+          "en": "In the Democratic Republic of the Congo (DRC), health workers fighting the country’s largest-ever Ebola outbreak are struggling to overcome critical challenges to patient care, the UN World Health Organization (WHO) warned on Tuesday.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "5d555e3c9b46d1d4",
+      "sourceId": "un-news",
+      "category": "security",
+      "title": "Security Council LIVE: DRC peace deals fail to halt fighting as Ebola deepens crisis",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168482",
+      "publishedAt": "2026-09-29T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Security Council LIVE: DRC peace deals fail to halt fighting as Ebola deepens crisis.",
+          "zh": null
+        },
+        {
+          "en": "The Security Council met in New York on the Democratic Republic of the Congo (DRC) Tuesday, where clashes between Government forces and M23 rebels continue in the east despite a series of peace agreements.",
+          "zh": null
+        },
+        {
+          "en": "Ambassadors are likely to focus on ceasefire monitoring, rising tensions between the DRC and Rwanda, and the country’s worst Ebola outbreak on record, which has killed more than 3,900 people.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "cceb830c2b140979",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "LIVE: Weighing nuclear risks amid rising tensions and war",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168483",
+      "publishedAt": "2026-09-29T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "LIVE: Weighing nuclear risks amid rising tensions and war.",
+          "zh": null
+        },
+        {
+          "en": "Amid rising tensions, extreme weather impacts and strikes on nuclear infrastructure in war-torn Iran and Ukraine, UN Member States are returning to the core issue of disarmament on Tuesday, closing out the General Assembly’s High-Level Week with expected calls for greater safeguards.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "0e5d0ce10c7915b6",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Clean your plate – to reduce food loss and waste",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168485",
+      "publishedAt": "2026-09-29T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Clean your plate – to reduce food loss and waste.",
+          "zh": null
+        },
+        {
+          "en": "Food waste is helping to fuel global warming, one half-eaten sandwich at a time.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "1c53dfa3c87b4c81",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Funding cuts put 8.3 million refugees at risk of losing vital assistance",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168486",
+      "publishedAt": "2026-09-29T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Funding cuts put 8.3 million refugees at risk of losing vital assistance.",
+          "zh": null
+        },
+        {
+          "en": "Haji Mohammad Shafi spent 44 years in Pakistan before he was forced to leave.",
+          "zh": null
+        },
+        {
+          "en": "He sold everything he owned and returned to Afghanistan with his five children, arriving with almost nothing.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "3682daf5bfc038e1",
+      "sourceId": "un-news",
+      "category": "business",
+      "title": "World News in Brief: Deadly Myanmar strikes as Malaysia begins deportations, new emergency funding released, Gaza and West Bank update",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168488",
+      "publishedAt": "2026-09-29T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "World News in Brief: Deadly Myanmar strikes as Malaysia begins deportations, new emergency funding released, Gaza and West Bank update.",
+          "zh": null
+        },
+        {
+          "en": "The UN chief on Tuesday strongly condemned an airstrike that reportedly killed at least 50 people at a market in Myanmar’s Rakhine state and called for those responsible to be held to account.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "8f2a656e8df9a14e",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Trump weakens fuel efficiency standards. And, Cornell fraternity rape case reopened",
+      "url": "https://www.npr.org/2026/09/29/g-s1-145422/up-first-newsletter-fuel-efficiency-standards-cornell-rape-case-terror-suspects",
+      "publishedAt": "2026-09-29T11:36:24.000Z",
+      "sentences": [
+        {
+          "en": "Trump weakens fuel efficiency standards.",
+          "zh": null
+        },
+        {
+          "en": "And, Cornell fraternity rape case reopened.",
+          "zh": null
+        },
+        {
+          "en": "The Trump administration has weakened fuel efficiency standards for new cars.",
+          "zh": null
+        },
+        {
+          "en": "And, prosecutors have reopened a Cornell University fraternity rape case.",
+          "zh": null
+        },
+        {
+          "en": "(Image credit: Matt Burkhartt)",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "c2087873239449be",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "How to hide your spending habits from retailers (so you don't get ripped off)",
+      "url": "https://www.npr.org/2026/09/29/nx-s1-5983457/4-ways-to-avoid-getting-ripped-off-according-to-a-pricing-expert",
+      "publishedAt": "2026-09-29T09:01:00.000Z",
+      "sentences": [
+        {
+          "en": "How to hide your spending habits from retailers (so you don't get ripped off).",
+          "zh": null
+        },
+        {
+          "en": "Companies have changed the way they price their products — and shoppers are getting deliberately overcharged.",
+          "zh": null
+        },
+        {
+          "en": "Here are steps you can take to ensure you are getting the best deal.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "90e823956f6839f5",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "As the U.S. signals a smaller Middle East footprint, Turkey is ready to step in",
+      "url": "https://www.npr.org/2026/09/29/nx-s1-5983685/turkey-influence",
+      "publishedAt": "2026-09-29T09:00:00.000Z",
+      "sentences": [
+        {
+          "en": "As the U.S. signals a smaller Middle East footprint, Turkey is ready to step in.",
+          "zh": null
+        },
+        {
+          "en": "Turkey's bid for regional influence comes as the Middle East has been hit by profound shocks that started with the Hamas-led 2023 attack on Israel and continue with the seven-month-old war on Iran.",
+          "zh": null
+        },
+        {
+          "en": "(Image credit: Seth Wenig)",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "d8070a431faef0be",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "From Jamui to Delhi, the burden of safety from sexual assault cannot fall on women",
+      "url": "https://www.theguardian.com/world/2026/sep/28/this-is-india-violence-against-women",
+      "publishedAt": "2026-09-29T06:30:55.000Z",
+      "sentences": [
+        {
+          "en": "From Jamui to Delhi, the burden of safety from sexual assault cannot fall on women.",
+          "zh": null
+        },
+        {
+          "en": "As outrage grows over cases​ of sexual violence, activists are demanding a shift from controlling women to confronting men’s behaviour.",
+          "zh": null
+        },
+        {
+          "en": "Plus, Tony Klor’s ‘hella dope’ city vlogs • Don’t get This is India delivered to your inbox?",
+          "zh": null
+        },
+        {
+          "en": "Sign up here As an Indian woman, I often feel myself oscillating between states of anxiety or anger.",
+          "zh": null
+        },
+        {
+          "en": "The anxiety is about doing the mental maths of how to stay safe – thinking about what I’m wearing, where I am going and how I’ll get there, and so on.",
+          "zh": null
+        },
+        {
+          "en": "The anger is at the sheer absurdity of this, and the stories of of sexual violence and harassment I read about every day.",
+          "zh": null
+        },
+        {
+          "en": "I am not the only one.",
+          "zh": null
+        },
+        {
+          "en": "Last week, two particularly enraging incidents captured national attention.",
+          "zh": null
+        },
+        {
+          "en": "First, a video showing a group of men accused of harassing and molesting two teenagers at night in Bihar’s Jamui went viral .",
+          "zh": null
+        },
+        {
+          "en": "Then, a 17-year-old, out with a friend in Delhi, was allegedly gang-raped in a park by men posing as police.",
+          "zh": null
+        },
+        {
+          "en": "After, women in Bihar told Outlook how the incident in Jamui triggers greater controls and pressure on them.",
+          "zh": null
+        },
+        {
+          "en": "In Delhi, authorities curbed access to public parks and a premier women’s college, Lady Shri Ram College (LSR), briefly moved classes online.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "bf9323028c8196b9",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Argentina threatens legal action against UK over Falkland Islands oil exploration",
+      "url": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-29T03:50:40.000Z",
+      "sentences": [
+        {
+          "en": "Argentina threatens legal action against UK over Falkland Islands oil exploration.",
+          "zh": null
+        },
+        {
+          "en": "President Javier Milei set a two-week deadline for the Sea Lion oilfield project to be scrapped.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "27eb58c9a0344301",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Vietnamese government accused of abducting human rights activists",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/29/melbourne-human-rights-activist-tran-hiep-missing-cambodia-ntwnfb",
+      "publishedAt": "2026-09-29T01:16:28.000Z",
+      "sentences": [
+        {
+          "en": "Vietnamese government accused of abducting human rights activists.",
+          "zh": null
+        },
+        {
+          "en": "Detained anti-human trafficking campaigners include Tran Hiep, a Vietnamese Australian, not heard from since 18 September Vietnamese authorities have detained three activists, including a Norwegian and an Australian, on what have been described as “fabricated” charges.",
+          "zh": null
+        },
+        {
+          "en": "The Vietnamese government said the three confessed to being members of Viet Tan – a pro-democracy organisation – which it describes as a terrorist group.",
+          "zh": null
+        },
+        {
+          "en": "Continue reading..",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "f105b25ad69f6e53",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Are Trump's US government funded ads illegal?",
+      "url": "https://www.bbc.co.uk/news/videos/c6lymekx0repo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-29T01:12:52.000Z",
+      "sentences": [
+        {
+          "en": "Are Trump's US government funded ads illegal?.",
+          "zh": null
+        },
+        {
+          "en": "President Trump has faced criticism after fronting adverts which were paid for by the US government.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "7e4a49303d7ea5a0",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Questions remain over Iran’s link to alleged RAF Fairford bomb plot",
+      "url": "https://www.theguardian.com/world/2026/sep/28/questions-remain-over-irans-link-to-alleged-raf-fairford-bomb-plot",
+      "publishedAt": "2026-09-28T21:36:40.000Z",
+      "sentences": [
+        {
+          "en": "Questions remain over Iran’s link to alleged RAF Fairford bomb plot.",
+          "zh": null
+        },
+        {
+          "en": "Tehran has been trying to step up attacks on targets in the west but its track record has been mixed Investigators may be some way from determining exactly what led five men with three vans to a village just outside RAF Fairford in the small hours of Sunday – but the fact they have all been released on bail without immediate charge suggests they are not deemed to pose a serious and violent threat.",
+          "zh": null
+        },
+        {
+          "en": "In a moment where wider geopolitical tensions mean external threats are perceived to be close, the question of whether Iran had a hand in the alleged plot remains open.",
+          "zh": null
+        },
+        {
+          "en": "Nonetheless, the bailing of the men is a mercifully lower-key development in an investigation that appeared of the utmost gravity.",
+          "zh": null
+        },
+        {
+          "en": "Continue reading..",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "db713ef86bd59ea8",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+      "publishedAt": "2026-09-28T19:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+          "zh": null
+        },
+        {
+          "en": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "0baeacde9feacfd4",
+      "sourceId": "github-blog",
+      "category": "ai",
+      "title": "How we found 24 Android vulnerabilities using our open source AI security agent",
+      "url": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/",
+      "publishedAt": "2026-09-28T19:00:00.000Z",
+      "sentences": [
+        {
+          "en": "How we found 24 Android vulnerabilities using our open source AI security agent.",
+          "zh": null
+        },
+        {
+          "en": "With the rise of AI in the security space, our team created the GitHub Security Lab Taskflow Agent as a way for security researchers to easily automate, package, and share the AI prompts and workflows that they find effective for their work.",
+          "zh": null
+        },
+        {
+          "en": "In this blog post, I ll share how I created auditing taskflows to find vulnerabilities in Android applications.",
+          "zh": null
+        },
+        {
+          "en": "While new models are getting better at understanding code, custom taskflow prompts let security researchers guide them splitting research into incremental steps to help the LLM find complex vulnerabilities faster, or that it would have missed entirely.",
+          "zh": null
+        },
+        {
+          "en": "Using these taskflows, I ve reported more than 20 vulnerabilities in Android applications.",
+          "zh": null
+        },
+        {
+          "en": "You can check out our advisories page to see when new vulnerabilities are disclosed.",
+          "zh": null
+        },
+        {
+          "en": "Otherwise, keep reading for a few concrete examples of high-impact vulnerabilities that these taskflows found.",
+          "zh": null
+        },
+        {
+          "en": "How to run the taskflows on your own project Want to get started right away?",
+          "zh": null
+        },
+        {
+          "en": "The taskflows are open source and easy to run yourself.",
+          "zh": null
+        },
+        {
+          "en": "Please note: A GitHub Copilot license is required, and the prompts will use premium model requests.",
+          "zh": null
+        },
+        {
+          "en": "Running the taskflows can result in many tool calls, which can easily consume a large amount of tokens.",
+          "zh": null
+        },
+        {
+          "en": "Go to the seclab-taskflows repository and start a codespace.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "876839af842c953e",
+      "sourceId": "ms-devblogs",
+      "category": "open-source",
+      "title": "Get started with the GitHub Copilot app: a free, hands-on course",
+      "url": "https://devblogs.microsoft.com/blog/github-copilot-app-for-beginners/",
+      "publishedAt": "2026-09-28T18:05:00.000Z",
+      "sentences": [
+        {
+          "en": "Get started with the GitHub Copilot app: a free, hands-on course.",
+          "zh": null
+        },
+        {
+          "en": "GitHub Copilot started in your editor, then moved into your terminal.",
+          "zh": null
+        },
+        {
+          "en": "Now it has a desktop app too.",
+          "zh": null
+        },
+        {
+          "en": "The GitHub Copilot app is where you run AI coding agents, keep an eye on what they’re doing, and review their work before any of it ships.",
+          "zh": null
+        },
+        {
+          "en": "Plans, diffs, test output, browser previews, issues, and pull requests all live in one window.",
+          "zh": null
+        },
+        {
+          "en": "To help developers get comfortable with it, we put together a free, open source course: GitHub Copilot app for Beginners .",
+          "zh": null
+        },
+        {
+          "en": "There’s a short setup chapter followed by seven hands-on chapters, and you’ll use the same sample project from start to finish.",
+          "zh": null
+        },
+        {
+          "en": "You’ll need a Copilot plan, or you can sign in with your own model provider instead.",
+          "zh": null
+        },
+        {
+          "en": "In this post, I’ll walk through what the course covers and how to get started.",
+          "zh": null
+        },
+        {
+          "en": "What the GitHub Copilot app does If you already use Copilot in VS Code or Copilot CLI, you might wonder why you’d want a separate app.",
+          "zh": null
+        },
+        {
+          "en": "I wondered the same thing.",
+          "zh": null
+        },
+        {
+          "en": "For me, the payoff is keeping track of agent work, which gets messy quickly once more than one task is running.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "b50539d473adb522",
+      "sourceId": "github-blog",
+      "category": "open-source",
+      "title": "Highlights from Git 2.56",
+      "url": "https://github.blog/open-source/git/highlights-from-git-2-56/",
+      "publishedAt": "2026-09-28T17:23:33.000Z",
+      "sentences": [
+        {
+          "en": "Highlights from Git 2.56.",
+          "zh": null
+        },
+        {
+          "en": "The open source Git project just released Git 2.56.0 with features and bug fixes from over 104 contributors, 39 of them new.",
+          "zh": null
+        },
+        {
+          "en": "We last caught up with you on the latest in Git back when 2.55 was released .",
+          "zh": null
+        },
+        {
+          "en": "To celebrate this most recent release, here is GitHub s look at some of the most interesting features and changes introduced since last time.",
+          "zh": null
+        },
+        {
+          "en": "Stage resolved conflicts without staging everything else Resolving a merge conflict has two distinct parts.",
+          "zh": null
+        },
+        {
+          "en": "First, you edit the working tree until each conflicted path contains the result you want.",
+          "zh": null
+        },
+        {
+          "en": "Then, you stage those paths to tell Git that the conflict is resolved.",
+          "zh": null
+        },
+        {
+          "en": "Suppose a merge conflicts in recipe.txt , while notes.txt contains an unrelated local edit.",
+          "zh": null
+        },
+        {
+          "en": "The second step sounds simple, but existing commands make it easy to stage more than you intended.",
+          "zh": null
+        },
+        {
+          "en": "git add -u updates every modified tracked path.",
+          "zh": null
+        },
+        {
+          "en": "During a merge, that may include local changes that are unrelated to the conflict.",
+          "zh": null
+        },
+        {
+          "en": "It can also stage a file that still contains conflict markers if you overlooked one.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "86453700a8c09130",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Google Arts & Culture turns 15 — and gives its app a makeover",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/new-arts-culture-app/",
+      "publishedAt": "2026-09-28T16:30:00.000Z",
+      "sentences": [
+        {
+          "en": "Google Arts & Culture turns 15 — and gives its app a makeover.",
+          "zh": null
+        },
+        {
+          "en": "Explore art and culture with visual-first conversation search, a redesigned home feed, AI experiments and 27 new city guides in the Google Arts & Culture app.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "09d1d4b21b6cf8f2",
+      "sourceId": "aws-news",
+      "category": "ai",
+      "title": "AWS Weekly Roundup: GPT-6 Sol and Luna, Claude Opus 5.5 on Amazon Bedrock, Strands harness, and more (September 28, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-gpt-6-sol-and-luna-claude-opus-5-5-on-amazon-bedrock-strands-harness-and-more-september-28-2026/",
+      "publishedAt": "2026-09-28T16:14:54.000Z",
+      "sentences": [
+        {
+          "en": "AWS Weekly Roundup: GPT-6 Sol and Luna, Claude Opus 5.5 on Amazon Bedrock, Strands harness, and more (September 28, 2026).",
+          "zh": null
+        },
+        {
+          "en": "If there’s one theme that defined last week, it’s choice.",
+          "zh": null
+        },
+        {
+          "en": "The frontier models keep arriving, and the interesting question is no longer just “how smart is it?” but “which model fits this step, at this cost, at this latency?” That’s exactly what landed on Amazon Bedrock over the past few days: GPT-6 Sol and GPT-6 Luna from OpenAI, giving you two new points on the intelligence-versus-efficiency curve, and Claude Opus 5.5 from Anthropic, the first of the Claude 5.5 family.",
+          "zh": null
+        },
+        {
+          "en": "GPT-6 Sol is built for the demanding, recurring work of development and operations, while GPT-6 Luna makes focused, repeatable tasks practical at high volume, and both ship at significantly lower pricing than their GPT-5.6 predecessors.",
+          "zh": null
+        },
+        {
+          "en": "Claude Opus 5.5, meanwhile, does more with fewer tokens than Opus 5 and is tuned for agentic coding and long-running tasks.",
+          "zh": null
+        },
+        {
+          "en": "What I like about all three is that they push toward the same idea: match the model to the job instead of reaching for the biggest one every time.",
+          "zh": null
+        },
+        {
+          "en": "The other thread was observability catching up to this agentic world, including a launch I had the pleasure of writing about myself.",
+          "zh": null
+        },
+        {
+          "en": "Now, let’s get into this week’s AWS news… Last week’s launches Here are some launches and updates from this past week that caught my attention: Introducing Amazon CloudWatch Omni – You can now observe your applications and AI agents together in a single, collaborative experience.",
+          "zh": null
+        },
+        {
+          "en": "Amazon CloudWatch Omni is built on OpenTelemetry, so your existing telemetry shows up with nothing to reconfigure, and your whole team reaches it through one URL with enterprise SSO — no console access required.",
+          "zh": null
+        },
+        {
+          "en": "It auto-discovers your services, maps dependencies, and brings AWS DevOps Agent into investigation sessions to correlate signals and trace root causes.",
+          "zh": null
+        },
+        {
+          "en": "There’s a companion post on the agent-observability side, a deeper dive on the AWS Cloud Operations blog on what observability for the AI era looks like, and the announcement on What’s New with the specifics.",
+          "zh": null
+        },
+        {
+          "en": "If you want the bigger picture, Matt Wood’s Wrong, not broken is a great read on why correctness now has to be measured at the level of the run.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "6078dfff0e3ea1d6",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "See what 4 builders are making with Gemini 3.8 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-flash-developers/",
+      "publishedAt": "2026-09-28T16:00:00.000Z",
+      "sentences": [
+        {
+          "en": "See what 4 builders are making with Gemini 3.8 Flash.",
+          "zh": null
+        },
+        {
+          "en": "See what developers have built with Gemini 3.8 Flash, our most intelligent workhorse model, launched in early September.",
+          "zh": null
+        }
+      ]
+    }
+  ],
+  "failures": []
+}
