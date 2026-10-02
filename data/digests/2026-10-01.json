@@ -1,0 +1,1463 @@
+{
+  "date": "2026-10-01",
+  "collectedAt": "2026-10-02T04:14:18.911Z",
+  "items": [
+    {
+      "id": "e1e00c4dd54c53dc",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Crude oil exports from strait of Hormuz largely return to pre-war levels",
+      "url": "https://www.theguardian.com/business/2026/oct/01/crude-oil-exports-strait-of-hormuz-transport-gulf-region-diesel",
+      "publishedAt": "2026-10-01T15:52:14.000Z",
+      "sentences": [
+        {
+          "en": "Crude oil exports from strait of Hormuz largely return to pre-war levels.",
+          "zh": "霍尔木兹海峡的原油出口基本恢复到战前水平。"
+        },
+        {
+          "en": "Alternative ways being used to move fuel out of Gulf region, but flows of refined products such as diesel still constrained Exports of crude from the strait of Hormuz have largely returned to levels seen before the outbreak of the Iran war, as oil producers and the shipping industry have found alternative ways of transporting crucial fuel out of the Middle East.",
+          "zh": "正在使用其他方式将燃料运出海湾地区，但柴油等成品油的流动仍然限制了霍尔木兹海峡的原油出口，在很大程度上恢复到伊朗战争爆发前的水平，因为石油生产商和航运业已经找到了将关键燃料运出中东的替代方法。"
+        },
+        {
+          "en": "Pipeline exports and ship-to-ship transfers are among the methods being used, according to analysts tracking the situation, while the US military continues to escort some vessels .",
+          "zh": "根据跟踪情况的分析师，管道出口和船对船转移是正在使用的方法之一，而美国军方继续护送一些船只。"
+        },
+        {
+          "en": "However, flows of refined products such as diesel remain constrained, pushing prices higher.",
+          "zh": "然而，柴油等精炼产品的流量仍然受到限制，推高了价格。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "c0a0a5f5affd2692",
+      "sourceId": "cloudflare-blog",
+      "category": "open-source",
+      "title": "Introducing Clef: our open-source decision models, and new RL fine-tuning platform",
+      "url": "https://blog.cloudflare.com/clef-decision-models/",
+      "publishedAt": "2026-10-01T15:34:02.000Z",
+      "sentences": [
+        {
+          "en": "Introducing Clef: our open-source decision models, and new RL fine-tuning platform.",
+          "zh": null
+        },
+        {
+          "en": "Over the last few weeks, there has been lots of buzz around decision models such as Typesafe AI’s Jev System One model.",
+          "zh": null
+        },
+        {
+          "en": "While classifier models have been around for some time, Jev introduces a new decision model concept into the world of AI — a model that produces bounded structured outputs cheaply, quickly and consistently that can be added into a workflow when a decision is required.",
+          "zh": null
+        },
+        {
+          "en": "These models are capable enough to work over any set of inputs without constantly retraining the model to incorporate new classification categories.",
+          "zh": null
+        },
+        {
+          "en": "This contrasts with the world of Large Language Models (LLMs), which are largely non-deterministic, but are open-ended enough to reason and generate text and tool calls for agentic workloads.",
+          "zh": null
+        },
+        {
+          "en": "Today, we’re releasing two Cloudflare-trained decision models, Clef and Clef-flash, hosted on Workers AI .",
+          "zh": null
+        },
+        {
+          "en": "Clef is currently the leader when evaluated against the Jev Decision Index , you can view full results on the live benchmark demo site .",
+          "zh": null
+        },
+        {
+          "en": "These models are smarter, faster, and fully Jev-API compatible, so you can experiment with these hosted models easily.",
+          "zh": null
+        },
+        {
+          "en": "We’re fully open-sourcing these models on Hugging Face under an Apache 2.0 license for you to run locally and experiment with yourselves.",
+          "zh": null
+        },
+        {
+          "en": "Lastly, we’re excited to debut our new reinforcement learning (RL) product, which allows customers to fine-tune Clef to suit their use cases as well.",
+          "zh": null
+        },
+        {
+          "en": "What is a decision model?",
+          "zh": null
+        },
+        {
+          "en": "A decision model makes classifications to help agents decide how to act, based on certain probabilities.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "0675461ed439bc87",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "New space station crew launches from Florida on SpaceX's Crew Dragon capsule",
+      "url": "https://www.npr.org/2026/10/01/nx-s1-5987698/nasa-crew-13-spacex-international-space-station-iss",
+      "publishedAt": "2026-10-01T15:21:33.000Z",
+      "sentences": [
+        {
+          "en": "New space station crew launches from Florida on SpaceX's Crew Dragon capsule.",
+          "zh": "新的空间站宇航员从佛罗里达乘坐SpaceX的Crew Dragon太空舱发射。"
+        },
+        {
+          "en": "The crew of four — two NASA astronauts, one from Canada, and a Russian cosmonaut — heads to the International Space Station after liftoff from the Cape Canaveral Space Force Station in Florida.",
+          "zh": "从佛罗里达州卡纳维拉尔角空间站发射升空后，四名宇航员--两名美国宇航局宇航员（其中一名来自加拿大）和一名俄罗斯宇航员--前往国际空间站。"
+        },
+        {
+          "en": "(Image credit: Justin Sullivan)",
+          "zh": "（图片来源： Justin Sullivan ）"
+        }
+      ]
+    },
+    {
+      "id": "a0c03d16e7252ace",
+      "sourceId": "github-blog",
+      "category": "open-source",
+      "title": "10 technical talks I’m excited about at GitHub Universe 2026",
+      "url": "https://github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026/",
+      "publishedAt": "2026-10-01T15:07:16.000Z",
+      "sentences": [
+        {
+          "en": "10 technical talks I’m excited about at GitHub Universe 2026.",
+          "zh": "在GitHub Universe 2026上，我非常兴奋的10场技术讲座。"
+        },
+        {
+          "en": "I m looking for ideas I can take back to my own work, from verifying agent-written code and securing dependencies to building software that works where internet access is unreliable.",
+          "zh": "我正在寻找可以带回我自己工作的想法，从验证代理编写的代码和保护依赖关系到构建在互联网接入不可靠的情况下工作的软件。"
+        },
+        {
+          "en": "There are more sessions at GitHub Universe than I can fit into two days.",
+          "zh": "GitHub Universe的会议比我两天所能容纳的还要多。"
+        },
+        {
+          "en": "To narrow the list, I built my agenda around questions I m working through right now: How do we know an agent s code works?",
+          "zh": "为了缩小列表范围，我围绕当前正在处理的问题构建了日程：我们如何知道客服代表的代码是否有效？"
+        },
+        {
+          "en": "What should it remember?",
+          "zh": "它应该记住什么？"
+        },
+        {
+          "en": "What are we trusting every time we install a dependency?",
+          "zh": "每次安装依赖项时，我们信任什么？"
+        },
+        {
+          "en": "That puts agent memory, evaluations, and permissions high on my list.",
+          "zh": "这使客服代表的记忆、评估和权限在我的列表中占据了很高的位置。"
+        },
+        {
+          "en": "I m also making room for JavaScript tooling and building software where internet access is unreliable.",
+          "zh": "我还在为JavaScript工具和构建互联网接入不可靠的软件腾出空间。"
+        },
+        {
+          "en": "Here are my 10 picks.",
+          "zh": "以下是我的10个精选房源。"
+        },
+        {
+          "en": "What happens behind the scenes when you run npm install Most of us use npm, but the truth is that many of us rarely stop to think about the people, permissions, and release processes behind the packages it pulls in.",
+          "zh": "当您运行npm install时，幕后会发生什么我们大多数人都使用npm ，但事实是，我们中的许多人很少停下来思考它所引入的软件包背后的人员、权限和发布过程。"
+        },
+        {
+          "en": "Karen Li and Leo Balter from GitHub will trace those dependencies through the systems that publish and protect them.",
+          "zh": "GitHub的Karen Li和Leo Balter将通过发布和保护它们的系统跟踪这些依赖关系。"
+        },
+        {
+          "en": "I m interested in what npm audit can t catch, and where package provenance and OpenID Connect fit into the picture.",
+          "zh": "我感兴趣的是npm审计无法捕捉到什么，以及包裹来源和OpenID Connect在哪里。"
+        }
+      ]
+    },
+    {
+      "id": "5dfeef78afdafbc8",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Explosions heard in Ethiopia's capital after drone flights banned",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgygpqky9zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-01T15:05:36.000Z",
+      "sentences": [
+        {
+          "en": "Explosions heard in Ethiopia's capital after drone flights banned.",
+          "zh": "在无人机飞行被禁止后，在埃塞俄比亚首都听到爆炸声。"
+        },
+        {
+          "en": "It comes a week after fighting erupted north of the capital between the army and a new alliance of armed groups.",
+          "zh": "在首都北部爆发战斗一周后，军队和一个新的武装团体联盟之间爆发了战斗。"
+        }
+      ]
+    },
+    {
+      "id": "2400839f5b3eb7f2",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
+      "url": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-01T15:04:32.000Z",
+      "sentences": [
+        {
+          "en": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?.",
+          "zh": "在飞往以色列的航班上被刺伤的“英雄”印度飞行员是谁？"
+        },
+        {
+          "en": "Capt Smit Machchhar was attacked by another pilot onboard the Flydubai flight bound for Tel Aviv.",
+          "zh": "Smit Machchhar上尉在飞往特拉维夫的Flydubai航班上遭到另一名飞行员的袭击。"
+        }
+      ]
+    },
+    {
+      "id": "d8efd7d9e210ce8a",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Underlying causes of recurrent bacterial vaginosis identified by Australian scientists",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/02/underlying-causes-of-recurrent-bacterial-vaginosis-identified-by-australian-scientists",
+      "publishedAt": "2026-10-01T15:00:55.000Z",
+      "sentences": [
+        {
+          "en": "Underlying causes of recurrent bacterial vaginosis identified by Australian scientists.",
+          "zh": "澳大利亚科学家发现的复发性细菌性阴道病的根本原因。"
+        },
+        {
+          "en": "Melbourne researchers behind previous BV transmission breakthrough turn attention to understanding why some cases are harder to cure Australian scientists have identified two contributors to recurrent bacterial vaginosis infections, a common sexual health condition that affects about one in four women globally.",
+          "zh": "墨尔本的研究人员在以前的BV传播突破背后将注意力转向了解为什么某些病例更难治愈澳大利亚科学家已经确定了两个导致复发性细菌性阴道病感染的因素，这是一种常见的性健康状况，影响全球约四分之一的女性。"
+        },
+        {
+          "en": "The condition, commonly called BV, is characterised by an imbalance of naturally occurring bacteria in the vagina, in which there is a reduction of “good” bacteria and an overgrowth of other mixed bacteria.",
+          "zh": "这种病症通常称为BV ，其特征是阴道中天然存在的细菌失衡，其中“有益”细菌减少，其他混合细菌过度生长。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "c14d80986c84235e",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "What a Pearly King taught me about Cockney rhyming slang and East London history",
+      "url": "https://www.npr.org/2026/10/01/nx-s1-5928148/pearly-king-peckham-george-major-london-cockney",
+      "publishedAt": "2026-10-01T14:13:38.000Z",
+      "sentences": [
+        {
+          "en": "What a Pearly King taught me about Cockney rhyming slang and East London history.",
+          "zh": "一位珍珠王教会了我关于伦敦韵律俚语和东伦敦历史的知识。"
+        },
+        {
+          "en": "In mother-of-pearl suits, the Pearly Kings used to canvass East London for charity.",
+          "zh": "在珍珠母套装中，珍珠国王曾经为慈善事业在东伦敦拉票。"
+        },
+        {
+          "en": "The most famous one, George Major, died in August.",
+          "zh": "最著名的乔治·梅杰（ George Major ）于8月去世。"
+        },
+        {
+          "en": "A look back on this larger-than-life figure and the Pearly King tradition.",
+          "zh": "回顾这个超凡的人物和珍珠王的传统。"
+        },
+        {
+          "en": "(Image credit: Tony Kershaw)",
+          "zh": "（图片来源： Tony Kershaw ）"
+        }
+      ]
+    },
+    {
+      "id": "e1c99d351b764303",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Russian dissident Garry Kasparov says US warned him of danger to his life",
+      "url": "https://www.bbc.co.uk/news/articles/c6y8z8kr5mk8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-01T14:05:55.000Z",
+      "sentences": [
+        {
+          "en": "Russian dissident Garry Kasparov says US warned him of danger to his life.",
+          "zh": "俄罗斯持不同政见者加里·卡斯帕罗夫（ Garry Kasparov ）说，美国警告他生命危险。"
+        },
+        {
+          "en": "\"My family and I will not truly be safe as long as Putin is in power,\" says the former chess world champion.",
+          "zh": "这位前国际象棋世界冠军说： “只要普京掌权，我和我的家人就不会真正安全。”"
+        }
+      ]
+    },
+    {
+      "id": "fd3859737c86cdb8",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "British Sikh activist released from Delhi jail after nine-year detention",
+      "url": "https://www.theguardian.com/world/2026/oct/01/british-sikh-activist-jagtar-singh-johal-released-delhi-jail-india",
+      "publishedAt": "2026-10-01T13:10:51.000Z",
+      "sentences": [
+        {
+          "en": "British Sikh activist released from Delhi jail after nine-year detention.",
+          "zh": "英国锡克教活动人士在被拘留九年后从德里监狱获释。"
+        },
+        {
+          "en": "Indian government issued with warning it would be in contempt of court if it failed to release Jagtar Singh Johal The British Sikh activist Jagtar Singh Johal has been released from a Delhi prison after the Indian high court warned the government it would be found in contempt of court if it continued to attempt to keep him in jail despite an 18 September court order releasing him on bail.",
+          "zh": "印度政府发出警告，如果未能释放贾格塔尔·辛格·约翰（ Jagtar Singh Johal ） ，将被视为藐视法庭英国锡克教活动家贾格塔尔·辛格·约翰（ Jagtar Singh Johal ）已从德里监狱获释，此前印度高等法院警告政府，尽管9月18日法院命令将他保释，但如果政府继续试图将他关押在监狱，将被视为藐视法庭。"
+        },
+        {
+          "en": "Johal has been incarcerated for nine years without any full trial.",
+          "zh": "Johal已被监禁九年，未经任何全面审判。"
+        },
+        {
+          "en": "The court order was issued after Johal’s lawyers issued a writ of habeas corpus alleging he was being detained against the express direction of the court.",
+          "zh": "法院命令是在Johal的律师发出人身保护令后发出的，声称他被拘留违反了法院的明确指示。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "874b063792be67e0",
+      "sourceId": "cloudflare-blog",
+      "category": "ai",
+      "title": "One year later: Sovereign AI and the fight for choice",
+      "url": "https://blog.cloudflare.com/sovereign-ai-choice-one-year-later/",
+      "publishedAt": "2026-10-01T13:04:19.000Z",
+      "sentences": [
+        {
+          "en": "One year later: Sovereign AI and the fight for choice.",
+          "zh": null
+        },
+        {
+          "en": "It&#x27;s Birthday Week, when we traditionally ship presents to the Internet.",
+          "zh": null
+        },
+        {
+          "en": "This year, two of them come from Europe: EuroLLM, which covers all 24 official EU languages, and Apertus, Switzerland&#x27;s fully open model, trained on more than 1,500 languages.",
+          "zh": null
+        },
+        {
+          "en": "Both were built by public universities and research institutions.",
+          "zh": null
+        },
+        {
+          "en": "Both are coming to Workers AI, and you can request access today.",
+          "zh": null
+        },
+        {
+          "en": "We&#x27;re also launching hands-on workshops that help government cyber agencies and critical infrastructure operators build AI defenses that work with any model.",
+          "zh": null
+        },
+        {
+          "en": "The first runs in Singapore in October.",
+          "zh": null
+        },
+        {
+          "en": "Today&#x27;s announcements follow from an argument we made a year ago , when questions about AI access and sovereignty were swirling in national capitals.",
+          "zh": null
+        },
+        {
+          "en": "Our answer was choice: the freedom to pick the right tools for the job, and to switch when you need to.",
+          "zh": null
+        },
+        {
+          "en": "Since then, those conversations have hardened.",
+          "zh": null
+        },
+        {
+          "en": "Attackers have used frontier models to run cyber attacks.",
+          "zh": null
+        },
+        {
+          "en": "Access to some frontier models now depends on where you are.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "73a4772bd66c1078",
+      "sourceId": "cloudflare-blog",
+      "category": "security",
+      "title": "Support for modern cryptographic algorithms in Workers",
+      "url": "https://blog.cloudflare.com/workers-ml-kem-ml-dsa-support/",
+      "publishedAt": "2026-10-01T13:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Support for modern cryptographic algorithms in Workers.",
+          "zh": null
+        },
+        {
+          "en": "Today, Cloudflare Workers is adding support for post-quantum-resistant algorithms within Web Crypto.",
+          "zh": null
+        },
+        {
+          "en": "These are defined in Modern Algorithms in the Web Cryptography API draft community group report , and include: ML-KEM-768 and ML-KEM-1024 for key encapsulation ML-DSA-44, ML-DSA-65, and ML-DSA-87 for signatures encapsulateBits() , decapsulateBits() , encapsulateKey() , and decapsulateKey() getPublicKey() SubtleCrypto.supports() JWK import and export for these algorithms For developers preparing for the post-quantum transition, these opt-in Web Crypto APIs make it easier to experiment with ML-KEM and ML-DSA without bundling a separate cryptographic implementation.",
+          "zh": null
+        },
+        {
+          "en": "They do not provide a full migration path, but rather building blocks that can be used to validate your integration.",
+          "zh": null
+        },
+        {
+          "en": "This support is available behind the webcrypto_modern_algorithms compatibility flag while the specification is still moving.",
+          "zh": null
+        },
+        {
+          "en": "Background Web Crypto is one of those APIs you only notice when it lacks the primitive you need.",
+          "zh": null
+        },
+        {
+          "en": "If you want to experiment with newer post-quantum algorithms in a JavaScript environment, it’s hard.",
+          "zh": null
+        },
+        {
+          "en": "You either cannot build the protocol directly on top of Web Crypto, or you bring your own cryptography implementation in JavaScript or WebAssembly.",
+          "zh": null
+        },
+        {
+          "en": "Neither option is ideal.",
+          "zh": null
+        },
+        {
+          "en": "They put the burden of selecting and maintaining cryptographic implementations on implementers, who see their applications get larger as they bundle cryptographic code.",
+          "zh": null
+        },
+        {
+          "en": "And this is work that needs to be reproduced for all downstream libraries.",
+          "zh": null
+        },
+        {
+          "en": "As the ecosystem needs to transition to post-quantum-resistant algorithms sooner than expected , we cannot wait for better post-quantum algorithms.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "01ae9a71d239e84b",
+      "sourceId": "cloudflare-blog",
+      "category": "ai",
+      "title": "AI Search is now generally available",
+      "url": "https://blog.cloudflare.com/ai-search-ga/",
+      "publishedAt": "2026-10-01T13:00:00.000Z",
+      "sentences": [
+        {
+          "en": "AI Search is now generally available.",
+          "zh": null
+        },
+        {
+          "en": "Cloudflare’s AI Search combines Workers AI, Vectorize, R2, and Browser Run into a fully managed index and retrieval pipeline.",
+          "zh": null
+        },
+        {
+          "en": "Since we launched AI Search over a year ago, we’ve seen developers use it to power a wide range of search use cases, from searching internal documentation to powering search for their websites.",
+          "zh": null
+        },
+        {
+          "en": "We use AI Search ourselves to power search on our own blog and developer docs.",
+          "zh": null
+        },
+        {
+          "en": "Starting today, AI Search is generally available.",
+          "zh": null
+        },
+        {
+          "en": "And as part of it, we&#x27;ve expanded and improved our support for multimodal formats beyond text, adding native image embeddings , optical character recognition (OCR) for PDFs , and support for larger files .",
+          "zh": null
+        },
+        {
+          "en": "As part of general availability, we’ll start billing for AI Search on November 1, 2026 , and continue to offer a generous free tier on all Workers plans.",
+          "zh": null
+        },
+        {
+          "en": "New: multimodal embedding and retrieval An image is more than the sentence used to describe it.",
+          "zh": null
+        },
+        {
+          "en": "Product texture, screenshot state, chart relationships, document layout, and fine visual detail can all disappear when pixels are compressed into a caption.",
+          "zh": null
+        },
+        {
+          "en": "AI Search now preserves both signals: it embeds image pixels directly for visual retrieval while retaining captions for textual understanding.",
+          "zh": null
+        },
+        {
+          "en": "To keep these richer representations efficient, AI Search leverages Matryoshka Representation Learning (MRL), allowing smaller embeddings to retain useful information while keeping storage manageable and search fast.",
+          "zh": null
+        },
+        {
+          "en": "Although we originally supported retrieval over images, the implementation was naive: we would perform object detection, generate a caption, and then embed that text.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "37a106d7f924ad98",
+      "sourceId": "cloudflare-blog",
+      "category": "cloud",
+      "title": "We want you to build the next Git platform on Cloudflare",
+      "url": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
+      "publishedAt": "2026-10-01T13:00:00.000Z",
+      "sentences": [
+        {
+          "en": "We want you to build the next Git platform on Cloudflare.",
+          "zh": null
+        },
+        {
+          "en": "GitHub was built for a world where humans write code, organize it into repositories, and collaborate through branches, commits, issues, and pull requests.",
+          "zh": null
+        },
+        {
+          "en": "But the next generation of software is going to be built differently because it is going to be built by a different kind of developer: agents.",
+          "zh": null
+        },
+        {
+          "en": "Agents are already writing more code than ever before — they’re fixing bugs, building features, writing tests, reviewing changes, updating dependencies, and doing the routine maintenance required to keep an application running.",
+          "zh": null
+        },
+        {
+          "en": "So in this new world where you have hundreds, or even thousands, of agents working on the same codebase at the same time, what does the foundation look like?",
+          "zh": null
+        },
+        {
+          "en": "How do agents know what other agents are working on?",
+          "zh": null
+        },
+        {
+          "en": "What happens when they make conflicting changes?",
+          "zh": null
+        },
+        {
+          "en": "How do you review everything they produce?",
+          "zh": null
+        },
+        {
+          "en": "How do you keep track of not just what changed, but why a change was made?",
+          "zh": null
+        },
+        {
+          "en": "And so the burning question is: What does the next GitHub look like?",
+          "zh": null
+        },
+        {
+          "en": "We want you to help us answer it, by building it out.",
+          "zh": null
+        },
+        {
+          "en": "Earlier this year, we launched Artifacts , a versioned filesystem that speaks Git and can scale to millions of repositories.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "afab6c12648c7488",
+      "sourceId": "cloudflare-blog",
+      "category": "cloud",
+      "title": "Announcing Cloudflare K2: serverless event streams",
+      "url": "https://blog.cloudflare.com/cloudflare-k2-streams/",
+      "publishedAt": "2026-10-01T13:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Announcing Cloudflare K2: serverless event streams.",
+          "zh": null
+        },
+        {
+          "en": "With traditional Remote Procedure Call (RPC) architectures, there exists a core challenge: producers and consumers must align in scale and in time.",
+          "zh": null
+        },
+        {
+          "en": "If your producers send too much data for your consumers to handle or if your consumers or downstream services become unavailable, events are dropped.",
+          "zh": null
+        },
+        {
+          "en": "This problem is compounded with multiple consumers that need to independently process the data.",
+          "zh": null
+        },
+        {
+          "en": "For example, an ecommerce backend may emit events when transactions are completed, which need to be read by an analytics system and a fraud detection service.",
+          "zh": null
+        },
+        {
+          "en": "We can solve this by decoupling our producers and consumers — inserting a service in the middle that absorbs writes while allowing independent readers to consume at their own pace.",
+          "zh": null
+        },
+        {
+          "en": "Today we are launching Cloudflare K2 in public beta to solve this problem.",
+          "zh": null
+        },
+        {
+          "en": "K2 is a durable event streaming primitive on the Developer Platform.",
+          "zh": null
+        },
+        {
+          "en": "You send events to a K2 stream, which stores them as an ordered log.",
+          "zh": null
+        },
+        {
+          "en": "Consumers can read them in a variety of ways, for example by splitting up reads across a set of consumers, or delivering all messages to all consumers.",
+          "zh": null
+        },
+        {
+          "en": "It&#x27;s fully serverless, scales to vast quantities of data, and supports long-term retention, so even long periods of consumer downtime do not lose data.",
+          "zh": null
+        },
+        {
+          "en": "Under the hood, K2 implements a partitioned, durable log on top of R2 object storage, which allows it to scale to huge volumes of storage.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "32af5c2a7b663f67",
+      "sourceId": "cloudflare-blog",
+      "category": "cloud",
+      "title": "Cloudflare OS: your company’s agent workspace, managed for you",
+      "url": "https://blog.cloudflare.com/managed-cloudflare-os/",
+      "publishedAt": "2026-10-01T13:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Cloudflare OS: your company’s agent workspace, managed for you.",
+          "zh": null
+        },
+        {
+          "en": "Cloudflare OS gives everyone in your organization an agent workspace that knows how your company works and connects to its data and systems.",
+          "zh": null
+        },
+        {
+          "en": "Today, we&#x27;re opening the waitlist for fully managed Cloudflare OS deployments.",
+          "zh": null
+        },
+        {
+          "en": "If I asked you to prepare for an important customer meeting later today, what would you do?",
+          "zh": null
+        },
+        {
+          "en": "You might learn how your company typically runs customer meetings, review the account in your CRM, check recent support tickets and product usage, then turn it into a short presentation to review with the group.",
+          "zh": null
+        },
+        {
+          "en": "Now imagine doing that another 100 times this month.",
+          "zh": null
+        },
+        {
+          "en": "Every team has work like this.",
+          "zh": null
+        },
+        {
+          "en": "With Cloudflare OS, you can ask your agent to handle the work for you, build a tool for your team, or move between the two as the work evolves.",
+          "zh": null
+        },
+        {
+          "en": "Last month, we announced Cloudflare OS and shared the open source repository .",
+          "zh": null
+        },
+        {
+          "en": "Since then, thousands of organizations have started using it to work with company data, produce docs and slides, build tools for their teams, and automate work with agents.",
+          "zh": null
+        },
+        {
+          "en": "With a few clicks in the Cloudflare dashboard, you’ll be able to launch your organization’s own agent workspace.",
+          "zh": null
+        },
+        {
+          "en": "Just tell us what custom domain you want to use, what Cloudflare Access policies apply, and which AI Gateway to connect.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "b17c5d0c007316a4",
+      "sourceId": "cloudflare-blog",
+      "category": "security",
+      "title": "Introducing Workers KV Instant — powered by Quicksilver",
+      "url": "https://blog.cloudflare.com/workers-kv-instant/",
+      "publishedAt": "2026-10-01T13:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Introducing Workers KV Instant — powered by Quicksilver.",
+          "zh": null
+        },
+        {
+          "en": "Today, we’re introducing Workers KV Instant, a new mode for Workers KV that pushes your changes globally for instant availability without cold read penalties.",
+          "zh": null
+        },
+        {
+          "en": "Workers KV has been one of our most popular services on the Developer Platform since launching during Birthday Week in 2018 .",
+          "zh": null
+        },
+        {
+          "en": "It’s great for quickly accessing data like static assets and user configuration that is written occasionally but read frequently.",
+          "zh": null
+        },
+        {
+          "en": "We use it ourselves across many Cloudflare products.",
+          "zh": null
+        },
+        {
+          "en": "We also have another key-value store, Quicksilver, which we’ve blogged about many times since introducing it in 2020 .",
+          "zh": null
+        },
+        {
+          "en": "We designed Quicksilver for incredibly fast global replication and low-latency access, and nearly every request to Cloudflare looks up at least one key in Quicksilver.",
+          "zh": null
+        },
+        {
+          "en": "People have asked us for years, but we’ve never made Quicksilver available to our customers.",
+          "zh": null
+        },
+        {
+          "en": "We’re changing that today with Workers KV Instant.",
+          "zh": null
+        },
+        {
+          "en": "KV Instant mode provides the same API as Workers KV, but powers it using Quicksilver.",
+          "zh": null
+        },
+        {
+          "en": "KV Instant offers 100 times faster p99 reads and immediate updates, with no need to wait for a TTL to expire.",
+          "zh": null
+        },
+        {
+          "en": "It’s not for every type of data, but, for infrequently updated application configuration data — the same thing we use Quicksilver for ourselves — KV Instant shines.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "ed59254a0e36ad07",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "5 ways Search can help you perfect your at-home coffee routine",
+      "url": "https://blog.google/products-and-platforms/products/search/coffee-tips-google-search/",
+      "publishedAt": "2026-10-01T13:00:00.000Z",
+      "sentences": [
+        {
+          "en": "5 ways Search can help you perfect your at-home coffee routine.",
+          "zh": null
+        },
+        {
+          "en": "Learn how Google Search can help you improve your morning cup of coffee.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "06024677b65ae021",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Kanye West's Russia shows officially cancelled after weeks of uncertainty",
+      "url": "https://www.bbc.co.uk/news/articles/cm74k417wpjxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-01T12:13:28.000Z",
+      "sentences": [
+        {
+          "en": "Kanye West's Russia shows officially cancelled after weeks of uncertainty.",
+          "zh": "坎耶·韦斯特（ Kanye West ）的俄罗斯演出在数周的不确定性之后正式取消。"
+        },
+        {
+          "en": "Chaos has surrounded the St Petersburg shows since the stadium said it had not agreed to host the rapper.",
+          "zh": "自从体育场表示不同意接待这位说唱歌手以来，圣彼得堡的节目一片混乱。"
+        }
+      ]
+    },
+    {
+      "id": "7d02e526ac619563",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Ebola response faces setback as transit centre burns down in DR Congo camp",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168499",
+      "publishedAt": "2026-10-01T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Ebola response faces setback as transit centre burns down in DR Congo camp.",
+          "zh": "随着刚果民主共和国难民营的临时收容中心被烧毁，埃博拉应对工作面临挫折。"
+        },
+        {
+          "en": "The enormous challenge of halting the spread of Ebola in the Democratic Republic of the Congo (DRC) just became even harder after a key transit centre for patients requiring treatment burned down in Ituri province.",
+          "zh": "在伊图里省需要治疗的患者的重要转运中心被烧毁后，遏制埃博拉病毒在刚果民主共和国（ DRC ）蔓延的巨大挑战变得更加艰巨。"
+        }
+      ]
+    },
+    {
+      "id": "92c29647883b801d",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Nepal floods threaten jobs and livelihoods beyond disaster zone: ILO",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168500",
+      "publishedAt": "2026-10-01T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Nepal floods threaten jobs and livelihoods beyond disaster zone: ILO.",
+          "zh": "尼泊尔洪水威胁到灾区以外的就业和生计：国际劳工组织。"
+        },
+        {
+          "en": "The deadly flash floods in northern Nepal have severely disrupted employment and livelihoods, with wider impacts beyond communities that were directly affected, the International Labour Organization (ILO) said in a preliminary assessment released on Thursday.",
+          "zh": "国际劳工组织（ ILO ）在周四发布的初步评估中表示，尼泊尔北部致命的山洪暴发严重扰乱了就业和生计，对直接受影响的社区以外的社区产生了更广泛的影响。"
+        }
+      ]
+    },
+    {
+      "id": "81ffde0609a30b9e",
+      "sourceId": "un-news",
+      "category": "security",
+      "title": "‘Women are not victims’: Türk calls for women to be at the heart of peace and security",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168502",
+      "publishedAt": "2026-10-01T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "‘Women are not victims’: Türk calls for women to be at the heart of peace and security.",
+          "zh": "“妇女不是受害者” ：蒂尔克呼吁将妇女置于和平与安全的核心。"
+        },
+        {
+          "en": "Women must be at the centre of efforts to prevent conflict and build lasting peace, UN High Commissioner for Human Rights Volker Türk said on Thursday.",
+          "zh": "联合国人权事务高级专员沃尔克·蒂尔克（ Volker Türk ）周四表示，妇女必须成为预防冲突和建设持久和平工作的核心。"
+        }
+      ]
+    },
+    {
+      "id": "e4d42d92f4aa412d",
+      "sourceId": "un-news",
+      "category": "business",
+      "title": "World News in Brief: Marshall Islands nuclear legacy, FlyDubai attack condemned, Ukraine update, breast cancer treatment expanded in West Bank",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168503",
+      "publishedAt": "2026-10-01T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "World News in Brief: Marshall Islands nuclear legacy, FlyDubai attack condemned, Ukraine update, breast cancer treatment expanded in West Bank.",
+          "zh": "世界新闻简报：马绍尔群岛核遗产， FlyDubai攻击谴责，乌克兰更新，乳腺癌治疗在约旦河西岸扩大。"
+        },
+        {
+          "en": "The enduring radioactive legacy of US nuclear bomb testing in the Marshall Islands took centre stage at the Human Rights Council on Thursday.",
+          "zh": "周四，美国在马绍尔群岛进行的核弹试验的放射性遗留问题在人权理事会占据了中心位置。"
+        }
+      ]
+    },
+    {
+      "id": "c2797e97544532ad",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "No more execution attempts on Christa Pike: UN rights chief",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168504",
+      "publishedAt": "2026-10-01T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "No more execution attempts on Christa Pike: UN rights chief.",
+          "zh": "不再对克里斯塔·派克（ Christa Pike ）执行死刑：联合国权利主管。"
+        },
+        {
+          "en": "The UN human rights chief and nine independent rights experts on Thursday called on authorities in Tennessee not to pursue any further attempts to execute Christa Pike, saying her case highlights multiple concerns surrounding the death penalty.",
+          "zh": "联合国人权事务主管和九名独立人权专家周四呼吁田纳西州当局不要再试图处决克里斯塔·派克（ Christa Pike ） ，称她的案件凸显了围绕死刑的多重担忧。"
+        }
+      ]
+    },
+    {
+      "id": "b423f2a125260ce9",
+      "sourceId": "un-news",
+      "category": "security",
+      "title": "UN Member States weigh latest Security Council veto, this time on Iran",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168505",
+      "publishedAt": "2026-10-01T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "UN Member States weigh latest Security Council veto, this time on Iran.",
+          "zh": "联合国会员国权衡安理会最近的否决权，这次是对伊朗的否决权。"
+        },
+        {
+          "en": "The General Assembly met on Thursday to examine the Security Council’s latest veto, cast by China and Russia over a United States-backed sanctions panel of experts on Iran nuclear facilities.",
+          "zh": "联合国大会周四举行会议，审查安理会最近对中国和俄罗斯对美国支持的伊朗核设施制裁专家组投下的否决票。"
+        }
+      ]
+    },
+    {
+      "id": "9db916080857021e",
+      "sourceId": "bbc-world",
+      "category": "ai",
+      "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-01T11:37:46.000Z",
+      "sentences": [
+        {
+          "en": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names.",
+          "zh": "特朗普的人工智能品牌重塑导致对斯洛文尼亚网站名称的“前所未有”需求。"
+        },
+        {
+          "en": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains.",
+          "zh": "总统希望将人工智能称为超级智能（或SI ） ，与斯洛文尼亚域名使用的首字母相同。"
+        }
+      ]
+    },
+    {
+      "id": "d90acff82daeb8d4",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Passengers recount chaos on Tel Aviv flight. And, FBI probes employee-data hack",
+      "url": "https://www.npr.org/2026/10/01/g-s1-145879/up-first-newsletter-tel-aviv-flight-passengers-fbi-employee-data-hack",
+      "publishedAt": "2026-10-01T11:37:10.000Z",
+      "sentences": [
+        {
+          "en": "Passengers recount chaos on Tel Aviv flight.",
+          "zh": "乘客重新计算特拉维夫航班上的混乱情况。"
+        },
+        {
+          "en": "And, FBI probes employee-data hack.",
+          "zh": "而且，联邦调查局正在调查员工数据黑客。"
+        },
+        {
+          "en": "What we know so far about the tense moments aboard a Tel Aviv-bound flight.",
+          "zh": "到目前为止，我们对特拉维夫航班上紧张时刻的了解。"
+        },
+        {
+          "en": "And, the FBI investigates a cyberattack involving sensitive employee data.",
+          "zh": "而且，联邦调查局正在调查涉及敏感员工数据的网络攻击。"
+        },
+        {
+          "en": "(Image credit: Erik Marmor)",
+          "zh": "（图片来源： Erik Marmor ）"
+        }
+      ]
+    },
+    {
+      "id": "8934c626ef37936a",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "‘It’s utter surrealism’: Venezuela’s Chavistas lament government’s embrace of Trump",
+      "url": "https://www.theguardian.com/world/2026/oct/01/venezuela-hugo-chavez-supporters-critical-delcy-rodriguez-embrace-of-trump",
+      "publishedAt": "2026-10-01T09:00:34.000Z",
+      "sentences": [
+        {
+          "en": "‘It’s utter surrealism’: Venezuela’s Chavistas lament government’s embrace of Trump.",
+          "zh": "“这完全是超现实主义” ：委内瑞拉的查韦斯主义者对政府拥抱特朗普感到遗憾。"
+        },
+        {
+          "en": "Diehard Hugo Chávez supporters struggle to comprehend ideological U-turn being executed by Delcy Rodríguez’s interim administration He was one of the most passionate propagandists for Hugo Chávez’s Bolivarian revolution: a feisty leftist TV personality who spent more than two decades singing the movement’s praises on his state-funded show, The Razorblade.",
+          "zh": "Diehard Hugo Chávez的支持者很难理解Delcy Rodríguez的临时政府正在执行的意识形态转变。他是Hugo Chávez的玻利瓦尔革命最热情的宣传者之一：一个活泼的左翼电视人物，花了二十多年的时间为他的国家资助的节目The Razorblade唱歌。"
+        },
+        {
+          "en": "Mario Silva’s devotion was such that he often hosted his programme with Chávez’s portrait behind him and he had El Comandante’s curly signature tattooed on to his left wrist.",
+          "zh": "马里奥·席尔瓦（ Mario Silva ）的忠诚度如此之高，以至于他经常主持他的节目，身后是查韦斯的肖像，左手腕上还纹有El Comandante的卷曲签名。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "bf95e723cc182909",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Daredevil Jaan Roose completes slackline walk high above central Seoul",
+      "url": "https://www.theguardian.com/world/2026/oct/01/jaan-roose-seoul-slackline-walk-south-korea",
+      "publishedAt": "2026-10-01T06:04:17.000Z",
+      "sentences": [
+        {
+          "en": "Daredevil Jaan Roose completes slackline walk high above central Seoul.",
+          "zh": "Daredevil Jaan Roose在首尔市中心上空完成悠闲漫步。"
+        },
+        {
+          "en": "Estonian completed first of two attempts to navigate narrow ribbon, 160 metres long and 120 metres high, near the city’s famous Gyeongbokgung palace on Thursday The lunchtime crowds drifted slowly back to their offices along central Seoul’s main boulevard, heads up and phones raised to the sky.",
+          "zh": "周四，爱沙尼亚人在该市著名的景福宫附近完成了两次窄带导航尝试中的第一次尝试。午餐时间，人群慢慢地回到首尔市中心主林荫大道沿线的办公室，抬起头，电话飘向天空。"
+        },
+        {
+          "en": "High above, a narrow ribbon ran between the Koreana hotel and the Dong-A Media Center, a few hundred metres from the capital’s famous Gyeongbokgung palace and Gwanghwamun square.",
+          "zh": "高处有一条狭窄的丝带，穿过韩国酒店和东亚媒体中心，距离首都著名的景福宫和光化门广场仅几百米。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "609472992b6a2b36",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "K-pop star convicted of violating military service law",
+      "url": "https://www.bbc.co.uk/news/articles/cjn5d52d3lk5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-01T05:24:10.000Z",
+      "sentences": [
+        {
+          "en": "K-pop star convicted of violating military service law.",
+          "zh": "韩国流行音乐明星因违反兵役法而被定罪。"
+        },
+        {
+          "en": "The member of K-pop band Winner was given a suspended prison sentence for repeated absences from his national service work.",
+          "zh": "韩国流行乐队Winner的成员因多次缺席国民服役工作而被判缓刑。"
+        }
+      ]
+    },
+    {
+      "id": "480804ff498d647d",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Israelis divided as vote that could oust Netanyahu only weeks away",
+      "url": "https://www.theguardian.com/world/2026/oct/01/israel-election-benjamin-netanyahu-gadi-eisenkot",
+      "publishedAt": "2026-10-01T04:00:30.000Z",
+      "sentences": [
+        {
+          "en": "Israelis divided as vote that could oust Netanyahu only weeks away.",
+          "zh": "以色列人分裂为可能在几周后赶走内塔尼亚胡的投票。"
+        },
+        {
+          "en": "Some on streets of Jerusalem pledge their support to prime minister while others hope for change On the streets of Jerusalem, crowded with secular and ultra-Orthodox Jews, religious nationalists, settlers, Palestinians, and soldiers returning from deployments, uncertainty hangs over an election less than a month away that could mark a turning point for a country profoundly changed after the Hamas attacks of 7 October 2023 and nearly three years of war in Gaza, Lebanon and Iran.",
+          "zh": "耶路撒冷街头的一些人承诺支持总理，而其他人则希望改变。在耶路撒冷街头，拥挤着世俗和极端正统的犹太人、宗教民族主义者、定居者、巴勒斯坦人和从部署中返回的士兵，距离哈马斯2023年10月7日的袭击以及加沙、黎巴嫩和伊朗近三年的战争之后，不到一个月的选举可能标志着一个国家的转折点。"
+        },
+        {
+          "en": "The political battle remains on a knife-edge.",
+          "zh": "政治斗争仍停留在刀刃上。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "3fa321a2aa546d46",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "New Google Maps images reveal massive scale of devastation in Gaza",
+      "url": "https://www.theguardian.com/world/2026/oct/01/new-google-maps-images-reveal-massive-scale-of-devastation-in-gaza",
+      "publishedAt": "2026-10-01T04:00:28.000Z",
+      "sentences": [
+        {
+          "en": "New Google Maps images reveal massive scale of devastation in Gaza.",
+          "zh": "新的谷歌地图图片揭示了加沙的大规模破坏。"
+        },
+        {
+          "en": "Satellite imagery shows further destruction of homes, businesses and places of worship since fragile ceasefire An update to Google Maps has revealed the extent of devastation during the three-year Gaza war and the severity of the continuing humanitarian crisis faced by the territory’s 2.3 million inhabitants.",
+          "zh": "卫星图像显示，自脆弱的停火以来，房屋、企业和礼拜场所遭到进一步破坏。谷歌地图的更新揭示了三年加沙战争期间的破坏程度，以及该地区230万居民所面临的持续人道主义危机的严重程度。"
+        },
+        {
+          "en": "The images were taken in June this year and show further destruction of homes, businesses, places of worship and infrastructure since a fragile ceasefire came into effect almost 12 months ago.",
+          "zh": "这些照片拍摄于今年6月，显示自近12个月前脆弱的停火生效以来，房屋、企业、礼拜场所和基础设施遭到进一步破坏。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "fe30ec7f22e93319",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Plummeting Israel flight like 'rollercoaster', says passenger",
+      "url": "https://www.bbc.co.uk/news/videos/cwm2r2v42vdeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-01T03:52:20.000Z",
+      "sentences": [
+        {
+          "en": "Plummeting Israel flight like 'rollercoaster', says passenger.",
+          "zh": "乘客说，以色列的航班像“过山车”一样直线下降。"
+        },
+        {
+          "en": "An aeroplane flying to Israel fell 17,000ft (5,200m) in less than two minutes before it was diverted.",
+          "zh": "一架飞往以色列的飞机在不到两分钟的时间内坠落了17,000英尺（ 5,200米）。"
+        }
+      ]
+    },
+    {
+      "id": "e8ac71464ff5b33b",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Japan raises permanent residency fee by 20 times",
+      "url": "https://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-01T02:57:43.000Z",
+      "sentences": [
+        {
+          "en": "Japan raises permanent residency fee by 20 times.",
+          "zh": "日本将永久居留费增加20倍。"
+        },
+        {
+          "en": "The hikes are part of immigration policy changes introduced to manage Japan's growing foreign population.",
+          "zh": "这些加息是为管理日本不断增长的外国人口而引入的移民政策变化的一部分。"
+        }
+      ]
+    },
+    {
+      "id": "6cdbca199f0a37d3",
+      "sourceId": "aws-news",
+      "category": "cloud",
+      "title": "Amazon S3 Tables now support all Apache Iceberg V3 data types",
+      "url": "https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-support-all-apache-iceberg-v3-data-types/",
+      "publishedAt": "2026-09-30T22:10:00.000Z",
+      "sentences": [
+        {
+          "en": "Amazon S3 Tables now support all Apache Iceberg V3 data types.",
+          "zh": "Amazon S3表现在支持所有Apache Iceberg V3数据类型。"
+        },
+        {
+          "en": "Amazon S3 Tables now support all data types in the Apache Iceberg V3 specification.",
+          "zh": "Amazon S3表现在支持Apache Iceberg V3规范中的所有数据类型。"
+        },
+        {
+          "en": "You can create V3 tables or upgrade existing V2 tables to take advantage of V3 features like deletion vectors, row lineage, and new data types such as variant, nanosecond timestamps, unknown, geometry, and geography.",
+          "zh": "您可以创建V3表或升级现有的V2表，以利用V3功能，如删除矢量、行沿袭和新数据类型，如变量、纳秒时间戳、未知、几何和地理。"
+        },
+        {
+          "en": "Apache Iceberg has become the open standard for managing large analytics datasets.",
+          "zh": "Apache Iceberg已成为管理大型分析数据集的开放标准。"
+        },
+        {
+          "en": "It lets you manage petabyte-scale tables with features like schema evolution, hidden partitioning, and time travel queries, while keeping your data in open Parquet files in data lakes on object storage like Amazon S3 .",
+          "zh": "它允许您管理具有架构演进、隐藏分区和时间旅行查询等功能的PB级表，同时将数据保存在对象存储（如Amazon S3 ）上的数据湖中打开的Parquet文件中。"
+        },
+        {
+          "en": "Amazon S3 Tables offer storage purpose-built to keep Iceberg tables performant and cost-effective as they grow, with fully managed features like automatic compaction, maintenance, replication, and Intelligent-Tiering.",
+          "zh": "Amazon S3表提供了专为保持Iceberg表在增长过程中的性能和成本效益而构建的存储，具有自动压缩、维护、复制和智能分层等完全托管功能。"
+        },
+        {
+          "en": "Teams running analytics on Apache Iceberg V2 tables often hit the same limits as their data grows.",
+          "zh": "在Apache Iceberg V2表上运行分析的团队通常会遇到与其数据增长相同的限制。"
+        },
+        {
+          "en": "A compliance request to delete 50,000 user records from a 2-billion-row table leaves behind positional delete files that slow queries until compaction runs.",
+          "zh": "从20亿行表中删除50,000条用户记录的合规性请求留下了位置删除文件，这些文件在压缩运行之前会减慢查询速度。"
+        },
+        {
+          "en": "Semi-structured events land as JSON strings that every query has to parse.",
+          "zh": "半结构化事件以JSON字符串的形式出现，每个查询都必须对其进行解析。"
+        },
+        {
+          "en": "Geospatial coordinates and nanosecond-precision timestamps get encoded as strings or integers.",
+          "zh": "地理空间坐标和纳秒精度时间戳被编码为字符串或整数。"
+        },
+        {
+          "en": "Each workaround adds storage cost, query latency, and pipeline code.",
+          "zh": "每个解决方法都会增加存储成本、查询延迟和管道代码。"
+        },
+        {
+          "en": "With V3, Iceberg solves these challenges by offering native support for semi-structured and geospatial data, faster row-level operations, and built-in row lineage for data governance.",
+          "zh": "借助V3 ， Iceberg通过提供对半结构化和地理空间数据的本机支持、更快的行级操作以及用于数据治理的内置行谱系来解决这些挑战。"
+        }
+      ]
+    },
+    {
+      "id": "8ff13f57dac4cfa3",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Google's AI ranks #1 for predicting flu hospitalizations.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-science-ai-flu-forecasts/",
+      "publishedAt": "2026-09-30T21:30:00.000Z",
+      "sentences": [
+        {
+          "en": "Google's AI ranks #1 for predicting flu hospitalizations.",
+          "zh": null
+        },
+        {
+          "en": "Google’s science AI model was the best at forecasting flu-related hospital admissions, the Centers for Disease Control announced.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "c37feab89d6ad7f6",
+      "sourceId": "aws-news",
+      "category": "cloud",
+      "title": "Amazon S3 Vectors now supports metadata pre-filtering for higher recall on filtered searches",
+      "url": "https://aws.amazon.com/blogs/aws/amazon-s3-vectors-now-supports-metadata-pre-filtering-for-higher-recall-on-filtered-searches/",
+      "publishedAt": "2026-09-30T20:03:34.000Z",
+      "sentences": [
+        {
+          "en": "Amazon S3 Vectors now supports metadata pre-filtering for higher recall on filtered searches.",
+          "zh": "Amazon S3 Vectors现在支持元数据预过滤，以便在过滤后的搜索中实现更高的召回率。"
+        },
+        {
+          "en": "Today, we’re announcing metadata pre-filtering for Amazon S3 Vectors , which delivers higher recall on filtered queries by evaluating your metadata filter before the similarity search.",
+          "zh": "今天，我们宣布推出Amazon S3 Vectors的元数据预过滤功能，通过在相似性搜索之前评估您的元数据过滤器，提高过滤查询的召回率。"
+        },
+        {
+          "en": "You can filter on attributes such as tenant, category, status, or time, and pre-filtering adds prefix matching with $startsWith for paths, URLs, and hierarchical keys.",
+          "zh": "您可以筛选租户、类别、状态或时间等属性，并且预筛选会为路径、URL和分层键添加与$ startsWith匹配的前缀。"
+        },
+        {
+          "en": "Each vector carries up to 2 KB of filterable metadata, and a single query supports up to 100 filter constraints.",
+          "zh": "每个矢量最多承载2 KB的可过滤元数据，单个查询最多支持100个过滤约束。"
+        },
+        {
+          "en": "There is no additional cost, no re-ingestion, and no change to your queries.",
+          "zh": "无需支付额外费用，无需重新提问，也不会更改您的查询。"
+        },
+        {
+          "en": "Most applications never search a whole index.",
+          "zh": "大多数应用程序从不搜索整个索引。"
+        },
+        {
+          "en": "They search the part of it that belongs to a particular user, account, or category, and they express that scope as a metadata filter.",
+          "zh": "它们搜索属于特定用户、帐户或类别的部分，并将该范围表示为元数据筛选器。"
+        },
+        {
+          "en": "Semantic search, retrieval-augmented generation (RAG), and agentic applications all need the same thing from a filtered query: a similarity search that covers the vectors matching the filter, and returns the closest of them.",
+          "zh": "语义搜索、检索增强生成（ RAG ）和代理应用程序都需要来自过滤查询的相同内容：相似性搜索，涵盖与过滤器匹配的向量，并返回最接近的向量。"
+        },
+        {
+          "en": "With pre-filtering, a filtered query returns more of the relevant matches your index contains, giving you higher recall on filtered searches.",
+          "zh": "通过预过滤，经过过滤的查询将返回更多索引包含的相关匹配项，从而提高过滤搜索的召回率。"
+        },
+        {
+          "en": "Common use cases Pre-filtering applies wherever results have to be both relevant and correctly scoped: Legal and professional services : A law firm or e-discovery platform searches documents scoped to a single client, and with $startsWith narrows further by matter number, folder path, or document ID prefix.",
+          "zh": "常见用例预过滤适用于所有相关且范围正确的结果：法律和专业服务：律师事务所或电子发现平台搜索范围仅限于单个客户的文档，并使用$ start按事项编号、文件夹路径或文档ID前缀进一步缩小范围。"
+        },
+        {
+          "en": "A single client is a small share of a firm-wide archive, and filters this narrow are where pre-filtering improves recall most.",
+          "zh": "单个客户是整个公司存档的一小部分，而这种狭窄的过滤器是预过滤最能提高召回率的地方。"
+        },
+        {
+          "en": "Financial services : An investment research platform searches analyst notes, filings, and call transcripts scoped by issuer, document type, and publication date.",
+          "zh": "金融服务：投资研究平台按发行人、文档类型和发布日期搜索分析师笔记、文件和通话记录。"
+        }
+      ]
+    },
+    {
+      "id": "6381db252deeabb6",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "publishedAt": "2026-09-30T20:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Gemini 4 Argon: our next era of frontier intelligence.",
+          "zh": null
+        },
+        {
+          "en": "Announcing Gemini 4 Argon, our frontier model for real-world coding, enterprise knowledge work, and cyber defense, rolling out soon.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "3df0942dcead6609",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Trump administration diverts human rights funds to push far-right agenda abroad",
+      "url": "https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund",
+      "publishedAt": "2026-09-30T19:51:24.000Z",
+      "sentences": [
+        {
+          "en": "Trump administration diverts human rights funds to push far-right agenda abroad.",
+          "zh": "特朗普政府将人权资金转移到国外，以推动极右翼议程。"
+        },
+        {
+          "en": "Support such as for white Afrikaners and anti-communism reveals how US is redefining what qualifies as human rights With hours left before the funding expires, the Trump administration is pushing to direct more than $175m of the state department’s flagship human rights fund to a slate of awards that includes a huge $40m grant for an anti-communism fund, support for a group advancing white Afrikaner rights in South Africa, a campaign against Brazil’s supreme court and programs that would reward ideological allies in Europe who protect “western civilizational norms”.",
+          "zh": "对南非白人和反共产主义的支持揭示了美国如何重新定义什么是人权在资金到期前还剩下几个小时，特朗普政府正在推动将国务院1.75亿美元的旗舰人权基金用于一系列奖项，其中包括为反共产主义基金提供4000万美元的巨额赠款，支持在南非推进南非白人权利的团体，反对巴西最高法院的运动以及将奖励我"
+        },
+        {
+          "en": "On Wednesday, the state department obligated the funds to the grantees hours before the deadline despite congressional concerns and requests not to do so, according to a source familiar with the negotiations.",
+          "zh": "据一位熟悉谈判情况的消息人士称，周三，国务院在截止日期前几小时向受赠方承担了这笔资金的义务，尽管国会对此表示担忧并要求不要这样做。"
+        },
+        {
+          "en": "The state department declined to comment on questions from the Guardian specifically on whether it had obligated the funds and had “blown” holds from Congress due to concerns about the money’s use.",
+          "zh": "由于担心这笔资金的使用，国务院拒绝就《卫报》提出的具体问题发表评论，即它是否已经承担了这笔资金的义务，并且已经从国会“吹走了”。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "d0594e3e3d8b36eb",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Google is supporting water resilience in Chile.",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/water-resilience-chile/",
+      "publishedAt": "2026-09-30T18:34:00.000Z",
+      "sentences": [
+        {
+          "en": "Google is supporting water resilience in Chile.",
+          "zh": null
+        },
+        {
+          "en": "Google is investing $1.2M to line Chile's Unidos de Buin canal, saving 1.9 billion gallons of water annually.",
+          "zh": null
+        },
+        {
+          "en": "See how we boost watershed health.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "646e2d3c8e8ea514",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "More partners are joining the Alliance for America’s Skilled Trades.",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/alliance-americas-skilled-trades-expands/",
+      "publishedAt": "2026-09-30T18:15:00.000Z",
+      "sentences": [
+        {
+          "en": "More partners are joining the Alliance for America’s Skilled Trades.",
+          "zh": null
+        },
+        {
+          "en": "The Alliance for America’s Skilled Trades is expanding, welcoming 14 new partners to accelerate training and career access nationwide.For every 100 skilled trades worker…",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "aea1aa1ef8fec8f5",
+      "sourceId": "aws-news",
+      "category": "cloud",
+      "title": "Amazon Aurora PostgreSQL now supports direct querying of Apache Iceberg and Parquet data in your data lake",
+      "url": "https://aws.amazon.com/blogs/aws/amazon-aurora-postgresql-now-supports-direct-querying-of-apache-iceberg-and-parquet-data-in-your-data-lake/",
+      "publishedAt": "2026-09-30T17:22:31.000Z",
+      "sentences": [
+        {
+          "en": "Amazon Aurora PostgreSQL now supports direct querying of Apache Iceberg and Parquet data in your data lake.",
+          "zh": "Amazon Aurora PostgreSQL现在支持直接查询数据湖中的Apache Iceberg和Parquet数据。"
+        },
+        {
+          "en": "Today, we’re announcing a new capability for Amazon Aurora PostgreSQL that you can use to directly query operational data together with data stored in your data lake in Apache Iceberg and Apache Parquet formats, using your existing PostgreSQL applications and tools.",
+          "zh": "今天，我们宣布推出适用于Amazon Aurora PostgreSQL的新功能，您可以使用现有的PostgreSQL应用程序和工具，直接查询操作数据以及以Apache Iceberg和Apache Parquet格式存储在数据湖中的数据。"
+        },
+        {
+          "en": "By eliminating the need to extract, transform, and load (ETL) structured data from data lakes into your operational database, you can reduce operational complexity and simplify application development.",
+          "zh": "通过消除从数据湖中提取、转换和加载（ ETL ）结构化数据到运营数据库的需要，您可以降低运营复杂性并简化应用程序开发。"
+        },
+        {
+          "en": "You can also use Aurora PostgreSQL to query data from data lakes managed in Iceberg REST Catalog (IRC)-compatible catalogs, giving you access to data across a breadth of analytics systems without moving or duplicating it.",
+          "zh": "您还可以使用Aurora PostgreSQL从Iceberg REST Catalog (IRC)兼容目录中管理的数据湖中查询数据，让您无需移动或复制即可访问各种分析系统中的数据。"
+        },
+        {
+          "en": "Whether you’re powering real-time dashboards, enriching transactions with historical context, or building AI agents that reason over both live and archived data, you can now do it all through a single, familiar interface.",
+          "zh": "无论您是支持实时仪表板、使用历史背景丰富交易，还是构建基于实时和存档数据的AI代理，您现在都可以通过一个熟悉的界面来完成这一切。"
+        },
+        {
+          "en": "Previously, if your application needed to combine recent transactional data in Aurora with historical records stored in Amazon S3, a common approach was to build reverse ETL pipelines that duplicated data, increased infrastructure costs, and required ongoing engineering effort to keep everything synchronized.",
+          "zh": null
+        },
+        {
+          "en": "This challenge only grows as you increasingly embed AI agents into your applications, where it is impractical to predict and pre-replicate every dataset an agent might need.",
+          "zh": null
+        },
+        {
+          "en": "DuckLabs, the team that maintains the DuckDB project, recently joined Amazon, and this capability is an example of how the efficiency of DuckDB is being integrated into our services.",
+          "zh": null
+        },
+        {
+          "en": "DuckDB is now embedded directly within Aurora PostgreSQL, so you can query live operational data (including uncommitted writes) alongside your data lake in a single query.",
+          "zh": null
+        },
+        {
+          "en": "Query processing stays within Aurora, with no additional network hops and no ETL pipelines that duplicate data.",
+          "zh": null
+        },
+        {
+          "en": "You can query Apache Iceberg tables managed through the AWS Glue Data Catalog, as well as Parquet and Iceberg data stored in Amazon S3 and S3 Tables.",
+          "zh": null
+        },
+        {
+          "en": "You do all of this using familiar PostgreSQL syntax and your existing applications and tools.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "18cc151346c4be03",
+      "sourceId": "aws-news",
+      "category": "cloud",
+      "title": "Celebrating Our Newest AWS Heroes – September 2026",
+      "url": "https://aws.amazon.com/blogs/aws/celebrating-our-newest-aws-heroes-september-2026/",
+      "publishedAt": "2026-09-30T17:04:05.000Z",
+      "sentences": [
+        {
+          "en": "Celebrating Our Newest AWS Heroes – September 2026.",
+          "zh": null
+        },
+        {
+          "en": "Today, we’re excited to introduce the newest members of the AWS Heroes program .",
+          "zh": null
+        },
+        {
+          "en": "AWS Heroes are a vibrant, worldwide group of AWS experts who go above and beyond to share knowledge, mentor others, and build thriving communities.",
+          "zh": null
+        },
+        {
+          "en": "These individuals make a real difference in helping developers and organizations succeed with AWS.",
+          "zh": null
+        },
+        {
+          "en": "This month, we welcome three exceptional community leaders from across the globe, each bringing unique expertise and a deep commitment to empowering builders everywhere.",
+          "zh": null
+        },
+        {
+          "en": "Avinash Shashikant Dalvi – Bengaluru, India Serverless Hero Avinash Shashikant Dalvi is a tech architect and co-organizer of AWS User Group Bengaluru who is focused on serverless, containers, and production-ready applications on AWS.",
+          "zh": null
+        },
+        {
+          "en": "He has delivered over 40 community talks, publishes the AWS for Product Builders newsletter, and creates technical content covering Amazon ECS, AWS Fargate, AWS Lambda, and AWS Amplify.",
+          "zh": null
+        },
+        {
+          "en": "Joanne Skiles – Orlando, USA Serverless Hero Joanne Skiles is an engineering leader and educator with over 16 years of experience building full-stack systems, including serverless architecture and AI systems on AWS.",
+          "zh": null
+        },
+        {
+          "en": "She organizes the Orlando AWS User Group and teaches cloud and AI concepts through her YouTube channel, conference talks, and her podcasts Chaotic Commits and Her Career Unplugged.",
+          "zh": null
+        },
+        {
+          "en": "Joanne is also a professor in the Computer Science department at Rollins College, where she runs the Transparent Systems lab.",
+          "zh": null
+        },
+        {
+          "en": "Xiaofei Li – Shanghai, China Community Hero Xiaofei Li is an AWS Golden Jacket holder and is an active community leader in the Greater China Region, leading the Kiro, Amazon Quick, and Tokyo Chinese AWS communities.",
+          "zh": null
+        },
+        {
+          "en": "He founded the Kiro Chinese User Community (5,000+ members) and initiated the Chinese localization of AWS Builder Cards across 15 cities and 3,000+ participants.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "381da076c8f84d9c",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Supporting AI readiness in higher education",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/educause-2026/",
+      "publishedAt": "2026-09-30T16:43:00.000Z",
+      "sentences": [
+        {
+          "en": "Supporting AI readiness in higher education.",
+          "zh": null
+        },
+        {
+          "en": "At the EDUCAUSE annual conference, Google.org announced its support of three higher education initiatives to scale ethical AI readiness, modernize institutional planning…",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "7d86a3be0efc594f",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Celebrating International Translation Day: Meet 3 linguistic experts behind Google Translate",
+      "url": "https://blog.google/products-and-platforms/products/translate/international-translation-day-2026/",
+      "publishedAt": "2026-09-30T16:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Celebrating International Translation Day: Meet 3 linguistic experts behind Google Translate.",
+          "zh": null
+        },
+        {
+          "en": "On International Translation Day, learn how members of our team bring cultural nuance to Translate to connect people globally.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "68cbabc2cd02fa79",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Let skills in Gemini tackle your most repetitive tasks",
+      "url": "https://blog.google/products-and-platforms/products/gemini/automate-tasks-with-skills/",
+      "publishedAt": "2026-09-30T16:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Let skills in Gemini tackle your most repetitive tasks.",
+          "zh": null
+        },
+        {
+          "en": "Now you can automate your most repetitive tasks more easily with reusable custom instructions through skills, which will be replacing gems.",
+          "zh": null
+        }
+      ]
+    }
+  ],
+  "failures": []
+}
