@@ -1,0 +1,1347 @@
+{
+  "date": "2026-10-02",
+  "collectedAt": "2026-10-03T03:57:10.017Z",
+  "items": [
+    {
+      "id": "96b427592c50736e",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
+      "url": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-02T15:30:12.000Z",
+      "sentences": [
+        {
+          "en": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87.",
+          "zh": "87岁的西班牙首相桑切斯在被驱逐后失去了关键的住房危机投票。"
+        },
+        {
+          "en": "The defeat raises pressure on Sánchez to call a snap election, after a series of scandals affecting his party and allies.",
+          "zh": "在一系列影响他的政党和盟友的丑闻之后，这次失败给桑切斯带来了召开提前选举的压力。"
+        }
+      ]
+    },
+    {
+      "id": "8433c818c0341b77",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
+      "url": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-02T15:26:37.000Z",
+      "sentences": [
+        {
+          "en": "Intensified Russian strikes are tearing Kyiv apart, warns mayor.",
+          "zh": "市长警告说，俄罗斯加剧的罢工正在撕裂基辅。"
+        },
+        {
+          "en": "Vitaliy Klitschko says Ukraine's capital is in a \"very dramatic situation\" as Russia hits critical infrastructure.",
+          "zh": "维塔利·克里琴科（ Vitaliy Klitschko ）表示，随着俄罗斯打击关键基础设施，乌克兰首都处于“非常戏剧性的局面”。"
+        }
+      ]
+    },
+    {
+      "id": "d4927e1eb70f86f9",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "US Coast Guard says it intercepted ship carrying fuel to Cuba",
+      "url": "https://www.theguardian.com/world/2026/oct/02/us-coast-guard-says-it-has-intercepted-ship-carrying-fuel-to-cuba",
+      "publishedAt": "2026-10-02T15:13:23.000Z",
+      "sentences": [
+        {
+          "en": "US Coast Guard says it intercepted ship carrying fuel to Cuba.",
+          "zh": "美国海岸警卫队说，它拦截了向古巴运送燃料的船只。"
+        },
+        {
+          "en": "US says ship thought to be using common ‘dark fleet’ tactics was boarded and taken to Mexico as embargo continues The US Coast ⁠Guard has announced that it intercepted a large cargo ship carrying fuel bound for Cuba , as the ⁠Trump administration’s crippling ⁠oil embargo against ​the island nation continued.",
+          "zh": "美国表示，随着禁运的继续，被认为使用常见“黑暗舰队”战术的船只被登上并带到墨西哥。美国海岸警卫队宣布，随着特朗普政府对古巴的严厉石油禁运继续进行，它拦截了一艘运送燃料的大型货船。"
+        },
+        {
+          "en": "The vessel named Grace was stopped on 5 September in the Caribbean Sea between Cuba ⁠and Mexico while using tactics to evade authorities, the Coast Guard said.",
+          "zh": "海岸警卫队表示，这艘名为Grace的船于9月5日在古巴和墨西哥之间的加勒比海被拦截，同时使用战术逃避当局。"
+        },
+        {
+          "en": "The New York Times reported that the ship ⁠was 91 metres (300ft) long.",
+          "zh": "《纽约时报》报道说，这艘船长91米（ 300英尺）。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "54236135eb7ff95e",
+      "sourceId": "guardian-world",
+      "category": "ai",
+      "title": "OpenAI’s Medicare attack has exposed Australia’s ‘tech debt’. Fixing it could bring a big bill for taxpayers",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/03/openais-medicare-attack-has-exposed-australias-tech-debt-fixing-it-could-bring-a-big-bill-for-taxpayers",
+      "publishedAt": "2026-10-02T15:00:13.000Z",
+      "sentences": [
+        {
+          "en": "OpenAI’s Medicare attack has exposed Australia’s ‘tech debt’.",
+          "zh": "OpenAI的Medicare攻击暴露了澳大利亚的“科技债务”。"
+        },
+        {
+          "en": "Fixing it could bring a big bill for taxpayers.",
+          "zh": "修复它可能会给纳税人带来一大笔费用。"
+        },
+        {
+          "en": "Home affairs department orders all federal government agencies to conduct review of ‘legacy technology’ amid fallout from AI agent hacks Get our breaking news email , free app or daily news podcast The Australian government faces significant “tech debt” that could bring a big bill for taxpayers after the OpenAI Medicare breach , as government agencies will need to fortify their defences against future attacks by AI agents.",
+          "zh": "内政部命令所有联邦政府机构在人工智能代理黑客攻击的影响下对“传统技术”进行审查获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客澳大利亚政府面临重大的“技术债务” ，这可能会在OpenAI Medicare违规后给纳税人带来巨额费用，因为政府机构将需要加强对人工智能代理未来攻击的防御。"
+        },
+        {
+          "en": "This week, the home affairs department ordered all federal government agencies to conduct a “legacy technology stocktake” that requires a plan for each agency to “reduce legacy technology systems” to a level within the agency’s risk tolerance and appetite, the direction stated .",
+          "zh": "本周，内政部命令所有联邦政府机构进行“遗留技术评估” ，要求每个机构的计划“将遗留技术系统”降低到该机构的风险承受能力和偏好范围内。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "6a7bb4e3e69d69f5",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "The latest AI news we announced in September 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+      "publishedAt": "2026-10-02T15:00:00.000Z",
+      "sentences": [
+        {
+          "en": "The latest AI news we announced in September 2026.",
+          "zh": "我们在2026年9月宣布的最新人工智能新闻。"
+        },
+        {
+          "en": "Here are Google’s latest AI updates from September 2026",
+          "zh": "以下是2026年9月谷歌最新的人工智能更新"
+        }
+      ]
+    },
+    {
+      "id": "afd517ff06180871",
+      "sourceId": "github-blog",
+      "category": "ai",
+      "title": "AI is changing developer work. Here are three skills to strengthen.",
+      "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/",
+      "publishedAt": "2026-10-02T15:00:00.000Z",
+      "sentences": [
+        {
+          "en": "AI is changing developer work.",
+          "zh": "人工智能正在改变开发人员的工作。"
+        },
+        {
+          "en": "Here are three skills to strengthen.",
+          "zh": "以下是需要强化的三项技能。"
+        },
+        {
+          "en": "AI is changing how developers work and apply their skills.",
+          "zh": "人工智能正在改变开发人员的工作方式并应用他们的技能。"
+        },
+        {
+          "en": "Writing code is still essential, but developers increasingly need to know how to direct AI, evaluate its output, communicate tradeoffs, and make sound technical decisions.",
+          "zh": "编写代码仍然是必不可少的，但开发人员越来越需要知道如何指导人工智能，评估其输出，传达权衡，并做出合理的技术决策。"
+        },
+        {
+          "en": "The good news?",
+          "zh": "但是,这真的是个好消息吗?"
+        },
+        {
+          "en": "You can start preparing today.",
+          "zh": "您今天就可以开始准备了。"
+        },
+        {
+          "en": "Here s where to focus: Tip #1: Learn to direct AI, not just use it.",
+          "zh": "这里是重点：提示# 1 ：学会指导人工智能，而不仅仅是使用它。"
+        },
+        {
+          "en": "AI is changing what execution looks like.",
+          "zh": "人工智能正在改变执行的样子。"
+        },
+        {
+          "en": "Increasingly, great execution means defining the problem clearly, providing the right context, evaluating AI-generated code, and deciding what s ready to ship.",
+          "zh": "越来越多地，出色的执行意味着清晰地定义问题，提供正确的上下文，评估AI生成的代码，并决定什么可以随时出货。"
+        },
+        {
+          "en": "As AI agents take on more of the implementation, these skills become even more valuable.",
+          "zh": "随着人工智能代理承担更多的实施工作，这些技能变得更加有价值。"
+        },
+        {
+          "en": "For example, imagine you re asked to add a new authentication flow.",
+          "zh": "例如，假设您被要求添加新的身份验证流程。"
+        },
+        {
+          "en": "A traditional workflow might look like this: Task: Add authentication Create branch Write code Run tests Open pull request As AI tools become more capable and more deeply integrated into day-to-day workflows, those same skills can help you coordinate multiple AI agents.",
+          "zh": "传统工作流程可能如下所示：任务：添加身份验证创建分支编写代码运行测试打开拉取请求随着AI工具变得更强大，更深入地集成到日常工作流程中，这些相同的技能可以帮助您协调多个AI代理。"
+        }
+      ]
+    },
+    {
+      "id": "6d7b29336bcddfe7",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Cloaked in anonymity, Israeli soldiers describe mass civilian killings in 'NAZA'",
+      "url": "https://www.npr.org/2026/10/02/nx-s1-5987714/naza-review-israel-palestine",
+      "publishedAt": "2026-10-02T14:37:27.000Z",
+      "sentences": [
+        {
+          "en": "Cloaked in anonymity, Israeli soldiers describe mass civilian killings in 'NAZA'.",
+          "zh": "以色列士兵匿名描述了“NAZA”的大规模平民屠杀。"
+        },
+        {
+          "en": "NAZA is filmed on the rooftops of Tel Aviv, where Israeli journalist Yuval Abraham conducted one-on-one interviews with Israeli soldiers and intelligence personnel.'",
+          "zh": "NAZA在特拉维夫的屋顶上拍摄，以色列记者尤瓦尔·亚伯拉罕（ Yuval Abraham ）在那里对以色列士兵和情报人员进行了一对一的采访。”"
+        },
+        {
+          "en": "/> NAZA is an acronym for nezek agavi , Hebrew for \"collateral damage.\"",
+          "zh": "/> NAZA是nezek agavi的首字母缩写，希伯来语为“附带损害”。"
+        },
+        {
+          "en": "It refers to the number of civilian casualties the Israeli military deems acceptable.",
+          "zh": "它指的是以色列军方认为可以接受的平民伤亡人数。"
+        },
+        {
+          "en": "The documentary is made by Israeli filmmakers.",
+          "zh": "这部纪录片由以色列电影制片人制作。"
+        }
+      ]
+    },
+    {
+      "id": "10dc7237a1939fb4",
+      "sourceId": "npr-news",
+      "category": "business",
+      "title": "The U.S. added only 29,000 jobs in September as job market lacks spark",
+      "url": "https://www.npr.org/2026/10/02/nx-s1-5989140/jobs-labor-wages-federal-reserve",
+      "publishedAt": "2026-10-02T13:54:18.000Z",
+      "sentences": [
+        {
+          "en": "The U.S. added only 29,000 jobs in September as job market lacks spark.",
+          "zh": "由于就业市场缺乏火花，美国9月份仅增加了29,000个工作岗位。"
+        },
+        {
+          "en": "U.S. employers added 29,000 jobs in September as the unemployment rate inched up to 4.2%.",
+          "zh": "美国雇主在9月份增加了29,000个工作岗位，失业率缓慢上升至4.2%。"
+        },
+        {
+          "en": "Job gains for July and August were revised down by a total of 60,000 jobs, extending a lackluster run for the job market.",
+          "zh": "7月和8月的就业增长被下调了6万个就业岗位，延续了就业市场的低迷局面。"
+        },
+        {
+          "en": "(Image credit: Justin Sullivan)",
+          "zh": "（图片来源： Justin Sullivan ）"
+        }
+      ]
+    },
+    {
+      "id": "172a27cefb08cdf8",
+      "sourceId": "cloudflare-blog",
+      "category": "ai",
+      "title": "Introducing Web Search API via AI Gateway",
+      "url": "https://blog.cloudflare.com/introducing-web-search-api/",
+      "publishedAt": "2026-10-02T13:28:10.000Z",
+      "sentences": [
+        {
+          "en": "Introducing Web Search API via AI Gateway.",
+          "zh": null
+        },
+        {
+          "en": "Fun fact: when you use an agent and it needs to fetch a live web page, the agent usually just guesses the URL of the page and then makes a tool call to curl it.",
+          "zh": "有趣的事实：当您使用代理时，它需要获取实时网页，代理通常只是猜测页面的URL ，然后调用工具来卷曲它。"
+        },
+        {
+          "en": "This is why you’ll sometimes see web fetches come back with a 404 Not Found, which happens if the agent incorrectly guesses the URL of that information.",
+          "zh": "这就是为什么您有时会看到网页提取返回404 Not Found的原因，如果客服代表错误地猜测了该信息的URL ，就会出现这种情况。"
+        },
+        {
+          "en": "As you can imagine, it’s not super efficient to randomly guess URLs all the time.",
+          "zh": null
+        },
+        {
+          "en": "There is a better way.",
+          "zh": null
+        },
+        {
+          "en": "What if your agent can actually browse the Internet, just like how humans start with a search engine query when we’re looking for information?",
+          "zh": null
+        },
+        {
+          "en": "This is what web search is designed to do — it enables agents to search for relevant data on the Internet and grounds an agent’s responses based on live information.",
+          "zh": null
+        },
+        {
+          "en": "Today, we’re announcing Cloudflare’s partnership with web search providers to bring you grounded intelligence via AI Gateway.",
+          "zh": null
+        },
+        {
+          "en": "We’re kicking off this launch with our partners from Ceramic.ai, Exa, and Linkup.",
+          "zh": null
+        },
+        {
+          "en": "What can I do with the Web Search API?",
+          "zh": null
+        },
+        {
+          "en": "AI models are only as good as the context you feed them.",
+          "zh": null
+        },
+        {
+          "en": "Models are typically trained and then frozen at a point in time, operating only on information that existed before their knowledge cut off date.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "1b21df4ba41868dc",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Bruce Baird, former federal Liberal MP and NSW minister, dies aged 84",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/02/bruce-baird-former-federal-liberal-mp-and-nsw-minister-dies-aged-84",
+      "publishedAt": "2026-10-02T13:03:49.000Z",
+      "sentences": [
+        {
+          "en": "Bruce Baird, former federal Liberal MP and NSW minister, dies aged 84.",
+          "zh": "前联邦自由党议员和新南威尔士州部长布鲁斯·贝尔德（ Bruce Baird ）去世，享年84岁"
+        },
+        {
+          "en": "Baird, father of former NSW premier Mike Baird and journalist Julia Baird, helped win the Olympics for Sydney Get our breaking news email , free app or daily news podcast Bruce Baird, a former federal Liberal MP and deputy leader of the party’s New South Wales branch, has died aged 84.",
+          "zh": "前新南威尔士州州长迈克·贝尔德（ Mike Baird ）和记者朱莉娅·贝尔德（ Julia Baird ）的父亲贝尔德（ Baird ）帮助悉尼赢得了奥运会。我们的突发新闻电子邮件、免费应用程序或每日新闻播客布鲁斯·贝尔德（ Bruce Baird ）已去世，享年84岁。"
+        },
+        {
+          "en": "Baird, who also served as the NSW transport minister from 1988 to 1995, is the father of former state premier Mike Baird, the ABC journalist Julia Baird, and the marketing executive Steve Baird.",
+          "zh": "贝尔德于1988年至1995年担任新南威尔士州交通部长，是前州长迈克·贝尔德（ Mike Baird ）、美国广播公司记者朱莉娅·贝尔德（ Julia Baird ）和营销主管史蒂夫·贝尔德（ Steve Baird ）的父亲。"
+        },
+        {
+          "en": "Sign up for Guardian Australia’s Politics, really newsletter here Continue reading..",
+          "zh": "订阅澳大利亚《卫报》的政治，真正的新闻通讯在这里继续阅读。"
+        }
+      ]
+    },
+    {
+      "id": "c1771d11cf4029d4",
+      "sourceId": "cloudflare-blog",
+      "category": "cloud",
+      "title": "Building for good: How civil society organizations are automating on Cloudflare",
+      "url": "https://blog.cloudflare.com/civil-society-automation/",
+      "publishedAt": "2026-10-02T13:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Building for good: How civil society organizations are automating on Cloudflare.",
+          "zh": null
+        },
+        {
+          "en": "Tracking how governments target dissidents living in exile.",
+          "zh": null
+        },
+        {
+          "en": "Helping people in crisis find mental health support.",
+          "zh": null
+        },
+        {
+          "en": "Advocating for legislation that protects free expression online.",
+          "zh": null
+        },
+        {
+          "en": "These are a few examples of how some of the world&#x27;s leading organizations are building the future of non-profit work with Cloudflare.",
+          "zh": null
+        },
+        {
+          "en": "AI is changing how people do their work.",
+          "zh": null
+        },
+        {
+          "en": "The goal of Cloudflare Impact is to help ensure that non-profit organizations are among the first to benefit.",
+          "zh": null
+        },
+        {
+          "en": "Today, we’re sharing what dozens of civil society organizations have built using our developer services with more than $7.5 million of Cloudflare credits.",
+          "zh": null
+        },
+        {
+          "en": "These stories show what is possible when AI applications are accessible, secure, and affordable to build and run.",
+          "zh": null
+        },
+        {
+          "en": "From \"keep us secure\" to \"help us build\" We believe a better Internet is one that allows people to express themselves online and access a diverse range of viewpoints.",
+          "zh": null
+        },
+        {
+          "en": "A key part of Cloudflare&#x27;s mission has been making security services available for everyone and helping ensure that individuals and organizations working for the public interest are not forced offline by those more powerful.",
+          "zh": null
+        },
+        {
+          "en": "Today, Project Galileo , which provides free cybersecurity services to civil society organizations, protects more than 3,400 domains across more than 120 countries.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "5685295cd7d17a2f",
+      "sourceId": "cloudflare-blog",
+      "category": "security",
+      "title": "Protected Quick Tunnels: simple accountless authentication for your next dev project",
+      "url": "https://blog.cloudflare.com/protected-quick-tunnels/",
+      "publishedAt": "2026-10-02T13:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Protected Quick Tunnels: simple accountless authentication for your next dev project.",
+          "zh": null
+        },
+        {
+          "en": "We launched Quick Tunnels in 2021 to give developers an easy way to share their latest service, application, or project running in their local development environment.",
+          "zh": null
+        },
+        {
+          "en": "A lot has changed since then, but the core use case remains the same.",
+          "zh": null
+        },
+        {
+          "en": "Your coding agent has just finished the feature.",
+          "zh": null
+        },
+        {
+          "en": "The dev server is up on localhost:5173 , and before you ask, the agent offers to let you try it on your phone.",
+          "zh": null
+        },
+        {
+          "en": "It runs one command and hands you a link: That command starts a Quick Tunnel .",
+          "zh": null
+        },
+        {
+          "en": "cloudflared , Cloudflare&#x27;s lightweight connector, publishes your local service at a random trycloudflare.com URL.",
+          "zh": null
+        },
+        {
+          "en": "No account, no domain, no cost.",
+          "zh": null
+        },
+        {
+          "en": "Agents now use Quick Tunnels for the same reason people do: they are the shortest path from a local port to a URL.",
+          "zh": null
+        },
+        {
+          "en": "The catch has always been the same.",
+          "zh": null
+        },
+        {
+          "en": "Anyone with the link can open it.",
+          "zh": null
+        },
+        {
+          "en": "Starting with cloudflared 2026.9.3, you can add --allowed-mail to the command, and your Quick Tunnel only lets in the email addresses and domains you choose.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "c59c9381120f201a",
+      "sourceId": "cloudflare-blog",
+      "category": "security",
+      "title": "Follow the thread: a new dashboard to investigate account abuse",
+      "url": "https://blog.cloudflare.com/account-abuse-protection-dashboard/",
+      "publishedAt": "2026-10-02T13:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Follow the thread: a new dashboard to investigate account abuse.",
+          "zh": null
+        },
+        {
+          "en": "Traditionally, preventing online fraud relied on point-in-time proof of identity: enter the correct password, complete a biometric verification, or pass a liveness check, and gain access.",
+          "zh": null
+        },
+        {
+          "en": "To defeat these controls, fraudsters had to steal credentials and other identity evidence from a real user, which was difficult to execute and scale.",
+          "zh": null
+        },
+        {
+          "en": "Today, widespread access to AI enables fraudsters to fabricate or imitate legitimate identities by combining exposed credentials with synthetic media designed to evade identity verification.",
+          "zh": null
+        },
+        {
+          "en": "Consequently, identity checks are no longer sufficient as they capture a moment in time.",
+          "zh": null
+        },
+        {
+          "en": "Even when someone passes a check, it does not mean the account itself can be trusted.",
+          "zh": null
+        },
+        {
+          "en": "One convincing interaction can be faked.",
+          "zh": null
+        },
+        {
+          "en": "A consistent pattern of legitimate behavior is much harder to manufacture.",
+          "zh": null
+        },
+        {
+          "en": "Modern fraud prevention must move beyond stateless decisions toward a stateful trust model.",
+          "zh": null
+        },
+        {
+          "en": "Traditional identity verification asks, “Can this person pass the check right now?” A stateful approach additionally asks, “Does it fit what we know about this account and its established behavior?” At Cloudflare, trust is continually earned and reassessed at each interaction against historical behavioral, network, and device patterns.",
+          "zh": null
+        },
+        {
+          "en": "Cloudflare’s Account Abuse Protection (AAP) creates stateful account overviews to help website owners detect and investigate abuse across login and signup activity.",
+          "zh": null
+        },
+        {
+          "en": "Customers configure an identifier from their existing login or signup flow, such as an email address, username, or phone number.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "dca4102c0cfdbd9d",
+      "sourceId": "cloudflare-blog",
+      "category": "cloud",
+      "title": "Announcing Cloudflare OHTTP Gateway – expanding access to Cloudflare’s privacy-preserving infrastructure",
+      "url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
+      "publishedAt": "2026-10-02T13:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Announcing Cloudflare OHTTP Gateway – expanding access to Cloudflare’s privacy-preserving infrastructure.",
+          "zh": null
+        },
+        {
+          "en": "Today, end users carry too much of the burden of online privacy.",
+          "zh": null
+        },
+        {
+          "en": "To avoid third-party trackers or targeted ads, users are instructed to use a VPN, disable cookies, or install adblockers.",
+          "zh": null
+        },
+        {
+          "en": "Meanwhile, some app developers end up knowing more about their users than they’d care to: a typical client-server exchange creates a trail of user data, like the client’s IP address or TLS fingerprint.",
+          "zh": null
+        },
+        {
+          "en": "This level of visibility can be a burden.",
+          "zh": null
+        },
+        {
+          "en": "That’s why Cloudflare builds infrastructure that helps developers bake privacy into their apps.",
+          "zh": null
+        },
+        {
+          "en": "Oblivious HTTP (OHTTP) is an IETF standard designed to enable app backends to receive HTTP requests without seeing user IP addresses.",
+          "zh": null
+        },
+        {
+          "en": "This fall, we’re launching the Cloudflare OHTTP Gateway.",
+          "zh": null
+        },
+        {
+          "en": "Customers will be able to enable our new OHTTP Gateway as a paid add-on to their zone and start receiving OHTTP traffic with just a few clicks.",
+          "zh": null
+        },
+        {
+          "en": "Register through our form to join our waitlist.",
+          "zh": null
+        },
+        {
+          "en": "Read on to learn more.",
+          "zh": null
+        },
+        {
+          "en": "Expanding our OHTTP product suite With OHTTP, requests travel through two independently-operated hops: a relay and a gateway.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "6055c182a46aa561",
+      "sourceId": "cloudflare-blog",
+      "category": "cloud",
+      "title": "Updates on our pledge to make Cloudflare features accessible to everyone",
+      "url": "https://blog.cloudflare.com/enterprise-for-all-update/",
+      "publishedAt": "2026-10-02T13:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Updates on our pledge to make Cloudflare features accessible to everyone.",
+          "zh": null
+        },
+        {
+          "en": "A year ago, Cloudflare CTO Dane Knecht announced our intention to make every Cloudflare feature available to everyone .",
+          "zh": null
+        },
+        {
+          "en": "Cloudflare launched an Enterprise tier years ago when larger customers came to us looking for procurement options beyond a credit card, like invoices, custom contracts, and dedicated support.",
+          "zh": null
+        },
+        {
+          "en": "Those offerings met a customer need but over time, a two-tier system developed where some of our most advanced and powerful features were only available to Enterprise customers.",
+          "zh": null
+        },
+        {
+          "en": "Our goal was to close that gap.",
+          "zh": null
+        },
+        {
+          "en": "Today, teams of every size use Cloudflare, from Fortune 100 enterprises to small businesses, open-source projects, and individuals.",
+          "zh": null
+        },
+        {
+          "en": "Across the platform, we’re committed to ensuring that every user or team can make use of all of Cloudflare’s capabilities in a way that helps their organization thrive.",
+          "zh": null
+        },
+        {
+          "en": "The underlying philosophy is that Cloudflare should offer products suitable for our most demanding customers — and make those capabilities available to everyone.",
+          "zh": null
+        },
+        {
+          "en": "Large or small, every customer would prefer not to have to call support.",
+          "zh": null
+        },
+        {
+          "en": "Building products that are easy to buy, configure, and consume means more of our products in use and a step closer to a better Internet for everybody.",
+          "zh": null
+        },
+        {
+          "en": "Every generally available (GA) feature we launched this week that is available on an Enterprise plan is also available to Pay-as-you-go customers, and most are available on the free tier.",
+          "zh": null
+        },
+        {
+          "en": "Where our plans differ, it&#x27;s in how much you can use, not what you can use.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "67a3a49e3f584ae7",
+      "sourceId": "cloudflare-blog",
+      "category": "cloud",
+      "title": "Introducing Cloudflare Traces: follow requests through our entire platform",
+      "url": "https://blog.cloudflare.com/cloudflare-tracing/",
+      "publishedAt": "2026-10-02T13:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Introducing Cloudflare Traces: follow requests through our entire platform.",
+          "zh": null
+        },
+        {
+          "en": "Today, we’re introducing Cloudflare Traces in open beta, extending automatic tracing beyond Workers to the rest of the request path.",
+          "zh": null
+        },
+        {
+          "en": "In one trace, you can see supported security rules, transformations, cache decisions, routing, Worker execution, and origin handling, then continue that trace through services running on Cloudflare, at your origin, or elsewhere in your stack.",
+          "zh": null
+        },
+        {
+          "en": "This is a long-term investment in OpenTelemetry and in making Cloudflare the most observable part of your stack.",
+          "zh": null
+        },
+        {
+          "en": "You can now: Automatically trace requests across Cloudflare : Capture supported platform operations in one request-level timeline, no additional set up required.",
+          "zh": null
+        },
+        {
+          "en": "Control which requests are traced : Set a baseline sampling rate, then use Trace Rules to override it for matching traffic.",
+          "zh": null
+        },
+        {
+          "en": "End-to-end trace context propagation: Accept and forward W3C traceparent headers Investigate traces in Cloudflare : View request timelines and span details directly in the Cloudflare dashboard.",
+          "zh": null
+        },
+        {
+          "en": "Export traces with OpenTelemetry : Send your spans to any destination with a compatible Open Telemetry Protocol (OTLP) endpoint .",
+          "zh": null
+        },
+        {
+          "en": "You can enable tracing in the Cloudflare dashboard on any domain or let your agent set up for you: Copy prompt Using the Cloudflare cf CLI, configure Tracing for my zone with a 10% sampling rate and persist traces in Cloudflare.",
+          "zh": null
+        },
+        {
+          "en": "If I have multiple zones, ask me which one to use.",
+          "zh": null
+        },
+        {
+          "en": "Giving you the visibility we use to debug Cloudflare When our own teams investigate, we use our own internal traces, which often include thousands of spans for a single trace, generated by dozens of services and features.",
+          "zh": null
+        },
+        {
+          "en": "This lets us dig deep into every detail of a given request.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "cd838e82df4db660",
+      "sourceId": "cloudflare-blog",
+      "category": "cloud",
+      "title": "8 major updates to Cloudflare Observability",
+      "url": "https://blog.cloudflare.com/one-observability-platform/",
+      "publishedAt": "2026-10-02T13:00:00.000Z",
+      "sentences": [
+        {
+          "en": "8 major updates to Cloudflare Observability.",
+          "zh": null
+        },
+        {
+          "en": "Today, we’re launching eight major updates that bring your logs, traces, analytics, alerts, dashboards, and exporting into one observability platform , with simpler and more predictable pricing.",
+          "zh": null
+        },
+        {
+          "en": "Here&#x27;s what&#x27;s launching: One place to explore logs from across Cloudflare End-to-end tracing from Cloudflare&#x27;s edge to your origin One unified SQL API for querying Cloudflare data One pricing model for observability data ingested and stored across Cloudflare Custom alerts on your observability data All analytics for your domain in one place, with 30 days of data retention Custom dashboards built from your observability data Export your data with Logpush -- now available on self-serve plans One observability platform for all of Cloudflare Understanding an issue often requires data from more than one Cloudflare product.",
+          "zh": null
+        },
+        {
+          "en": "A spike in 5xx responses could come from a Worker, from your origin, or from Cloudflare failing to connect to your origin globally or regionally.",
+          "zh": null
+        },
+        {
+          "en": "But investigating it today requires knowing which product owns each signal and how to query it.",
+          "zh": null
+        },
+        {
+          "en": "Observability should be a platform-wide capability: it should reflect how applications actually behave and give you the complete context needed to resolve an issue.",
+          "zh": null
+        },
+        {
+          "en": "Over the coming months, you’ll see more Cloudflare products, datasets, and workflows become part of this shared observability platform, with more consistent pricing, product experiences, and features.",
+          "zh": null
+        },
+        {
+          "en": "These eight updates are the first step into a more unified Observability problem.",
+          "zh": null
+        },
+        {
+          "en": "1.",
+          "zh": null
+        },
+        {
+          "en": "Investigate all your logs in one place The new Logs home combines Workers Observability (for debugging Workers applications and its connected resources) with Log Explorer (for searching across security logs).",
+          "zh": null
+        },
+        {
+          "en": "You can now choose from log datasets like HTTP events, firewall events, Workers, Containers, R2, and AI Gateway, and use the same investigative tools and capabilities for each.",
+          "zh": null
+        },
+        {
+          "en": "Start with an increase in request latency, group it by hostname or data center, narrow the results to affected paths, and inspect individual requests by Ray ID.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "ddf0242462862c9f",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "‘I have not lost my dreams’: Refugee education funding cuts threaten millions",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168506",
+      "publishedAt": "2026-10-02T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "‘I have not lost my dreams’: Refugee education funding cuts threaten millions.",
+          "zh": "“我没有失去梦想” ：难民教育经费削减威胁着数百万人。"
+        },
+        {
+          "en": "A teenage girl who fled war-torn Sudan for neighbouring Egypt and hopes to pursue a technology degree is an example of why countries must ensure that young refugees can continue to learn.",
+          "zh": "一名十几岁的女孩从饱受战争蹂躏的苏丹逃往邻国埃及，并希望攻读技术学位，这是各国必须确保年轻难民能够继续学习的一个例子。"
+        }
+      ]
+    },
+    {
+      "id": "a1134f9304469847",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Gaza: WHO appeals for massive aid influx ahead of winter",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168508",
+      "publishedAt": "2026-10-02T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Gaza: WHO appeals for massive aid influx ahead of winter.",
+          "zh": "加沙：世卫组织呼吁冬季前大量援助物资涌入。"
+        },
+        {
+          "en": "Repeated delays in bringing lifesaving medicines, prosthetics and more from Israel into Gaza risk having devastating consequences on Palestinians who urgently need them in the war-torn enclave, the UN World Health Organization (WHO) said on Friday.",
+          "zh": "联合国世界卫生组织（世卫组织）周五表示，将救生药品、假肢等从以色列运入加沙的过程中一再出现延误，有可能给饱受战争蹂躏的飞地中迫切需要这些药品的巴勒斯坦人带来毁灭性后果。"
+        }
+      ]
+    },
+    {
+      "id": "220ed128ca56a9fc",
+      "sourceId": "un-news",
+      "category": "security",
+      "title": "Escalating fighting in Yemen deepens food security crisis",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168509",
+      "publishedAt": "2026-10-02T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Escalating fighting in Yemen deepens food security crisis.",
+          "zh": "也门战事升级加剧了粮食安全危机。"
+        },
+        {
+          "en": "Renewed conflict in Yemen has triggered a surge in hunger that could have consequences in the wider region and beyond, the World Food Programme (WFP) warned on Friday.",
+          "zh": "世界粮食计划署（ WFP ）周五警告称，也门再次爆发冲突引发了饥饿人数激增，这可能会对更广泛的地区及其他地区产生影响。"
+        }
+      ]
+    },
+    {
+      "id": "19bb3f84bfd4f288",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "World News in Brief: Cycle of violence continues in Haiti, seafarer deaths off Somalia, food insecurity in the Middle East",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168511",
+      "publishedAt": "2026-10-02T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "World News in Brief: Cycle of violence continues in Haiti, seafarer deaths off Somalia, food insecurity in the Middle East.",
+          "zh": "《世界新闻简报》：海地的暴力循环仍在继续，索马里海上海员死亡，中东地区粮食不安全。"
+        },
+        {
+          "en": "Haitians remain in the grip of lethal gang violence as it continues to “adapt and expand”, the UN’s top rights official, Volker Türk, said on Friday.",
+          "zh": "联合国最高人权官员沃尔克·蒂尔克（ Volker Türk ）周五表示，海地人仍在继续“适应和扩大”致命的帮派暴力。"
+        }
+      ]
+    },
+    {
+      "id": "5b8a99f13a75b654",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Collective action needed to tackle global information crisis, UN-led dialogue hears",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168512",
+      "publishedAt": "2026-10-02T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Collective action needed to tackle global information crisis, UN-led dialogue hears.",
+          "zh": "联合国领导的对话听取了应对全球信息危机所需的集体行动。"
+        },
+        {
+          "en": "Governments, UN entities, civil society, media, academia and the private sector have called for stronger cooperation and practical action to respond to a rapidly changing global information landscape.",
+          "zh": "各国政府、联合国实体、民间社会、媒体、学术界和私营部门呼吁加强合作和实际行动，以应对迅速变化的全球信息格局。"
+        }
+      ]
+    },
+    {
+      "id": "46fdcc20fe4dac1a",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Ukraine war ‘a human rights catastrophe’ that must end, says Türk",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168513",
+      "publishedAt": "2026-10-02T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Ukraine war ‘a human rights catastrophe’ that must end, says Türk.",
+          "zh": "图尔克说，乌克兰战争是“一场必须结束的人权灾难”。"
+        },
+        {
+          "en": "The war in Ukraine is a human rights catastrophe that is “growing and intensifying by the week” and threatening an even greater disaster across the region, UN High Commissioner for Human Rights Volker Türk said on Friday.",
+          "zh": "联合国人权事务高级专员沃尔克·蒂尔克（ Volker Türk ）周五表示，乌克兰战争是一场人权灾难， “每周都在增长和加剧” ，并威胁到整个地区更大的灾难。"
+        }
+      ]
+    },
+    {
+      "id": "06031125fd2bd13a",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Global life expectancy bounces back to near pre-pandemic levels, WHO says",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168515",
+      "publishedAt": "2026-10-02T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Global life expectancy bounces back to near pre-pandemic levels, WHO says.",
+          "zh": "世卫组织表示，全球预期寿命已恢复到疫情前的水平。"
+        },
+        {
+          "en": "People around the world are living longer again, with global life expectancy almost fully recovered from the disruption of the COVID-19 pandemic, the World Health Organization (WHO) said on Friday.",
+          "zh": "世界卫生组织（世卫组织）周五表示，世界各地的人们再次延长了寿命，全球预期寿命几乎从新冠肺炎疫情的破坏中完全恢复。"
+        }
+      ]
+    },
+    {
+      "id": "152c7c4d3e7f1f1a",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "‘Money alone won’t get us there’: UN steps up aid for 12 forgotten crises",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168516",
+      "publishedAt": "2026-10-02T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "‘Money alone won’t get us there’: UN steps up aid for 12 forgotten crises.",
+          "zh": "“单靠金钱无法实现目标” ：联合国为12场被遗忘的危机加大了援助力度。"
+        },
+        {
+          "en": "Getting aid to people in the world’s most neglected emergencies takes more than money.",
+          "zh": "在世界上最受忽视的紧急情况下，向人们提供援助需要的不仅仅是金钱。"
+        },
+        {
+          "en": "It takes open roads, open borders and leaders willing to help it reach those in dire need.",
+          "zh": "它需要开放的道路，开放的边界和愿意帮助它接触急需帮助的人的领导人。"
+        }
+      ]
+    },
+    {
+      "id": "cbec9a4dcce2a020",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Cornell rape case gets special prosecutor. And, Renee Good's family sues the government",
+      "url": "https://www.npr.org/2026/10/02/g-s1-146075/up-first-newsletter-cornell-assault-case-christa-pike-jobs-report-renee-good",
+      "publishedAt": "2026-10-02T11:22:38.000Z",
+      "sentences": [
+        {
+          "en": "Cornell rape case gets special prosecutor.",
+          "zh": "康奈尔强奸案得到特别检察官。"
+        },
+        {
+          "en": "And, Renee Good's family sues the government.",
+          "zh": "Renee Good的家人起诉政府。"
+        },
+        {
+          "en": "New legal action in two closely watched cases: one at Cornell, the other over Renee Good's death.",
+          "zh": "在两个备受关注的案件中采取了新的法律行动：一个在康奈尔，另一个在Renee Good的死亡。"
+        },
+        {
+          "en": "We take a closer look.",
+          "zh": "了解详情。"
+        },
+        {
+          "en": "(Image credit: Michael M.",
+          "zh": "（图片来源： Michael M."
+        },
+        {
+          "en": "Santiago)",
+          "zh": "Santiago"
+        }
+      ]
+    },
+    {
+      "id": "88f4fbf04ecd5f8e",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Why is diesel more expensive than regular gas?",
+      "url": "https://www.npr.org/sections/planet-money/2026/10/02/nx-s1-5988075/why-is-diesel-more-expensive-than-regular-gas",
+      "publishedAt": "2026-10-02T11:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Why is diesel more expensive than regular gas?.",
+          "zh": "为什么柴油比普通汽油贵？。"
+        },
+        {
+          "en": "Diesel hasn't always been more expensive than other gasoline.",
+          "zh": "柴油并不总是比其他汽油贵。"
+        },
+        {
+          "en": "Then in 2004, a switch happened due to air quality standards, demand, and taxes.",
+          "zh": "然后在2004年，由于空气质量标准、需求和税收的原因，发生了转变。"
+        },
+        {
+          "en": "In this week's Indicator newsletter, we dig into diesel prices, what kind of fun people are buying, and other forms of making your tax bill smaller.",
+          "zh": "在本周的Indicator通讯中，我们将深入探讨柴油价格、人们购买的乐趣以及其他缩减税单的形式。"
+        },
+        {
+          "en": "(Image credit: David Zalubowski/AP Photo/David Zalubowski)",
+          "zh": "（图片来源： David Zalubowski/美联社照片/David Zalubowski ）"
+        }
+      ]
+    },
+    {
+      "id": "cd7f0ba16e4b73f9",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "San Francisco's car crime has plunged. How much credit does Flock deserve?",
+      "url": "https://www.npr.org/sections/planet-money/2026/10/02/g-s1-146060/san-franciscos-car-crime-has-plunged-how-much-credit-does-flock-deserve",
+      "publishedAt": "2026-10-02T10:30:00.000Z",
+      "sentences": [
+        {
+          "en": "San Francisco's car crime has plunged.",
+          "zh": "旧金山的汽车犯罪率大幅下降。"
+        },
+        {
+          "en": "How much credit does Flock deserve?.",
+          "zh": "Flock应该得到多少积分？。"
+        },
+        {
+          "en": "San Francisco leaders say AI-powered cameras helped drive a dramatic decline in car crime.",
+          "zh": "旧金山领导人表示，人工智能摄像头帮助推动了汽车犯罪的急剧下降。"
+        },
+        {
+          "en": "We examine the evidence — and whether the city can keep its high-tech dragnet without sacrificing civil liberties.",
+          "zh": "我们研究了这些证据，以及这座城市是否能够在不牺牲公民自由的情况下保持其高科技拖网。"
+        },
+        {
+          "en": "(Image credit: Justin Sullivan/Getty Images)",
+          "zh": "（图片来源： Justin Sullivan/Getty Images ）"
+        }
+      ]
+    },
+    {
+      "id": "b99d4410be8b0e5d",
+      "sourceId": "guardian-world",
+      "category": "ai",
+      "title": "OpenAI disclose another hack on government department in Australia",
+      "url": "https://www.theguardian.com/technology/2026/oct/02/openai-disclose-another-hack-on-government-department-in-australia",
+      "publishedAt": "2026-10-02T10:00:05.000Z",
+      "sentences": [
+        {
+          "en": "OpenAI disclose another hack on government department in Australia.",
+          "zh": "OpenAI披露了另一起针对澳大利亚政府部门的黑客攻击。"
+        },
+        {
+          "en": "Attack accessing historical data on bushfires occurred in June but not disclosed by the tech company until Thursday Get our breaking news email , free app or daily news podcast Artificial intelligence company OpenAI has disclosed another unauthorised hack on a government department in Australia.",
+          "zh": "访问森林大火历史数据的攻击发生在6月，但直到周四才被科技公司披露。获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客人工智能公司OpenAI披露了另一起未经授权的澳大利亚政府部门黑客攻击事件。"
+        },
+        {
+          "en": "In June, an OpenAI agent hacked into a New South Wales state government department and accessed historical non-public data on bushfires without authorisation.",
+          "zh": "今年6月，一名OpenAI特工入侵了新南威尔士州政府部门，未经授权访问了森林大火的历史非公开数据。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "4245419d50da1fc0",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+      "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-02T09:08:06.000Z",
+      "sentences": [
+        {
+          "en": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot.",
+          "zh": "“我不会让别人死” --Flydubai航班的飞行员描述了副驾驶对驾驶舱的攻击。"
+        },
+        {
+          "en": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
+          "zh": "上尉斯米特·马查尔（ Smit Machchhar ）告诉印度总理纳伦德拉·莫迪（ Narendra Modi ） ，他在袭击期间打开了驾驶舱门，让其他人"
+        }
+      ]
+    },
+    {
+      "id": "d51f30547b21ec95",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Row erupts over Cairo mural depicting Tutankhamun and Nefertiti with dark skin",
+      "url": "https://www.theguardian.com/global-development/2026/oct/02/row-erupts-over-cairo-mural-depicting-tutankhamun-and-nefertiti-with-dark-skin",
+      "publishedAt": "2026-10-02T08:55:42.000Z",
+      "sentences": [
+        {
+          "en": "Row erupts over Cairo mural depicting Tutankhamun and Nefertiti with dark skin.",
+          "zh": "开罗壁画上方爆发了一排喷发，描绘了图坦卡蒙和纳芙蒂蒂的深色皮肤。"
+        },
+        {
+          "en": "Artwork created in Tahrir Square for Chinese president’s state visit to Egypt is painted over amid allegations it revived Afrocentric claims about pharaohs’ origins On the eve of the Chinese president Xi Jinping’s state visit to Cairo last month, the city authorities were busy removing a 66-metre-long mural from the esteemed guest’s line of sight.",
+          "zh": "在开罗解放广场为中国国家主席对埃及的国事访问创作的艺术品被涂抹，因为有人指控它恢复了以非洲为中心的关于法老起源的说法。在中国国家主席习近平上个月对开罗进行国事访问的前夕，市政当局正忙于从尊贵的客人的视线中删除一幅66米长的壁画。"
+        },
+        {
+          "en": "Depicting the Pharaoh Tutankhamun and Queen Nefertiti, the painting was among 40 murals commissioned to beautify the city for Xi’s arrival and was painted by a group of young volunteers, Rasmet Basma, in Tahrir Square.",
+          "zh": "这幅画描绘了法老图坦卡蒙和娜芙蒂蒂女王，是习近平抵达时委托美化这座城市的40幅壁画之一，由一群年轻的志愿者Rasmet Basma在解放广场绘制。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "ec99cede5e21e6c8",
+      "sourceId": "bbc-world",
+      "category": "ai",
+      "title": "OpenAI fires workers for 'mishandling sensitive information'",
+      "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-02T08:20:32.000Z",
+      "sentences": [
+        {
+          "en": "OpenAI fires workers for 'mishandling sensitive information'.",
+          "zh": "OpenAI因“不当处理敏感信息”而解雇员工。"
+        },
+        {
+          "en": "The former employees were investigated for sharing data with an outside AI evaluation group.",
+          "zh": "前员工因与外部人工智能评估小组共享数据而接受调查。"
+        }
+      ]
+    },
+    {
+      "id": "52225408fb5f85ae",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Japan's first mayor to take maternity leave lands on TIME100 Next list",
+      "url": "https://www.bbc.co.uk/news/articles/cqj3d3d37nxgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-02T05:53:51.000Z",
+      "sentences": [
+        {
+          "en": "Japan's first mayor to take maternity leave lands on TIME100 Next list.",
+          "zh": "日本第一位休产假的市长入选TIME100 Next名单。"
+        },
+        {
+          "en": "Shoko Kawata's maternity leave drew mixed reactions in Japan, a country struggling to lift birth rates.",
+          "zh": "川田翔子（ Shoko Kawata ）的产假在日本引起了不同的反应，这个国家正在努力提高出生率。"
+        }
+      ]
+    },
+    {
+      "id": "79a1e11c82834102",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Australia says platforms like Steam and Roblox have 'significant' child safety gaps",
+      "url": "https://www.bbc.co.uk/news/articles/cjvgygzzy6lro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-02T04:21:31.000Z",
+      "sentences": [
+        {
+          "en": "Australia says platforms like Steam and Roblox have 'significant' child safety gaps.",
+          "zh": "澳大利亚表示， Steam和Roblox等平台存在“重大”儿童安全漏洞。"
+        },
+        {
+          "en": "Fortnite and Minecraft also told to 'lift their game' by online safety regulator.",
+          "zh": "Fortnite和Minecraft还告诉在线安全监管机构“提升他们的游戏”。"
+        }
+      ]
+    },
+    {
+      "id": "e27916ebac2a614e",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "‘No one disrespects Our Lady’: fears for Brazil’s patron saint grip country ahead of election",
+      "url": "https://www.theguardian.com/world/2026/oct/02/brazil-election-lady-of-aparecida-lula-bolsonaro-row",
+      "publishedAt": "2026-10-02T04:00:10.000Z",
+      "sentences": [
+        {
+          "en": "‘No one disrespects Our Lady’: fears for Brazil’s patron saint grip country ahead of election.",
+          "zh": "“没有人不尊重圣母” ：选举前对巴西守护神国家的担忧。"
+        },
+        {
+          "en": "Speculation that Flávio Bolsonaro will try to strip Our Lady of Aparecida of position could become deciding factor in run-up to Sunday A row of Biblical proportions has erupted in the run-up to Brazil’s presidential election, with the country’s patron saint, Our Lady of Aparecida, emerging as an unlikely kingmaker in the deadlocked race.",
+          "zh": "关于弗拉维奥·博尔索纳罗（ Flávio Bolsonaro ）将试图剥夺阿帕雷西达圣母（ Our Lady of Aparecida ）职位的猜测可能成为周日之前的决定性因素。在巴西总统大选之前，一排圣经比例已经爆发，该国的守护神，阿帕雷西达圣母（ Our Lady of Aparecida ） ，在僵局的比赛中成为一个不太可能的造王者。"
+        },
+        {
+          "en": "Ahead of Sunday’s vote, the two frontrunners – the leftwing president, Luiz Inácio Lula da Silva, and his far-right challenger, Flávio Bolsonaro – are level in the polls.",
+          "zh": "在周日的投票之前，两位领先者--左翼总统路易斯·伊纳西奥·卢拉·达席尔瓦(Luiz Inácio Lula da Silva)和他的极右翼挑战者弗拉维奥·博尔索纳罗(Flávio Bolsonaro)在民意调查中持平。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "e90781a58b70bd0c",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-02T03:09:13.000Z",
+      "sentences": [
+        {
+          "en": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row.",
+          "zh": "首尔警告说，如果乌克兰不就战俘争吵道歉，将采取“进一步行动”。"
+        },
+        {
+          "en": "President Lee Jae Myung also accused Kyiv of \"attempting to provoke a war on the Korean Peninsula\".",
+          "zh": "李在寅总统还指责基辅“企图挑起朝鲜半岛战争”。"
+        }
+      ]
+    },
+    {
+      "id": "11da18a36dc0d5c1",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "The Bolsonaros…they’re back! Brazil heads to the polls – podcast",
+      "url": "https://www.theguardian.com/news/audio/2026/oct/02/the-bolsonarostheyre-back-brazil-heads-to-the-polls-podcast",
+      "publishedAt": "2026-10-02T02:00:07.000Z",
+      "sentences": [
+        {
+          "en": "The Bolsonaros…they’re back!",
+          "zh": "博尔索纳罗家族……他们回来了！"
+        },
+        {
+          "en": "Brazil heads to the polls – podcast.",
+          "zh": "巴西前往民意调查–播客。"
+        },
+        {
+          "en": "Latin America correspondent Tom Phillips reports on this Sunday’s historic presidential elections in Brazil, as the son of jailed former president Jair Bolsonaro hopes to take power You would have been forgiven for thinking that when Jair Bolsonaro was convicted in September 2025 of attempting a coup, his political career was finished and his legacy forever tainted.",
+          "zh": "拉丁美洲记者汤姆·菲利普斯（ Tom Phillips ）报道了本周日在巴西举行的历史性总统选举，因为被监禁的前总统贾尔·博尔索纳罗（ Jair Bolsonaro ）的儿子希望掌权。你本可以原谅这样的想法：当贾尔·博尔索纳罗（ Jair Bolsonaro ）于2025年9月因未遂政变而被定罪时，他的政治生涯已经结束，他的遗产永远受到玷"
+        },
+        {
+          "en": "But in the first round of Brazil’s presidential elections this Sunday, another Bolsonaro has genuine hopes of victory – not Jair, but his son Flávio, who ialso campaigning to have his father released released.",
+          "zh": "但在本周日的第一轮巴西总统选举中，另一位博尔索纳罗真正希望获胜–不是贾尔，而是他的儿子弗拉维奥，他也在竞选释放他的父亲。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "8fc038c2bf575413",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Our Project Suncatcher prototype satellite is in orbit.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/",
+      "publishedAt": "2026-10-01T23:30:00.000Z",
+      "sentences": [
+        {
+          "en": "Our Project Suncatcher prototype satellite is in orbit.",
+          "zh": "我们的Project Suncatcher原型卫星正在轨道上。"
+        },
+        {
+          "en": "Google's prototype satellite for Project Suncatcher, built in partnership with Planet, launched into orbit aboard the Transporter-18 rideshare mission with SpaceX.",
+          "zh": "谷歌与Planet合作建造的Suncatcher项目原型卫星，在与SpaceX的Transporter-18共享出行任务中发射进入轨道。"
+        }
+      ]
+    },
+    {
+      "id": "33e9d331a372cba4",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Turn your existing social assets into high-impact YouTube ads.",
+      "url": "https://blog.google/products/ads-commerce/creating-assets-youtube-ads/",
+      "publishedAt": "2026-10-01T20:30:00.000Z",
+      "sentences": [
+        {
+          "en": "Turn your existing social assets into high-impact YouTube ads.",
+          "zh": "将您现有的社交资产转化为高影响力的YouTube广告。"
+        },
+        {
+          "en": "In this Ads Decoded episode, we discuss ad creative — and how it can make or break your YouTube campaigns.",
+          "zh": "在这一集“广告解码”中，我们将讨论广告创意，以及它如何制作或打破您的YouTube广告系列。"
+        }
+      ]
+    },
+    {
+      "id": "1749907e5d5e5bf0",
+      "sourceId": "aws-news",
+      "category": "ai",
+      "title": "Announcing AWS Well-Architected Agent, an AI-powered intelligence to optimize your cloud environment (preview)",
+      "url": "https://aws.amazon.com/blogs/aws/announcing-aws-well-architected-agent-an-ai-powered-intelligence-to-optimize-your-cloud-environment-preview/",
+      "publishedAt": "2026-10-01T20:04:04.000Z",
+      "sentences": [
+        {
+          "en": "Announcing AWS Well-Architected Agent, an AI-powered intelligence to optimize your cloud environment (preview).",
+          "zh": "宣布推出AWS Well-Architected Agent ，这是一种人工智能驱动的智能，可优化您的云环境（预览）。"
+        },
+        {
+          "en": "Today, we’re announcing the public preview of AWS Well-Architected Agent , an AI-powered service that analyzes your AWS environment to deliver targeted, contextual recommendations for improving your applications’ cost, security, performance, and resilience.",
+          "zh": "今天，我们宣布AWS Well-Architected Agent的公开预览版，这是一项基于人工智能的服务，可分析您的AWS环境，提供有针对性的上下文建议，以提高应用程序的成本、安全性、性能和弹性。"
+        },
+        {
+          "en": "The AWS Well-Architected Agent analyzes your infrastructure, understands unique business goals, and delivers contextual recommendations with ready-to-implement fixes.",
+          "zh": "AWS Well-Architected Agent分析您的基础架构，了解独特的业务目标，并通过现成的实施修复提供上下文建议。"
+        },
+        {
+          "en": "It delivers context-aware optimization without relying on manual audits or generic checklists.",
+          "zh": "它提供上下文感知优化，而无需依赖手动审核或通用检查清单。"
+        },
+        {
+          "en": "The agent evaluates your environment as an experienced cloud architect would.",
+          "zh": "代理将像经验丰富的云架构师一样评估您的环境。"
+        },
+        {
+          "en": "It automatically correlates utilization metrics, resource configurations, and application topology, and analyzes against Well-Architected best practices across 65+ AWS services.",
+          "zh": "它会自动关联利用率指标、资源配置和应用程序拓扑，并根据65项以上AWS服务的良好架构最佳实践进行分析。"
+        },
+        {
+          "en": "It generates recommendations aligned to your declared business goals, delivers implementation packages with every finding, and surfaces cross-pillar trade-offs making it simpler to remediate the findings.",
+          "zh": "它生成与您声明的业务目标相一致的建议，为每个发现提供实施包，并呈现交叉支柱权衡，使其更易于补救发现。"
+        },
+        {
+          "en": "Here are the three main features of this service: Goal-aligned intelligence : AWS Well-Architected Agent replaces flat, undifferentiated findings with context-aware, prioritized recommendations.",
+          "zh": "以下是此服务的三个主要功能：目标一致的智能： AWS Well-Architected Agent用上下文感知的优先级建议替换了扁平、无差异的调查结果。"
+        },
+        {
+          "en": "You declare your business objectives and share your application context.",
+          "zh": "您声明您的业务目标并分享您的应用程序背景。"
+        },
+        {
+          "en": "The agent automatically generates and prioritizes recommendations by impact and effort against those goals.",
+          "zh": "客服代表根据这些目标的影响和努力自动生成建议并排定优先级。"
+        },
+        {
+          "en": "Three-level recommendations : AWS Well-Architected Agent provides individual resource findings with specific dollar impact (where applicable) and step-by-step remediation, consolidated findings across multiple resources scoped to your application, and broad architectural patterns and designs with Infrastructure as Code (IaC) code changes needed to align with Well-Architected best practices.",
+          "zh": "三级建议： AWS Well-Architected Agent提供具有特定美元影响（如适用）和分步补救的个别资源调查结果，跨应用程序范围的多个资源的综合调查结果，以及与Well-Architected最佳实践保持一致所需的基础架构即代码（ IaC ）代码更改的广泛架构模式和设计。"
+        },
+        {
+          "en": "Optionality in remediation : You can choose your path on how you want to remediate with a complete implementation steps tailored to your environment: the console walk-throughs, updated IaC changes for architecture-level recommendations, and AWS Command Line Interface (AWS CLI) commands.",
+          "zh": "修复的可选性：您可以通过针对您的环境量身定制的完整实施步骤来选择您希望如何修复的路径：控制台演练、针对架构级建议的更新IaC更改以及AWS命令行界面(AWS CLI)命令。"
+        }
+      ]
+    },
+    {
+      "id": "0e1fbbdfe06f6380",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
+      "url": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-01T19:59:24.000Z",
+      "sentences": [
+        {
+          "en": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'.",
+          "zh": "内塔尼亚胡说， Flydubai袭击者进行了“伊斯兰激进的灌输”。"
+        },
+        {
+          "en": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
+          "zh": "以色列总理说，试图接管Flydubai飞机的飞行员显然打算“击落飞机”。"
+        }
+      ]
+    },
+    {
+      "id": "404d889f425288f6",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Brazil attorney general says meddling ‘cannot be tolerated’ after Trump funding plans revealed",
+      "url": "https://www.theguardian.com/world/2026/oct/01/brazil-attorney-general-election-meddling-trump-funding-plans",
+      "publishedAt": "2026-10-01T18:34:10.000Z",
+      "sentences": [
+        {
+          "en": "Brazil attorney general says meddling ‘cannot be tolerated’ after Trump funding plans revealed.",
+          "zh": "巴西总检察长表示，在特朗普的资助计划公布后，干预“不能容忍”。"
+        },
+        {
+          "en": "Jorge Messias calls Guardian report ‘an important alert for Brazilian sovereignty’ as nation prepares to go to polls Brazil’s attorney general has said foreign meddling in his country’s institutions and democracy “cannot be tolerated” after a Guardian report revealed how the Trump administration was pushing to direct funds to a campaign against the Brazilian supreme court.",
+          "zh": "豪尔赫·梅西亚斯（ Jorge Messias ）称《卫报》的报告是“巴西主权的重要警报” ，因为国家准备进行民意调查。巴西总检察长表示，在《卫报》的一份报告显示特朗普政府如何推动将资金用于反对巴西最高法院的运动后，外国干涉巴西的机构和民主“不能容忍”。"
+        },
+        {
+          "en": "Writing on X, Jorge Messias called the report “an important alert for Brazilian sovereignty”.",
+          "zh": "豪尔赫·梅西亚斯（ Jorge Messias ）在X上写道，该报告“对巴西主权提出了重要警告”。"
+        },
+        {
+          "en": "“The information is especially serious in light of Brazil’s electoral process and the recent episodes of external pressure on our institutions,” Messias added.",
+          "zh": "Messias补充说： “鉴于巴西的选举进程以及最近对我们机构的外部压力事件，这些信息尤其严重。”"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "ceb3576a6bbdd8c1",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "1,400 educators joined our Badge-a-thon: Day of AI Learning.",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-educator-series-badge-a-thon/",
+      "publishedAt": "2026-10-01T16:00:00.000Z",
+      "sentences": [
+        {
+          "en": "1,400 educators joined our Badge-a-thon: Day of AI Learning.",
+          "zh": "1,400名教育工作者参加了我们的Badge-a-thon ：人工智能学习日。"
+        },
+        {
+          "en": "1,400 educators earned 4,000+ digital badges at the Google Badge-a-thon.",
+          "zh": "1,400名教育工作者在Google Badge-a-thon上获得了4,000多个数字徽章。"
+        },
+        {
+          "en": "Watch the on-demand sessions on YouTube and claim your first badge today.",
+          "zh": "立即在YouTube上观看点播会议并领取您的第一枚徽章。"
+        }
+      ]
+    },
+    {
+      "id": "058f1d37f378336c",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Guided Vision in Gemini Live: built for accessibility",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/guided-vision-gemini-live/",
+      "publishedAt": "2026-10-01T16:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Guided Vision in Gemini Live: built for accessibility.",
+          "zh": "Gemini Live中的引导式视觉：专为无障碍设计。"
+        },
+        {
+          "en": "Guided Vision in Gemini Live is built alongside the blind and low-vision community and offers real-time visual assistance.",
+          "zh": "Gemini Live中的Guided Vision与盲人和弱视社区一起构建，并提供实时视觉辅助。"
+        }
+      ]
+    }
+  ],
+  "failures": []
+}
