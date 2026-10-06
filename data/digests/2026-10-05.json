@@ -1,0 +1,959 @@
+{
+  "date": "2026-10-05",
+  "collectedAt": "2026-10-06T05:03:31.965Z",
+  "items": [
+    {
+      "id": "6f397884428e9f0f",
+      "sourceId": "github-blog",
+      "category": "ai",
+      "title": "ReviewBench: An open benchmark for AI code review",
+      "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
+      "publishedAt": "2026-10-05T15:59:40.000Z",
+      "sentences": [
+        {
+          "en": "ReviewBench: An open benchmark for AI code review.",
+          "zh": "ReviewBench ： AI代码审查的开放基准。"
+        },
+        {
+          "en": "Agentic code review is becoming an essential piece of how development happens.",
+          "zh": "代理代码审查正在成为开发过程中必不可少的一部分。"
+        },
+        {
+          "en": "It helps you inspect pull requests, catch issues, and decide what deserves attention before code ships.",
+          "zh": "在代码发布之前，它可以帮助您检查拉取请求、捕获问题并确定哪些内容值得关注。"
+        },
+        {
+          "en": "But the quality of existing AI reviewers can be hard to measure, and you need to know the strengths of a reviewer before you know if it will help you.",
+          "zh": "但是，现有人工智能审核员的素质可能很难衡量，您需要了解审核员的优势，然后才能知道它是否会对您有所帮助。"
+        },
+        {
+          "en": "Some reviewers surface more issues, some produce less noise, and some are stronger at catching critical problems while others surface smaller improvements, too.",
+          "zh": "一些审稿人发现了更多的问题，一些人发现了更少的噪音，一些人更善于发现关键问题，而另一些人则发现了更小的改进。"
+        },
+        {
+          "en": "You may need code review to do different things within your workflow.",
+          "zh": "您可能需要进行代码审查，以便在工作流程中执行不同操作。"
+        },
+        {
+          "en": "That makes it important to understand how reviewers actually compare: what different systems catch, what they miss, and the tradeoffs they make.",
+          "zh": "因此，重要的是要了解审稿人实际上是如何比较的：不同的系统捕获了什么，他们错过了什么，以及他们做出的权衡。"
+        },
+        {
+          "en": "A good code review benchmark should reflect the diversity of real pull requests, capture a broad set of review findings, and support meaningful breakdowns by severity, category, and precision-recall preferences.",
+          "zh": "良好的代码审查基准应反映真实拉取请求的多样性，捕获广泛的审查结果，并支持按严重程度、类别和精度召回偏好进行有意义的细分。"
+        },
+        {
+          "en": "For teams building code review agents, the benchmark should also provide an offline signal that reliably tracks whether changes are likely to improve the experience in production.",
+          "zh": "对于构建代码审核代理的团队，基准还应提供一个离线信号，可靠地跟踪更改是否可能改善生产体验。"
+        },
+        {
+          "en": "Existing benchmarks often make tradeoffs between label quality, coverage, and how well they represent real-world code review, leaving a gap for a rigorous and reproducible evaluation methodology that brings these pieces together.",
+          "zh": "现有的基准通常会在标签质量、覆盖范围以及它们在多大程度上代表了真实世界的代码审查之间做出权衡，从而为将这些部分结合在一起的严格且可重复的评估方法留下了空白。"
+        },
+        {
+          "en": "We built ReviewBench , a new code review offline benchmark , to address that gap, and it is available for you to use today.",
+          "zh": "我们构建了ReviewBench ，这是一个新的离线代码审查基准，以弥补这一差距，现在您可以使用它。"
+        },
+        {
+          "en": "It follows the language, repo size, and size distribution of pull requests, modeled after over 100 million real pull requests on GitHub.",
+          "zh": "它遵循拉取请求的语言、存储库大小和大小分布，模拟了GitHub上超过1亿个真实拉取请求。"
+        }
+      ]
+    },
+    {
+      "id": "8b2c8faa90ba4996",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Nearly 200 students injured in French schools protests as clashes with police continue – as it happened",
+      "url": "https://www.theguardian.com/world/live/2026/oct/05/europe-spain-pedro-sanchez-election-housing-france-school-protests-ukraine-russia-latest-news-updates",
+      "publishedAt": "2026-10-05T15:59:30.000Z",
+      "sentences": [
+        {
+          "en": "Nearly 200 students injured in French schools protests as clashes with police continue – as it happened.",
+          "zh": "由于与警方的冲突仍在继续，近200名学生在法国学校抗议活动中受伤。"
+        },
+        {
+          "en": "Hundreds of schools in France remain closed amid planned demonstrations across the country The conservative People’s Party is very pleased with the announcement.",
+          "zh": "在全国各地有计划的示威活动中，法国数百所学校仍然关闭。保守的人民党对这一宣布非常满意。"
+        },
+        {
+          "en": "“At last,” they say on their X, with a slick election video – set to the EU’s anthem “Ode to Joy” – to go along with it.",
+          "zh": "“最后，”他们在他们的X上说，用一段流畅的选举视频–以欧盟的国歌“欢乐颂”为背景–来配合它。"
+        },
+        {
+          "en": "Spanish prime minister Pedro Sánchez has called a snap election for 29 November, just days after rightwing parties blocked his minority government’s emergency measures on housing amid widespread protests ( 9:10 ).",
+          "zh": "西班牙首相佩德罗·桑切斯（ Pedro Sánchez ）呼吁在11月29日举行提前选举，就在几天前，在广泛的抗议活动中，右翼政党阻止了他的少数派政府在住房方面的紧急措施（ 9:10 ）。"
+        },
+        {
+          "en": "The election will take place on Sunday, 29 November, the earliest possible date procedurally.",
+          "zh": "选举将于11月29日星期日举行，这是程序上最早的日期。"
+        },
+        {
+          "en": "In a fierce address, Sánchez framed the election as choice between “regressing” under a “far-right coalition” or “keeping moving forward” with his progressive administration ( 9:04 , 9:09 , 9:17 ).",
+          "zh": "在一次激烈的讲话中，桑切斯将选举定义为在“极右联盟”下“倒退”或与他的进步政府“继续前进”之间的选择（ 9:04 ， 9:09 ， 9:17 ）。"
+        },
+        {
+          "en": "He said the election will be about who will guide Spain through a period of disruption amid high political tensions, global instability, climate emergency, and uncertainty posed by the rise of AI ( 9:13 ).",
+          "zh": "他说，在政治高度紧张、全球不稳定、气候紧急情况以及人工智能崛起带来的不确定性中，选举将围绕谁来指导西班牙度过混乱时期（ 9:13 ）。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "805a13873d3535ef",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "France braces for national day of school protests as boy loses hand",
+      "url": "https://www.theguardian.com/world/2026/oct/05/schoolboy-loses-hand-police-stun-grenade-french-school-protests",
+      "publishedAt": "2026-10-05T15:50:50.000Z",
+      "sentences": [
+        {
+          "en": "France braces for national day of school protests as boy loses hand.",
+          "zh": "法国支持全国学校抗议日，因为男孩失去了手。"
+        },
+        {
+          "en": "Thousands expected to join marches of support on Tuesday across the country amid growing concerns over police response France is bracing for a national day of protests and high-school blockades as a youth protest movement gathers pace amid a growing debate over the scale of the police response.",
+          "zh": "预计周二将有数千人参加全国各地的支持游行，因为对警方反应的担忧日益增加法国正在为全国抗议和高中封锁日做准备，因为青年抗议运动在关于警方反应规模的辩论日益激烈的情况下加快步伐。"
+        },
+        {
+          "en": "In one incident, a 15-year-old protesting against what demonstrators said were France’s dilapidated ⁠and understaffed ​schools ‌had his hand ‌blown off outside a high school in the northern town of Lens, said François-Xavier Lauch, the prefect of Pas-de-Calais.",
+          "zh": "加来海峡省省长弗朗索瓦-泽维尔·劳赫（ François-Xavier Lauch ）表示，在一起事件中，一名15岁的示威者抗议法国破败、人手不足的学校在北部城镇兰斯（ Lens ）的一所高中外被炸飞。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "d6b53ab877ada738",
+      "sourceId": "aws-news",
+      "category": "ai",
+      "title": "AWS Weekly Roundup: Amazon Bedrock Managed Agents powered by OpenAI, Q3 service availability updates, Kiro workflows, and more (October 5, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-managed-agents-powered-by-openai-q3-service-availability-updates-kiro-workflows-and-more-october-5-2026/",
+      "publishedAt": "2026-10-05T15:41:19.000Z",
+      "sentences": [
+        {
+          "en": "AWS Weekly Roundup: Amazon Bedrock Managed Agents powered by OpenAI, Q3 service availability updates, Kiro workflows, and more (October 5, 2026).",
+          "zh": "AWS每周综述：基于OpenAI的亚马逊基岩托管代理、第三季度服务可用性更新、KIRO工作流程等（ 2026年10月5日）。"
+        },
+        {
+          "en": "Last week, we announced a public preview of Amazon Bedrock Managed Agents powered by OpenAI , built on a customized version of OpenAI’s Agents API engineered to be AWS-native and integrated with AWS resources.",
+          "zh": "上周，我们发布了由OpenAI提供支持的Amazon Bedrock Managed Agents的公开预览版，该预览版基于定制版本的OpenAI Agents API ，旨在实现AWS原生并与AWS资源集成。"
+        },
+        {
+          "en": "You can now build agents optimized for OpenAI models that run entirely inside AWS with the identities, permissions, and governance controls you already use.",
+          "zh": "您现在可以构建针对OpenAI模型进行优化的代理，这些模型完全在AWS中运行，并具有您已经使用的身份、权限和治理控制。"
+        },
+        {
+          "en": "You can choose an execution environment: self-hosted compute to use an existing development machine, container, or compute environment or Amazon Bedrock AgentCore Runtime, for managed runtime sessions and configurable storage in your AWS account.",
+          "zh": "您可以选择执行环境：使用现有开发机器、容器或计算环境的自托管计算，或Amazon Bedrock AgentCore Runtime ，用于托管运行时会话和AWS帐户中的可配置存储。"
+        },
+        {
+          "en": "To learn more, visit the Amazon Bedrock documentation .",
+          "zh": "如需了解更多信息，请访问Amazon Bedrock文档。"
+        },
+        {
+          "en": "In addition, we are adding new frontier models on Amazon Bedrock to expand your model choices: OpenAI GPT-6.1 Sol : An upgrade to GPT-6 Sol, GPT-6.1 Sol delivers exceptionally strong performance on agentic coding, computer use, and professional work.",
+          "zh": "此外，我们正在Amazon Bedrock上添加新的前沿型号，以扩展您的型号选择： OpenAI GPT-6.1 SOL ：升级到GPT-6 SOL ， GPT-6.1 SOL在代理编码、计算机使用和专业工作方面提供异常强大的性能。"
+        },
+        {
+          "en": "According to OpenAI, it approaches GPT-6 Astra across demanding evaluations at roughly one-fifth of the cost, giving developers more room to build and run capable agents at scale.",
+          "zh": "根据OpenAI的说法，它以大约五分之一的成本在要求苛刻的评估中接近GPT-6 Astra ，为开发人员提供了更大的空间来大规模构建和运行有能力的代理。"
+        },
+        {
+          "en": "To learn more, visit the GPT-6.1 Sol model card .",
+          "zh": "如需了解更多信息，请访问GPT-6.1 SOL型号卡。"
+        },
+        {
+          "en": "OpenAI GPT-6 Astra UltraFast mode : Ultrafast is a premium speed tier for GPT-6 Astra, built for workloads where speed matters most.",
+          "zh": "OpenAI GPT-6 Astra UltraFast模式： Ultrafast是GPT-6 Astra的高级速度层，专为速度最重要的工作负载而构建。"
+        },
+        {
+          "en": "According to OpenAI, Ultrafast delivers up to 6x faster inference in the API, with up to 300 tokens per second.",
+          "zh": "根据OpenAI的说法， Ultrafast在API中提供高达6倍的速度推理，每秒最多300个代币。"
+        },
+        {
+          "en": "The Amazon Bedrock inference engine delivers the performance, security, and reliability required for production workloads.",
+          "zh": "Amazon Bedrock推理引擎提供生产工作负载所需的性能、安全性和可靠性。"
+        },
+        {
+          "en": "To learn more, visit the GPT-6 Astra model card .",
+          "zh": "如需了解更多信息，请访问GPT-6 ASTRA型号卡。"
+        }
+      ]
+    },
+    {
+      "id": "088d21a58c9c6c44",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Dennis Hastert, longtime Republican House speaker who went to prison, dies at age 84",
+      "url": "https://www.npr.org/2026/10/05/g-s1-146452/dennis-hastert-republican-house-speaker-dies-obit",
+      "publishedAt": "2026-10-05T14:24:31.000Z",
+      "sentences": [
+        {
+          "en": "Dennis Hastert, longtime Republican House speaker who went to prison, dies at age 84.",
+          "zh": "曾入狱的共和党众议院议长丹尼斯·哈斯特（ Dennis Hastert ）去世，享年84岁。"
+        },
+        {
+          "en": "ennis Hastert, whose political legacy as Congress' longest-serving Republican House speaker was later fouled by allegations that he had molested high school athletes during his prior career as a teacher and wrestling coach, has died, a coroner said Monday.",
+          "zh": "验尸官周一表示，恩尼斯·哈斯特（ ennis Hastert ）作为国会任职时间最长的共和党众议院议长的政治遗产后来被指控在之前担任教师和摔跤教练期间骚扰高中运动员，他已经去世。"
+        },
+        {
+          "en": "He was 84.",
+          "zh": "他84岁。"
+        },
+        {
+          "en": "(Image credit: Christian K.",
+          "zh": "（图片来源： Christian K."
+        },
+        {
+          "en": "Lee)",
+          "zh": "李"
+        }
+      ]
+    },
+    {
+      "id": "9a1667b7b376f49f",
+      "sourceId": "cloudflare-blog",
+      "category": "security",
+      "title": "One year later: the power of 1.1.1.1 interns",
+      "url": "https://blog.cloudflare.com/one-year-later-1111-interns/",
+      "publishedAt": "2026-10-05T13:00:00.000Z",
+      "sentences": [
+        {
+          "en": "One year later: the power of 1.1.1.1 interns.",
+          "zh": null
+        },
+        {
+          "en": "A year ago, many companies were cutting intern and new-graduate hiring .",
+          "zh": null
+        },
+        {
+          "en": "We went the other way.",
+          "zh": null
+        },
+        {
+          "en": "We announced a goal to hire as many as 1,111 interns in 2026, a number that’s a nod to 1.1.1.1, our public DNS resolver.",
+          "zh": null
+        },
+        {
+          "en": "The bet was that AI makes early-career talent more valuable and able to make an impact faster.",
+          "zh": null
+        },
+        {
+          "en": "The best AI tools help people learn a system faster, try more ideas, and take on harder problems.",
+          "zh": null
+        },
+        {
+          "en": "They don’t supply the energy, curiosity and fresh eyes a new person brings to a team.",
+          "zh": null
+        },
+        {
+          "en": "A year in, and our interns are shipping to our internal teams and to millions of customers.",
+          "zh": null
+        },
+        {
+          "en": "If you’re reading this on the Cloudflare Blog, you’re already using some of their work.",
+          "zh": null
+        },
+        {
+          "en": "The blog runs on EmDash , and EmDash’s second maintainer started at Cloudflare as an intern this past summer.",
+          "zh": null
+        },
+        {
+          "en": "A new generation of builders We’re still working toward 1,111.",
+          "zh": null
+        },
+        {
+          "en": "So far, we’ve hosted 750 internships across 48 teams in nine offices: Austin, San Francisco, London, Lisbon, New York, Singapore, Bengaluru, Washington DC, and Sydney.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "44b03140de4a0c7b",
+      "sourceId": "cloudflare-blog",
+      "category": "security",
+      "title": "Everything we launched during Birthday Week 2026",
+      "url": "https://blog.cloudflare.com/birthday-week-2026-wrap-up/",
+      "publishedAt": "2026-10-05T13:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Everything we launched during Birthday Week 2026.",
+          "zh": "我们在2026年生日周期间推出的所有内容。"
+        },
+        {
+          "en": "We celebrated our 16th birthday last week by sharing how we’re building a better Internet for today’s world.",
+          "zh": "上周，我们通过分享我们如何为当今世界构建更好的互联网来庆祝我们的16岁生日。"
+        },
+        {
+          "en": "As Matthew and Michelle reflected in this year’s Founders’ Letter , this year saw some of the most consequential changes in the history of the Internet.",
+          "zh": null
+        },
+        {
+          "en": "For the first time, automated traffic surpassed human activity.",
+          "zh": null
+        },
+        {
+          "en": "AI is empowering people to build like never before, leading the Internet to grow massively in scale and unlocking more ambition and creativity.",
+          "zh": null
+        },
+        {
+          "en": "As we witnessed the influence that agent-driven recommendations have on consumer choices, we identified the need for a new approach that creates space for new businesses to succeed.",
+          "zh": null
+        },
+        {
+          "en": "Each day of Birthday Week explored a different way we are helping to build the future of the Internet.",
+          "zh": null
+        },
+        {
+          "en": "We began on Monday by strengthening our commitment to open source.",
+          "zh": null
+        },
+        {
+          "en": "Tuesday focused on application security and the post-quantum transition.",
+          "zh": null
+        },
+        {
+          "en": "On Wednesday, we explored new economic models for the agentic Internet.",
+          "zh": null
+        },
+        {
+          "en": "Thursday, we expanded the Developer Platform with new tools for data analysis, storage, AI, and agent development.",
+          "zh": null
+        },
+        {
+          "en": "Finally, we closed out the week by launching features that make Cloudflare faster, easier to operate, and more accessible to everyone.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "47014e2ba81f123d",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Drones buzz overhead, troops hunker underground in Ukraine's hellish kill zone",
+      "url": "https://www.npr.org/2026/10/05/nx-s1-5925803/drones-buzz-overhead-troops-hunker-underground-in-ukraines-hellish-kill-zone",
+      "publishedAt": "2026-10-05T12:33:20.000Z",
+      "sentences": [
+        {
+          "en": "Drones buzz overhead, troops hunker underground in Ukraine's hellish kill zone.",
+          "zh": "无人机在头顶嗡嗡作响，部队潜伏在乌克兰地狱般的杀戮区。"
+        },
+        {
+          "en": "The front line in the Russia-Ukraine war stretches more than 700 miles and has barely moved in four years.",
+          "zh": "俄乌战争的前线绵延700多英里，四年来几乎没有移动。"
+        },
+        {
+          "en": "Yet straddling this line is the kill zone, dominated by constantly evolving drone technology.",
+          "zh": "然而，跨越这条线的是杀伤区，由不断发展的无人机技术主导。"
+        },
+        {
+          "en": "(Image credit: Andriy Andriyenko/Ukrainian 65th Mechanized brigade)",
+          "zh": "（图片来源： Andriy Andriyenko/乌克兰第65机械化旅）"
+        }
+      ]
+    },
+    {
+      "id": "8e6b224e338208ec",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Guardian readers fund life-changing surgery for Somali boy injured in US airstrike",
+      "url": "https://www.theguardian.com/global-development/2026/oct/05/guardian-readers-fundraising-somalian-boy-injured-in-us-strike-surgery-abdiqadir-salah",
+      "publishedAt": "2026-10-05T12:00:24.000Z",
+      "sentences": [
+        {
+          "en": "Guardian readers fund life-changing surgery for Somali boy injured in US airstrike.",
+          "zh": "卫报读者资助在美国空袭中受伤的索马里男孩的改变生活的手术。"
+        },
+        {
+          "en": "After Guardian investigation uncovered drone strike that killed 12 civilians and injured many more, seven-year-old Abdiqadir Salah underwent vital operation in Mogadishu On the rickshaw ride to the hospital, Marian Haji Abdi Guled felt a mixture of joy and apprehension: the day they had been waiting for had finally arrived.",
+          "zh": "在卫报调查发现无人机袭击造成12名平民死亡，更多人受伤后， 7岁的Abdiqadir Salah在摩加迪沙接受了重要手术乘人力车前往医院， Marian Haji Abdi Guled感到喜悦和忧虑的混合：他们一直在等待的那一天终于到来了。"
+        },
+        {
+          "en": "Almost a year earlier, her then seven-year-old son, Abdiqadir Salah, had been seriously injured, alongside his two siblings, in what a Guardian investigation found was a US drone strike on the village of Jamaame in Somalia that killed at least 12 civilians, including eight children.",
+          "zh": "大约一年前，她当时7岁的儿子阿卜迪卡迪尔·萨拉赫（ Abdiqadir Salah ）与他的两个兄弟姐妹一起受重伤，《卫报》的一项调查发现，美国无人机袭击了索马里的贾马梅村，造成至少12名平民死亡，其中包括8名儿童。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "707c259045bccf33",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Wheels up: Trends and tips for 2026 holiday travel",
+      "url": "https://blog.google/products-and-platforms/products/search/holiday-travel-trends-2026/",
+      "publishedAt": "2026-10-05T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Wheels up: Trends and tips for 2026 holiday travel.",
+          "zh": "蓬勃发展： 2026年节日旅行的趋势和建议。"
+        },
+        {
+          "en": "Explore this year’s trends and tips for holiday travel — from insights on booking the lowest fare to trending destinations for Thanksgiving and Christmas.",
+          "zh": "探索今年的节假日旅行趋势和建议，从预订最低价格的分析，到感恩节和圣诞节的热门目的地。"
+        }
+      ]
+    },
+    {
+      "id": "663dd8966731bcaa",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "One day behind bars: Students and incarcerated women break prison stigma in Thailand",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168518",
+      "publishedAt": "2026-10-05T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "One day behind bars: Students and incarcerated women break prison stigma in Thailand.",
+          "zh": "一天在监狱里：学生和被监禁的女性在泰国打破了监狱的耻辱。"
+        },
+        {
+          "en": "“Your mind follows the thread, one by one, row by row.",
+          "zh": "“你的思绪跟着这条线，一个接一个，一行接一行。"
+        },
+        {
+          "en": "You know?",
+          "zh": "“你知道吗……"
+        },
+        {
+          "en": "It’s like meditation.",
+          "zh": "这就像冥想。"
+        },
+        {
+          "en": "I don’t like machines.”",
+          "zh": "我不喜欢机器。”"
+        }
+      ]
+    },
+    {
+      "id": "4be6907fd3cef8c5",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Sudan: Driver killed in aerial attack on aid trucks in South Kordofan",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168519",
+      "publishedAt": "2026-10-05T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Sudan: Driver killed in aerial attack on aid trucks in South Kordofan.",
+          "zh": "苏丹：在南科尔多凡州，司机在空袭救援卡车时丧生。"
+        },
+        {
+          "en": "The World Food Programme (WFP) has strongly condemned a deadly airstrike on two clearly marked aid trucks in South Kordofan, Sudan, this past weekend.",
+          "zh": "世界粮食计划署（ WFP ）强烈谴责上周末在苏丹南科尔多凡州对两辆标有明确标志的救援卡车发动的致命空袭。"
+        }
+      ]
+    },
+    {
+      "id": "84e91fed3df66533",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "UN upholds housing as a human right on World Habitat Day",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168520",
+      "publishedAt": "2026-10-05T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "UN upholds housing as a human right on World Habitat Day.",
+          "zh": "联合国在世界人居日将住房作为一项人权。"
+        },
+        {
+          "en": "Representatives from governments, civil society and academia meeting in Muscat, Oman on Monday called for urgent action to address a global housing crisis affecting nearly 3.4 billion people.",
+          "zh": "政府、民间社会和学术界代表周一在阿曼马斯喀特举行会议，呼吁采取紧急行动，解决影响近34亿人的全球住房危机。"
+        }
+      ]
+    },
+    {
+      "id": "27db80a7cf91a094",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "ICC unseals four arrest warrants over Taliban persecution of women and girls",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168521",
+      "publishedAt": "2026-10-05T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "ICC unseals four arrest warrants over Taliban persecution of women and girls.",
+          "zh": "国际刑事法院就塔利班迫害妇女和女童一事发出四张逮捕令。"
+        },
+        {
+          "en": "The International Criminal Court (ICC) has made public four arrest warrants against senior Taliban figures, accusing them of persecuting women and girls in Afghanistan, which amounts to a crime against humanity.",
+          "zh": "国际刑事法院（ ICC ）公布了对塔利班高级人物的四份逮捕令，指控他们迫害阿富汗妇女和女孩，这相当于危害人类罪。"
+        }
+      ]
+    },
+    {
+      "id": "e5694e5010129151",
+      "sourceId": "un-news",
+      "category": "science",
+      "title": "Extreme heat making pregnancy a ‘new fault line’ in climate crisis",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168522",
+      "publishedAt": "2026-10-05T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Extreme heat making pregnancy a ‘new fault line’ in climate crisis.",
+          "zh": "极端高温使怀孕成为气候危机中的“新断层线”。"
+        },
+        {
+          "en": "Pregnancy and childbirth have become a “new fault line in the global climate crisis” as extreme heat worsens, the head of the UN climate action body (UNFCCC) warned on Monday, calling for maternal and newborn health to be built into countries’ climate plans.",
+          "zh": "联合国气候行动机构（ UNFCCC ）负责人周一警告称，随着极端高温的加剧，怀孕和分娩已成为“全球气候危机中的新断层线” ，并呼吁将孕产妇和新生儿健康纳入各国的气候计划。"
+        }
+      ]
+    },
+    {
+      "id": "36faed6cf2aa0a71",
+      "sourceId": "un-news",
+      "category": "security",
+      "title": "Security, sacrifice or opportunity: Visions differ over effective climate action",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168526",
+      "publishedAt": "2026-10-05T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Security, sacrifice or opportunity: Visions differ over effective climate action.",
+          "zh": "安全、牺牲或机会：有效的气候行动的愿景各不相同。"
+        },
+        {
+          "en": "Should the world move away sharply from fossil fuels, or manage a slower, more careful retreat?",
+          "zh": "世界应该大幅度摆脱化石燃料，还是管理一个更缓慢、更谨慎的撤退？"
+        }
+      ]
+    },
+    {
+      "id": "99dcb925830cefe3",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "FBI arrests a woman accused of spying on Taiwan leader's family for China",
+      "url": "https://www.npr.org/2026/10/05/g-s1-146410/fbi-arrests-a-woman-accused-of-spying-on-taiwan-leaders-family-for-china",
+      "publishedAt": "2026-10-05T11:47:36.000Z",
+      "sentences": [
+        {
+          "en": "FBI arrests a woman accused of spying on Taiwan leader's family for China.",
+          "zh": "联邦调查局逮捕了一名被指控为中国监视台湾领导人家人的女子。"
+        },
+        {
+          "en": "The FBI and U.S. prosecutors say Wanying Zhang, also know as Heather, surveilled the Taiwanese president's son and his family.",
+          "zh": "联邦调查局和美国检察官说，张万英（又名希瑟）监视了台湾总统的儿子及其家人。"
+        }
+      ]
+    },
+    {
+      "id": "cb899b57616d18ba",
+      "sourceId": "npr-news",
+      "category": "release-notes",
+      "title": "Imran Khan supporters march in Pakistan to demand his release after talks failed",
+      "url": "https://www.npr.org/2026/10/05/g-s1-146408/imran-khan-supporters-march-in-pakistan-to-demand-his-release-after-talks-failed",
+      "publishedAt": "2026-10-05T11:38:26.000Z",
+      "sentences": [
+        {
+          "en": "Imran Khan supporters march in Pakistan to demand his release after talks failed.",
+          "zh": "伊姆兰·汗的支持者在会谈失败后在巴基斯坦游行，要求释放他。"
+        },
+        {
+          "en": "Talks between Khan's party and the government failed two days ago.",
+          "zh": "两天前，汗的政党和政府之间的谈判失败了。"
+        },
+        {
+          "en": "Besides Khan's release, protesters demand his transfer to a hospital and family visits.",
+          "zh": "除了释放汗外，抗议者还要求将他转移到医院和家人探视。"
+        },
+        {
+          "en": "(Image credit: Maaz Awan)",
+          "zh": "（图片来源： Maaz Awan ）"
+        }
+      ]
+    },
+    {
+      "id": "00aefe1983e090eb",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Indian singer Anuv Jain on finding success without the Bollywood boost",
+      "url": "https://www.bbc.co.uk/news/articles/c933xnneg2zvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-05T11:10:28.000Z",
+      "sentences": [
+        {
+          "en": "Indian singer Anuv Jain on finding success without the Bollywood boost.",
+          "zh": "印度歌手阿努夫·贾因（ Anuv Jain ）在没有宝莱坞助推的情况下取得成功"
+        },
+        {
+          "en": "The star reveals why he is \"very selective\" about releasing music - and shares his future collab hopes.",
+          "zh": "这位明星揭示了他为什么对发行音乐“非常挑剔” ，并分享了他未来的合作希望。"
+        }
+      ]
+    },
+    {
+      "id": "25e08eafb8a94d1b",
+      "sourceId": "npr-news",
+      "category": "science",
+      "title": "SCOTUS hears major climate change case. And, Brazil's presidential race goes to runoff",
+      "url": "https://www.npr.org/2026/10/05/g-s1-146406/up-first-newsletter-flydubai-investigation-colorado-suncor-exxon-brazil-presidential-elections",
+      "publishedAt": "2026-10-05T11:07:09.000Z",
+      "sentences": [
+        {
+          "en": "SCOTUS hears major climate change case.",
+          "zh": "司各脱听取了重大气候变化案例。"
+        },
+        {
+          "en": "And, Brazil's presidential race goes to runoff.",
+          "zh": "而且，巴西的总统竞选将进入决赛。"
+        },
+        {
+          "en": "The Supreme Court is set to hear a blockbuster climate change case that could affect more than just climate issues.",
+          "zh": "最高法院将审理一起可能不仅仅影响气候问题的重磅气候变化案件。"
+        },
+        {
+          "en": "And, Brazil's presidential race is too close to call.",
+          "zh": "而且，巴西的总统竞选离我们太近了。"
+        },
+        {
+          "en": "(Image credit: Roberto Schmidt)",
+          "zh": "（图片来源： Roberto Schmidt ）"
+        }
+      ]
+    },
+    {
+      "id": "e1a4a73ef8f8b3dd",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "FlyDubai attacker intended to crash plane into Tel Aviv airport, investigation finds",
+      "url": "https://www.npr.org/2026/10/05/nx-s1-5990802/midair-attack-flydubai",
+      "publishedAt": "2026-10-05T10:53:46.000Z",
+      "sentences": [
+        {
+          "en": "FlyDubai attacker intended to crash plane into Tel Aviv airport, investigation finds.",
+          "zh": "调查发现， FlyDubai袭击者打算将飞机撞入特拉维夫机场。"
+        },
+        {
+          "en": "The ongoing investigation has found the attacker intended to crash the plane into Israel's Ben Gurion International Airport, a person familiar with the matter but not authorized to speak publicly told NPR.",
+          "zh": "正在进行的调查发现，袭击者打算将飞机撞向以色列的本古里安国际机场，一位熟悉此事但无权公开发言的人告诉NPR。"
+        },
+        {
+          "en": "(Image credit: Jack Guez)",
+          "zh": "（图片来源： Jack Guez ）"
+        }
+      ]
+    },
+    {
+      "id": "97ab4adaec6241d6",
+      "sourceId": "npr-news",
+      "category": "science",
+      "title": "Nobel medicine prize goes to 3 scientists for research into brain activity",
+      "url": "https://www.npr.org/2026/10/05/g-s1-146400/nobel-medicine-prize",
+      "publishedAt": "2026-10-05T10:11:33.000Z",
+      "sentences": [
+        {
+          "en": "Nobel medicine prize goes to 3 scientists for research into brain activity.",
+          "zh": "诺贝尔医学奖授予3位研究大脑活动的科学家。"
+        },
+        {
+          "en": "The Nobel Prize in medicine was awarded Monday to three scientists working on the mechanisms the brain uses to switch on, or off, the activity of individual nerve cells.",
+          "zh": "诺贝尔医学奖于周一颁发给三位科学家，他们致力于研究大脑用于开启或关闭单个神经细胞活动的机制。"
+        },
+        {
+          "en": "(Image credit: Pontus Lundahl)",
+          "zh": "（图片来源： Pontus Lundahl ）"
+        }
+      ]
+    },
+    {
+      "id": "b06c101ee726aa55",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Former Prince Andrew files legal action to quash warrants that led to residence searches",
+      "url": "https://www.npr.org/2026/10/05/g-s1-146396/former-prince-andrew-legal-action",
+      "publishedAt": "2026-10-05T10:01:19.000Z",
+      "sentences": [
+        {
+          "en": "Former Prince Andrew files legal action to quash warrants that led to residence searches.",
+          "zh": "前安德鲁王子提起法律诉讼，撤销导致搜查住宅的逮捕令。"
+        },
+        {
+          "en": "A judicial spokesperson confirmed that Andrew Mountbatten-Windsor had filed a claim with the High Court in London and a hearing would take place Thursday.",
+          "zh": "司法发言人证实， Andrew Mountbatten-Windsor已向伦敦高等法院提起诉讼，听证会将于周四举行。"
+        },
+        {
+          "en": "(Image credit: Kirsty Wigglesworth)",
+          "zh": "（图片来源： Kirsty Wigglesworth ）"
+        }
+      ]
+    },
+    {
+      "id": "85d78fb76cb7d46b",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Quebec poised to elect separatists to power for first time in more than a decade",
+      "url": "https://www.theguardian.com/world/2026/oct/05/quebec-election-separatist-government-parti-quebecois-referendum",
+      "publishedAt": "2026-10-05T09:30:52.000Z",
+      "sentences": [
+        {
+          "en": "Quebec poised to elect separatists to power for first time in more than a decade.",
+          "zh": "魁北克准备在十多年来首次选举分离主义分子掌权。"
+        },
+        {
+          "en": "Parti Québécois promises to hold independence referendum in Canada’s French-speaking region by 2028 Voters in Quebec are going to the polls in provincial elections which will probably result in victory for a party that has promised to hold a referendum on independence from Canada within the next two years.",
+          "zh": "魁北克党承诺到2028年在加拿大法语区举行独立公投魁北克选民将参加省级选举的投票，这可能会导致一个承诺在未来两年内举行脱离加拿大独立公投的政党获胜。"
+        },
+        {
+          "en": "If polls are correct, the Parti Québécois (PQ) will form the government of the province of roughly nine million, the first time that the separatist movement will have gained power in the French-speaking region for more than a decade.",
+          "zh": "如果民意调查是正确的，魁北克党（ PQ ）将组建约900万人的省政府，这是十多年来分离主义运动首次在法语地区掌权。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "8ced106e8e162676",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Sass Jordan, Canadian rock singer-songwriter, dies aged 65",
+      "url": "https://www.theguardian.com/music/2026/oct/05/sass-jordan-canadian-rock-singer-songwriter-dies-aged-65",
+      "publishedAt": "2026-10-05T09:22:59.000Z",
+      "sentences": [
+        {
+          "en": "Sass Jordan, Canadian rock singer-songwriter, dies aged 65.",
+          "zh": "加拿大摇滚歌手兼词曲作者萨斯·乔丹（ Sass Jordan ）去世，享年65岁。"
+        },
+        {
+          "en": "Musician who had hit albums with Racine and Rats later became a judge on six seasons of Canadian Idol Sass Jordan, the singer-songwriter who became a significant success in Canada’s rock scene in the 1990s before starring as a judge on Canadian Idol, has died aged 65.",
+          "zh": "曾与Racine和Rats合作过专辑的音乐家后来成为加拿大偶像Sass Jordan六季的评委，这位创作歌手在20世纪90年代在加拿大摇滚界取得了重大成功，之后担任加拿大偶像的评委，现年65岁。"
+        },
+        {
+          "en": "No cause of death has been given.",
+          "zh": "未提供死亡原因。"
+        },
+        {
+          "en": "A statement on social media said she died on 2 October “surrounded by her loving family … She remains in our hearts, an inimitable force of nature.",
+          "zh": "社交媒体上的一份声明称，她于10月2日去世， “被她充满爱心的家人包围......她仍然在我们心中，这是一种无与伦比的自然力量。"
+        },
+        {
+          "en": "An irreplaceable being of light and joy!” Continue reading..",
+          "zh": "光明和欢乐的不可替代的存在！ ”继续阅读。"
+        }
+      ]
+    },
+    {
+      "id": "ca08a44f3320cf2e",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Watch: How Spain's housing crisis has resulted in an early general election",
+      "url": "https://www.bbc.co.uk/news/videos/c83vqk2k2k20o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-05T09:03:30.000Z",
+      "sentences": [
+        {
+          "en": "Watch: How Spain's housing crisis has resulted in an early general election.",
+          "zh": "观看：西班牙的住房危机如何导致提前举行大选。"
+        },
+        {
+          "en": "A series of measures to tackle the housing crisis were defeated in parliament on Friday",
+          "zh": "周五，一系列解决住房危机的措施在议会中被否决"
+        }
+      ]
+    },
+    {
+      "id": "d44483100029ca22",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "'Not again': Arrest of US marine for murder reignites protests in Japan's Okinawa",
+      "url": "https://www.bbc.co.uk/news/articles/cwgkv70gg1j3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-05T08:22:41.000Z",
+      "sentences": [
+        {
+          "en": "'Not again': Arrest of US marine for murder reignites protests in Japan's Okinawa.",
+          "zh": "“不要再犯” ：美国海军陆战队员因谋杀罪被捕，再次引发日本冲绳的抗议活动。"
+        },
+        {
+          "en": "For many locals on this island, the arrest has brought decades of frustration back to the fore.",
+          "zh": "对于这个岛上的许多当地人来说，这次逮捕让数十年的挫折重新浮出水面。"
+        }
+      ]
+    },
+    {
+      "id": "12bdaec740552a04",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Extreme heat warnings issued for parts of southern California",
+      "url": "https://www.theguardian.com/us-news/2026/oct/05/extreme-heat-warnings-southern-california",
+      "publishedAt": "2026-10-05T08:20:52.000Z",
+      "sentences": [
+        {
+          "en": "Extreme heat warnings issued for parts of southern California.",
+          "zh": "加利福尼亚州南部部分地区发布极端高温警报。"
+        },
+        {
+          "en": "Temperatures in US state forecast to hit high 30s celsius this week, while regions in Indonesia grapple with wildfires The National Weather Service in the US has issued extreme heat warnings for parts of southern California, including Los Angeles, until Thursday, as temperatures are expected to hit the high 30s celsius.",
+          "zh": "美国各州的气温预计本周将达到30摄氏度，而印度尼西亚各地区正在努力应对野火美国国家气象局已向包括洛杉矶在内的南加州部分地区发出极端高温警告，直到周四，因为气温预计将达到30摄氏度。"
+        },
+        {
+          "en": "Burbank, a suburb north of Los Angeles, recorded 39C on Saturday, a few degrees shy of the October record for the region set in 1987.",
+          "zh": "伯班克是洛杉矶北部的一个郊区，周六录得39摄氏度，比1987年创下的该地区10月份的纪录低了几度。"
+        },
+        {
+          "en": "A persistent area of high pressure will remain in place this week, leading to further hazardous hot weather and increased fire risk.",
+          "zh": "本周将保持持续的高压区域，导致进一步的危险炎热天气和增加的火灾风险。"
+        },
+        {
+          "en": "Parts of Indonesia are in the midst of an extreme wildfire season, which has peaked over the past month.",
+          "zh": "印度尼西亚的部分地区正处于极端的野火季节，该季节在过去一个月中达到顶峰。"
+        },
+        {
+          "en": "Western Kalimantan (Borneo) and southern Sumatra have been particularly badly affected.",
+          "zh": "西加里曼丹（婆罗洲）和苏门答腊南部受到特别严重的影响。"
+        },
+        {
+          "en": "The lack of rainfall has dried the usually water-logged tropical soils, meaning that fires have been able to spread quickly, above and below the surface.",
+          "zh": "缺少降雨使通常被水淹没的热带土壤干涸，这意味着火灾能够迅速蔓延到地表上下。"
+        },
+        {
+          "en": "Indonesia’s soils are also extremely rich in peat, meaning that the smoke produced from the fires contain higher levels of toxic gases such as sulphur dioxide and carbon monoxide.",
+          "zh": "印度尼西亚的土壤也富含泥炭，这意味着火灾产生的烟雾含有较高水平的有毒气体，如二氧化硫和一氧化碳。"
+        },
+        {
+          "en": "Cities in surrounding areas and as far as Malaysia and Singapore have experienced reduced air quality in recent weeks as a result.",
+          "zh": "最近几周，周边地区以及马来西亚和新加坡的空气质量有所下降。"
+        },
+        {
+          "en": "Drought and wildfires are more common in this part of the world during El Niño events owing to suppressed thunderstorm activity.",
+          "zh": "在厄尔尼诺现象期间，由于雷暴活动受到抑制，干旱和野火在世界的这个地区更为常见。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "656650d58bc67e21",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "£800m in, £800m out - Why Man City scandal shines light on Man Utd finances",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg5j87jy3zmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-05T08:08:02.000Z",
+      "sentences": [
+        {
+          "en": "£800m in, £800m out - Why Man City scandal shines light on Man Utd finances.",
+          "zh": "投入£ 8亿，投入£ 8亿-为什么曼城丑闻曝光了曼联的财务状况。"
+        },
+        {
+          "en": "Manchester City's owners have been found guilty of injecting money into the club.",
+          "zh": "曼城的老板因向俱乐部注资而被判有罪。"
+        },
+        {
+          "en": "At Manchester United, fans are frustrated at how much has been taken out.",
+          "zh": "在曼联，球迷们对被淘汰的数量感到沮丧。"
+        }
+      ]
+    },
+    {
+      "id": "95eb6c8a3e94753a",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Making AI training available to UK and Ireland educators",
+      "url": "https://blog.google/products-and-platforms/products/education/making-ai-training-available-to-uk-and-ireland-educators/",
+      "publishedAt": "2026-10-05T07:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Making AI training available to UK and Ireland educators.",
+          "zh": "向英国和爱尔兰的教育工作者提供人工智能培训。"
+        },
+        {
+          "en": "Google's AI tools aim to help educators achieve their teaching goals and provide students with personalized learning experiences.",
+          "zh": "谷歌的人工智能工具旨在帮助教育工作者实现其教学目标，并为学生提供个性化的学习体验。"
+        }
+      ]
+    },
+    {
+      "id": "74b4dbb03449ad07",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Watch: How Brazil's dramatic election unfolded",
+      "url": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-05T04:51:24.000Z",
+      "sentences": [
+        {
+          "en": "Watch: How Brazil's dramatic election unfolded.",
+          "zh": "观看：巴西戏剧性的选举是如何展开的。"
+        },
+        {
+          "en": "Millions of Brazilians took to the polls on Sunday for the first round of the country's presidential elections.",
+          "zh": "周日，数百万巴西人参加了巴西第一轮总统选举的民意调查。"
+        }
+      ]
+    },
+    {
+      "id": "4f83db3242e4081d",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Skull fractures suggest servants of Egypt’s ancient kings were sacrificed",
+      "url": "https://www.theguardian.com/science/2026/oct/05/skull-fractures-suggest-servants-of-egypts-ancient-kings-were-sacrificed",
+      "publishedAt": "2026-10-05T04:00:48.000Z",
+      "sentences": [
+        {
+          "en": "Skull fractures suggest servants of Egypt’s ancient kings were sacrificed.",
+          "zh": "颅骨骨折表明埃及古代国王的仆人被牺牲了。"
+        },
+        {
+          "en": "Study of remains taken from royal cemetery at Umm el-Qa’ab appears to confirm early Egyptologist’s theory Court officials and craftspeople serving early Egyptian kings may have been sacrificed when their ruler died, according to research that found fractures in several ancient skulls.",
+          "zh": "对Umm el-Qa 'ab皇家墓地遗骸的研究似乎证实了早期埃及古物学家的理论。根据一项研究，法院官员和为早期埃及国王服务的工匠可能在他们的统治者去世时被牺牲了，该研究发现了几个古老的头骨骨折。"
+        },
+        {
+          "en": "The royal cemetery of Umm el-Qa’ab near Abydos features the tombs and enclosures of the First Dynasty rulers of Egypt, and dates as far back as 3,000BC.",
+          "zh": "Abydos附近的Umm el-Qa 'ab皇家公墓设有埃及第一王朝统治者的坟墓和围栏，其历史可以追溯到公元前3000年。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "eeb360467eb306c7",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "How India became dangerously addicted to Chinese imports",
+      "url": "https://www.bbc.co.uk/news/articles/c5pve834grpno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-05T01:42:11.000Z",
+      "sentences": [
+        {
+          "en": "How India became dangerously addicted to Chinese imports.",
+          "zh": "印度是如何对中国进口产品上瘾的。"
+        },
+        {
+          "en": "India’s toy shops provide an unlikely barometer by which to measure its economic relationship with China.",
+          "zh": "印度的玩具店提供了一个不太可能的晴雨表来衡量其与中国的经济关系。"
+        }
+      ]
+    },
+    {
+      "id": "aec1f66458f3cea7",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Brazil presidential election 2026: first-round live results",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/brazil-presidential-election-2026-first-round-live-results",
+      "publishedAt": "2026-10-05T00:24:55.000Z",
+      "sentences": [
+        {
+          "en": "Brazil presidential election 2026: first-round live results.",
+          "zh": "2026年巴西总统大选：首轮现场结果。"
+        },
+        {
+          "en": "Luiz Inácio Lula da Silva is standing against Flávio Bolsonaro in the first round of the presidential race Brazil’s president is directly elected: each voter’s ballot counts equally and there is no electoral college.",
+          "zh": "路易斯·伊纳西奥·卢拉·达席尔瓦（ Luiz Inácio Lula da Silva ）在第一轮总统竞选中与弗拉维奥·博尔索纳罗（ Flávio Bolsonaro ）对抗巴西总统是直接选举产生的：每个选民的选票都是平等的，没有选举团。"
+        },
+        {
+          "en": "If no candidate wins more than 50% of the valid votes cast in the first round, a second runoff election will be held three weeks later between the two candidates who polled highest.",
+          "zh": "如果没有候选人在第一轮投票中赢得超过50 ％的有效选票，则将在三周后在投票率最高的两名候选人之间举行第二轮决选。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    }
+  ],
+  "failures": []
+}
