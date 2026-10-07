@@ -1,0 +1,957 @@
+{
+  "date": "2026-10-06",
+  "collectedAt": "2026-10-07T04:31:13.192Z",
+  "items": [
+    {
+      "id": "64a6575063ff0fdc",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Making global public health more proactive with Google Earth AI",
+      "url": "https://blog.google/innovation-and-ai/technology/health/google-earth-ai/",
+      "publishedAt": "2026-10-06T15:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Making global public health more proactive with Google Earth AI.",
+          "zh": "借助Google地球人工智能，让全球公共卫生更加积极主动。"
+        },
+        {
+          "en": "Google is helping health leaders overcome reporting lags, forecast disease outbreaks, and deliver care to vulnerable communities.",
+          "zh": "谷歌正在帮助卫生领导者克服报告滞后，预测疾病爆发，并为弱势群体提供护理。"
+        }
+      ]
+    },
+    {
+      "id": "5d11f305b267dc57",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "AfD candidate elected speaker of German regional parliament for first time",
+      "url": "https://www.bbc.co.uk/news/articles/c54g1m2g1pg3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-06T14:44:03.000Z",
+      "sentences": [
+        {
+          "en": "AfD candidate elected speaker of German regional parliament for first time.",
+          "zh": "AfD候选人首次当选德国地区议会议长。"
+        },
+        {
+          "en": "Although Tobias Rausch's role is largely symbolic, opponents have described the result as a watershed moment.",
+          "zh": "尽管托比亚斯·劳什（ Tobias Rausch ）的角色在很大程度上是象征性的，但对手们将结果描述为一个分水岭时刻。"
+        }
+      ]
+    },
+    {
+      "id": "578b1171c9d8b4ed",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Here are the finalists for the 2026 National Book Awards",
+      "url": "https://www.npr.org/2026/10/06/nx-s1-5991463/2026-national-book-award-shortlist-finalists",
+      "publishedAt": "2026-10-06T14:30:20.000Z",
+      "sentences": [
+        {
+          "en": "Here are the finalists for the 2026 National Book Awards.",
+          "zh": "以下是2026年国家图书奖的决赛入围者。"
+        },
+        {
+          "en": "Three-time National Book Award finalist Edwidge Danticat and debut novelist Morgan Thomas are up for the fiction prize.",
+          "zh": "三届国家图书奖决赛选手Edwidge Danticat和首位小说家Morgan Thomas正在争夺小说奖。"
+        },
+        {
+          "en": "Nonfiction books cover the prison system and music, and queer parenthood.",
+          "zh": "非小说类书籍涵盖了监狱系统、音乐以及酷儿父母身份。"
+        }
+      ]
+    },
+    {
+      "id": "8eaa8bd3569d7411",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "More than 100 startups joining our Google for Startups Gemini Startup Forum",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/gemini-startup-forum-2026/",
+      "publishedAt": "2026-10-06T14:00:00.000Z",
+      "sentences": [
+        {
+          "en": "More than 100 startups joining our Google for Startups Gemini Startup Forum.",
+          "zh": "超过100家创业公司加入我们的Google for Startups双子座创业论坛。"
+        },
+        {
+          "en": "Discover the pioneering global startups joining us in Mountain View this November to shape the future of AI.",
+          "zh": "探索今年11月在山景城加入我们的全球创业公司，塑造人工智能的未来。"
+        }
+      ]
+    },
+    {
+      "id": "46268e90a7791fb8",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "US televangelist Jim Bakker, disgraced from sex scandal and fraud, dies at 86",
+      "url": "https://www.bbc.co.uk/news/articles/ckly02gd1xppo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-06T13:31:56.000Z",
+      "sentences": [
+        {
+          "en": "US televangelist Jim Bakker, disgraced from sex scandal and fraud, dies at 86.",
+          "zh": "美国电视传道者吉姆·巴克（ Jim Bakker ）因性丑闻和欺诈而蒙受耻辱，享年86岁。"
+        },
+        {
+          "en": "Jim Bakker co-founded The PTL Club with his then-wife Tammy Faye before being jailed for fraud and conspiracy.",
+          "zh": "Jim Bakker与当时的妻子Tammy Faye共同创立了The PTL Club ，然后因欺诈和阴谋被判入狱。"
+        }
+      ]
+    },
+    {
+      "id": "317a166e36b7b086",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Meet the artist who built a giant spider for a virtual world",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/frieze-london-2026/",
+      "publishedAt": "2026-10-06T13:30:00.000Z",
+      "sentences": [
+        {
+          "en": "Meet the artist who built a giant spider for a virtual world.",
+          "zh": "认识为虚拟世界打造巨型蜘蛛的艺术家。"
+        },
+        {
+          "en": "Theo Triantafyllidis won the 2026 Frieze Artist Award, which is supported by Google Arts & Culture.",
+          "zh": "Theo Triantafyllidis获得了2026年弗里兹艺术家奖，该奖项得到了Google Arts & Culture的支持。"
+        }
+      ]
+    },
+    {
+      "id": "c692a64a3ecdefa3",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Kenya confirms first Ebola case as virus ‘surges’ in DR Congo province",
+      "url": "https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc",
+      "publishedAt": "2026-10-06T12:46:56.000Z",
+      "sentences": [
+        {
+          "en": "Kenya confirms first Ebola case as virus ‘surges’ in DR Congo province.",
+          "zh": "肯尼亚确认首例埃博拉病例为刚果民主共和国省的病毒“激增”。"
+        },
+        {
+          "en": "Health minister says 28 contacts identified after death of citizen who arrived from DRC on Saturday Kenya has reported its first-ever Ebola death, the health minister announced on Tuesday, as the disease continues to spread rapidly through the north-east of the Democratic Republic of Congo (DRC), where the outbreak was announced in May.",
+          "zh": "卫生部长周二宣布，在周六从刚果民主共和国抵达肯尼亚的公民死亡后， 28名接触者报告了有史以来第一例埃博拉病毒死亡，因为该疾病继续在刚果民主共和国（ DRC ）东北部迅速蔓延， 5月份宣布爆发疫情。"
+        },
+        {
+          "en": "This is the 17th outbreak of the highly infectious, often deadly disease in the DRC.",
+          "zh": "这是刚果民主共和国第17次爆发这种具有高度传染性且通常致命的疾病。"
+        },
+        {
+          "en": "As of 2 October, 4,082 people had died out of 8,463 confirmed cases in the country since the emergence of the Bundibugyo strain of the Ebola virus, for which there is still no vaccine nor specific treatment.",
+          "zh": "截至10月2日，自Bundibugyo埃博拉病毒株出现以来，该国8,463例确诊病例中已有4,082人死亡，目前尚无疫苗或特定治疗方法。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "6dae1210bfe00544",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "US, Israeli and European far-right figures to gather for conference in Israel",
+      "url": "https://www.theguardian.com/us-news/2026/oct/06/us-israel-far-right-conference",
+      "publishedAt": "2026-10-06T12:21:01.000Z",
+      "sentences": [
+        {
+          "en": "US, Israeli and European far-right figures to gather for conference in Israel.",
+          "zh": "美国、以色列和欧洲的极右翼人士聚集在以色列参加会议。"
+        },
+        {
+          "en": "Trump’s counter-terrorism ‘czar’, Sebastian Gorka, was scheduled to speak at conference but White House says he will no longer attend A National Conservatism (NatCon) conference beginning today in Jerusalem advertises a talk from the Trump administration’s anti-terrorism czar alongside speeches from far-right Israeli politicians, European figures who have faced disciplinary action over alleged antisemitism, and Christian nationalist and far-right figures from the United States.",
+          "zh": "特朗普的反恐“沙皇”塞巴斯蒂安·戈尔卡（ Sebastian Gorka ）原计划在会议上发表讲话，但白宫表示，他将不再参加从今天开始在耶路撒冷举行的国家保守主义（ NatCon ）会议，该会议将宣传特朗普政府反恐沙皇的演讲，以及极右翼以色列政客、因涉嫌反犹太主义而面临纪律处分的欧洲人物以及来自美国的基督教民族主义和极右翼人士的演讲。"
+        },
+        {
+          "en": "The Jerusalem event is perhaps the most significant recent gathering to feature large contingents of Israeli nationalists alongside Christian nationalists and far-right European nationalists from a milieu sometimes shadowed by accusations of antisemitism.",
+          "zh": "耶路撒冷事件可能是最近最重要的聚会，其中包括大批以色列民族主义者以及基督教民族主义者和极右翼欧洲民族主义者，他们的背景有时被反犹太主义指控所掩盖。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "ab44f1651ed32cd5",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Seven arrested for using Ghanaian banknotes to make 'money bouquets'",
+      "url": "https://www.bbc.co.uk/news/articles/c65yn3g53dkqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-06T12:00:10.000Z",
+      "sentences": [
+        {
+          "en": "Seven arrested for using Ghanaian banknotes to make 'money bouquets'.",
+          "zh": "七人因使用加纳钞票制作“金钱花束”而被捕。"
+        },
+        {
+          "en": "The arrests are part of the country's efforts to curb the misuse and abuse of the national currency.",
+          "zh": "逮捕是该国遏制滥用和滥用本国货币的努力的一部分。"
+        }
+      ]
+    },
+    {
+      "id": "0063394d413ed7fb",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "When streets become pharmacies: Booming illicit markets in Central Africa",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168527",
+      "publishedAt": "2026-10-06T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "When streets become pharmacies: Booming illicit markets in Central Africa.",
+          "zh": "当街道变成药店：中非蓬勃发展的非法市场。"
+        },
+        {
+          "en": "Antibiotics, malaria treatments, painkillers, opioids.",
+          "zh": "抗生素、疟疾治疗、止痛药、阿片类药物。"
+        },
+        {
+          "en": "More than 250 tonnes of medical products were seized over six years in Central Africa.",
+          "zh": "六年来，在中部非洲缉获了250多吨医疗产品。"
+        },
+        {
+          "en": "Behind those numbers is an illicit market that thrives not simply despite the region’s fragile health systems, but in part because of them.",
+          "zh": "这些数字的背后是一个非法市场，尽管该地区的卫生系统脆弱，但它仍然蓬勃发展，部分原因是它们。"
+        }
+      ]
+    },
+    {
+      "id": "c229d14b47b96237",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "‘Ebola takes the people children depend on’: UNICEF",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168531",
+      "publishedAt": "2026-10-06T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "‘Ebola takes the people children depend on’: UNICEF.",
+          "zh": "“埃博拉病毒夺走了儿童赖以生存的人民” ：联合国儿童基金会。"
+        },
+        {
+          "en": "The Ebola outbreak in the eastern Democratic Republic of the Congo (DRC) is robbing children of their loved ones – with some succumbing to the deadly disease themselves, the UN Children’s Fund (UNICEF) reported on Tuesday.",
+          "zh": "联合国儿童基金会（ UNICEF ）周二报告称，刚果民主共和国东部的埃博拉疫情正在抢夺儿童的亲人--其中一些人自己也死于这种致命的疾病。"
+        }
+      ]
+    },
+    {
+      "id": "44201b6f30b0df16",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "In Islamabad, Guterres calls for end to US-Iran conflict",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168532",
+      "publishedAt": "2026-10-06T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "In Islamabad, Guterres calls for end to US-Iran conflict.",
+          "zh": "在伊斯兰堡，古特雷斯呼吁结束美伊冲突。"
+        },
+        {
+          "en": "The UN Secretary-General appealed on Tuesday for an end to the United States-Iran war and the toll it has taken on global trade, as he began an official visit to Pakistan.",
+          "zh": "联合国秘书长周二呼吁结束美伊战争及其对全球贸易造成的损失，他开始对巴基斯坦进行正式访问。"
+        }
+      ]
+    },
+    {
+      "id": "c2ca8cb1683d3544",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Testing and monitoring underway in suspected Russia plague death",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168533",
+      "publishedAt": "2026-10-06T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Testing and monitoring underway in suspected Russia plague death.",
+          "zh": "疑似俄罗斯鼠疫死亡的检测和监测正在进行中。"
+        },
+        {
+          "en": "The death of a lab worker in Russia’s Siberia region has sparked concerns over a possible plague case, the UN World Health Organization (WHO) said on Tuesday, adding that it was following the situation closely.",
+          "zh": "联合国世界卫生组织（世卫组织）周二表示，俄罗斯西伯利亚地区一名实验室工作人员的死亡引发了对可能的瘟疫病例的担忧，并补充说，它正在密切关注这一情况。"
+        }
+      ]
+    },
+    {
+      "id": "30b898c39878d231",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Djibouti faces ‘overlapping emergencies’ as Yemen’s refugee exodus continues",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168535",
+      "publishedAt": "2026-10-06T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Djibouti faces ‘overlapping emergencies’ as Yemen’s refugee exodus continues.",
+          "zh": "由于也门的难民外流仍在继续，吉布提面临“重叠的紧急情况”。"
+        },
+        {
+          "en": "Djibouti is facing “overlapping emergencies” as refugees fleeing the conflict in Yemen arrive on its shores while migrants continue to travel in the opposite direction, the UN migration agency (IOM) warned on Tuesday.",
+          "zh": "联合国移民机构（ IOM ）周二警告说，吉布提正面临“重叠的紧急情况” ，因为逃离也门冲突的难民抵达其海岸，而移民继续朝着相反的方向旅行。"
+        }
+      ]
+    },
+    {
+      "id": "ecdcf6db6df91211",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "From drought to deluge: ‘Super’ El Niño’s expanding reach",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168537",
+      "publishedAt": "2026-10-06T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "From drought to deluge: ‘Super’ El Niño’s expanding reach.",
+          "zh": "从干旱到洪水： “超级”厄尔尼诺现象的影响范围不断扩大。"
+        },
+        {
+          "en": "Across Papua New Guinea, water sources are drying up, crops are failing and food prices are rising months before the worst agricultural impacts are expected.",
+          "zh": "在整个巴布亚新几内亚，水源正在枯竭，作物歉收，粮食价格在预计最严重的农业影响之前几个月上涨。"
+        },
+        {
+          "en": "Behind those warning signs is an El Niño whose Pacific Ocean temperatures have already surpassed the equivalent measurements during the historic 1997 and 2015 events – part of an unfolding climate pattern being dubbed a “Super El Niño” by some climate watchers.",
+          "zh": "这些警告标志的背后是一个厄尔尼诺现象，其太平洋温度已经超过了1997年和2015年历史性事件期间的同等测量值，这是正在展开的气候模式的一部分，被一些气候观察家称为“超级厄尔尼诺现象”。"
+        }
+      ]
+    },
+    {
+      "id": "56096ef5d9f85907",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Ship sinks and crew missing after Black Sea drone attack",
+      "url": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-06T11:53:21.000Z",
+      "sentences": [
+        {
+          "en": "Ship sinks and crew missing after Black Sea drone attack.",
+          "zh": "黑海无人机袭击后，船只沉没，船员失踪。"
+        },
+        {
+          "en": "It is not clear who is behind the attacks which come as Russia intensifies strikes in the Black Sea as part of its war against Ukraine.",
+          "zh": "目前尚不清楚俄罗斯在对乌克兰的战争中加紧在黑海发动罢工的袭击背后是谁。"
+        }
+      ]
+    },
+    {
+      "id": "dc96091dd82116a4",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "What to know about nationwide protests in India over voter list changes",
+      "url": "https://www.npr.org/2026/10/06/g-s1-146636/what-to-know-about-nationwide-protests-in-india-over-voter-list-changes",
+      "publishedAt": "2026-10-06T11:44:06.000Z",
+      "sentences": [
+        {
+          "en": "What to know about nationwide protests in India over voter list changes.",
+          "zh": "印度全国范围内针对选民名单变化的抗议活动须知。"
+        },
+        {
+          "en": "The campaign is led in part by India's \"Cockroach\" youth movement, which previously forced the education minister to resign.",
+          "zh": "这场运动的部分原因是印度的“蟑螂”青年运动，该运动此前迫使教育部长辞职。"
+        },
+        {
+          "en": "(Image credit: Rafiq Maqbool)",
+          "zh": "（图片来源： Rafiq Maqbool ）"
+        }
+      ]
+    },
+    {
+      "id": "0178ed3a64125aad",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Argentina will stop Falklands exploiting offshore oilfields, foreign minister says",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/06/argentina-to-stop-falkland-islands-exploiting-offshore-oilfields-sovereignty",
+      "publishedAt": "2026-10-06T11:40:03.000Z",
+      "sentences": [
+        {
+          "en": "Argentina will stop Falklands exploiting offshore oilfields, foreign minister says.",
+          "zh": "阿根廷外交部长表示，阿根廷将阻止福克兰群岛开采海上油田。"
+        },
+        {
+          "en": "Pablo Quirno says move is part of Argentinian government’s strategy to peacefully assert sovereignty over the islands Argentina’s foreign minister has told an audience that included the British ambassador that his government would stop the Falkland Islands from exploiting its offshore oilfields as part of a strategy to take sovereignty.",
+          "zh": "巴勃罗·奎尔诺（ Pablo Quirno ）表示，此举是阿根廷政府和平维护群岛主权战略的一部分。阿根廷外交部长告诉包括英国大使在内的听众，阿根廷政府将阻止福克兰群岛开采其海上油田，作为夺取主权战略的一部分。"
+        },
+        {
+          "en": "During a speech at a thinktank event in the Argentinian capital, Pablo Quirno condemned the British government for failing to open negotiations over the islands and facilitating a significant offshore oil project in its waters.",
+          "zh": "巴勃罗·奎尔诺（ Pablo Quirno ）在阿根廷首都举行的一次智库活动中发表讲话，谴责英国政府未能就这些岛屿展开谈判，并在其水域推动了一个重要的海上石油项目。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "2f7ec6b0f61afc1a",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Vietnamese police arrest 12 suspected of prowling city streets at night, snatching cats for meat",
+      "url": "https://www.npr.org/2026/10/06/g-s1-146634/vietnamese-police-arrest-12-suspected-of-prowling-city-streets-at-night-snatching-cats-for-meat",
+      "publishedAt": "2026-10-06T11:38:48.000Z",
+      "sentences": [
+        {
+          "en": "Vietnamese police arrest 12 suspected of prowling city streets at night, snatching cats for meat.",
+          "zh": "越南警方逮捕了12名涉嫌夜间在城市街道上徘徊，抢夺猫肉的嫌疑人。"
+        },
+        {
+          "en": "State media cited investigators who said the network recruited people to ride motorcycles through neighborhoods at night, trapping up to 10 cats a night.",
+          "zh": "官方媒体援引调查人员的话说，该网络招募人们在夜间骑摩托车穿越社区，每晚最多可捕获10只猫。"
+        },
+        {
+          "en": "(Image credit: Humane World for Animals)",
+          "zh": "（图片来源： Humane World for Animals ）"
+        }
+      ]
+    },
+    {
+      "id": "132220dbc4a256b1",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Ex-spy chief is arrested in Germany on suspicion of trading state secrets and treason",
+      "url": "https://www.npr.org/2026/10/06/g-s1-146630/germany-ex-spy-chief-state-secrets",
+      "publishedAt": "2026-10-06T11:31:48.000Z",
+      "sentences": [
+        {
+          "en": "Ex-spy chief is arrested in Germany on suspicion of trading state secrets and treason.",
+          "zh": "前间谍头目因涉嫌交易国家机密和叛国罪在德国被捕。"
+        },
+        {
+          "en": "A former head of Germany 's foreign intelligence service was arrested on suspicion that he had passed state secrets to a foreign intelligence service, the federal prosecutor's office said.",
+          "zh": "联邦检察官办公室表示，德国前外国情报部门负责人因涉嫌将国家机密传递给外国情报部门而被捕。"
+        },
+        {
+          "en": "(Image credit: Michael Kappeler)",
+          "zh": "（图片来源： Michael Kappeler ）"
+        }
+      ]
+    },
+    {
+      "id": "c1ba6177026c9159",
+      "sourceId": "bbc-world",
+      "category": "science",
+      "title": "'Ghost particles' from space telescope wins physics Nobel",
+      "url": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-06T11:24:19.000Z",
+      "sentences": [
+        {
+          "en": "'Ghost particles' from space telescope wins physics Nobel.",
+          "zh": "来自太空望远镜的“幽灵粒子”赢得了物理学诺贝尔奖。"
+        },
+        {
+          "en": "Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space.",
+          "zh": "比利时物理学家弗朗西斯·哈尔岑（ Francis Halzen ）教授因其在探测太空粒子的天文台方面的开创性工作而获奖。"
+        }
+      ]
+    },
+    {
+      "id": "e13104dbeaecca61",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Dems have edge in midterms, poll shows. And, Paramount-Warner Bros. merger to close",
+      "url": "https://www.npr.org/2026/10/06/g-s1-146626/up-first-newsletter-election-day-skydance-christa-pike-russia-plague-scare",
+      "publishedAt": "2026-10-06T11:19:25.000Z",
+      "sentences": [
+        {
+          "en": "Dems have edge in midterms, poll shows.",
+          "zh": "民意调查显示，民主党在中期选举中占有优势。"
+        },
+        {
+          "en": "And, Paramount-Warner Bros.",
+          "zh": "以及派拉蒙-华纳兄弟"
+        },
+        {
+          "en": "merger to close.",
+          "zh": "合并完成。"
+        },
+        {
+          "en": "Polls are showing that Democrats have a clear advantage heading into the midterms, but that doesn't tell the whole story.",
+          "zh": "民意调查显示，民主党在进入中期选举方面具有明显的优势，但这并不能说明整个情况。"
+        },
+        {
+          "en": "And, today, a mega merger between Paramount and Warner Bros.",
+          "zh": "而且，今天，派拉蒙和华纳兄弟进行了大规模合并。"
+        },
+        {
+          "en": "is set to close.",
+          "zh": "设置为关闭"
+        },
+        {
+          "en": "(Image credit: Tom Brenner)",
+          "zh": "（图片来源： Tom Brenner ）"
+        }
+      ]
+    },
+    {
+      "id": "557f718236a562de",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "A history of presidents naming things after themselves (It's short. They rarely do)",
+      "url": "https://www.npr.org/2026/10/06/nx-s1-5986321/kennedy-center-trump-naming-washington",
+      "publishedAt": "2026-10-06T11:00:00.000Z",
+      "sentences": [
+        {
+          "en": "A history of presidents naming things after themselves (It's short.",
+          "zh": "总统以自己的名字命名的历史（很短。"
+        },
+        {
+          "en": "They rarely do).",
+          "zh": "他们很少这样做）。"
+        },
+        {
+          "en": "While Trump pushes to get his name on the Kennedy Center and other public sites, history shows that sitting presidents have almost always avoided putting their brands on government assets.",
+          "zh": "虽然特朗普推动在肯尼迪中心和其他公共网站上宣传他的名字，但历史表明，现任总统几乎总是避免将自己的品牌放在政府资产上。"
+        },
+        {
+          "en": "(Image credit: Alex Wroblewski)",
+          "zh": "（图片来源： Alex Wroblewski ）"
+        }
+      ]
+    },
+    {
+      "id": "86098b3cc1269119",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "What voters in 6 key states could tell us about the 2026 midterms",
+      "url": "https://www.npr.org/2026/10/06/g-s1-146559/morning-edition-2026-midterms-election-voters-states",
+      "publishedAt": "2026-10-06T11:00:00.000Z",
+      "sentences": [
+        {
+          "en": "What voters in 6 key states could tell us about the 2026 midterms.",
+          "zh": "6个关键州的选民可以告诉我们2026年中期选举的情况。"
+        },
+        {
+          "en": "Morning Edition is heading to Maine, Texas, North Carolina, Georgia, Ohio and Michigan to hear what voters say is shaping their choices ahead of the midterm elections.",
+          "zh": "《晨报》将前往缅因州、德克萨斯州、北卡罗来纳州、佐治亚州、俄亥俄州和密歇根州，听取选民在中期选举前做出的选择。"
+        },
+        {
+          "en": "(Image credit: Tom Brenner)",
+          "zh": "（图片来源： Tom Brenner ）"
+        }
+      ]
+    },
+    {
+      "id": "9055e51399321492",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Former German spy chief arrested for espionage and treason",
+      "url": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-06T10:05:42.000Z",
+      "sentences": [
+        {
+          "en": "Former German spy chief arrested for espionage and treason.",
+          "zh": "前德国间谍头目因间谍罪和叛国罪被捕。"
+        },
+        {
+          "en": "August Hanning is accused of obtaining classified information for a foreign power.",
+          "zh": "August Hanning被指控为外国势力获取机密信息。"
+        }
+      ]
+    },
+    {
+      "id": "2efce67f0a5971eb",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Indian opposition MPs detained in protest against election chief",
+      "url": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-06T10:05:22.000Z",
+      "sentences": [
+        {
+          "en": "Indian opposition MPs detained in protest against election chief.",
+          "zh": "印度反对党议员因抗议选举主席而被拘留。"
+        },
+        {
+          "en": "Opposition leaders have alleged that CEC Gyanesh Kumar manipulated voter rolls to favour Prime Minister Narendra Modi's party during elections.",
+          "zh": "反对派领导人声称，中央选举委员会Gyanesh Kumar在选举期间操纵选民名册，支持总理纳伦德拉·莫迪（ Narendra Modi ）的政党。"
+        }
+      ]
+    },
+    {
+      "id": "27215d831bbe09a3",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Why we're backing America's existing nuclear plants",
+      "url": "https://blog.google/company-news/why-were-backing-americas-existing-nuclear-plants/",
+      "publishedAt": "2026-10-06T10:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Why we're backing America's existing nuclear plants.",
+          "zh": "为什么我们要支持美国现有的核电站。"
+        },
+        {
+          "en": "Our new agreement with Constellation Energy brings the total new nuclear capacity we’ve enabled for the U.S. energy system from uprates and restarts to over 1.5 GW.",
+          "zh": "我们与Constellation Energy达成的新协议使我们为美国能源系统实现的新核电总容量从上行和重启到超过1.5吉瓦。"
+        }
+      ]
+    },
+    {
+      "id": "3c083504fded628a",
+      "sourceId": "ms-devblogs",
+      "category": "release-notes",
+      "title": "What is Agent Experience (AX)?",
+      "url": "https://devblogs.microsoft.com/blog/what-is-agent-experience-ax/",
+      "publishedAt": "2026-10-06T09:18:05.000Z",
+      "sentences": [
+        {
+          "en": "What is Agent Experience (AX)?.",
+          "zh": "什么是客服代表体验(AX) ？。"
+        },
+        {
+          "en": "Agent Experience is the experience AI agents have when discovering, choosing, and using your technology.",
+          "zh": "代理体验是人工智能代理在发现、选择和使用您的技术时所拥有的体验。"
+        },
+        {
+          "en": "Practicing AX means systematically improving that experience.",
+          "zh": "练习AX意味着系统地改善这种体验。"
+        },
+        {
+          "en": "Measurement is how you know whether you did.",
+          "zh": "衡量是您如何知道自己是否做到了。"
+        },
+        {
+          "en": "Developers now ask AI agents to build with your SDK, API, or CLI, and they judge your technology by what the agent produces.",
+          "zh": "开发人员现在要求AI代理使用您的SDK、API或CLI进行构建，并根据代理的产品来判断您的技术。"
+        },
+        {
+          "en": "If the agent picks a competing service, calls an API you deprecated, or reports success on a broken build, your technology looks broken, even when your docs are excellent for people.",
+          "zh": "如果客服代表选择了竞争性服务，调用了您已弃用的API ，或者报告了生成失败的成功，即使您的文档非常适合人员，您的技术也会失败。"
+        },
+        {
+          "en": "Mathias Biilmann of Netlify coined the term in January 2025 and described it as “the holistic experience AI agents will have as the user of a product or platform.” It applies to any AI agent, from a coding agent in your editor to ChatGPT calling your MCP server.",
+          "zh": "Netlify的Mathias Biilmann在2025年1月创造了这个术语，并将其描述为“人工智能代理作为产品或平台的用户将拥有的整体体验。“它适用于任何AI代理，从编辑器中的编码代理到调用MCP服务器的ChatGPT。"
+        },
+        {
+          "en": "What Agent Experience measures AX comes down to two questions.",
+          "zh": "客服代表体验如何衡量AX归结为两个问题。"
+        },
+        {
+          "en": "The first is propensity : does the agent find your technology and choose it?",
+          "zh": "首先是倾向：代理是否找到并选择了您的技术？"
+        },
+        {
+          "en": "Give the agent a task that doesn’t name your product, like adding email sending to an app, and see what it reaches for.",
+          "zh": "为代理提供不命名产品的任务，例如将电子邮件发送添加到应用程序，并查看其达到的目的。"
+        },
+        {
+          "en": "The second is efficacy : once the agent uses your technology, does it use it correctly?",
+          "zh": "第二个是功效：一旦客服代表使用了你的技术，它是否正确使用了它？"
+        },
+        {
+          "en": "Name your product in the task, and see whether the agent calls your current API or one you deprecated.",
+          "zh": "在任务中命名您的产品，并查看代理是否调用您当前的API或您已弃用的API。"
+        }
+      ]
+    },
+    {
+      "id": "2ca30dde97389635",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Yemeni military says it has 'secured' Red Sea waterway",
+      "url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-06T07:43:07.000Z",
+      "sentences": [
+        {
+          "en": "Yemeni military says it has 'secured' Red Sea waterway.",
+          "zh": "也门军方表示已“保护”红海水道。"
+        },
+        {
+          "en": "Saudi-backed forces gave conflicting reports of whether they had also seized the port city of Mokha, near the Bab al-Mandab Strait.",
+          "zh": "沙特支持的部队就他们是否还占领了Bab al-Mandab海峡附近的港口城市Mokha发表了相互矛盾的报告。"
+        }
+      ]
+    },
+    {
+      "id": "fe65fc8a03886a6d",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Flávio’s surprise first-round election win highlights rapid rise of Brazil’s House of Bolsonaro",
+      "url": "https://www.theguardian.com/world/2026/oct/06/keeping-up-with-the-bolsonaros-flavios-surprise-first-round-election-win-heralds-rise-of-a-political-dynasty",
+      "publishedAt": "2026-10-06T07:00:05.000Z",
+      "sentences": [
+        {
+          "en": "Flávio’s surprise first-round election win highlights rapid rise of Brazil’s House of Bolsonaro.",
+          "zh": "弗拉维奥出人意料的第一轮选举胜利凸显了巴西博尔索纳罗家族的迅速崛起。"
+        },
+        {
+          "en": "Four members of disgraced ex-president Jair Bolsonaro’s family have been elected to office, most notably his wife and son Flávio, who won the first round of voting to be Brazil’s new president The weekend’s elections in Brazil not only put Jair Bolsonaro’s eldest son, Flávio Bolsonaro, in the lead in the presidential race , but also underscored how far the former president has come in building a political dynasty.",
+          "zh": "耻辱的前总统雅伊尔·博尔索纳罗（ Jair Bolsonaro ）家族的四名成员当选为总统，最著名的是他的妻子和儿子弗拉维奥（ Flávio ） ，他赢得了巴西新总统的第一轮投票。周末在巴西举行的选举不仅让雅伊尔·博尔索纳罗（ Jair Bolsonaro ）的长子弗拉维奥·博尔索纳罗（ Flávio Bolsonaro ）在总统竞选中处于领先地位，而且还强调了前总统在建立政治王朝方面所取得的进展。"
+        },
+        {
+          "en": "As his far-right senator son heads into a runoff against the leftist incumbent, Luiz Inácio Lula da Silva, a sweeping far-right victory in congressional races also secured seats for Jair Bolsonaro’s wife, two of his sons and one of his brothers.",
+          "zh": "当他的极右翼参议员儿子路易斯·伊纳西奥·卢拉·达席尔瓦（ Luiz Inácio Lula da Silva ）与左翼现任总统决选时，他在国会竞选中取得了全面的极右翼胜利，也为贾尔·博尔索纳罗（ Jair Bolsonaro ）的妻子、他的两个儿子和他的一个兄弟赢得了席位。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "b4c28c262084a2cb",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "From competing for food to a gold medal: the stories behind India’s Asian Games winners",
+      "url": "https://www.theguardian.com/world/2026/oct/05/this-is-india-asian-games-winners-success",
+      "publishedAt": "2026-10-06T06:30:04.000Z",
+      "sentences": [
+        {
+          "en": "From competing for food to a gold medal: the stories behind India’s Asian Games winners.",
+          "zh": "从争夺食物到金牌：印度亚运会冠军背后的故事。"
+        },
+        {
+          "en": "The country’s 85-medal haul included athletes who trained with limited money and borrowed equipment.",
+          "zh": "该国的85枚奖牌包括以有限的资金和借用设备进行训练的运动员。"
+        },
+        {
+          "en": "Plus, the Mumbai performer turning everyday absurdities into comedy In a country where cricket eclipses every other sport, the recently concluded Asian Games offered a much-needed reminder of India’s breadth of sporting talent.",
+          "zh": "此外，这位孟买表演者将日常的荒谬变成了喜剧在一个板球超越其他所有运动的国家，最近结束的亚运会提醒人们印度体育人才的广度。"
+        },
+        {
+          "en": "In this edition of the games, in Japan, India won 85 medals : 21 golds, 27 silver and 37 bronze medals.",
+          "zh": "在本届奥运会上，印度在日本赢得了85枚奖牌： 21枚金牌、27枚银牌和37枚铜牌。"
+        },
+        {
+          "en": "I admit I did not know many of the players competing, or even some of the sports they play before putting this piece together.",
+          "zh": "我承认，在组装这件作品之前，我不知道很多球员参加比赛，甚至不知道他们参加的一些运动。"
+        },
+        {
+          "en": "Learning about the stories, I wonder why not.",
+          "zh": "了解这些故事，我想知道为什么不呢。"
+        },
+        {
+          "en": "There were individual breakthroughs, records broken and history made.",
+          "zh": "有个人突破，有破纪录，有历史。"
+        },
+        {
+          "en": "There were also hard-fought team victories, including the Indian women’s hockey team gold medal after a 44-year wait.",
+          "zh": "还有艰苦的球队胜利，包括印度女子曲棍球队经过44年的等待获得金牌。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "416513099ba6cf83",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Tigray rebel groups ‘forcibly recruiting boys as young as 15’ as fighting spreads",
+      "url": "https://www.theguardian.com/global-development/2026/oct/06/ethiopia-tigray-conflict-tplf-rebels-forcibly-recruit-boys-war-crimes",
+      "publishedAt": "2026-10-06T05:00:02.000Z",
+      "sentences": [
+        {
+          "en": "Tigray rebel groups ‘forcibly recruiting boys as young as 15’ as fighting spreads.",
+          "zh": "随着战斗的蔓延，提格雷叛乱团体强行招募年仅15岁的男孩。"
+        },
+        {
+          "en": "Civilians try to flee as men and boys rounded up on streets by new alliance as Ethiopia conflict erupts again As renewed fighting has threatened a fresh humanitarian crisis in the northern region of Ethiopia, reports are emerging that a new alliance of armed groups in Tigray has been forcibly recruiting men and boys to its ranks.",
+          "zh": "随着埃塞俄比亚冲突再次爆发，男人和男孩在街头被新联盟围捕，平民试图逃离。随着重新爆发的战斗威胁到埃塞俄比亚北部地区新的人道主义危机，有报道称，提格雷的新武装团体联盟强行招募男人和男孩加入其队伍。"
+        },
+        {
+          "en": "Renewed conflict erupted on 23 September between Ethiopia’s federal government and the Tigray People’s Liberation Front (TPLF), which rules the region, shattering the fragile Pretoria peace agreement signed between the two sides in November 2022.",
+          "zh": "9月23日，埃塞俄比亚联邦政府与统治该地区的提格雷人民解放阵线（ TPLF ）之间再次爆发冲突，打破了双方于2022年11月签署的脆弱的比勒陀利亚和平协议。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "95e3eba1f9d96452",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Fuel from South Korea being shipped to Russia as Ukraine war grinds on",
+      "url": "https://www.theguardian.com/world/2026/oct/06/oil-tankers-south-korea-russia-ukraine-war",
+      "publishedAt": "2026-10-05T23:50:12.000Z",
+      "sentences": [
+        {
+          "en": "Fuel from South Korea being shipped to Russia as Ukraine war grinds on.",
+          "zh": "随着乌克兰战争的继续，来自韩国的燃料被运往俄罗斯。"
+        },
+        {
+          "en": "Exclusive: Guardian analysis finds more than 150,000 tonnes of fuel was shipped to Russian ports in July and August, some using sanctioned tankers Fuel is being shipped from South Korea to Russia via sanctioned tankers as Moscow scrambles for supplies amid the war in Ukraine, a move one expert said “undermines” Seoul’s public backing for Kyiv.",
+          "zh": "独家：卫报的分析发现， 7月和8月向俄罗斯港口运送了超过15万吨的燃料，其中一些使用受制裁的油轮燃料正在通过受制裁的油轮从韩国运往俄罗斯，因为莫斯科在乌克兰战争期间争夺供应，一位专家称此举“破坏”了首尔对基辅的公共支持。"
+        },
+        {
+          "en": "Guardian analysis of port records and ship-tracking data found that in July and August over 176,000 tonnes of fuel, mostly diesel, was loaded at several South Korean ports on to seven tankers that made 14 voyages to Russia’s far east.",
+          "zh": "卫报对港口记录和船舶跟踪数据的分析发现， 7月和8月，超过176,000吨燃料（主要是柴油）在几个韩国港口装载到七艘油轮上，这些油轮前往俄罗斯远东地区进行了14次航行。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "e2e09717e156e6d0",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Flávio Bolsonaro poised to win Brazilian presidency after shock first-round victory",
+      "url": "https://www.theguardian.com/world/2026/oct/05/flavio-bolsonaro-brazilian-presidency-election-shock-first-round-victory",
+      "publishedAt": "2026-10-05T20:06:18.000Z",
+      "sentences": [
+        {
+          "en": "Flávio Bolsonaro poised to win Brazilian presidency after shock first-round victory.",
+          "zh": "弗拉维奥·博尔索纳罗（ Flávio Bolsonaro ）在震惊的第一轮胜利后准备赢得巴西总统职位。"
+        },
+        {
+          "en": "Progressive voters and supporters of incumbent president Luiz Inácio Lula da Silva left reeling after far-right surge Flávio Bolsonaro is in pole position to win Brazil’s presidential election, after a far-right tsunami propelled him to a shock first-round victory over the incumbent, Luiz Inácio Lula da Silva, leaving progressive voters reeling.",
+          "zh": "进步派选民和现任总统路易斯·伊纳西奥·卢拉·达席尔瓦（ Luiz Inácio Lula da Silva ）的支持者在极右翼激增后陷入困境，弗拉维奥·博尔索纳罗（ Flávio Bolsonaro ）在极右翼海啸推动他首轮击败现任总统路易斯·伊纳西奥·卢拉·达席尔瓦（ Luiz Inácio Lula da Silva ） ，使进步派选民陷入困境后，赢得巴西总统大选。"
+        },
+        {
+          "en": "The 45-year-old rightwing candidate received 56.1m votes to Lula’s 53.8m – 47.03% to 45.16% – meaning the 80-year-old leftwinger has a mountain to climb if he is to bounce back in the second round on 25 October.",
+          "zh": "这位45岁的右翼候选人获得了5610万张选票，而卢拉的得票率为5380万– 47.03 ％至45.16 ％ –这意味着这位80岁的左翼人士如果要在10月25日的第二轮中反弹，他还有一座山要攀登。"
+        },
+        {
+          "en": "Never, since the return of democracy to Brazil in 1985, has the first-round runner-up managed to turn the game around and win the second ballot.",
+          "zh": "自1985年巴西恢复民主以来，第一轮亚军从未设法扭转局面并赢得第二轮投票。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "ce7097e55616b5f4",
+      "sourceId": "k8s-blog",
+      "category": "cloud",
+      "title": "Scaling Kubernetes Workloads with Node Swap",
+      "url": "https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/",
+      "publishedAt": "2026-10-05T18:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Scaling Kubernetes Workloads with Node Swap.",
+          "zh": "使用节点交换扩展Kubernetes工作负载。"
+        },
+        {
+          "en": "Memory is often the first hard limit a Kubernetes cluster hits.",
+          "zh": "内存通常是Kubernetes集群命中的第一个硬限制。"
+        },
+        {
+          "en": "Nodes run out of RAM long before they run out of CPU, and the new wave of agentic AI workloads makes this worse.",
+          "zh": "节点在CPU耗尽之前很久就耗尽了RAM ，而新一波的代理AI工作负载使情况变得更糟。"
+        },
+        {
+          "en": "These workloads demand large memory footprints to start up and run untrusted code, then sit idle waiting for the next prompt.",
+          "zh": "这些工作负载需要大量内存空间来启动和运行不受信任的代码，然后闲置等待下一个提示。"
+        },
+        {
+          "en": "That idle but resident memory is expensive, and it caps how many pods a node can hold.",
+          "zh": "这种空闲但驻留的内存是昂贵的，并且它限制了节点可以容纳多少个pod。"
+        },
+        {
+          "en": "This is where swap helps.",
+          "zh": "这是互换有帮助的地方。"
+        },
+        {
+          "en": "Kubernetes support for running nodes with swap enabled reached General Availability in v1.34, and by backing that swap with fast NVMe solid state drives (SSDs), a node can page out dormant memory and pack in far more pods.",
+          "zh": null
+        },
+        {
+          "en": "This post explains how we benchmarked that approach across three workloads, including CI/CD kernel builds, sandboxed headless browsers, and isolated Python runtimes; we found density gains of up to 3×, often with little or no latency cost.",
+          "zh": "这篇文章解释了我们如何在三个工作负载上对这种方法进行基准测试，包括CI/CD内核构建、沙盒无头浏览器和独立的Python运行时；我们发现密度增加高达3倍，通常几乎没有延迟成本。"
+        },
+        {
+          "en": "The node density problem The Kubernetes ecosystem has reached a fundamental physical resource constraint: the strict limits of hardware memory versus the growing demand for dynamic, bursty workloads in the new agentic era.",
+          "zh": null
+        },
+        {
+          "en": "Historically, administrators provisioning memory-intensive workloads encountered a persistent dilemma: set memory limits too high and you waste expensive infrastructure on idle RAM; set them too low and you risk Out-Of-Memory (OOM) kills.",
+          "zh": null
+        },
+        {
+          "en": "This conflict is amplified when deploying autonomous AI agents using secure execution environments like the agent-sandbox framework.",
+          "zh": null
+        },
+        {
+          "en": "These agentic pods require large memory footprints to initialize and execute untrusted code.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "13fd55d558d5b52f",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Here’s how I use technology to bring science to life in my classroom.",
+      "url": "https://blog.google/products-and-platforms/products/education/science-teacher-gemini/",
+      "publishedAt": "2026-10-05T16:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Here’s how I use technology to bring science to life in my classroom.",
+          "zh": "以下是我如何利用技术将科学带入课堂。"
+        },
+        {
+          "en": "See how this teacher uses Gemini and Gemini Notebook to build digital literacy and refine lesson plans.",
+          "zh": "了解这位老师如何使用Gemini和Gemini Notebook来构建数字素养和完善课程计划。"
+        },
+        {
+          "en": "Read the full story to improve your teaching.",
+          "zh": "阅读完整故事以改进您的教学。"
+        }
+      ]
+    },
+    {
+      "id": "02712f54e967f63b",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Technology helps my students balance big creative ideas with tight deadlines.",
+      "url": "https://blog.google/products-and-platforms/products/education/media-teacher-gemini/",
+      "publishedAt": "2026-10-05T16:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Technology helps my students balance big creative ideas with tight deadlines.",
+          "zh": "技术可以帮助我的学生在紧迫的期限内平衡大型创意创意。"
+        },
+        {
+          "en": "Students use Google Drive for video assets and Sheets for production timelines to meet tight deadlines.",
+          "zh": "学生将Google云端硬盘用于视频资产，将工作表用于制作时间表，以满足紧迫的截止日期。"
+        },
+        {
+          "en": "See how these tools boost classroom output.",
+          "zh": "了解这些工具如何提高课堂产出。"
+        }
+      ]
+    },
+    {
+      "id": "e19c9e6ee550c244",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "My eighth-grade students built our school newscast from scratch with Gemini.",
+      "url": "https://blog.google/products-and-platforms/products/education/gemini-student-newscast/",
+      "publishedAt": "2026-10-05T16:00:00.000Z",
+      "sentences": [
+        {
+          "en": "My eighth-grade students built our school newscast from scratch with Gemini.",
+          "zh": "我的八年级学生用Gemini从头开始制作我们学校的新闻广播。"
+        },
+        {
+          "en": "Eighth graders built The Cougar Rumble newscast using Gemini and Google Docs.",
+          "zh": "八年级学生使用Gemini和Google Docs制作了The Cougar Rumble新闻广播。"
+        },
+        {
+          "en": "See how these students streamlined their production workflow today.",
+          "zh": "看看这些学生今天如何简化他们的生产工作流程。"
+        }
+      ]
+    },
+    {
+      "id": "0a87ba260f515b8c",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "I use technology to give students a voice and become critical digital citizens.",
+      "url": "https://blog.google/products-and-platforms/products/education/teacher-voices-sweden/",
+      "publishedAt": "2026-10-05T16:00:00.000Z",
+      "sentences": [
+        {
+          "en": "I use technology to give students a voice and become critical digital citizens.",
+          "zh": "我利用技术为学生发声，成为关键的数字公民。"
+        },
+        {
+          "en": "Empower students using Google Sites, Gemini, and Vids to build critical thinking skills.",
+          "zh": "让学生能够使用Google Sites、Gemini和Vids培养批判性思维技能。"
+        },
+        {
+          "en": "See how these tools help kids find their voice today.",
+          "zh": "看看这些工具今天如何帮助孩子们找到自己的声音。"
+        }
+      ]
+    }
+  ],
+  "failures": []
+}
