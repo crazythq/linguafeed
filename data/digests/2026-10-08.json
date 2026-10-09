@@ -1,0 +1,907 @@
+{
+  "date": "2026-10-08",
+  "collectedAt": "2026-10-09T04:44:35.565Z",
+  "items": [
+    {
+      "id": "f34c1ddcc23340da",
+      "sourceId": "npr-news",
+      "category": "science",
+      "title": "4 people on NASA's Crew-12 mission return to Earth after 8 months in space",
+      "url": "https://www.npr.org/2026/10/08/nx-s1-5992845/nasa-spacex-crew-12-international-space-station-iss-splashdown",
+      "publishedAt": "2026-10-08T15:34:39.000Z",
+      "sentences": [
+        {
+          "en": "4 people on NASA's Crew-12 mission return to Earth after 8 months in space.",
+          "zh": "美国宇航局Crew-12任务的4人在太空中待了8个月后返回地球。"
+        },
+        {
+          "en": "Four people — two NASA astronauts, one from the European Space Agency and a Russian cosmonaut — spent nearly eight months at the space station, conducting spacewalks, science experiments and research.",
+          "zh": "四人--两名美国宇航局宇航员，一名来自欧洲航天局，一名来自俄罗斯宇航员--在空间站呆了近八个月，进行太空行走、科学实验和研究。"
+        },
+        {
+          "en": "(Image credit: NASA via Anil Menon)",
+          "zh": "（图片来源： NASA via Anil Menon ）"
+        }
+      ]
+    },
+    {
+      "id": "d4eed22af98dccbd",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Win big at Play Fest: Epic prizes, gaming leagues, and daily deals start October 13",
+      "url": "https://blog.google/products-and-platforms/platforms/google-play/play-fest/",
+      "publishedAt": "2026-10-08T15:30:00.000Z",
+      "sentences": [
+        {
+          "en": "Win big at Play Fest: Epic prizes, gaming leagues, and daily deals start October 13.",
+          "zh": "在Play Fest赢取大奖：史诗奖品、游戏联赛和每日优惠将于10月13日开始。"
+        },
+        {
+          "en": "Celebrate Play Fest starting October 13 with sweepstakes prizes, global gaming leagues, and major Google Play deals all week.",
+          "zh": "庆祝10月13日开始的Play Fest ，每周都有抽奖活动、全球游戏联盟和主要的Google Play优惠。"
+        }
+      ]
+    },
+    {
+      "id": "ae25f741448e1ee2",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "White House correspondent April Ryan reflects on reporting while under attack",
+      "url": "https://www.npr.org/2026/10/08/nx-s1-5994416/white-house-correspondent-april-ryan-reflects-on-reporting-while-under-attack",
+      "publishedAt": "2026-10-08T15:24:23.000Z",
+      "sentences": [
+        {
+          "en": "White House correspondent April Ryan reflects on reporting while under attack.",
+          "zh": "白宫记者April Ryan在受到攻击时对报道进行了反思。"
+        },
+        {
+          "en": "Ryan has spent decades pressing presidents for answers.",
+          "zh": "Ryan花了几十年时间催促总统们给出答案。"
+        },
+        {
+          "en": "She talks about access, power, race and how asking questions put her in President Trump's crosshairs.",
+          "zh": "她谈到了准入、权力、种族以及提出问题如何将她置于特朗普总统的十字准线之下。"
+        },
+        {
+          "en": "Her new book is Notes on a Blacklash .",
+          "zh": "她的新书是《黑鞭笔记》（ Notes on a Blacklash ）"
+        }
+      ]
+    },
+    {
+      "id": "7ef7a15d9bee089f",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-08T15:02:32.000Z",
+      "sentences": [
+        {
+          "en": "Christa Pike now walking after failed US execution, lawyer tells BBC.",
+          "zh": "律师告诉BBC ，克里斯塔·派克（ Christa Pike ）现在在美国处决失败后"
+        },
+        {
+          "en": "A lawyer says the murderer of Colleen Slemmer is moving around her hospital room after surviving two lethal injections.",
+          "zh": "一名律师说，谋杀Colleen Slemmer的凶手在两次致命注射后幸存下来，正在她的病房里四处走动。"
+        }
+      ]
+    },
+    {
+      "id": "dec45192904d8250",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Sign in quickly and securely with passkeys.",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/how-to-set-up-passkey/",
+      "publishedAt": "2026-10-08T15:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Sign in quickly and securely with passkeys.",
+          "zh": "使用密钥快速安全地登录。"
+        },
+        {
+          "en": "Learn how to set up a passkey for your Google Account.",
+          "zh": "了解如何为您的Google帐户设置密钥。"
+        }
+      ]
+    },
+    {
+      "id": "ac446d232362c6af",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
+      "url": "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-08T14:33:23.000Z",
+      "sentences": [
+        {
+          "en": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize.",
+          "zh": "“大胆而富有创造力”的加拿大诗人安妮·卡森（ Anne Carson ）获得了诺贝尔文学奖。"
+        },
+        {
+          "en": "Carson, 76, is celebrated for works that often cross boundaries between poetry, fiction and scholarship.",
+          "zh": "76岁的卡森因其作品而闻名，这些作品经常跨越诗歌、小说和学术之间的界限。"
+        }
+      ]
+    },
+    {
+      "id": "7786c210fd553081",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Arizona congressional candidate says she was raped while repairing campaign sign",
+      "url": "https://www.bbc.co.uk/news/articles/c65yndpnk5qdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-08T14:10:58.000Z",
+      "sentences": [
+        {
+          "en": "Arizona congressional candidate says she was raped while repairing campaign sign.",
+          "zh": "亚利桑那州国会候选人说，她在修理竞选标志时被强奸。"
+        },
+        {
+          "en": "Bernadette Greene-Placentia says her memory of the attack is spotty and that she was knocked unconscious.",
+          "zh": "Bernadette Greene-Placentia说，她对这次袭击的记忆不清，她被打昏了。"
+        }
+      ]
+    },
+    {
+      "id": "2551c688cfa7115f",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Anne Carson wins Nobel prize in literature 2026",
+      "url": "https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026",
+      "publishedAt": "2026-10-08T14:03:29.000Z",
+      "sentences": [
+        {
+          "en": "Anne Carson wins Nobel prize in literature 2026.",
+          "zh": "安妮·卡森获得2026年诺贝尔文学奖。"
+        },
+        {
+          "en": "Most prestigious literature prize goes to Canadian known for genre-crossing works such as Autobiography of Red ‘Delights await!’: Margaret Atwood and other writers on Nobel winner Anne Carson Where to start with: Anne Carson The Nobel prize in literature has been awarded to the Canadian poet and essayist Anne Carson, the Swedish Academy has announced.",
+          "zh": "最负盛名的文学奖颁给了加拿大人，他们以流派交叉作品而闻名，如《红色美食自传》（ Autobiography of Red ‘Delights ）等！ “：玛格丽特·阿特伍德（ Margaret Atwood ）和其他关于诺贝尔奖获得者安妮·卡森（ Anne Carson ）的作家从哪里开始：安妮·卡森（ Anne Carson ）瑞典学院宣布，诺贝尔文学奖已授予加拿大诗人和散文家安妮·卡森（ Anne Carson ）。"
+        },
+        {
+          "en": "The academy cited the author’s “bold and inventive oeuvre that, in playful dialogue with the classical tradition, has created new forms for contemporary literature”.",
+          "zh": "该学院引用了作者“大胆而富有创造性的作品，在与古典传统的俏皮对话中，为当代文学创造了新的形式”。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "234428098cb9f4c8",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Russian attack on bus kills at least 30 people near Ukraine frontline",
+      "url": "https://www.theguardian.com/world/2026/oct/08/russian-attack-buses-ukraine-frontline-kramatorsk",
+      "publishedAt": "2026-10-08T14:00:05.000Z",
+      "sentences": [
+        {
+          "en": "Russian attack on bus kills at least 30 people near Ukraine frontline.",
+          "zh": "俄罗斯对公共汽车的袭击造成乌克兰前线附近至少30人死亡。"
+        },
+        {
+          "en": "Zelenskyy says Kremlin deliberately targeted ‘ordinary public transport stop’ in Kramatorsk, with 18 wounded A Russian missile strike on a bus in the eastern city of Kramatorsk has killed at least 30 people, officials have said, in one of the worst attacks by Moscow on Ukrainian civilians this year.",
+          "zh": "泽连斯基说，克里姆林宫故意以克拉马托尔斯克的“普通公共交通站”为目标，造成18人受伤。官员们说，东部城市克拉马托尔斯克的一辆公共汽车遭到俄罗斯导弹袭击，造成至少30人死亡，这是莫斯科今年对乌克兰平民发动的最严重的袭击之一。"
+        },
+        {
+          "en": "The regional prosecutor’s office in the Donetsk region said on Thursday the vehicle had been hit at 10am by an aerial bomb.",
+          "zh": "顿涅茨克地区检察官办公室周四表示，这辆车在上午10点被空中炸弹击中。"
+        },
+        {
+          "en": "“As of now, the death toll from this morning’s attack has risen to 30.",
+          "zh": "“截至目前，今天早上袭击造成的死亡人数已上升至30人。"
+        },
+        {
+          "en": "Eighteen people were wounded,” it said, adding that all local public transport had been suspended.",
+          "zh": "18人受伤， ”它说，并补充说，所有当地的公共交通工具都已暂停。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "ca7f6bb92da81958",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Italian opposition cries foul as Meloni’s electoral reform passed in secret ballot",
+      "url": "https://www.theguardian.com/world/2026/oct/08/giorgia-meloni-italy-wins-bonus-seat-electoral-reform-vote",
+      "publishedAt": "2026-10-08T13:42:50.000Z",
+      "sentences": [
+        {
+          "en": "Italian opposition cries foul as Meloni’s electoral reform passed in secret ballot.",
+          "zh": "随着梅洛尼的选举改革在无记名投票中获得通过，意大利反对派大喊大叫。"
+        },
+        {
+          "en": "Parties vow to challenge law in court, arguing that extra reward for those with 42% of support distorts public representation Europe live – latest updates A controversial overhaul to electoral law that critics say is aimed at boosting Giorgia Meloni’s chances of clinging on to power in elections next year has been given final approval by the Italian parliament.",
+          "zh": "各方誓言在法庭上挑战法律，认为对那些获得42%支持的人的额外奖励扭曲了欧洲的公共代表性–最新更新批评人士称，对选举法的一项有争议的改革旨在提高乔治亚·梅洛尼(Giorgia Meloni)在明年选举中执政的机会，已获得意大利议会的最终批准。"
+        },
+        {
+          "en": "Meloni, the Italian prime minister, says the new system, which introduces a fully proportional model, including bonus seats for any coalition that wins the most votes, will bring about greater political stability, while opposition parties argue that it mainly serves the interests of those in power.",
+          "zh": "意大利总理梅洛尼（ Meloni ）表示，新制度引入了完全成比例的模式，包括为赢得最多选票的任何联盟提供额外席位，将带来更大的政治稳定性，而反对党则认为这主要是为了当权者的利益。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "399e9316859634eb",
+      "sourceId": "cloudflare-blog",
+      "category": "security",
+      "title": "Bridging technical depth and usability: The story behind Radar’s redesign",
+      "url": "https://blog.cloudflare.com/radar-redesign/",
+      "publishedAt": "2026-10-08T13:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Bridging technical depth and usability: The story behind Radar’s redesign.",
+          "zh": "衔接技术深度和可用性：雷达重新设计背后的故事。"
+        },
+        {
+          "en": "Radar provides a real-time view into global Internet trends, powered by Cloudflare’s global network.",
+          "zh": "Radar提供全球互联网趋势的实时视图，由Cloudflare的全球网络提供支持。"
+        },
+        {
+          "en": "We support Cloudflare’s mission to help build a better Internet by making web data visible, clear, and actionable for everyone.",
+          "zh": "我们支持Cloudflare的使命，即通过让每个人都能看到、清晰和可操作的网络数据，帮助构建更好的互联网。"
+        },
+        {
+          "en": "Since launching in 2020 , Radar has found a natural audience amongst expert users with technical backgrounds, such as network operators and academic researchers who rely on Radar data to observe industry trends and global events.",
+          "zh": "自2020年推出以来，雷达在具有技术背景的专业用户中找到了天然的受众，例如网络运营商和学术研究人员，他们依靠雷达数据来观察行业趋势和全球事件。"
+        },
+        {
+          "en": "But Radar also has the potential to be a more regular, self-serve resource for journalists, human rights advocates and policymakers, and everyday users.",
+          "zh": "但雷达也有可能成为记者、人权倡导者和政策制定者以及日常用户更常规的自助服务资源。"
+        },
+        {
+          "en": "Making Radar accessible to a wider audience is a core part of our vision, so we knew it was time to reevaluate the user experience: How could we make Radar more approachable to broader audiences, while preserving the depth and rigor that we currently have?",
+          "zh": "向更广泛的受众提供雷达是我们愿景的核心部分，因此我们知道现在是重新评估用户体验的时候了：我们如何让雷达更接近更广泛的受众，同时保持我们目前的深度和严谨性？"
+        },
+        {
+          "en": "In this blog post, we’ll introduce the redesigned Radar, share our design process, and outline our broader vision for the platform’s future.",
+          "zh": "在这篇博客文章中，我们将介绍重新设计的雷达，分享我们的设计流程，并概述我们对平台未来的更广泛愿景。"
+        },
+        {
+          "en": "Challenges with the previous design While the previous landing page was successful at showing the breadth of Radar’s data, the way that information was presented made it difficult to parse.",
+          "zh": "以前设计的挑战虽然以前的着陆页成功地显示了雷达数据的广度，但信息的呈现方式使其难以解析。"
+        },
+        {
+          "en": "The bento box layout gave everything similar visual weight, the vertical cards disrupted natural reading patterns, and the styling felt disconnected from Cloudflare’s broader brand.",
+          "zh": "便当盒布局赋予了一切相似的视觉重量，垂直卡片打破了自然的阅读模式，造型感觉与Cloudflare更广泛的品牌脱节。"
+        },
+        {
+          "en": "We heard this from users.",
+          "zh": "我们从用户那里听到了这一点。"
+        },
+        {
+          "en": "One external user mentioned that one of his biggest frustrations with Radar was that it was difficult to show to his students.",
+          "zh": "一位外部用户提到，他对雷达的最大挫折之一是难以向学生展示。"
+        },
+        {
+          "en": "That feedback reinforced the problem that Radar could feel intimidating to people encountering it for the first time.",
+          "zh": "这种反馈强化了雷达可能对第一次遇到它的人感到恐惧的问题。"
+        }
+      ]
+    },
+    {
+      "id": "5dc120103756dd54",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-08T12:32:12.000Z",
+      "sentences": [
+        {
+          "en": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'.",
+          "zh": "意大利批准选举改革，反对派指责梅洛尼“诈骗”。"
+        },
+        {
+          "en": "Prime Minister Giorgia Meloni says the move will deliver more stable government, but opposition parties say her aim is to stay in power.",
+          "zh": "总理乔治亚·梅洛尼（ Giorgia Meloni ）表示，此举将带来更稳定的政府，但反对党表示，她的目标是继续执政。"
+        }
+      ]
+    },
+    {
+      "id": "1bd84ab444f01174",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "South Korea to recall its ambassador to Ukraine over North Korean POW dispute",
+      "url": "https://www.npr.org/2026/10/08/g-s1-147115/south-korea-to-recall-its-ambassador-to-ukraine-over-north-korean-pow-dispute",
+      "publishedAt": "2026-10-08T12:13:54.000Z",
+      "sentences": [
+        {
+          "en": "South Korea to recall its ambassador to Ukraine over North Korean POW dispute.",
+          "zh": "韩国就朝鲜战俘争端召回其驻乌克兰大使。"
+        },
+        {
+          "en": "The South Korean announcement on Thursday came days after its President Lee Jae Myung threatened unspecified punitive steps if Ukraine refuses to apologize over the revelation.",
+          "zh": "周四，韩国总统李在铭(Lee Jae Myung)威胁称，如果乌克兰拒绝就该消息道歉，将采取未指明的惩罚措施。"
+        },
+        {
+          "en": "(Image credit: Seth Wenig)",
+          "zh": "（图片来源： Seth Wenig ）"
+        }
+      ]
+    },
+    {
+      "id": "d47224b17fc26cfa",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says",
+      "url": "https://www.bbc.co.uk/news/articles/cqlydk7796wdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-08T12:11:31.000Z",
+      "sentences": [
+        {
+          "en": "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says.",
+          "zh": "海事机构表示，油轮在卡塔尔海湾被多枚射弹击中。"
+        },
+        {
+          "en": "Casualties have been reported on the vessel, identified by a maritime intelligence firm as the oil and chemical tanker, Acers.",
+          "zh": "据报道，该船上有伤亡人员，一家海事情报公司将其确定为石油和化学品油轮宏碁。"
+        }
+      ]
+    },
+    {
+      "id": "5a6c4821fe4b8d3a",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Google Cloud introduces the Gemini agent.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/",
+      "publishedAt": "2026-10-08T12:05:00.000Z",
+      "sentences": [
+        {
+          "en": "Google Cloud introduces the Gemini agent.",
+          "zh": "Google Cloud引入了Gemini代理。"
+        },
+        {
+          "en": "Google Cloud’s new Gemini agent automates workflows by connecting to your business systems.",
+          "zh": "Google Cloud的新Gemini代理通过连接到您的业务系统来自动化工作流程。"
+        },
+        {
+          "en": "See how it streamlines enterprise tasks in one prompt.",
+          "zh": "在一个提示中查看它如何简化企业任务。"
+        }
+      ]
+    },
+    {
+      "id": "7aaabcf5d9d6f97d",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Teacher who sexually abused pupil back in Indonesia jail after BBC investigation",
+      "url": "https://www.bbc.co.uk/news/articles/ckgel9r341gdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-08T12:04:25.000Z",
+      "sentences": [
+        {
+          "en": "Teacher who sexually abused pupil back in Indonesia jail after BBC investigation.",
+          "zh": "英国广播公司调查后，在印度尼西亚监狱对学生进行性虐待的老师。"
+        },
+        {
+          "en": "Mochamad Subchi Azal Tsani had been secretly released on parole in 2025, after serving less than half his sentence.",
+          "zh": "Mochamad Subchi Azal Tsani在服刑不到一半后，于2025年被秘密释放。"
+        }
+      ]
+    },
+    {
+      "id": "f900ce30f17703d4",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "South Korea test-flies its first domestically developed hypersonic weapon",
+      "url": "https://www.npr.org/2026/10/08/g-s1-147113/south-korea-test-flies-its-first-domestically-developed-hypersonic-weapon",
+      "publishedAt": "2026-10-08T12:01:34.000Z",
+      "sentences": [
+        {
+          "en": "South Korea test-flies its first domestically developed hypersonic weapon.",
+          "zh": "韩国试飞了第一枚国产高超音速武器。"
+        },
+        {
+          "en": "The test follows North Korea's recent hypersonic missile test.",
+          "zh": "这次测试是在朝鲜最近的高超音速导弹测试之后进行的。"
+        },
+        {
+          "en": "Tensions between the Koreas have increased after land mine explosions injured three South Korean soldiers near the border.",
+          "zh": "在边境附近发生地雷爆炸，三名韩国士兵受伤后，南北朝鲜之间的紧张局势加剧。"
+        },
+        {
+          "en": "North Korea denies responsibility.",
+          "zh": "朝鲜否认对此负责。"
+        },
+        {
+          "en": "(Image credit: Jeon Heon-kyun)",
+          "zh": "（图片来源： Jeon Heon-kyun ）"
+        }
+      ]
+    },
+    {
+      "id": "24f2e03514de0358",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Google Maps reveals the top food trends and popular restaurants across 10 cities",
+      "url": "https://blog.google/products-and-platforms/products/maps/google-maps-fan-favorite-dining-list/",
+      "publishedAt": "2026-10-08T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Google Maps reveals the top food trends and popular restaurants across 10 cities.",
+          "zh": "Google地图显示了10个城市的热门美食趋势和热门餐厅。"
+        },
+        {
+          "en": "We analyzed a year of Google Maps data to uncover the top food trends and popular restaurants across 10 culinary hot spots.",
+          "zh": "我们分析了一年的Google地图数据，发现了10个烹饪热点地区的热门美食趋势和热门餐厅。"
+        }
+      ]
+    },
+    {
+      "id": "a018d30291dfb638",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "3 ways Google Maps can help you navigate your next culinary adventure.",
+      "url": "https://blog.google/products-and-platforms/products/maps/google-maps-restaurant-tips-tricks/",
+      "publishedAt": "2026-10-08T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "3 ways Google Maps can help you navigate your next culinary adventure.",
+          "zh": "谷歌地图可以帮助您浏览下一次烹饪之旅的3种方式。"
+        },
+        {
+          "en": "Use these built-in Google Maps features to navigate your food journey all year long.",
+          "zh": "使用这些内置的Google地图功能，全年浏览您的美食之旅。"
+        }
+      ]
+    },
+    {
+      "id": "3fecf66e85d5425d",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Myanmar: Poverty deepens as families face multiple shocks with limited resources",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168550",
+      "publishedAt": "2026-10-08T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Myanmar: Poverty deepens as families face multiple shocks with limited resources.",
+          "zh": "缅甸：贫困加剧，因为家庭面临着资源有限的多重冲击。"
+        },
+        {
+          "en": "Years of conflict, displacement, economic disruption and climate shocks in Myanmar have led to the “simultaneous collapse” of shelter, healthcare, schooling and livelihoods affecting millions of people, the UN Development Programme (UNDP) said in a report issued on Thursday.",
+          "zh": "联合国开发计划署（ UNDP ）在周四发布的一份报告中表示，缅甸多年的冲突、流离失所、经济混乱和气候冲击导致住所、医疗保健、学校教育和生计“同时崩溃” ，影响了数百万人。"
+        }
+      ]
+    },
+    {
+      "id": "97f383d6c61e347c",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Afghanistan: Women face fresh dress code arrests amid record refugee returns",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168551",
+      "publishedAt": "2026-10-08T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Afghanistan: Women face fresh dress code arrests amid record refugee returns.",
+          "zh": "阿富汗：在创纪录的难民回归中，女性面临新的着装要求逮捕。"
+        },
+        {
+          "en": "Afghan women and girls are being arrested, detained and threatened with arrest by Taliban authorities, the UN warned on Thursday as record numbers of returnees struggle to rebuild their lives back home.",
+          "zh": "联合国周四警告说，阿富汗妇女和女童正在被塔利班当局逮捕、拘留并受到逮捕的威胁，因为创纪录的返回者正在努力重建家园的生活。"
+        }
+      ]
+    },
+    {
+      "id": "2fe0f9e83fa5de2a",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "‘Age must never diminish rights,’ UN independent expert warns",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168553",
+      "publishedAt": "2026-10-08T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "‘Age must never diminish rights,’ UN independent expert warns.",
+          "zh": "联合国独立专家警告说： “年龄绝不能削弱权利。”"
+        },
+        {
+          "en": "Older women around the world face violence, exploitation and neglect, yet remain largely invisible in the laws, policies, data and services designed to protect women overall, a UN independent human rights expert said on Thursday.",
+          "zh": "一位联合国独立人权专家周四表示，世界各地的老年妇女面临暴力、剥削和忽视，但在旨在全面保护妇女的法律、政策、数据和服务中仍然基本上看不见。"
+        }
+      ]
+    },
+    {
+      "id": "6e6af084a21f63cb",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "UN rights chief: Legacy of slavery and colonialism is still fuelling racism",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168554",
+      "publishedAt": "2026-10-08T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "UN rights chief: Legacy of slavery and colonialism is still fuelling racism.",
+          "zh": "联合国人权事务主管：奴隶制和殖民主义的遗产仍在助长种族主义。"
+        },
+        {
+          "en": "The legacy of enslavement and colonialism continues to shape the lives of Africans and people of African descent, UN human rights chief Volker Türk said on Thursday, calling for urgent action to deliver reparatory justice beyond financial compensation.",
+          "zh": "联合国人权事务主管沃尔克·蒂尔克（ Volker Türk ）周四表示，奴役和殖民主义的遗产继续影响着非洲人和非洲人后裔的生活，他呼吁采取紧急行动，在经济补偿之外提供补偿性正义。"
+        }
+      ]
+    },
+    {
+      "id": "08ac6a2efbda95f6",
+      "sourceId": "un-news",
+      "category": "science",
+      "title": "‘Overshoot is not a reason to surrender’: UN calls for accelerated climate action ahead of COP31 summit",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168555",
+      "publishedAt": "2026-10-08T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "‘Overshoot is not a reason to surrender’: UN calls for accelerated climate action ahead of COP31 summit.",
+          "zh": "“超调不是投降的理由” ：联合国呼吁在COP31峰会之前加快气候行动。"
+        },
+        {
+          "en": "As world leaders prepare for November’s major COP31 climate summit in Türkiye, record-breaking heat, devastating floods and an unprecedented El Niño climate pattern are making global climate action ever more urgent.",
+          "zh": "随着世界各国领导人为11月在土耳其举行的COP31气候峰会做准备，创纪录的高温、毁灭性的洪水和前所未有的厄尔尼诺现象使全球气候行动变得更加紧迫。"
+        }
+      ]
+    },
+    {
+      "id": "62b823eec8a44b29",
+      "sourceId": "un-news",
+      "category": "security",
+      "title": "Darfur: Healthcare needs outstrip resources as Security Council extends Sudan sanctions",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168556",
+      "publishedAt": "2026-10-08T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Darfur: Healthcare needs outstrip resources as Security Council extends Sudan sanctions.",
+          "zh": "达尔富尔：随着安理会延长对苏丹的制裁，医疗保健需要超出资源。"
+        },
+        {
+          "en": "More than 700,000 displaced people in Tawila, in Sudan’s war-ravaged Darfur region, face severe shortages of healthcare, food, water and protection, the UN World Health Organization (WHO) warned on Thursday as it called for an urgent increase in resources.",
+          "zh": "联合国世界卫生组织（世卫组织）周四警告说，苏丹饱受战争蹂躏的达尔富尔地区塔维拉的70多万流离失所者面临严重的医疗保健、粮食、水和保护短缺，因为它呼吁紧急增加资源。"
+        }
+      ]
+    },
+    {
+      "id": "12d8e672504c5b0b",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "World News in Brief: Russian attacks continue in Ukraine, Gazans shelter in flood-prone areas, keeping sight of eye health",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168557",
+      "publishedAt": "2026-10-08T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "World News in Brief: Russian attacks continue in Ukraine, Gazans shelter in flood-prone areas, keeping sight of eye health.",
+          "zh": "世界新闻简报：俄罗斯在乌克兰的袭击仍在继续，加沙人在洪水易发地区避难，关注眼睛健康。"
+        },
+        {
+          "en": "UN human rights chief Volker Türk said on Thursday he was appalled by a wave of attacks that have killed civilians across Ukraine over the past four days.",
+          "zh": "联合国人权事务主管沃尔克·蒂尔克（ Volker Türk ）周四表示，他对过去四天乌克兰各地发生的一系列袭击事件感到震惊。"
+        }
+      ]
+    },
+    {
+      "id": "83275e6619b16c5f",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Isaias intensifies to hurricane. And, judge orders Pike execution evidence preserved",
+      "url": "https://www.npr.org/2026/10/08/g-s1-147105/up-first-newsletter-hurricane-isaias-house-elections-christa-pike-nidal-hasan-cnn-ms-now-politico",
+      "publishedAt": "2026-10-08T11:35:22.000Z",
+      "sentences": [
+        {
+          "en": "Isaias intensifies to hurricane.",
+          "zh": "伊萨亚斯升级为飓风。"
+        },
+        {
+          "en": "And, judge orders Pike execution evidence preserved.",
+          "zh": "而且，法官下令保留派克的执行证据。"
+        },
+        {
+          "en": "People in the Gulf are preparing for bad weather this weekend after Isaias intensified into a hurricane.",
+          "zh": "在伊萨亚斯强化成飓风后，海湾地区的人们正在为本周末的恶劣天气做准备。"
+        },
+        {
+          "en": "And, a judge has ordered Christa Pike's failed execution evidence be preserved.",
+          "zh": "而且，法官已下令保存克里斯塔·派克（ Christa Pike ）失败的处决证据。"
+        },
+        {
+          "en": "(Image credit: Brandon Bell)",
+          "zh": "（图片来源： Brandon Bell ）"
+        }
+      ]
+    },
+    {
+      "id": "30a7c4216cd970c4",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Residents airlifted to safety after flooding in central Chile",
+      "url": "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-08T11:31:22.000Z",
+      "sentences": [
+        {
+          "en": "Residents airlifted to safety after flooding in central Chile.",
+          "zh": "智利中部发生洪灾后，居民被空运到安全的地方。"
+        },
+        {
+          "en": "The Mapocho river has burst its banks after an unusually large amount of rain fell in recent days.",
+          "zh": "最近几天降下异常大量的雨水后，马波乔河已经冲破了河岸。"
+        }
+      ]
+    },
+    {
+      "id": "8d9f4fff07ff0c01",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
+      "url": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-08T05:00:44.000Z",
+      "sentences": [
+        {
+          "en": "US and Lebanon protecting wanted Syrian general, BBC finds.",
+          "zh": "英国广播公司发现，美国和黎巴嫩保护通缉的叙利亚将"
+        },
+        {
+          "en": "Bassam al-Hassan is being sheltered in return for information - including about abducted US reporter Austin Tice.",
+          "zh": "巴萨姆·哈桑（ Bassam al-Hassan ）正在接受庇护，以换取信息-包括有关被绑架的美国记者奥斯汀·泰斯（ Aust"
+        }
+      ]
+    },
+    {
+      "id": "8a461a8485f3e42a",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "South Korea threatens legal action if fuel shipments to Russia found to have broken law",
+      "url": "https://www.theguardian.com/world/2026/oct/08/south-korea-fuel-shipments-to-russia-domestic-law",
+      "publishedAt": "2026-10-08T04:45:07.000Z",
+      "sentences": [
+        {
+          "en": "South Korea threatens legal action if fuel shipments to Russia found to have broken law.",
+          "zh": "如果发现向俄罗斯运送燃料违反了法律，韩国将采取法律行动。"
+        },
+        {
+          "en": "Responding to a Guardian report that revealed thousands of tonnes of fuel was transported to Russia, Seoul said it was investigating the cases South Korea will take legal action if it finds that shipments of fuel from its ports to Russia broke domestic law, the government has said, responding to a Guardian report on the trade .",
+          "zh": "韩国政府在回应《卫报》关于数千吨燃料被运往俄罗斯的报道时表示，如果发现从其港口向俄罗斯运送燃料违反了国内法律，韩国将采取法律行动，韩国政府正在调查这些案件。"
+        },
+        {
+          "en": "The government, in a statement issued by the foreign and trade ministries and the customs service, said that it is “checking additional information concerning the loading cases reported by the Guardian” and “if the verification establishes that our laws and regulations have been violated, it plans to act in accordance with the law”.",
+          "zh": "政府在外交部、贸易部和海关发布的一份声明中表示，它正在“检查有关《卫报》报告的装载案件的其他信息” ， “如果核实确定我们的法律法规被违反，它计划依法行事”。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "7cf91f15f166b68c",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Japan beer giants raided over suspicions they colluded to set the price of beverages",
+      "url": "https://www.theguardian.com/world/2026/oct/08/japan-beer-giants-raided-over-suspicions-they-colluded-to-set-the-price-of-beverages",
+      "publishedAt": "2026-10-08T03:54:38.000Z",
+      "sentences": [
+        {
+          "en": "Japan beer giants raided over suspicions they colluded to set the price of beverages.",
+          "zh": "日本啤酒巨头因怀疑他们勾结设定饮料价格而突击搜查。"
+        },
+        {
+          "en": "Investigators probe Asahi, Kirin, Suntory and Sapporo breweries – which together control more than 90% of Japan’s beer market Japanese authorities have raided the country’s four biggest breweries over suspicions they colluded to set the price of beer and other beverages – a practice media reports said could have forced drinkers to pay over the odds.",
+          "zh": "调查人员对朝日啤酒(Asahi)、麒麟(Kirin)、三得利(Suntory)和札幌(Sapporo)啤酒厂进行了调查，这些啤酒厂共同控制着日本90%以上的啤酒市场。日本当局出于对日本四大啤酒厂串通设定啤酒和其他饮料价格的怀疑，突击搜查了这些啤酒厂。"
+        },
+        {
+          "en": "Officials from the Fair Trade Commission this week searched the offices of Asahi Breweries, Kirin Brewery, Suntory Beer and Sapporo Breweries – which together control more than 90% of the domestic market.",
+          "zh": "本周，公平贸易委员会（ Fair Trade Commission ）的官员搜查了朝日啤酒（ Asahi Breweries ）、麒麟啤酒（ Kirin Brewery ）、三得利啤酒（ Suntory Beer ）和札幌啤酒（ Sapporo Breweries ）的办公室，这些啤酒"
+        },
+        {
+          "en": "The quartet are suspected of violating the anti-monopoly law.",
+          "zh": "四方涉嫌违反反垄断法。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "e844c1aa9fc2dacc",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Indonesia accused of ‘gross negligence’ in wildfires lawsuit as haze tests region",
+      "url": "https://www.theguardian.com/world/2026/oct/08/indonesia-wildfires-gross-negligence-lawsuit-haze-region",
+      "publishedAt": "2026-10-08T03:54:09.000Z",
+      "sentences": [
+        {
+          "en": "Indonesia accused of ‘gross negligence’ in wildfires lawsuit as haze tests region.",
+          "zh": "印度尼西亚被指控在野火诉讼中因雾霾测试地区而“严重疏忽”。"
+        },
+        {
+          "en": "NGOs in Indonesian Borneo file class action lawsuit calling for government to better manage annual fires and The Indonesian government has been accused of “gross negligence” in a class action lawsuit over its handling of wildfires that have cloaked large parts of South-east Asia in a toxic haze, shuttered schools and caused a spike in respiratory illnesses.",
+          "zh": "印度尼西亚婆罗洲的非政府组织提起集体诉讼，呼吁政府更好地管理年度火灾，印度尼西亚政府在集体诉讼中被指控“严重疏忽” ，因为它处理的野火掩盖了东南亚大部分地区的有毒雾霾，关闭了学校，并导致呼吸道疾病激增。"
+        },
+        {
+          "en": "The lawsuit, filed by indigenous and civil society groups in the Indonesian part of Borneo, named President Prabowo Subianto and the governor of West Kalimantan among 10 defendants.",
+          "zh": "该诉讼由印度尼西亚婆罗洲地区的土著和民间社会团体提起，将Prabowo Subianto总统和西加里曼丹州州长列为10名被告之一。"
+        },
+        {
+          "en": "The case seeks comprehensive recovery and rehabilitation measures that would include covering the healthcare costs of residents.",
+          "zh": "该病例寻求全面的康复和康复措施，包括支付居民的医疗保健费用。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "3fc6c28d446192a4",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "This winter, use Google Maps and Waze to find the best fuel prices in the UK.",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/google-maps-waze-fuel-prices-uk/",
+      "publishedAt": "2026-10-08T00:01:00.000Z",
+      "sentences": [
+        {
+          "en": "This winter, use Google Maps and Waze to find the best fuel prices in the UK.",
+          "zh": "今年冬天，使用谷歌地图和Waze查找英国最优惠的燃油价格。"
+        },
+        {
+          "en": "Find the cheapest petrol and diesel prices in the UK using Google Maps and Waze.",
+          "zh": "使用Google地图和Waze查找英国最便宜的汽油和柴油价格。"
+        },
+        {
+          "en": "Search for fuel stations near you to save money.",
+          "zh": "搜索附近的加油站，节省费用。"
+        },
+        {
+          "en": "See the latest rates.",
+          "zh": "查看最新价格。"
+        }
+      ]
+    },
+    {
+      "id": "8f2f6c51b71e45dc",
+      "sourceId": "guardian-world",
+      "category": "science",
+      "title": "Flávio Bolsonaro’s advance in Brazil’s election is grim jolt for climate campaigners",
+      "url": "https://www.theguardian.com/world/2026/oct/07/flavio-bolsonaro-advance-brazil-election-jolt-climate-campaigners",
+      "publishedAt": "2026-10-07T19:23:30.000Z",
+      "sentences": [
+        {
+          "en": "Flávio Bolsonaro’s advance in Brazil’s election is grim jolt for climate campaigners.",
+          "zh": "弗拉维奥·博尔索纳罗（ Flávio Bolsonaro ）在巴西大选中的进步对气候活动家来说是一个严峻的打击。"
+        },
+        {
+          "en": "Inquest under way into why President Lula’s success in curbing Amazon deforestation has not led to success at polls More fire, more ash, more crime, more death.",
+          "zh": "正在调查为什么卢拉总统在遏制亚马逊森林砍伐方面的成功并没有导致民意调查的成功更多的火灾，更多的灰烬，更多的犯罪，更多的死亡。"
+        },
+        {
+          "en": "And a globally important ecosystem driven ever more rapidly towards a point of no return.",
+          "zh": "一个具有全球重要性的生态系统正以越来越快的速度走向不归路。"
+        },
+        {
+          "en": "That is the prospect for the Amazon rainforest for at least the next four years if Flávio Bolsonaro holds on to the lead he established this week in the first round of Brazil’s presidential election.",
+          "zh": "如果弗拉维奥·博尔索纳罗（ Flávio Bolsonaro ）本周在巴西总统大选第一轮中保持领先地位，那么亚马逊热带雨林至少在未来四年的前景就是如此。"
+        },
+        {
+          "en": "This appears to be of far more concern to the outside world than to voters in Latin America’s biggest, richest and most biodiverse nation.",
+          "zh": "这似乎比拉丁美洲最大、最富有、生物多样性最丰富的国家的选民更受外界关注。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "c6fb2b313984d9d2",
+      "sourceId": "github-blog",
+      "category": "open-source",
+      "title": "Secret protection must scale with software",
+      "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/",
+      "publishedAt": "2026-10-07T17:45:34.000Z",
+      "sentences": [
+        {
+          "en": "Secret protection must scale with software.",
+          "zh": "秘密保护必须随软件一起扩展。"
+        },
+        {
+          "en": "Today, one in three pull requests on GitHub involves an AI agent .",
+          "zh": "如今， GitHub上每三个拉取请求中就有一个涉及AI代理。"
+        },
+        {
+          "en": "A year ago, that number was fewer than one in 10.",
+          "zh": "一年前，这个数字还不到十分之一。"
+        },
+        {
+          "en": "If that pace holds, within the next two years, most of the code pushed to GitHub could be written by an agent.",
+          "zh": "如果这种速度持续下去，在未来两年内，推送到GitHub的大部分代码都可能由代理编写。"
+        },
+        {
+          "en": "Much of it may never be fully read by a human.",
+          "zh": "其中大部分可能永远不会被人类完全阅读。"
+        },
+        {
+          "en": "If developers and agents move faster, we have a responsibility to ensure protection keeps up with the accelerated rate of code creation.",
+          "zh": "如果开发人员和代理商行动更快，我们有责任确保保护跟上代码创建的加速速度。"
+        },
+        {
+          "en": "That means preventing more leaks before they happen and making the response to exposures that remain less dependent on manual human effort.",
+          "zh": "这意味着在泄漏发生之前预防更多的泄漏，并对不太依赖人工操作的暴露做出反应。"
+        },
+        {
+          "en": "This is a pivotal point for leaked secrets.",
+          "zh": "这是泄露秘密的关键点。"
+        },
+        {
+          "en": "Developers aren t becoming more careless; they re being outpaced.",
+          "zh": "开发人员并没有变得更加粗心大意；他们正在被超越。"
+        },
+        {
+          "en": "The tools that let developers create more software should also take on more of the work of protecting it.",
+          "zh": "让开发人员创建更多软件的工具也应该承担更多的保护工作。"
+        },
+        {
+          "en": "In this essay, I share the nine quarters of data behind that claim.",
+          "zh": "在这篇文章中，我分享了这一说法背后的九个季度的数据。"
+        },
+        {
+          "en": "I also introduce the fine-tuned classifier we built with Microsoft Applied Sciences to extend push protection to unstructured secrets.",
+          "zh": "我还介绍了我们使用Microsoft Applied Sciences构建的微调分类器，以将推送保护扩展到非结构化机密。"
+        }
+      ]
+    },
+    {
+      "id": "ab59c26010b6f11d",
+      "sourceId": "cloudflare-blog",
+      "category": "cloud",
+      "title": "Building an evidence-grounded agentic security operations harness on Cloudflare",
+      "url": "https://blog.cloudflare.com/agentic-security-operations/",
+      "publishedAt": "2026-10-07T16:30:36.000Z",
+      "sentences": [
+        {
+          "en": "Building an evidence-grounded agentic security operations harness on Cloudflare.",
+          "zh": "在Cloudflare上构建基于证据的代理安全运营工具。"
+        },
+        {
+          "en": "Security alerts rarely arrive one at a time.",
+          "zh": "安全警报很少会一次一个到达。"
+        },
+        {
+          "en": "A single alert can cause a spike across the environment, requiring a human analyst to decide which alerts are related and what they mean.",
+          "zh": "单个警报可能会导致整个环境出现峰值，需要人工分析师确定哪些警报是相关的，以及它们的含义。"
+        },
+        {
+          "en": "When multiple arrive at the same time, it can quickly overwhelm even a seasoned security analyst.",
+          "zh": "当多个同时到达时，即使是经验丰富的安全分析师也会很快不知所措。"
+        },
+        {
+          "en": "Enter the alert paradox.",
+          "zh": "输入警报悖论。"
+        },
+        {
+          "en": "Now, our built-in, multi-AI-agent security operations harness can handle more of this work at Cloudflare scale.",
+          "zh": "现在，我们内置的多AI代理安全运营工具可以在Cloudflare规模上处理更多此类工作。"
+        },
+        {
+          "en": "Our Cloudflare Managed Defense AI agent harness speeds up the process of gathering data, connecting and aggregating detections, and accounting for missing sources while new alerts continue to arrive.",
+          "zh": "我们的Cloudflare托管防御AI代理加快了收集数据、连接和聚合检测以及在新警报继续到达的同时解决缺失来源的过程。"
+        },
+        {
+          "en": "To further analyze context, we make use of the OpenAI Daybreak Defense Network and our partnership with Anthropic.",
+          "zh": "为了进一步分析背景，我们利用OpenAI黎明防御网络以及我们与Anthropic的合作伙伴关系。"
+        },
+        {
+          "en": "Cloudflare uses approved OpenAI Daybreak and Anthropic models, including GPT-5.6 Cyber and Mythos, for deeper model-backed analysis.",
+          "zh": "Cloudflare使用经批准的OpenAI Daybreak和Anthropic模型，包括GPT-5.6 Cyber和Mythos ，进行更深入的模型支持分析。"
+        },
+        {
+          "en": "Initial analysis and scoring is done with Clef , Cloudflare’s open-source decision model.",
+          "zh": "使用Cloudflare的开源决策模型Clef进行初步分析和评分。"
+        },
+        {
+          "en": "Collecting evidence to understand what each alert means requires a lot of time.",
+          "zh": null
+        },
+        {
+          "en": "Even in a highly sophisticated Security Information and Event Management (SIEM), too much is still left for a human to review.",
+          "zh": null
+        }
+      ]
+    }
+  ],
+  "failures": []
+}
