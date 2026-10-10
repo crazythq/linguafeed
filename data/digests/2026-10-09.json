@@ -1,0 +1,823 @@
+{
+  "date": "2026-10-09",
+  "collectedAt": "2026-10-10T04:30:13.750Z",
+  "items": [
+    {
+      "id": "942e9918d5aa6713",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Ethiopia warns Eritrea it will defend itself after troops cross border",
+      "url": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-09T15:24:43.000Z",
+      "sentences": [
+        {
+          "en": "Ethiopia warns Eritrea it will defend itself after troops cross border.",
+          "zh": "埃塞俄比亚警告厄立特里亚，它将在部队越境后自卫。"
+        },
+        {
+          "en": "Truckloads of Eritrean soldiers have been seen driving into Ethiopia, which has reportedly responded with drone strikes.",
+          "zh": "有人看到一卡车的厄立特里亚士兵开车进入埃塞俄比亚，据报道，埃塞俄比亚以无人机袭击作为回应。"
+        }
+      ]
+    },
+    {
+      "id": "f7d488b6e8e5a945",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Two Renoir paintings stolen from French museum are recovered",
+      "url": "https://www.bbc.co.uk/news/articles/cwkg50v1vn07o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-09T14:25:18.000Z",
+      "sentences": [
+        {
+          "en": "Two Renoir paintings stolen from French museum are recovered.",
+          "zh": "从法国博物馆被盗的两幅雷诺阿画作被追回。"
+        },
+        {
+          "en": "The two works were seized last month when thieves cut through a fence and smashed a window at the Renoir Museum on the French Riviera.",
+          "zh": "这两件作品于上个月被没收，当时小偷在法国里维埃拉的雷诺阿博物馆（ Renoir Museum ）穿过围栏并砸碎了一扇窗户。"
+        }
+      ]
+    },
+    {
+      "id": "ecf72f5ac7635ed0",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
+      "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-09T13:50:25.000Z",
+      "sentences": [
+        {
+          "en": "Three Saudi nationals killed in Houthi attacks on Riyadh airport.",
+          "zh": "三名沙特国民在胡塞武装袭击利雅得机场时丧生。"
+        },
+        {
+          "en": "The missile attacks come amid an escalation in fighting between the Iran-backed group and Saudi Arabia, which backs Yemen's government.",
+          "zh": "导弹袭击发生之际，伊朗支持的团体与支持也门政府的沙特阿拉伯之间的战斗升级。"
+        }
+      ]
+    },
+    {
+      "id": "38bfcb4310c98b8d",
+      "sourceId": "cloudflare-blog",
+      "category": "security",
+      "title": "Introducing on-demand CPU and memory profiling with flamegraphs for Workers and Durable Objects",
+      "url": "https://blog.cloudflare.com/workers-on-demand-profiling/",
+      "publishedAt": "2026-10-09T13:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Introducing on-demand CPU and memory profiling with flamegraphs for Workers and Durable Objects.",
+          "zh": "介绍使用工人和耐用对象的火焰图进行按需CPU和内存分析。"
+        },
+        {
+          "en": "Understanding why an application is using more resources than expected, whether that is CPU or memory, can be challenging.",
+          "zh": "理解为什么应用程序比预期使用更多的资源（无论是CPU还是内存）可能具有挑战性。"
+        },
+        {
+          "en": "Logs and aggregate metrics can only get you so far.",
+          "zh": "日志和汇总指标只能帮助您做到这一点。"
+        },
+        {
+          "en": "Thankfully there is a better way: CPU or memory profiling can show you the exact function where your application is using CPU or allocating memory.",
+          "zh": "谢天谢地，有一个更好的方法： CPU或内存分析可以向您显示应用程序使用CPU或分配内存的确切功能。"
+        },
+        {
+          "en": "Today we are happy to announce support for CPU and memory profiling of Workers and Durable Objects.",
+          "zh": "今天，我们很高兴地宣布支持Worker和Durable Object的CPU和内存分析。"
+        },
+        {
+          "en": "From the Workers Observability page, you can now request an on-demand CPU or memory profile of an active Worker, inspect it as an interactive flamegraph, and download the profile file for further analysis.",
+          "zh": "从Workers Observability页面，您现在可以请求活动Worker的按需CPU或内存配置文件，将其作为交互式火焰图进行检查，并下载配置文件以进行进一步分析。"
+        },
+        {
+          "en": "This method of profiling gives you a useful perspective into what your code is doing and how you can improve it in a real-world setting.",
+          "zh": "这种分析方法为您提供了一个有用的视角，让您了解代码正在做什么，以及如何在现实环境中对其进行改进。"
+        },
+        {
+          "en": "That’s because the best way to understand your application is to profile it in production.",
+          "zh": "这是因为了解应用程序的最佳方法是在生产中对其进行分析。"
+        },
+        {
+          "en": "To try this on one of your Workers, you have a choice of using the CLI or the Cloudflare Dashboard.",
+          "zh": "要在其中一个Worker上尝试此操作，您可以选择使用CLI或Cloudflare仪表板。"
+        },
+        {
+          "en": "To use the CLI, make sure you have the cf package installed , then simply run: To use the dashboard, head to the Cloudflare dashboard and then access the list of Workers on your account by navigating through Build → Compute → Workers & Pages.",
+          "zh": "要使用CLI ，请确保已安装cf包，然后只需运行：要使用仪表板，请转到Cloudflare仪表板，然后通过“构建→计算工作者和页面”导航访问您帐户上的→工作者列表。"
+        },
+        {
+          "en": "Select your Worker and navigate to its Observability tab.",
+          "zh": "选择您的Worker并导航到其Observability选项卡。"
+        },
+        {
+          "en": "You can then use the drop down to select “Flamegraph”: You can then request both CPU and memory profiles for your Worker on this page.",
+          "zh": "然后，您可以使用下拉菜单选择“Flamegraph” ：然后，您可以在此页面上为Worker请求CPU和内存配置文件。"
+        }
+      ]
+    },
+    {
+      "id": "3854715ee3f870a4",
+      "sourceId": "cloudflare-blog",
+      "category": "cloud",
+      "title": "Deno is joining Cloudflare",
+      "url": "https://blog.cloudflare.com/deno-joins-cloudflare/",
+      "publishedAt": "2026-10-09T12:50:00.000Z",
+      "sentences": [
+        {
+          "en": "Deno is joining Cloudflare.",
+          "zh": "Deno将加入Cloudflare。"
+        },
+        {
+          "en": "The Deno team is joining Cloudflare to radically simplify self-hosting Workers and Durable Objects so developers can use the same primitives in more places.",
+          "zh": "Deno团队将加入Cloudflare ，从根本上简化自托管Workers和Durable Objects ，以便开发人员可以在更多地方使用相同的原语。"
+        },
+        {
+          "en": "For what this means and how it came about, here’s the story from Ryan Dahl and Kenton Varda.",
+          "zh": "这是Ryan Dahl和Kenton Varda的故事。"
+        }
+      ]
+    },
+    {
+      "id": "a25f287fea187a92",
+      "sourceId": "guardian-world",
+      "category": "science",
+      "title": "Cop31 host urges wealthy countries to spend ‘much more’ on climate than defence",
+      "url": "https://www.theguardian.com/environment/2026/oct/09/cop31-host-wealthy-countries-climate-crisis-spending-defence-nato",
+      "publishedAt": "2026-10-09T12:00:28.000Z",
+      "sentences": [
+        {
+          "en": "Cop31 host urges wealthy countries to spend ‘much more’ on climate than defence.",
+          "zh": "COP31主办方敦促富裕国家在气候方面的支出“远远超过”国防。"
+        },
+        {
+          "en": "‘The climate issue is the security issue,’ says Turkish minister at Pacific pre-Cop summit in Fiji Wealthy countries should spend far more on dealing with the climate crisis than the 5% of GDP promised by Nato members for defence because “the climate issue is the security issue”, the host of the next UN summit has said.",
+          "zh": "下一次联合国峰会的东道主表示， “气候问题是安全问题” ，土耳其部长在斐济举行的COP前太平洋峰会上表示，富裕国家应该在应对气候危机上花费更多，而不是北约成员国承诺的用于防御的GDP的5% ，因为“气候问题是安全问题”。"
+        },
+        {
+          "en": "But, in comments that are likely to prove contentious, the Cop31 president-designate, Murat Kurum, hedged on whether countries should try to repeat a previous agreement to “transition away from fossil fuels” – the primary cause of the climate crisis – when they meet in Turkey next month.",
+          "zh": "但是，在可能被证明有争议的评论中，候任COP31主席穆拉特·库鲁姆（ Murat Kurum ）对各国下个月在土耳其举行会议时是否应该尝试重复之前的协议，即“从化石燃料过渡” --这是气候危机的主要原因。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "10112868f4737994",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Former UN human rights chief Navi Pillay awarded Nobel Peace Prize",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168558",
+      "publishedAt": "2026-10-09T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Former UN human rights chief Navi Pillay awarded Nobel Peace Prize.",
+          "zh": "前联合国人权事务主管纳维·皮莱被授予诺贝尔和平奖。"
+        },
+        {
+          "en": "South African jurist and former UN High Commissioner for Human Rights Navi Pillay was on Friday announced as the winner of the 2026 Nobel Peace Prize.",
+          "zh": "南非法学家、前联合国人权事务高级专员纳维·皮莱（ Navi Pillay ）周五被宣布为2026年诺贝尔和平奖获得者。"
+        }
+      ]
+    },
+    {
+      "id": "e6f4361c726f2b6e",
+      "sourceId": "un-news",
+      "category": "security",
+      "title": "Security Council LIVE: Yemen has fallen back into full-scale war, warns UN envoy",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168559",
+      "publishedAt": "2026-10-09T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Security Council LIVE: Yemen has fallen back into full-scale war, warns UN envoy.",
+          "zh": "安理会现场直播：联合国特使警告称，也门已重新陷入全面战争。"
+        },
+        {
+          "en": "The Security Council met to discuss the crisis in Yemen Friday, where a Houthi offensive launched in September has sharply escalated the 12-year-long war for control of the country and spillover from the US-Iran war has provoked a new displacement crisis.",
+          "zh": "安全理事会周五开会讨论也门危机，胡塞武装9月发动的攻势使长达12年的也门战争急剧升级，美伊战争的溢出效应引发了新的流离失所危机。"
+        },
+        {
+          "en": "Live coverage below and for full meetings updates, go here.",
+          "zh": "实时报道如下，如需了解完整的会议更新，请转到此处。"
+        }
+      ]
+    },
+    {
+      "id": "55ad6457eedb147b",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Amid heartache of Nepal flooding disaster, fear remains",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168561",
+      "publishedAt": "2026-10-09T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Amid heartache of Nepal flooding disaster, fear remains.",
+          "zh": "在尼泊尔洪水灾难的心痛中，恐惧依然存在。"
+        },
+        {
+          "en": "Six weeks after Nepal’s deadly flooding disaster, communities are still struggling to rebuild their lives, but they will need sustained help as global warming increases the risk of another Himalayan catastrophe, the UN Children’s Fund (UNICEF) said on Friday.",
+          "zh": "联合国儿童基金会（ UNICEF ）周五表示，在尼泊尔致命的洪灾发生六周后，社区仍在努力重建生活，但由于全球变暖增加了另一场喜马拉雅灾难的风险，他们将需要持续的帮助。"
+        }
+      ]
+    },
+    {
+      "id": "7014a2ddf1def1e2",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "‘Serious blow’: Guterres condemns new US sanctions on International Criminal Court",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168562",
+      "publishedAt": "2026-10-09T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "‘Serious blow’: Guterres condemns new US sanctions on International Criminal Court.",
+          "zh": "“严重打击” ：古特雷斯谴责美国对国际刑事法院的新制裁。"
+        },
+        {
+          "en": "The United States has imposed sanctions on the International Criminal Court (ICC) as an institution, with Secretary of State Marco Rubio vowing on Friday to “dismantle the ICC, brick by brick” unless it ends what Washington regards as a “threat” to its citizens.",
+          "zh": "美国对国际刑事法院（ ICC ）作为一个机构实施了制裁，国务卿马可·卢比奥（ Marco Rubio ）周五发誓要“一砖一瓦地拆除国际刑事法院” ，除非它结束了华盛顿认为对其公民的“威胁”。"
+        }
+      ]
+    },
+    {
+      "id": "9f223d25a2caa858",
+      "sourceId": "un-news",
+      "category": "security",
+      "title": "Security Council LIVE: Cycle of escalating attacks on civilians in Ukraine ‘must end now’",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168564",
+      "publishedAt": "2026-10-09T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Security Council LIVE: Cycle of escalating attacks on civilians in Ukraine ‘must end now’.",
+          "zh": "安理会现场直播：对乌克兰平民不断升级的袭击循环“必须立即停止”。"
+        },
+        {
+          "en": "Escalating violence and human rights violations in the four-year-old Russia-Ukraine war are in the spotlight in the Security Council on Friday following a spate of Russian attacks against civilian targets and infrastructure in recent days.",
+          "zh": "继最近几天俄罗斯对平民目标和基础设施的一系列袭击之后，四年之久的俄乌战争中不断升级的暴力和侵犯人权行为周五成为安理会关注的焦点。"
+        }
+      ]
+    },
+    {
+      "id": "47c14a4f0883ed0c",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Livestreaming US execution would breach prohibition of torture, UN rights office warns",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168565",
+      "publishedAt": "2026-10-09T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Livestreaming US execution would breach prohibition of torture, UN rights office warns.",
+          "zh": "联合国人权办公室警告称，直播美国处决将违反禁止酷刑的规定。"
+        },
+        {
+          "en": "The UN human rights office (OHCHR) on Friday warned that livestreaming a planned execution by firing squad in the United States would amount to a public execution and breach the absolute prohibition on torture.",
+          "zh": "联合国人权高专办（ OHCHR ）周五警告说，直播美国行刑队计划中的处决相当于公开处决，违反了对酷刑的绝对禁止。"
+        }
+      ]
+    },
+    {
+      "id": "9f0beaa166a6c555",
+      "sourceId": "un-news",
+      "category": "business",
+      "title": "Global trade reaches record $35 trillion despite conflicts",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168566",
+      "publishedAt": "2026-10-09T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Global trade reaches record $35 trillion despite conflicts.",
+          "zh": "尽管存在冲突，全球贸易仍达到创纪录的35万亿美元$。"
+        },
+        {
+          "en": "World trade reached a record $35 trillion in 2025 – but developing countries were held back from greater participation in the global economy because of new technological and policy barriers, the UN trade and development agency UNCTAD said on Friday.",
+          "zh": "联合国贸易和发展机构贸发会议周五表示， 2025年世界贸易达到创纪录的35万亿美元，但由于新的技术和政策障碍，发展中国家无法更多地参与全球经济。"
+        }
+      ]
+    },
+    {
+      "id": "e9b57befdc71e925",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "World News in Brief: ‘Horrific’ attack in Sudan, Israeli incursions in Syria intensify, most women and girls homeless in Gaza",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168567",
+      "publishedAt": "2026-10-09T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "World News in Brief: ‘Horrific’ attack in Sudan, Israeli incursions in Syria intensify, most women and girls homeless in Gaza.",
+          "zh": "世界新闻简报：苏丹遭受“可怕”的袭击，以色列对叙利亚的入侵加剧，加沙大多数妇女和女孩无家可归。"
+        },
+        {
+          "en": "A suspected drone strike has left at least 40 dead in Sudan’s Blue Nile State – near the Ethiopian border - according to initial reports from the ground, according to UN Spokesperson Stéphane Dujarric.",
+          "zh": "据联合国发言人斯特凡·杜哈里克（ Stéphane Dujarric ）称，根据来自地面的初步报告，在靠近埃塞俄比亚边境的苏丹青尼罗州（ Blue Nile State ） ，一场可疑的无人机袭击造成至少40人死亡。"
+        },
+        {
+          "en": "Most of the casualties were women and girls.",
+          "zh": "大多数伤亡者是妇女和女孩。"
+        }
+      ]
+    },
+    {
+      "id": "b973daa369aaaa77",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Doctor accused of 1994 Rwanda genocide offences to face trial in UK",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy47lzd1vyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-09T11:44:49.000Z",
+      "sentences": [
+        {
+          "en": "Doctor accused of 1994 Rwanda genocide offences to face trial in UK.",
+          "zh": "被控1994年卢旺达种族灭绝罪的医生将在英国接受审判。"
+        },
+        {
+          "en": "Dr Vincent Brown was allegedly a \"leader\" or \"supervisor\" of violent acts carried out by others in the early days of the genocide.",
+          "zh": "据称，文森特·布朗博士是种族灭绝早期其他人实施暴力行为的“领导者”或“监督者”。"
+        }
+      ]
+    },
+    {
+      "id": "f6d2b8e63edf47e8",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Trump says U.S. won't attack Iran before midterms. And, ICE agent shoots man in NYC",
+      "url": "https://www.npr.org/2026/10/09/g-s1-147455/up-first-newsletter-hurricane-isaias-ukraine-russia-trump-iran-ice-shooting",
+      "publishedAt": "2026-10-09T11:37:04.000Z",
+      "sentences": [
+        {
+          "en": "Trump says U.S. won't attack Iran before midterms.",
+          "zh": "特朗普表示，美国不会在中期之前攻击伊朗。"
+        },
+        {
+          "en": "And, ICE agent shoots man in NYC.",
+          "zh": "ICE特工在纽约枪杀了一名男子。"
+        },
+        {
+          "en": "Trump announced that the U.S. will not attack Iran ahead of the midterms.",
+          "zh": "特朗普宣布，美国不会在中期选举之前攻击伊朗。"
+        },
+        {
+          "en": "And, a 28-year-old man is receiving treatment at the hospital after an ICE agent shot him in the neck.",
+          "zh": "一名28岁的男子在ICE特工开枪射中他的脖子后，正在医院接受治疗。"
+        },
+        {
+          "en": "(Image credit: Kent Nishimura)",
+          "zh": "（图片来源： Kent Nishimura ）"
+        }
+      ]
+    },
+    {
+      "id": "2e892df7375200df",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "France promises 3,000 extra teachers in first step to calm student protests",
+      "url": "https://www.bbc.co.uk/news/articles/c6vg98lw017po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-09T11:35:00.000Z",
+      "sentences": [
+        {
+          "en": "France promises 3,000 extra teachers in first step to calm student protests.",
+          "zh": "法国承诺在第一步增加3000名教师，以平息学生的抗议活动。"
+        },
+        {
+          "en": "Education minister Edouard Geffray makes the offer after another day of sometimes violent demonstrations by high-school students.",
+          "zh": "教育部长爱德华·格弗雷（ Edouard Geffray ）在另一天高中生有时进行暴力示威后提出了这一提议。"
+        }
+      ]
+    },
+    {
+      "id": "01b17bcc0e0128a8",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Why American investors love European defense startups",
+      "url": "https://www.npr.org/sections/planet-money/2026/10/09/nx-s1-5995606/why-american-investors-love-european-defense-startups",
+      "publishedAt": "2026-10-09T11:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Why American investors love European defense startups.",
+          "zh": "为什么美国投资者喜欢欧洲的国防初创公司。"
+        },
+        {
+          "en": "As European defense spending takes off, just about half of the funding in Europe's defense tech industry is coming from American investors this year.",
+          "zh": "随着欧洲国防开支的起飞，今年欧洲国防科技产业约一半的资金来自美国投资者。"
+        },
+        {
+          "en": "One reason why: European investment firms have restrictions on how they can invest.",
+          "zh": "原因之一是：欧洲投资公司在投资方式上受到限制。"
+        },
+        {
+          "en": "(Image credit: Efrem Lukatsky/AP Photo/Efrem Lukatsky)",
+          "zh": "（图片来源： Efrem Lukatsky/美联社照片/Efrem Lukatsky ）"
+        }
+      ]
+    },
+    {
+      "id": "d49e7336b11d2f15",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Crazy Rich Asians to return as TV show with original film's stars",
+      "url": "https://www.bbc.co.uk/news/articles/cm5yne8k6zw8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-09T10:54:21.000Z",
+      "sentences": [
+        {
+          "en": "Crazy Rich Asians to return as TV show with original film's stars.",
+          "zh": "《疯狂的亚洲富人》将与原创电影明星一起回归电视节目。"
+        },
+        {
+          "en": "It will pick up after the hit 2018 film, starring Constance Wu, Henry Golding, Michelle Yeoh and Ronny Chieng.",
+          "zh": "它将在由Constance Wu ， Henry Golding ， Michelle Yeoh和Ronny Chieng主演的2018年热门电影之后回升。"
+        }
+      ]
+    },
+    {
+      "id": "8b425a886f42d15b",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Isaias strengthens to become first Atlantic hurricane of 2026 season",
+      "url": "https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026",
+      "publishedAt": "2026-10-09T09:59:06.000Z",
+      "sentences": [
+        {
+          "en": "Isaias strengthens to become first Atlantic hurricane of 2026 season.",
+          "zh": "伊萨亚斯强化成为2026年第一场大西洋飓风季。"
+        },
+        {
+          "en": "Storm expected to make landfall on US’s northern Gulf coast with risk of flash floods and isolated river flooding Isaias has become the first Atlantic hurricane of the 2026 season, with wind speeds of 80mph and a minimum pressure of 975mb.",
+          "zh": "预计将在美国墨西哥湾北部海岸登陆的风暴，有爆发洪水和孤立河流淹没伊萨亚斯的风险，已成为2026年飓风季节的第一场大西洋飓风，风速为80英里/小时，最低气压为975毫巴。"
+        },
+        {
+          "en": "It is expected to strengthen to a category 2 hurricane as it approaches the US’s northern Gulf coast on Friday, according to the National Oceanic and Atmospheric Administration (NOAA).",
+          "zh": "根据美国国家海洋和大气管理局（ NOAA ）的数据，预计它将在周五接近美国墨西哥湾北部海岸时强化到2级飓风。"
+        },
+        {
+          "en": "As a result of the strong El Niño , it has been a notably quiet Atlantic hurricane season.",
+          "zh": "由于强烈的厄尔尼诺现象，这是一个非常安静的大西洋飓风季节。"
+        },
+        {
+          "en": "The first hurricane of the season has not formed this late since 8 October 1905, which pre-dates the satellite era (1960s) for tracking hurricanes that has allowed for more non-landfall hurricanes to be discovered.",
+          "zh": "自1905年10月8日以来，该季节的第一场飓风还没有形成，该飓风早于追踪飓风的卫星时代（ 20世纪60年代） ，从而发现了更多的非登陆飓风。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "be5e504cf45b3d8c",
+      "sourceId": "ms-devblogs",
+      "category": "release-notes",
+      "title": "Introducing the Agent Experience (AX) Practitioner Playbook",
+      "url": "https://devblogs.microsoft.com/blog/introducing-the-agent-experience-ax-practitioner-playbook/",
+      "publishedAt": "2026-10-09T09:44:25.000Z",
+      "sentences": [
+        {
+          "en": "Introducing the Agent Experience (AX) Practitioner Playbook.",
+          "zh": "介绍代理体验(AX)从业人员手册。"
+        },
+        {
+          "en": "The AX Practitioner Playbook is our method for evaluating what AI coding agents do with your technology, diagnosing why they get it wrong, and fixing it at the source.",
+          "zh": "AX Practitioner Playbook是我们评估AI编码代理如何使用您的技术，诊断他们为什么出错并在源头修复它的方法。"
+        },
+        {
+          "en": "It puts everything we’ve learned from hundreds of agent sessions in one place.",
+          "zh": "它将我们从数百次客服代表会话中学到的所有内容集中在一个地方。"
+        },
+        {
+          "en": "Download it at aka.ms/ax-playbook .",
+          "zh": "从aka.ms/ax-playbook下载。"
+        },
+        {
+          "en": "Ask a coding agent to build something with the technology you work on, and watch what happens.",
+          "zh": "让编码代理使用您正在使用的技术构建一些东西，并观看会发生什么。"
+        },
+        {
+          "en": "It generates code that looks reasonable and might even compile.",
+          "zh": "它生成的代码看起来合理，甚至可以编译。"
+        },
+        {
+          "en": "Look closer and you’ll find the wrong SDK version, a deprecated authentication pattern, or a setup nobody on the product team would recommend.",
+          "zh": "仔细观察，您会发现错误的SDK版本、不推荐使用的身份验证模式或产品团队中没有人推荐的设置。"
+        },
+        {
+          "en": "The agent didn’t make a random mistake.",
+          "zh": "客服代表没有随意出错。"
+        },
+        {
+          "en": "It did exactly what its training data told it to do.",
+          "zh": "它完全按照训练数据的要求行事。"
+        },
+        {
+          "en": "Developers increasingly let agents pick the SDK, the version, and the pattern, and then judge your technology by the result.",
+          "zh": "开发人员越来越多地让代理选择SDK、版本和模式，然后通过结果来判断您的技术。"
+        },
+        {
+          "en": "Waiting for models to get better isn’t a strategy: a knowledge cutoff tells you little about what a model knows about your product .",
+          "zh": "等待模型变得更好并不是一种策略：知识截止点很少能告诉你模型对你的产品了解多少。"
+        },
+        {
+          "en": "What you can change are the sources agents rely on: docs, MCP tools, skills, plugins, instructions, CLIs, and APIs.",
+          "zh": "您可以更改代理所依赖的来源：文档、MCP工具、技能、插件、说明、CLI和API。"
+        }
+      ]
+    },
+    {
+      "id": "b88feab8481945df",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Thieves steal 30,000 bottles of wine worth €5m in Italy, reports say",
+      "url": "https://www.bbc.co.uk/news/articles/cme3xl8ln2vko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-09T09:09:03.000Z",
+      "sentences": [
+        {
+          "en": "Thieves steal 30,000 bottles of wine worth €5m in Italy, reports say.",
+          "zh": "据报道，盗贼在意大利盗窃了价值500万欧元的3万瓶葡萄酒。"
+        },
+        {
+          "en": "The heist at the Florence-based winery is believed to be one of the largest thefts of its kind in Italy.",
+          "zh": "这起发生在佛罗伦萨酒庄的盗窃案被认为是意大利同类盗窃案中最大的盗窃案之一。"
+        }
+      ]
+    },
+    {
+      "id": "ccb881ef59d01ee1",
+      "sourceId": "npr-news",
+      "category": "science",
+      "title": "Fill in the blank in the quiz: A plague research employee in Russia died from ____",
+      "url": "https://www.npr.org/2026/10/09/g-s1-147111/trump-bts-paramount-tv-el-nino-news-quiz",
+      "publishedAt": "2026-10-09T09:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Fill in the blank in the quiz: A plague research employee in Russia died from ____.",
+          "zh": "在测验中填空：俄罗斯的一名瘟疫研究员工死于____。"
+        },
+        {
+          "en": "Plus: Nobels!",
+          "zh": "此外：诺贝尔奖！"
+        },
+        {
+          "en": "Protests!",
+          "zh": "抗议次数"
+        },
+        {
+          "en": "Ambiguous quotes!",
+          "zh": "引用模棱两可！"
+        },
+        {
+          "en": "A mysterious death in Russia!",
+          "zh": "俄罗斯的神秘死亡！"
+        }
+      ]
+    },
+    {
+      "id": "999f51190a7bc129",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Sydney trader sacked for working from Singapore without permission wins unfair dismissal case",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/09/sydney-currency-trader-sacked-for-working-from-singapore-without-permission-wins-unfair-dismissal-case",
+      "publishedAt": "2026-10-09T05:55:27.000Z",
+      "sentences": [
+        {
+          "en": "Sydney trader sacked for working from Singapore without permission wins unfair dismissal case.",
+          "zh": "因未经许可在新加坡工作而被解雇的悉尼商人赢得了不公平的解雇案件。"
+        },
+        {
+          "en": "Employee had also been in Bali when he told his manager he was working from home, Fair Work Commission hears Get our breaking news email , free app or daily news podcast A Sydney currency trader who was sacked for working from Singapore without approval has won an unfair dismissal case, but failed to be awarded compensation.",
+          "zh": "员工告诉经理他在家工作时也在巴厘岛，公平工作委员会听到我们的突发新闻电子邮件，免费应用程序或每日新闻播客一位因未经批准在新加坡工作而被解雇的悉尼货币交易员赢得了不公平的解雇案件，但未能获得赔偿。"
+        },
+        {
+          "en": "The Fair Work Commission ruled on Wednesday that Charles Graham had been unfairly dismissed by HIFX Australia, trading as Xe, in December last year.",
+          "zh": "公平工作委员会(Fair Work Commission)周三裁定，查尔斯·格雷厄姆(Charles Graham)去年12月被HIFX Australia不公平地解雇，该公司以Xe的名义进行交易。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "67c6725d9a3c0567",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Egyptian journalists plan weekend protest over detention of six colleagues",
+      "url": "https://www.theguardian.com/global-development/2026/oct/09/egypt-six-journalists-matsadaash-protest-over-detentions",
+      "publishedAt": "2026-10-09T04:00:38.000Z",
+      "sentences": [
+        {
+          "en": "Egyptian journalists plan weekend protest over detention of six colleagues.",
+          "zh": "埃及记者计划周末抗议六名同事被拘留。"
+        },
+        {
+          "en": "Matsadaash staff allege torture and forced confessions after being held on charges of working for Muslim Brotherhood Egyptian journalists are planning a new protest in Cairo this weekend after six colleagues were charged with terrorism offences amid allegations they had been tortured in police detention.",
+          "zh": "在被指控为穆斯林兄弟会工作的埃及记者后， Matsadaash的工作人员声称遭到酷刑和逼供。在六名同事因被指控在警察拘留期间遭受酷刑而被指控犯有恐怖主义罪行后，埃及记者计划本周末在开罗举行新的抗议活动。"
+        },
+        {
+          "en": "Last week, Egyptian authorities arrested the journalists, from the independent factchecking and investigative platform Matsadaash, accusing them in a statement of being unlicensed and producing false news on behalf of the outlawed Muslim Brotherhood .",
+          "zh": "上周，埃及当局逮捕了来自独立事实核查和调查平台Matsadaash的记者，在一份声明中指控他们未经许可，并代表被取缔的穆斯林兄弟会制造虚假新闻。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "555cddfb4d3fc340",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "How a plant selfie in Colombian jungle led to ‘jaw dropping’ giant waterlily find",
+      "url": "https://www.theguardian.com/environment/2026/oct/09/plant-selfie-jaw-dropping-giant-waterlily-discovery-colombia",
+      "publishedAt": "2026-10-09T04:00:37.000Z",
+      "sentences": [
+        {
+          "en": "How a plant selfie in Colombian jungle led to ‘jaw dropping’ giant waterlily find.",
+          "zh": "哥伦比亚丛林中的植物自拍是如何导致巨大的睡莲“下巴掉落”的。"
+        },
+        {
+          "en": "Species with leaves large enough to be seen from space is already critically endangered – and plans are afoot to protect it A chance social media encounter has led to the race-against-time discovery of a new species of giant waterlily that has until now been hidden in the depths of Colombia’s jungle.",
+          "zh": "具有足以从太空看到的叶子的物种已经濒临灭绝–并且正在制定保护它的计划社交媒体的遭遇导致了一种新的巨型睡莲物种的种族对抗时间的发现，这种物种迄今为止一直隐藏在哥伦比亚的丛林深处。"
+        },
+        {
+          "en": "But the plant, which is so huge it is visible from space, is already considered critically endangered.",
+          "zh": "但是这种巨大的植物从太空中可以看到，已经被认为是极度濒危的。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "8c398c4db6534f12",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-08T23:11:10.000Z",
+      "sentences": [
+        {
+          "en": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC.",
+          "zh": "与摩纳哥炸弹袭击百万富翁有关的嫌疑人向英国广播公司发表讲话。"
+        },
+        {
+          "en": "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev.",
+          "zh": "维塔利·日科维奇（ Vitalii Zhykovych ）讲述了自己对乌克兰出生的商人瓦迪姆·叶尔莫拉耶夫（ Vadym Yermolayev ）未遂暗杀的描述。"
+        }
+      ]
+    },
+    {
+      "id": "605cee19632e07cf",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Study in The Lancet suggests AI could improve patient-physician relationships.",
+      "url": "https://blog.google/innovation-and-ai/technology/health/amie-clinical-study-lancet/",
+      "publishedAt": "2026-10-08T22:30:00.000Z",
+      "sentences": [
+        {
+          "en": "Study in The Lancet suggests AI could improve patient-physician relationships.",
+          "zh": "《柳叶刀》的研究表明，人工智能可以改善患者与医生的关系。"
+        },
+        {
+          "en": "A peer-reviewed study in The Lancet evaluates Google's AMIE medical AI in a real-world primary care clinic.",
+          "zh": "《柳叶刀》杂志上的一项同行评审研究在真实世界的初级保健诊所评估了谷歌的AMIE医疗人工智能。"
+        }
+      ]
+    },
+    {
+      "id": "10c48e4337a22af8",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Men accused of shooting Australian surfer brothers and US friend dead in Mexico to learn fate as trial concludes",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/09/jake-callum-robinson-australian-surfers-carter-rhoad-mexico-murder-trial-ntwnfb",
+      "publishedAt": "2026-10-08T20:40:55.000Z",
+      "sentences": [
+        {
+          "en": "Men accused of shooting Australian surfer brothers and US friend dead in Mexico to learn fate as trial concludes.",
+          "zh": "在审判结束时，男子被指控在墨西哥枪杀澳大利亚冲浪手兄弟和美国朋友，以了解命运。"
+        },
+        {
+          "en": "The brothers’ parents, Martin and Debra Robinson, to address court before a Mexican judge hands down verdict A Mexican judge is expected to hand down his verdict in the high-profile murder trial of three men accused of killing two Australian surfers and their American friend in 2024.",
+          "zh": "两兄弟的父母马丁和黛布拉·罗宾逊（ Martin and Debra Robinson ）在墨西哥法官作出判决前在法庭上发言。一名墨西哥法官预计将在三名男子被控在2024年杀害两名澳大利亚冲浪者和他们的美国朋友的高调谋杀案中作出判决。"
+        },
+        {
+          "en": "Australian brothers Jake and Callum Robinson, aged 30 and 33 respectively, and their friend Carter Rhoad, 30, were on a surfing trip to Mexico’s Pacific coast when they were shot dead in Baja California state in an alleged robbery.",
+          "zh": "澳大利亚兄弟杰克（ Jake ）和卡勒姆·罗宾逊（ Callum Robinson ） ，分别为30岁和33岁，以及他们的朋友卡特·罗德（ Carter Rhoad ） ， 30岁，正在墨西哥太平洋沿岸冲浪，当时他们在下加利福尼亚州因涉嫌抢劫而被枪杀。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "0f56c6490f5fc2e7",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Scientists discover 180,000 giant tortoises on one Seychelles island",
+      "url": "https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles",
+      "publishedAt": "2026-10-08T20:20:31.000Z",
+      "sentences": [
+        {
+          "en": "Scientists discover 180,000 giant tortoises on one Seychelles island.",
+          "zh": "科学家在塞舌尔的一个岛屿上发现了18万只巨型陆龟。"
+        },
+        {
+          "en": "Free-roaming Aldabra population far exceeds human population of Seychelles after decades-long recovery programme A survey of the world’s largest free-roaming giant tortoise population has discovered that the once endangered species is thriving.",
+          "zh": "经过数十年的恢复计划，自由漫游的Aldabra种群远远超过塞舌尔的人口。对世界上最大的自由漫游巨型乌龟种群的调查发现，曾经濒临灭绝的物种正在蓬勃发展。"
+        },
+        {
+          "en": "A population of Aldabra giant tortoises lives on an island in Seychelles called Aldabra Atoll.",
+          "zh": "一群阿尔达布拉巨龟生活在塞舌尔的一个名为阿尔达布拉环礁的岛屿上。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "143fc058cadbed4c",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Nicolás Maduro and his wife indicted for alleged torture of US citizens",
+      "url": "https://www.theguardian.com/world/2026/oct/08/cilia-flores-nicolas-maduro-new-york-court",
+      "publishedAt": "2026-10-08T18:04:16.000Z",
+      "sentences": [
+        {
+          "en": "Nicolás Maduro and his wife indicted for alleged torture of US citizens.",
+          "zh": "尼古拉斯·马杜罗（ Nicolás Maduro ）和他的妻子因涉嫌折磨美国公民而被起"
+        },
+        {
+          "en": "Ousted Venezuelan president and Cilia Flores have been in jail in New York since early January The deposed Venezuelan president Nicolás Maduro and his wife, Cilia Flores, have been indicted for alleged conspiracy to commit torture, according to Manhattan federal court papers unsealed on Thursday.",
+          "zh": "根据周四公开的曼哈顿联邦法院文件，被罢免的委内瑞拉总统尼古拉斯·马杜罗（ Nicolás Maduro ）和他的妻子西莉亚·弗洛雷斯（ Cilia Flores ）因涉嫌阴谋实施酷刑而被起诉。"
+        },
+        {
+          "en": "The superseding indictment was unsealed shortly before Flores appeared at court in her ongoing push for pretrial release – which was denied by Judge Alvin Hellerstein.",
+          "zh": "取代的起诉书在弗洛雷斯出庭前不久开启，她正在推动预审释放–阿尔文·海勒斯坦法官否认了这一点。"
+        },
+        {
+          "en": "Maduro and Flores have been jailed in New York City since early January.",
+          "zh": "自1月初以来，马杜罗和弗洛雷斯一直被关押在纽约市。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "400f93c3a2faae18",
+      "sourceId": "github-blog",
+      "category": "open-source",
+      "title": "How one bug bounty researcher chooses the features they investigate",
+      "url": "https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate/",
+      "publishedAt": "2026-10-08T17:02:52.000Z",
+      "sentences": [
+        {
+          "en": "How one bug bounty researcher chooses the features they investigate.",
+          "zh": "一个漏洞赏金研究人员如何选择他们调查的功能。"
+        },
+        {
+          "en": "As we kick off Cybersecurity Awareness Month, the GitHub Bug Bounty team is excited to spotlight one of the top-performing security researchers participating in the GitHub Security Bug Bounty Program: @vaib25vicky!",
+          "zh": "在我们启动网络安全意识月之际， GitHub Bug Bounty团队很高兴能够关注参加GitHub安全漏洞赏金计划的顶级安全研究人员之一： @ vaib25vicky ！"
+        },
+        {
+          "en": "The security research community makes GitHub safer for everyone that s the simple idea behind GitHub s Bug Bounty Program .",
+          "zh": "安全研究社区让每个人都能更安全地使用GitHub ，这是GitHub漏洞赏金计划背后的简单想法。"
+        },
+        {
+          "en": "For more than a decade, researchers from around the world have helped us identify and fix vulnerabilities before they could be exploited, helping protect the code that powers millions of development projects.",
+          "zh": "十多年来，来自世界各地的研究人员帮助我们在漏洞被利用之前识别和修复漏洞，帮助保护为数百万开发项目提供动力的代码。"
+        },
+        {
+          "en": "As AI-powered experiences such as GitHub Copilot and the Copilot coding agent reshape how software is built, partnering with skilled researchers across both traditional and emerging attack surfaces matters more than ever.",
+          "zh": "随着GitHub Copilot和Copilot编码代理等人工智能体验重塑软件的构建方式，与传统和新兴攻击面的熟练研究人员合作比以往任何时候都更加重要。"
+        },
+        {
+          "en": "This year marked a new chapter for our program .",
+          "zh": "今年是我们计划的新篇章。"
+        },
+        {
+          "en": "We restructured our bounty tables around a core shift in what we incentivize: you don t earn more by submitting more you earn more by submitting better.",
+          "zh": "我们围绕激励机制的核心转变对赏金表进行了重组：提交更多内容不会带来更多收入，提交更多内容会带来更多收入。"
+        },
+        {
+          "en": "As part of this change, we formalized a permanent, invite-only VIP program for researchers who consistently deliver high-quality, high-impact work.",
+          "zh": "作为这一变革的一部分，我们为始终如一地提供高质量、高影响力工作的研究人员制定了一项长期的、仅限受邀参加的VIP计划。"
+        },
+        {
+          "en": "VIP researchers receive: Significantly higher payouts up to $30,000 or more for critical findings Faster response times on their submissions Early previews of beta products and features before public launch The path to the VIP program is based on demonstrated, consistent quality.",
+          "zh": "VIP研究人员获得：大幅增加关键发现的奖金，最高可达30,000 $或更高。更快的响应时间。在公开发布之前，测试版产品和功能的早期预览VIP计划的途径是基于已证明的一致质量。"
+        },
+        {
+          "en": "Researchers who have one critical, two high, four medium, or seven low-severity resolved findings may earn an invitation.",
+          "zh": "研究人员如果有一个临界、两个高、四个中或七个低严重程度已解决的发现，可能会获得邀请。"
+        },
+        {
+          "en": "Visit our public bounty site to learn more about the qualification criteria.",
+          "zh": "请访问我们的公开赏金网站，了解有关资格标准的更多信息。"
+        },
+        {
+          "en": "To celebrate Cybersecurity Awareness Month this October, we re spotlighting one of the top-contributing researchers in our VIP program and exploring their methodology, techniques, and experiences researching GitHub.",
+          "zh": "为庆祝今年10月的网络安全意识月，我们将重点介绍VIP计划中最有贡献的研究人员之一，并探索他们研究GitHub的方法、技术和体验。"
+        }
+      ]
+    }
+  ],
+  "failures": []
+}
