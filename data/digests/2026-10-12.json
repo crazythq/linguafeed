@@ -1,0 +1,811 @@
+{
+  "date": "2026-10-12",
+  "collectedAt": "2026-10-13T05:37:51.001Z",
+  "items": [
+    {
+      "id": "89e576d4d126b255",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Saudi Arabia further suspends flights after latest deadly Houthi attack on airport",
+      "url": "https://www.theguardian.com/world/2026/oct/12/saudi-arabia-suspends-flights-latest-deadly-houthi-attack-airport",
+      "publishedAt": "2026-10-12T15:42:37.000Z",
+      "sentences": [
+        {
+          "en": "Saudi Arabia further suspends flights after latest deadly Houthi attack on airport.",
+          "zh": "在最近胡塞武装袭击机场后，沙特阿拉伯进一步暂停了航班。"
+        },
+        {
+          "en": "Energy minister says ‘fear has no place in the Saudi lexicon’ as paramilitary group again breaches stretched defences Why are the Houthis attacking Saudi airports and how are the missiles getting through?",
+          "zh": "能源部长表示， “恐惧在沙特词典中没有立足之地” ，因为准军事组织再次突破了紧张的防御，为什么胡塞武装袭击沙特机场？导弹是如何通过的？"
+        },
+        {
+          "en": "Saudi Arabia has been forced to suspend all flights to and from its main international airport in Riyadh until next Saturday after a further round of Houthi missile attacks caused more damage and left one person dead.",
+          "zh": "沙特阿拉伯被迫暂停往返利雅得主要国际机场的所有航班，直到下周六，此前又一轮胡塞武装导弹袭击造成更多损失，造成一人死亡。"
+        },
+        {
+          "en": "Some airlines, including Gulf Air and Bahrain Air, had already said they were cancelling flights until next Saturday.",
+          "zh": "包括海湾航空公司和巴林航空公司在内的一些航空公司已经表示，他们将取消航班，直到下周六。"
+        },
+        {
+          "en": "More missiles were fired at Saudi Arabian cities by the Houthis on Monday, Saudi Arabian’s military spokesperson said.",
+          "zh": "沙特阿拉伯军方发言人表示，周一，胡塞武装向沙特阿拉伯城市发射了更多导弹。"
+        },
+        {
+          "en": "The Gulf nation announced it was suspending flights from Riyadh, its second busiest airport, after Houthi missiles killed 13 people on Saturday and left more than 300 injured.",
+          "zh": "这个海湾国家宣布暂停从其第二繁忙的机场利雅得起飞的航班，此前胡塞导弹在周六造成13人死亡， 300多人受伤。"
+        },
+        {
+          "en": "Saudi state TV broadcast CCTV footage that showed passengers deluged in smoke and falling masonry as they queued at the airport terminal to board a plane just as the Houthi missile struck.",
+          "zh": "沙特国家电视台播放的闭路电视录像显示，胡塞导弹袭击时，乘客在机场航站楼排队登机时被烟雾和瀑布淹没。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "2f0532d8a8030249",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Thousands march to Indian Supreme Court to demand election chief resign",
+      "url": "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-12T15:19:17.000Z",
+      "sentences": [
+        {
+          "en": "Thousands march to Indian Supreme Court to demand election chief resign.",
+          "zh": "成千上万的人向印度最高法院游行，要求选举负责人辞职。"
+        },
+        {
+          "en": "The march follows a chaotic weekend in Delhi which saw thousands of protesters detained by police.",
+          "zh": "这次游行发生在德里一个混乱的周末，数千名抗议者被警方拘留。"
+        }
+      ]
+    },
+    {
+      "id": "80f26b2bd8fbb1d1",
+      "sourceId": "cloudflare-blog",
+      "category": "security",
+      "title": "Filter, reshape, and redact logs before export with Transformers",
+      "url": "https://blog.cloudflare.com/transformers-on-logpush/",
+      "publishedAt": "2026-10-12T14:44:59.000Z",
+      "sentences": [
+        {
+          "en": "Filter, reshape, and redact logs before export with Transformers.",
+          "zh": "在使用变压器导出之前，过滤、重塑和编辑日志。"
+        },
+        {
+          "en": "Logpush delivers logs in batches as quickly as possible, enabling Cloudflare to provide information almost in real time.",
+          "zh": "Logpush尽可能快地批量交付日志，使Cloudflare能够几乎实时地提供信息。"
+        },
+        {
+          "en": "During our recent Birthday Week , we made Logpush available on all self-serve plans and Transformers generally available.",
+          "zh": "在我们最近的生日周期间，我们在所有自助服务计划和变形金刚上市时都提供了Logpush。"
+        },
+        {
+          "en": "Those changes were among eight major updates to Cloudflare Observability and reflect our commitment to make every Cloudflare feature available to everyone .",
+          "zh": "这些变化是Cloudflare Observability的八个主要更新之一，反映了我们致力于向所有人提供每个Cloudflare功能的承诺。"
+        },
+        {
+          "en": "This post takes a deeper look at how Transformers work inside Logpush&#x27;s export pipeline.",
+          "zh": "这篇文章深入探讨了Transformer如何在Logpush的导出管道中工作。"
+        },
+        {
+          "en": "Observability teams use Logpush to export Cloudflare logs to security information and event management systems (SIEMs), analytics platforms, and object storage.",
+          "zh": "可观察性团队使用Logpush将Cloudflare日志导出到安全信息和事件管理系统(SIEM)、分析平台和对象存储。"
+        },
+        {
+          "en": "Before those logs reach their destination, teams may need to remove health checks, omit sensitive fields, or reshape records for dashboards and investigations.",
+          "zh": "在这些日志到达目的地之前，团队可能需要删除运行状况检查、省略敏感字段或重塑仪表板和调查的记录。"
+        },
+        {
+          "en": "Today, this often requires a separate processing service that teams must deploy, scale, monitor, and maintain.",
+          "zh": "如今，这通常需要团队必须部署、扩展、监控和维护的单独处理服务。"
+        },
+        {
+          "en": "For example, a team that collects logs from multiple CDNs can add a static provider field to normalize records before they reach its analytics platform.",
+          "zh": "例如，从多个CDN收集日志的团队可以添加一个静态提供程序字段，以便在记录到达其分析平台之前对其进行规范化。"
+        },
+        {
+          "en": "Teams also pay to export, ingest, and store records they discard as soon as they arrive, so filtering them before delivery can reduce downstream data volume and cost.",
+          "zh": "团队还为到达后立即丢弃的记录的导出、摄取和存储付费，因此在交付前对其进行过滤可以减少下游数据量和成本。"
+        },
+        {
+          "en": "With Transformers, that processing moves into the Logpush export workflow.Teams define a SQL query to filter records, redact sensitive data, and reshape the output by adding, renaming, removing, or nesting fields.",
+          "zh": "使用Transformer ，该处理将移入Logpush导出工作流。团队定义SQL查询以通过添加、重命名、删除或嵌套字段来过滤记录、编辑敏感数据和重塑输出。"
+        },
+        {
+          "en": "Logpush applies the query before export, so each destination receives data in the form it needs.",
+          "zh": "Logpush在导出前应用查询，因此每个目标以其所需的形式接收数据。"
+        }
+      ]
+    },
+    {
+      "id": "18bfcc9334950520",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Tom Cruise film Digger forecast to become one of Hollywood's biggest flops",
+      "url": "https://www.bbc.co.uk/news/articles/cke8re5v1pgmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-12T14:11:27.000Z",
+      "sentences": [
+        {
+          "en": "Tom Cruise film Digger forecast to become one of Hollywood's biggest flops.",
+          "zh": "汤姆·克鲁斯（ Tom Cruise ）的电影《挖掘者》（ Digger ）预计将成为好莱坞最大的失"
+        },
+        {
+          "en": "The film dropped by around 60% in its second weekend, and could become one of Hollywood's biggest flops.",
+          "zh": "这部电影在第二个周末下降了约60 ％ ，可能成为好莱坞最大的失败之一。"
+        }
+      ]
+    },
+    {
+      "id": "5f162883c0efd13c",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "US detains man accused in multi-billion Venezuelan money laundering scheme",
+      "url": "https://www.bbc.co.uk/news/articles/crp3gy0x0dd1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-12T13:49:05.000Z",
+      "sentences": [
+        {
+          "en": "US detains man accused in multi-billion Venezuelan money laundering scheme.",
+          "zh": "美国拘留了被指控参与数十亿委内瑞拉洗钱计划的男子。"
+        },
+        {
+          "en": "US officials had been offering a reward of $10m (£7.5m) for information leading to Álvaro Pulido's arrest.",
+          "zh": "美国官员一直悬赏1000万美元（ 750万英镑） ，以获取导致Álvaro Pulido被捕的信息。"
+        }
+      ]
+    },
+    {
+      "id": "7d30db55abb40a46",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Fugitive businessman taken into US custody in Venezuela bribery case",
+      "url": "https://www.theguardian.com/us-news/2026/oct/12/fugitive-venezuela-bribery-case",
+      "publishedAt": "2026-10-12T13:14:14.000Z",
+      "sentences": [
+        {
+          "en": "Fugitive businessman taken into US custody in Venezuela bribery case.",
+          "zh": "在委内瑞拉贿赂案中被美国拘留的在逃商人。"
+        },
+        {
+          "en": "A businessman wanted in the US for allegedly bribing top Venezuelan officials has been taken into custody A businessman wanted for years in the US for allegedly paying bribes to top Venezuelan officials in exchange for lucrative state contracts in Venezuela has been taken into custody.",
+          "zh": "一名因涉嫌贿赂委内瑞拉高级官员而在美国被通缉的商人已被拘留。一名因涉嫌向委内瑞拉高级官员行贿以换取委内瑞拉利润丰厚的国家合同而在美国被通缉多年的商人已被拘留。"
+        },
+        {
+          "en": "Alvaro Pulido was indicted in Miami federal court in 2019 and again in 2021 as part of an investigation into his longtime business partner, Alex Saab, a one-time ally of ousted Venezuelan president Nicolás Maduro .",
+          "zh": "阿尔瓦罗·普利多（ Alvaro Pulido ）于2019年在迈阿密联邦法院被起诉，并于2021年再次被起诉，这是对他的长期商业伙伴亚历克斯·萨博（ Alex Saab ）的调查的一部分，萨博是被驱逐的委内瑞拉总统尼古拉斯·马杜罗（ Nicolás Maduro ）的一"
+        },
+        {
+          "en": "The US Drug Enforcement Administration (DEA) and the state department had been offering a reward of up to $10m for information leading to his arrest.",
+          "zh": "美国缉毒局（ DEA ）和国务院一直为导致他被捕的信息提供高达1000万美元的奖励。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "7137d7cc9af98a47",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Google Fitbit Edge: Our all-new smartest fitness tracker ever",
+      "url": "https://blog.google/products-and-platforms/devices/fitbit/google-fitbit-edge/",
+      "publishedAt": "2026-10-12T13:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Google Fitbit Edge: Our all-new smartest fitness tracker ever.",
+          "zh": "Google Fitbit Edge ：我们有史以来最智能的全新健身追踪器。"
+        },
+        {
+          "en": "Pre-order our newest fitness tracker and get access to our most advanced health tools — plus, a week of battery life from a single charge.",
+          "zh": "预购我们最新的健身追踪器，即可使用我们最先进的健康工具，只需一次充电，即可获得一周的电池续航时间。"
+        }
+      ]
+    },
+    {
+      "id": "17ae0263749e16b2",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "How we’re making Google Health and Fitbit Air smarter than ever",
+      "url": "https://blog.google/products-and-platforms/products/google-health/fitbit-google-health-updates/",
+      "publishedAt": "2026-10-12T13:00:00.000Z",
+      "sentences": [
+        {
+          "en": "How we’re making Google Health and Fitbit Air smarter than ever.",
+          "zh": "我们如何让Google Health和Fitbit Air比以往任何时候都更加智能。"
+        },
+        {
+          "en": "Our most advanced wellness tools, premium metal bands, and deeper app partnerships bring everything you need directly to your wrist.",
+          "zh": "我们最先进的健康工具、优质金属表带以及更深入的应用程序合作伙伴关系，将您需要的一切直接带到您的手腕上。"
+        }
+      ]
+    },
+    {
+      "id": "005adc0cbed04e40",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "We’re partnering with Flo Health to elevate women’s health",
+      "url": "https://blog.google/products-and-platforms/products/google-health/commitment-womens-health-flo-health-partnership/",
+      "publishedAt": "2026-10-12T13:00:00.000Z",
+      "sentences": [
+        {
+          "en": "We’re partnering with Flo Health to elevate women’s health.",
+          "zh": "我们正在与FLO Health合作，以提高女性的健康水平。"
+        },
+        {
+          "en": "Google Health announces new partnership and deeper commitment to women’s health with Flo Health.",
+          "zh": "Google Health宣布与Flo Health建立新的合作伙伴关系，并加深对女性健康的承诺。"
+        }
+      ]
+    },
+    {
+      "id": "8480f2f9df3680b9",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "From game days to daily life: The familiar faces teaming up with Google Health",
+      "url": "https://blog.google/products-and-platforms/products/google-health/google-health-partnership-athletes-creators/",
+      "publishedAt": "2026-10-12T13:00:00.000Z",
+      "sentences": [
+        {
+          "en": "From game days to daily life: The familiar faces teaming up with Google Health.",
+          "zh": "从游戏日到日常生活：熟悉的面孔与Google Health合作。"
+        },
+        {
+          "en": "See the athletes, creators, and wellness experts who are using Google Health to help make our technology better for everyone.",
+          "zh": "了解正在使用Google Health帮助我们为所有人提供更好技术的运动员、创作者和健康专家。"
+        }
+      ]
+    },
+    {
+      "id": "6b2b07b69aa63512",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Google Health: Evolving so you can focus on living better",
+      "url": "https://blog.google/products-and-platforms/products/google-health/google-health-updates/",
+      "publishedAt": "2026-10-12T13:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Google Health: Evolving so you can focus on living better.",
+          "zh": "Google Health ：不断发展，让您专注于更好的生活。"
+        },
+        {
+          "en": "What’s new from Google Health: Explore the new Fitbit Edge, expanded workout tracking, and dedicated women's health insights.",
+          "zh": "Google Health的新功能：探索新的Fitbit Edge、扩展的锻炼跟踪和专门的女性健康洞察。"
+        }
+      ]
+    },
+    {
+      "id": "bc3da381a585a884",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "NAZA: Netanyahu orders identification and prosecution of film’s interviewees",
+      "url": "https://www.theguardian.com/film/2026/oct/12/naza-netanyahu-orders-identification-prosecution-interviewees-documentary-film",
+      "publishedAt": "2026-10-12T12:59:56.000Z",
+      "sentences": [
+        {
+          "en": "NAZA: Netanyahu orders identification and prosecution of film’s interviewees.",
+          "zh": "NAZA ：内塔尼亚胡下令识别和起诉电影的受访者。"
+        },
+        {
+          "en": "Israeli PM calls for criminal investigation into soldiers and officers interviewed in Guardian-produced documentary The Israeli prime minister, Benjamin Netanyahu, has ordered the country’s attorney general and the head of the Shin Bet security service to reveal the identities of soldiers and officers interviewed in the investigative documentary NAZA and prosecute them for causing “harm to Israel’s diplomatic and security interests”.",
+          "zh": "以色列总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）已下令该国司法部长和Shin Bet安全部门负责人披露在调查纪录片NAZA中接受采访的士兵和军官的身份，并起诉他们造成“伤害以色列的外交和安全利益”。"
+        },
+        {
+          "en": "The award-winning documentary, directed by the Oscar-winning film-makers Yuval Abraham and Rachel Szor and produced by the Guardian, details Israel’s mass killing of civilians in Gaza.",
+          "zh": "这部屡获殊荣的纪录片由奥斯卡获奖电影制片人尤瓦尔·亚伯拉罕（ Yuval Abraham ）和雷切尔·索尔（ Rachel Szor ）执导，由《卫报》制作，详细介绍了以色列在加沙大规模杀"
+        },
+        {
+          "en": "The film is in cinemas, including in the UK and the US, and will be shown in more than 50 countries.",
+          "zh": "这部电影在包括英国和美国在内的电影院上映，将在50多个国家放映。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "9eaf24c5207dba55",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Rise in poverty is ‘a wake-up call for the world’, UN development chief says",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168574",
+      "publishedAt": "2026-10-12T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Rise in poverty is ‘a wake-up call for the world’, UN development chief says.",
+          "zh": "联合国发展司司长表示，贫困的加剧是“世界的警钟”。"
+        },
+        {
+          "en": "The number of people living in “multidimensional” poverty has risen for the first time in 15 years, reaching 1.2 billion, as families struggle to meet their basic needs.",
+          "zh": "由于家庭难以满足基本需求，生活在“多维”贫困中的人数15年来首次增加，达到12亿。"
+        }
+      ]
+    },
+    {
+      "id": "aaf65d7273736a9c",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "‘Efficiency has limits’: UNHCR chief warns refugee protection is buckling under cuts",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168575",
+      "publishedAt": "2026-10-12T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "‘Efficiency has limits’: UNHCR chief warns refugee protection is buckling under cuts.",
+          "zh": "“效率有限” ：难民署负责人警告说，难民保护正在削减。"
+        },
+        {
+          "en": "The money is running out faster than needs are growing: with 117 million men, women and children now forced from their homes, the UN refugee agency (UNHCR) has received just $3 billion of the $8.5 billion it needs this year – and its chief, Barham Salih, warns that the global support system for asylum-seekers risks buckling.",
+          "zh": "资金耗尽的速度超过了需求的增长速度：现在有1.17亿男女老少被迫离开家园，联合国难民署（ UNHCR ）今年只收到了其所需的85亿美元中的30亿美元，其负责人巴勒姆·萨利赫（ Barham Salih ）警告说，全球寻求庇护者支持系统面临瘫痪的风险。"
+        }
+      ]
+    },
+    {
+      "id": "333851076556cd63",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "UN aid operation underway in Nepal following fresh floods",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168576",
+      "publishedAt": "2026-10-12T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "UN aid operation underway in Nepal following fresh floods.",
+          "zh": "新洪水过后，联合国正在尼泊尔开展援助行动。"
+        },
+        {
+          "en": "The United Nations has rushed to assist Nepal following new flash floods in the central Gorkha district on Sunday that swept away homes and bridges just weeks after catastrophic flooding in the north.",
+          "zh": "周日，在北部发生灾难性洪水几周后，尼泊尔中部廓尔喀地区发生了新的山洪暴发，房屋和桥梁被摧毁，联合国已紧急援助尼泊尔。"
+        }
+      ]
+    },
+    {
+      "id": "45473804e2bb263e",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Sudan: Drought and war push Darfur and Kordofan towards famine",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168577",
+      "publishedAt": "2026-10-12T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Sudan: Drought and war push Darfur and Kordofan towards famine.",
+          "zh": "苏丹：干旱和战争将达尔富尔和科尔多凡推向饥荒。"
+        },
+        {
+          "en": "The risk of famine is growing in parts of Sudan already torn apart by war, as a severe El Niño drought makes life even harder in Greater Darfur and Greater Kordofan, the UN-backed global hunger monitor warned on Monday.",
+          "zh": "联合国支持的全球饥饿监测机构周一警告说，由于严重的厄尔尼诺现象使大达尔富尔和大科尔多凡州的生活更加艰难，苏丹部分地区的饥荒风险正在增加。"
+        }
+      ]
+    },
+    {
+      "id": "b7600be984a428bc",
+      "sourceId": "un-news",
+      "category": "security",
+      "title": "Security Council LIVE: Syria’s fragile transition – economic strain, Israeli incursions and progress towards elections",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168578",
+      "publishedAt": "2026-10-12T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Security Council LIVE: Syria’s fragile transition – economic strain, Israeli incursions and progress towards elections.",
+          "zh": "安理会直播：叙利亚脆弱的过渡--经济紧张、以色列入侵和选举进展。"
+        },
+        {
+          "en": "The Security Council is meeting on Syria as the country’s transition faces pressure on several fronts.",
+          "zh": "安全理事会正在就叙利亚问题举行会议，因为该国的过渡在几个方面面临压力。"
+        },
+        {
+          "en": "Economic hardship is fuelling unrest, Israeli incursions continue in the south and sectarian tensions persist in Sweida, even as Damascus reports progress on its chemical weapons programme and talks about future elections.",
+          "zh": "经济困难加剧了动荡，以色列继续入侵南部，斯韦达的宗派紧张局势持续存在，尽管大马士革报告了其化学武器计划的进展情况，并谈到了未来的选举。"
+        },
+        {
+          "en": "Millions, meanwhile, remain displaced.",
+          "zh": "与此同时，仍有数百万人流离失所。"
+        },
+        {
+          "en": "Follow live below and go here for full meetings coverage.",
+          "zh": "关注下面的实时内容，并转到此处查看完整的会议报道。"
+        }
+      ]
+    },
+    {
+      "id": "241cc1dca45d488a",
+      "sourceId": "un-news",
+      "category": "security",
+      "title": "Colombia peace deal must endure as insecurity grows, Security Council hears",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168580",
+      "publishedAt": "2026-10-12T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Colombia peace deal must endure as insecurity grows, Security Council hears.",
+          "zh": "安理会听到，随着不安全因素的增加，哥伦比亚和平协议必须持续下去。"
+        },
+        {
+          "en": "Nearly 10 years after Colombia signed a historic peace agreement to end a decades-long insurgency, the deal is under strain from growing insecurity – and the UN’s top official in the country says it cannot be allowed to falter.",
+          "zh": "在哥伦比亚签署了一项结束长达数十年的叛乱的历史性和平协议近10年后，该协议因日益不安全而受到压力–联合国在该国的高级官员表示，不能允许它动摇。"
+        }
+      ]
+    },
+    {
+      "id": "b8c832d11bc7b48a",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "General Assembly adopts pandemic declaration, but not by consensus",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168581",
+      "publishedAt": "2026-10-12T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "General Assembly adopts pandemic declaration, but not by consensus.",
+          "zh": "大会通过大流行病宣言，但不是以协商一致方式通过。"
+        },
+        {
+          "en": "The General Assembly on Monday adopted a political declaration on pandemic prevention, preparedness and response, by 153 in favour to three against (Argentina, Israel and United States) with two abstentions (New Zealand and Paraguay).",
+          "zh": "大会周一以153票赞成、3票反对（阿根廷、以色列和美国）、2票弃权（新西兰和巴拉圭）通过了关于预防、防备和应对大流行病的政治宣言。"
+        }
+      ]
+    },
+    {
+      "id": "7668a2c12d45b92c",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "DOJ launches antitrust probe of TV networks. And, Trump says Ukraine needs new leader",
+      "url": "https://www.npr.org/2026/10/12/g-s1-147772/up-first-newsletter-trump-ukraine-russia-antitrust-investigation-hurricane-isaias-saudi-airport",
+      "publishedAt": "2026-10-12T11:29:56.000Z",
+      "sentences": [
+        {
+          "en": "DOJ launches antitrust probe of TV networks.",
+          "zh": "司法部启动了对电视网络的反垄断调查。"
+        },
+        {
+          "en": "And, Trump says Ukraine needs new leader.",
+          "zh": "而且，特朗普表示乌克兰需要新的领导人。"
+        },
+        {
+          "en": "The Justice Department is investigating several TV networks for possible antitrust violations.",
+          "zh": "司法部正在调查几家电视网络是否存在可能的反垄断违规行为。"
+        },
+        {
+          "en": "And, President Trump pressures Ukrainians to elect a new leader.",
+          "zh": "而且，特朗普总统向乌克兰人施加压力，要求他们选举新领导人。"
+        },
+        {
+          "en": "(Image credit: Roberto Schmidt)",
+          "zh": "（图片来源： Roberto Schmidt ）"
+        }
+      ]
+    },
+    {
+      "id": "0916073d991c450e",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "EU to limit Chinese hybrid vehicle imports to 350,000 a year",
+      "url": "https://www.theguardian.com/environment/2026/oct/12/eu-deal-china-limit-imports-hybrid-electric-vehicles",
+      "publishedAt": "2026-10-12T11:23:55.000Z",
+      "sentences": [
+        {
+          "en": "EU to limit Chinese hybrid vehicle imports to 350,000 a year.",
+          "zh": "欧盟将中国混合动力汽车进口限制在每年35万辆。"
+        },
+        {
+          "en": "Brussels uses WTO rules to quickly impose quota, which will halve Chinese market share to 3% Business live – latest updates VW boss backs EU plan to bolster domestic industry The EU is to limit the number of hybrid electric vehicles imported from China to 350,000 cars a year, the European Commission has confirmed.",
+          "zh": "欧盟委员会证实，布鲁塞尔利用世贸组织规则迅速实施配额，这将使中国市场份额减半至3% --大众BOSS的最新更新支持欧盟支持加强国内产业的计划。欧盟将把从中国进口的混合动力电动汽车数量限制在每年35万辆。"
+        },
+        {
+          "en": "Imports have been soaring in the past two years; about 800,000 battery and plug-in hybrids are likely to be sold this year.",
+          "zh": "在过去两年中，进口一直在飙升；今年可能售出约80万辆电池和插电式混合动力车。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "2c6b308533a2309b",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Balkan temperatures swing as heavy rain heads for Greece",
+      "url": "https://www.theguardian.com/environment/2026/oct/12/balkan-temperatures-montenegro-rain-greece",
+      "publishedAt": "2026-10-12T10:48:26.000Z",
+      "sentences": [
+        {
+          "en": "Balkan temperatures swing as heavy rain heads for Greece.",
+          "zh": "巴尔干地区的气温会随着希腊的大雨而波动。"
+        },
+        {
+          "en": "Clear skies bring warm days and cold nights to Montenegro, while a low-pressure system moves towards Aegean Sea Europe live – latest updates Temperatures fluctuated dramatically in the Balkans last week, with unusually large differences between daytime highs and overnight lows – known as the diurnal range.",
+          "zh": "晴朗的天空为黑山带来了温暖的白天和寒冷的夜晚，而低压系统则向爱琴海欧洲直播移动–最新更新上周巴尔干半岛的气温大幅波动，白天高点和夜间低点之间的差异异异常大–被称为昼夜范围。"
+        },
+        {
+          "en": "An area of high pressure over the region brought prolonged sunshine during the day, while clear skies at night allowed temperatures to drop rapidly as heat escaped into the atmosphere without cloud cover to slow the cooling.",
+          "zh": "该地区的高压区域在白天带来了长时间的阳光，而夜间晴朗的天空使气温迅速下降，因为热量在没有云层的情况下逃逸到大气中以减缓冷却。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "917d0d5917edb6b0",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Women's billion-dollar boom leaves players behind, says Fifpro",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmd7qn1g0xrxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-12T10:04:50.000Z",
+      "sentences": [
+        {
+          "en": "Women's billion-dollar boom leaves players behind, says Fifpro.",
+          "zh": "Fifpro说，女性的十亿美元热潮让玩家落后了。"
+        },
+        {
+          "en": "Women's football is on course to become a billion-dollar industry, but many professional players are still earning low wages, working on insecure contracts and experiencing rising psychological stress, a Fifpro survey indicates.",
+          "zh": "Fifpro的一项调查显示，女子足球正在成为一个价值数十亿美元的行业，但许多职业球员的工资仍然很低，从事的是不安全的合同，心理压力也在增加。"
+        }
+      ]
+    },
+    {
+      "id": "0af97e723a350c27",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Here's what to know if you're unsure about your measles immunity status",
+      "url": "https://www.npr.org/2026/10/12/nx-s1-5991904/measles-vaccination-status-outbreak-extra-dose",
+      "publishedAt": "2026-10-12T09:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Here's what to know if you're unsure about your measles immunity status.",
+          "zh": "如果您不确定自己的麻疹免疫状况，请参阅以下信息。"
+        },
+        {
+          "en": "Vaccination is the best way to protect yourself against measles.",
+          "zh": "接种疫苗是预防麻疹的最佳方法。"
+        },
+        {
+          "en": "For most adults, one shot of the MMR is considered enough protection.",
+          "zh": "对于大多数成年人来说，一次MMR注射被认为是足够的保护。"
+        },
+        {
+          "en": "But there are certain situations that call for a second dose.",
+          "zh": "但是在某些情况下，需要第二次给药。"
+        }
+      ]
+    },
+    {
+      "id": "94dc489ed9c8b7f5",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "U.S. restrictions on Chinese drones are hurting cash-strapped police departments",
+      "url": "https://www.npr.org/2026/10/12/nx-s1-5888604/police-chinese-drones-bans-costs",
+      "publishedAt": "2026-10-12T09:00:00.000Z",
+      "sentences": [
+        {
+          "en": "U.S. restrictions on Chinese drones are hurting cash-strapped police departments.",
+          "zh": "美国对中国无人机的限制正在伤害资金紧张的警察部门。"
+        },
+        {
+          "en": "The U.S. government is trying to end the dominance of high-quality, low-cost drones made in China.",
+          "zh": "美国政府正试图结束中国制造的高质量、低成本无人机的主导地位。"
+        },
+        {
+          "en": "But more restrictions mean higher costs for cash-strapped police forces that rely on those drones.",
+          "zh": "但更多的限制意味着依赖这些无人机的现金拮据的警察部队的成本更高。"
+        },
+        {
+          "en": "(Image credit: Albert Yee for NPR)",
+          "zh": "（图片来源： NPR的Albert Yee ）"
+        }
+      ]
+    },
+    {
+      "id": "ab4c8291e43b4ba6",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Political strategist on how Trump's personal grievances could affect the GOP",
+      "url": "https://www.npr.org/2026/10/12/nx-s1-5996646/political-strategist-on-how-trumps-personal-grievances-could-affect-the-gop",
+      "publishedAt": "2026-10-12T08:39:36.000Z",
+      "sentences": [
+        {
+          "en": "Political strategist on how Trump's personal grievances could affect the GOP.",
+          "zh": "关于特朗普个人不满如何影响共和党的政治战略家。"
+        },
+        {
+          "en": "NPR's Steve Inskeep speaks with political strategist and former senior Republican congressional adviser Rina Shah about how President Trump's personal grievances and projects are affecting the chances of GOP candidates in the upcoming election.",
+          "zh": "NPR的史蒂夫·英斯基普（ Steve Inskeep ）与政治战略家、前共和党国会高级顾问丽娜·沙阿（ Rina Shah ）谈到了特朗普总统的个人抱怨和项目如何影响共和党候选人在即将到来的选举中的机会。"
+        }
+      ]
+    },
+    {
+      "id": "2f09c9eca7421158",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Morning news brief",
+      "url": "https://www.npr.org/2026/10/12/nx-s1-5995584/newsbrief-trump-russia-ukraine-trump-priorities-saudi-airport-strikes",
+      "publishedAt": "2026-10-12T08:38:03.000Z",
+      "sentences": [
+        {
+          "en": "Morning news brief.",
+          "zh": "晨间新闻简报。"
+        }
+      ]
+    },
+    {
+      "id": "9260364d7cc64745",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
+      "url": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-12T05:00:52.000Z",
+      "sentences": [
+        {
+          "en": "Documents falsified to evade tax on Abramovich's wealth, BBC finds.",
+          "zh": "英国广播公司发现，伪造文件是为了逃避对阿布拉莫维奇的财富征税。"
+        },
+        {
+          "en": "Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, investigation finds.",
+          "zh": "调查发现，过时的文书工作也使俄罗斯寡头的游艇和豪宅从账户中消失。"
+        }
+      ]
+    },
+    {
+      "id": "c85d70cd1e15bc10",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Trump faces growing backlash over plans to import diesel from Russia",
+      "url": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-11T23:18:45.000Z",
+      "sentences": [
+        {
+          "en": "Trump faces growing backlash over plans to import diesel from Russia.",
+          "zh": "特朗普面临着对从俄罗斯进口柴油的计划越来越强烈的反对。"
+        },
+        {
+          "en": "Both Republican and Democratic lawmakers have criticised the deal, which was announced weeks before the US midterm elections.",
+          "zh": "共和党和民主党议员都批评了这项协议，该协议是在美国中期选举前几周宣布的。"
+        }
+      ]
+    },
+    {
+      "id": "0caeab95bb6afe29",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Mourners killed by Kenya police at ex-PM's national farewell not part of violence, BBC finds",
+      "url": "https://www.bbc.co.uk/news/articles/c962y4ld1d7do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-11T23:13:20.000Z",
+      "sentences": [
+        {
+          "en": "Mourners killed by Kenya police at ex-PM's national farewell not part of violence, BBC finds.",
+          "zh": "英国广播公司发现，在前总理全国告别仪式上被肯尼亚警方杀害的哀悼者不属于暴力行为。"
+        },
+        {
+          "en": "After analysing 1,500 videos and images of the Raila Odinga memorial, Africa Eye finds that those killed were far from the scuffles.",
+          "zh": "在分析了1,500个Raila Odinga纪念碑的视频和图像后，非洲之眼发现死者远离混战。"
+        }
+      ]
+    },
+    {
+      "id": "79519ba896b72cab",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Riyadh airport hit again after deadly Houthi missile attack, Saudi authorities say",
+      "url": "https://www.theguardian.com/world/2026/oct/11/saudi-coalition-retaliation-houthi-attack-riyadh-airport",
+      "publishedAt": "2026-10-11T22:28:50.000Z",
+      "sentences": [
+        {
+          "en": "Riyadh airport hit again after deadly Houthi missile attack, Saudi authorities say.",
+          "zh": "沙特当局表示，在胡塞武装发动致命导弹袭击后，利雅得机场再次遭到袭击。"
+        },
+        {
+          "en": "Unidentified projectile strikes King Khalid airport, killing one and injuring 11, as escalating attacks threaten to draw more countries into Yemen conflict Analysis: attack will force rethink of Trump strategy A projectile hit a passenger terminal at the airport in Riyadh on Sunday, the day after a deadly missile attack on the facility carried out by Yemen’s Iran-backed Houthi rebel group killed 13 people.",
+          "zh": "身份不明的炮弹袭击了哈立德国王机场，造成1人死亡， 11人受伤，因为不断升级的袭击有可能将更多的国家吸引到也门冲突中分析：袭击将迫使人们重新考虑特朗普的战略。周日，在也门支持的伊朗胡塞叛乱组织对该设施进行致命导弹袭击的第二天，一枚炮弹袭击了利雅得机场的一个客运大楼，造成13人死亡。"
+        },
+        {
+          "en": "An unidentified projectile hit terminal 4 at King Khalid international airport, starting a fire, killing one person and injuring 11, according to Saudi civil aviation authorities.",
+          "zh": "据沙特民航当局称，一枚身份不明的炮弹击中哈立德国王国际机场4号航站楼，引发火灾，造成1人死亡， 11人受伤。"
+        },
+        {
+          "en": "Air defences also intercepted a cruise missile in the vicinity of the airport.",
+          "zh": "防空部队还在机场附近拦截了一枚巡航导弹。"
+        },
+        {
+          "en": "It was the latest of several attacks on the airport in the past week.",
+          "zh": "这是过去一周对机场的几次袭击中的最新一次。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "34b9d08cc8ae5b28",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Middle East crisis: Riyadh airport hit again as Houthis claim attacks, including strike that killed 12 – as it happened",
+      "url": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
+      "publishedAt": "2026-10-11T18:03:22.000Z",
+      "sentences": [
+        {
+          "en": "Middle East crisis: Riyadh airport hit again as Houthis claim attacks, including strike that killed 12 – as it happened.",
+          "zh": "中东危机：利雅得机场再次遭到袭击，胡塞武装声称发动了袭击，包括造成12人死亡的罢工。"
+        },
+        {
+          "en": "This live blog is now closed.",
+          "zh": "此实时博客现已关闭。"
+        },
+        {
+          "en": "You can read our latest full report here: Riyadh airport hit again after deadly Houthi missile attack, Saudi authorities say Some more Gulf reaction to Houthi’s deadly airport attack and continued threats to target Saudi airspace.",
+          "zh": "您可以在这里阅读我们的最新完整报告：利雅得机场在胡塞武装发动致命导弹袭击后再次遭到袭击，沙特当局表示，海湾国家对胡塞武装发动的致命机场袭击以及针对沙特领空的持续威胁做出了更多反应。"
+        },
+        {
+          "en": "In a significant message, the United Arab Emirates has issued a statement in solidarity with Saudi Arabia – expressing support for “all measures aimed at safeguarding the kingdom’s security and stability”.",
+          "zh": "在一个重要信息中，阿拉伯联合酋长国发表声明声援沙特阿拉伯，表示支持“旨在维护王国安全与稳定的所有措施”。"
+        },
+        {
+          "en": "The UAE message is improtant given the major rupture in relations this year between the two oil-rich kingdoms, first sparked by lingering divisions in Yemen, and made worse by the Iran War and arguments over oil prices which led to the UAE quitting OPEC (currently led by the Saudis) after six decades of membership.",
+          "zh": "阿联酋的信息是不恰当的，因为今年两个石油资源丰富的王国之间的关系出现了重大分裂，最初是由也门挥之不去的分歧引发的，而伊朗战争和油价争论导致阿联酋退出欧佩克（目前由沙特领导）六十年的成员资格。"
+        },
+        {
+          "en": "Saturday’s incident comes amid an escalation of missile strikes by Yemen’s Iran-aligned Houthis ⁠on the kingdom.",
+          "zh": "周六的事件发生之际，也门与伊朗结盟的胡塞武装对该王国的导弹袭击升级。"
+        },
+        {
+          "en": "The airport has already been attacked twice this ​week, leaving four people dead and ‌others wounded, and ‌badly damaging an aircraft.",
+          "zh": "该机场本周已遭到两次袭击，造成4人死亡，其他人受伤，并严重损坏了一架飞机。"
+        },
+        {
+          "en": "The Houthis have repeatedly attacked Saudi airports, oil facilities and tankers after a truce in their long-running war with Yemen’s Riyadh-backed government unravelled in July.",
+          "zh": "胡塞武装在与也门支持的利雅得政府在7月份解散的长期战争中停火后，多次袭击沙特机场、石油设施和油轮。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "09cec1f6e809608c",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Poland detains man suspected of planning assassination of PM Tusk",
+      "url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-11T17:27:24.000Z",
+      "sentences": [
+        {
+          "en": "Poland detains man suspected of planning assassination of PM Tusk.",
+          "zh": "波兰拘留了涉嫌策划暗杀图斯克总理的男子。"
+        },
+        {
+          "en": "Police received credible information about possible attacks against Donald Tusk and his defence minister.",
+          "zh": "警方收到了有关唐纳德·图斯克（ Donald Tusk ）及其国防部长可能遭遇袭击的可靠信息。"
+        }
+      ]
+    },
+    {
+      "id": "a923c6a37b18a951",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Volkswagen boss backs EU plan to bolster domestic European industry",
+      "url": "https://www.theguardian.com/business/2026/oct/11/volkswagen-boss-backs-eu-plan-to-boost-domestic-european-industry",
+      "publishedAt": "2026-10-11T16:53:01.000Z",
+      "sentences": [
+        {
+          "en": "Volkswagen boss backs EU plan to bolster domestic European industry.",
+          "zh": "大众汽车老板支持欧盟支持欧洲国内工业的计划。"
+        },
+        {
+          "en": "Oliver Blume says ‘Made in Europe’ rules to counter rapid rise of lower-price Chinese brands ‘must reward real value creation’ The boss of Volkswagen has backed EU proposals to boost its domestic industry, arguing European carmakers need to be able to “compete under comparable conditions” with Chinese rivals.",
+          "zh": "奥利弗·布鲁姆（ Oliver Blume ）表示，应对低价中国品牌快速崛起的“欧洲制造”规则“必须奖励真正的价值创造”大众汽车的老板支持欧盟促进其国内产业的提议，认为欧洲汽车制造商需要能够“在可比条件下与中国竞争对手竞争”。"
+        },
+        {
+          "en": "Oliver Blume said “Made in Europe” rules from the EU “must reward real value creation in Europe”, speaking in Paris before the motor show this week.",
+          "zh": "奥利弗·布鲁姆（ Oliver Blume ）在本周车展之前在巴黎发表讲话时表示，欧盟的“欧洲制造”规则“必须奖励欧洲的真正价值创造”。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    }
+  ],
+  "failures": []
+}
