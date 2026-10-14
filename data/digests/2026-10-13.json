@@ -1,0 +1,673 @@
+{
+  "date": "2026-10-13",
+  "collectedAt": "2026-10-14T03:41:22.779Z",
+  "items": [
+    {
+      "id": "bdd2ead3a6c434b3",
+      "sourceId": "aws-news",
+      "category": "cloud",
+      "title": "AWS Weekly Roundup: Prime Day 2026 by the numbers, Claude Haiku 5.5, Amazon Nova 2.5 Sonic, and more (October 13, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-prime-day-2026-by-the-numbers-claude-haiku-5-5-amazon-nova-2-5-sonic-and-more-october-13-2026/",
+      "publishedAt": "2026-10-13T15:59:06.000Z",
+      "sentences": [
+        {
+          "en": "AWS Weekly Roundup: Prime Day 2026 by the numbers, Claude Haiku 5.5, Amazon Nova 2.5 Sonic, and more (October 13, 2026).",
+          "zh": "AWS每周综述： 2026年Prime Day、Claude Haiku 5.5、Amazon Nova 2.5 Sonic等（ 2026年10月13日）。"
+        },
+        {
+          "en": "Some numbers are hard to picture until you sit with them for a moment.",
+          "zh": "有些数字很难想象，直到你和他们坐在一起一会儿。"
+        },
+        {
+          "en": "Last week we published the Prime Day 2026 metrics, and the one that stuck with me is 2.3 quadrillion: the daily requests Amazon ElastiCache peaked at during the event.",
+          "zh": "上周，我们发布了2026年黄金日指标，让我印象深刻的是2.3千万亿：亚马逊ElastiCache在活动期间的每日请求达到峰值。"
+        },
+        {
+          "en": "Prime Day ran back in June, so this post always lands as a retrospective, and that gap is part of what makes it worth reading.",
+          "zh": "Prime Day是在6月份推出的，所以这篇文章总是以回顾的形式出现，而这个差距是值得阅读的部分原因。"
+        },
+        {
+          "en": "By the time the numbers reach you, the only evidence that any of it happened is that nothing went wrong.",
+          "zh": "当数字到达您手中时，唯一能证明其中任何一种情况发生的证据就是没有出现任何问题。"
+        },
+        {
+          "en": "The rest of the week pulled in a different direction: smaller, cheaper, and more constrained.",
+          "zh": "本周剩下的时间则朝着不同的方向发展：更小、更便宜、更受约束。"
+        },
+        {
+          "en": "Claude Haiku 5.5 arrived on Amazon Bedrock at roughly 75 percent less than Haiku 4.5, Amazon Nova 2.5 Sonic made voice agents quicker on their feet, and Strands Box showed up to put real boundaries around what an agent is allowed to do.",
+          "zh": "Claude Haiku 5.5以比Haiku 4.5低约75 ％的价格登陆Amazon Bedrock ， Amazon Nova 2.5 Sonic使语音代理的速度更快， Strands Box出现在代理被允许做什么周围的真正界限。"
+        },
+        {
+          "en": "Now, let’s get into this week’s AWS news… Headlines All the numbers: Amazon Prime Day 2026 powered by AWS is the latest entry in a tradition that goes back to 2016, and the scale is still difficult to hold in your head.",
+          "zh": "现在，让我们进入本周的AWS新闻……头条所有数字： Amazon Prime Day 2026 powered by AWS是追溯到2016年的传统的最新条目，规模仍然难以在您的脑海中保持。"
+        },
+        {
+          "en": "Over the four days of Prime Day, Amazon DynamoDB processed more than 59 trillion requests while peaking at 192 million requests per second, and kept single-digit millisecond responses throughout.",
+          "zh": "在Prime Day的四天里， Amazon DynamoDB处理了超过59万亿个请求，而峰值为每秒1.92亿个请求，并在整个过程中保持了个位数毫秒的响应。"
+        },
+        {
+          "en": "AWS Lambda handled over 2.3 trillion invocations per day.",
+          "zh": "AWS Lambda每天处理超过2.3万亿次调用。"
+        },
+        {
+          "en": "Amazon EBS peaked above 24.8 trillion I/O operations, moving more than an exabyte of data daily.",
+          "zh": "Amazon EBS达到24.8万亿I/O操作的峰值，每天移动超过1艾字节的数据。"
+        },
+        {
+          "en": "Amazon ECS launched an average of 158.3 million tasks per day on AWS Fargate , a 47.7 percent jump over last year, and AWS Graviton powered up to 49 percent of the Amazon EC2 compute that Amazon.com used.",
+          "zh": "Amazon ECS平均每天在AWS Fargate上启动1.583亿个任务，比去年增长了47.7% ， AWS Graviton为Amazon.com使用的Amazon EC2计算提供了高达49%的支持。"
+        }
+      ]
+    },
+    {
+      "id": "291095c2d1fdbb68",
+      "sourceId": "bbc-world",
+      "category": "ai",
+      "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
+      "url": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-13T15:52:15.000Z",
+      "sentences": [
+        {
+          "en": "MI5 chief warns of threats to UK from Russia, Iran and AI.",
+          "zh": "军情五处处长警告英国面临来自俄罗斯、伊朗和人工智能的威胁。"
+        },
+        {
+          "en": "Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an \"equal scale\".",
+          "zh": "肯·麦卡勒姆爵士（ Sir Ken McCallum ）表示，应对恐怖主义和国家威胁的行动现在大致处于“同等规模”。"
+        }
+      ]
+    },
+    {
+      "id": "c58b4d7a7dc3e17d",
+      "sourceId": "cloudflare-blog",
+      "category": "security",
+      "title": "Rewinding the exponential: How we keep hardware usage down",
+      "url": "https://blog.cloudflare.com/rewinding-the-exponential/",
+      "publishedAt": "2026-10-13T15:51:41.000Z",
+      "sentences": [
+        {
+          "en": "Rewinding the exponential: How we keep hardware usage down.",
+          "zh": "重新审视指数：我们如何降低硬件使用率。"
+        },
+        {
+          "en": "More than 20% of the web sits behind Cloudflare’s network, and our team, the Data team, owns the data pipeline responsible for plumbing that data (and more) from our global network to applicable central data centers.",
+          "zh": "超过20%的网络位于Cloudflare的网络背后，我们的团队数据团队拥有数据管道，负责将数据（以及更多数据）从我们的全球网络传输到适用的中央数据中心。"
+        },
+        {
+          "en": "The Cloudflare network is a globally distributed system supporting tens of thousands of servers.",
+          "zh": "Cloudflare网络是一个全球分布式系统，支持数万台服务器。"
+        },
+        {
+          "en": "Data that power Cloudflare Logs , SQL API , observability , internal analytics, and more flow through this network and use our data pipeline to serve customers.",
+          "zh": "支持Cloudflare日志、SQL API、可观察性、内部分析等数据流经此网络，并使用我们的数据管道为客户提供服务。"
+        },
+        {
+          "en": "In May of this year, we were providing data delivery at roughly two billion events per second.",
+          "zh": "今年5月，我们以每秒约20亿个事件的速度提供数据传输。"
+        },
+        {
+          "en": "This includes customer traffic as well as data sent from internal teams.",
+          "zh": "这包括客户流量以及内部团队发送的数据。"
+        },
+        {
+          "en": "Year after year, we tackle the same problem — exponential traffic growth against linear hardware growth.",
+          "zh": "年复一年，我们解决了同样的问题--与线性硬件增长相比，流量呈指数级增长。"
+        },
+        {
+          "en": "We have to react to this increase in order to keep resource costs under control.",
+          "zh": "我们必须对这一增长做出反应，以控制资源成本。"
+        },
+        {
+          "en": "Over the past five years, we’ve made various improvements to compensate for the data volume increase in comparison to hardware allocation, equivalent to deferring two and a half years of hardware expansion.",
+          "zh": "在过去的五年中，我们进行了各种改进，以弥补与硬件分配相比的数据量增长，相当于推迟了两年半的硬件扩展。"
+        },
+        {
+          "en": "This post details those changes: breaking up our monolithic data schema in 2022, adjusting compression in 2024, rearchitecting pipeline replication in spring 2026, decentralizing sampling in summer 2026, and introducing aggregations into the pipeline in fall 2026.",
+          "zh": "本文详细介绍了这些变化：在2022年打破我们的单片数据架构，在2024年调整压缩，在2026年春季重新构建流水线复制，在2026年夏季分散采样，并在2026年秋季将聚合引入流水线。"
+        },
+        {
+          "en": "Background Our pipeline starts with an internal service called Logfwdr, where we collect from highly distributed data sources (think: Workers, FL ).",
+          "zh": "背景我们的管道从一个名为Logfwdr的内部服务开始，我们从高度分布式的数据源（想想： Workers ， FL ）收集数据。"
+        },
+        {
+          "en": "We then feed this data to a set of centralized receivers, which eventually push them onto our buffering system , Buftee.",
+          "zh": "然后，我们将这些数据馈送到一组集中式接收器，最终将其推送到我们的缓冲系统Buftee上。"
+        }
+      ]
+    },
+    {
+      "id": "8fbcb34bf24eac7d",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Is Zelensky right to say data centre strikes have taken down Russian bots?",
+      "url": "https://www.bbc.co.uk/news/articles/c9y7l0pm8jkko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-13T13:27:31.000Z",
+      "sentences": [
+        {
+          "en": "Is Zelensky right to say data centre strikes have taken down Russian bots?.",
+          "zh": "Zelensky说数据中心攻击已经击落了俄罗斯机器人是对的吗？"
+        },
+        {
+          "en": "Experts say there is no evidence that Russian trolls have been affected by Ukraine’s Yandex attacks.",
+          "zh": "专家表示，没有证据表明俄罗斯巨魔受到乌克兰Yandex攻击的影响。"
+        }
+      ]
+    },
+    {
+      "id": "7c2d4ff1a8010c4b",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Watch: Emergency calls from botched Christa Pike execution released",
+      "url": "https://www.bbc.co.uk/news/videos/cqpvgrkp0xpyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-13T12:03:51.000Z",
+      "sentences": [
+        {
+          "en": "Watch: Emergency calls from botched Christa Pike execution released.",
+          "zh": "观看：拙劣的Christa Pike执行的紧急呼叫被释放。"
+        },
+        {
+          "en": "A series of calls, obtained by the Associated Press, reveal emergency services were delayed in reaching Pike.",
+          "zh": "美联社获得的一系列电话显示，紧急服务延迟到达派克。"
+        }
+      ]
+    },
+    {
+      "id": "23f19556e63b4f82",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Global action to end violence against children is lagging behind risks: UN expert",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168582",
+      "publishedAt": "2026-10-13T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Global action to end violence against children is lagging behind risks: UN expert.",
+          "zh": "结束暴力侵害儿童行为的全球行动落后于风险：联合国专家。"
+        },
+        {
+          "en": "The UN Special Representative on Violence Against Children has called for stronger global action to protect boys and girls caught up in a growing number of crises, as current efforts fall short.",
+          "zh": "联合国暴力侵害儿童问题特别代表呼吁采取更强有力的全球行动，保护陷入越来越多危机的男孩和女孩，因为目前的努力不足。"
+        }
+      ]
+    },
+    {
+      "id": "fe2c0007f0e63d66",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Disasters cost $228 billion in housing losses every year",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168583",
+      "publishedAt": "2026-10-13T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Disasters cost $228 billion in housing losses every year.",
+          "zh": "灾害每年造成2280亿美元的住房损失。"
+        },
+        {
+          "en": "$228 billion is a staggering amount of money to find, but that’s exactly what communities around the world are faced with every year, to rebuild housing after disaster strikes.",
+          "zh": "2280亿美元是一笔惊人的资金，但这正是世界各地的社区每年在灾难发生后重建住房所面临的问题。"
+        }
+      ]
+    },
+    {
+      "id": "38eb18e52567643e",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Ukraine: Residents killed and dozens injured in attacks on Kharkiv and Kyiv",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168585",
+      "publishedAt": "2026-10-13T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Ukraine: Residents killed and dozens injured in attacks on Kharkiv and Kyiv.",
+          "zh": "乌克兰：居民在哈尔科夫和基辅的袭击中丧生，数十人受伤。"
+        },
+        {
+          "en": "Russian attacks in recent days on on Ukraine’s two largest cities have again killed and injured civilians, damaged homes and civilian infrastructure, the UN aid coordination office (OCHA) said on Tuesday.",
+          "zh": "联合国援助协调办公室（ OCHA ）周二表示，俄罗斯最近几天对乌克兰两个最大城市的袭击再次造成平民伤亡，房屋和民用基础设施受损。"
+        }
+      ]
+    },
+    {
+      "id": "86f8d0c3fb176e2a",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "‘Need for UN has never been greater,’ UN chief says, proposing slimmer $3.3 billion budget for 2027",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168586",
+      "publishedAt": "2026-10-13T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "‘Need for UN has never been greater,’ UN chief says, proposing slimmer $3.3 billion budget for 2027.",
+          "zh": "联合国秘书长说： “对联合国的需求从未如此之大，”他提议为2027年削减33亿美元的预算。"
+        },
+        {
+          "en": "Amid climate disruption, an AI revolution, war and growing hunger, “the need for the United Nations has never been greater,” Secretary-General António Guterres said on Tuesday, presenting a $3.3 billion programme budget proposal for next year – a cut of $40.8 million.",
+          "zh": "秘书长安东尼奥·古特雷斯（ António Guterres ）周二表示，在气候混乱、人工智能革命、战争和饥饿加剧的情况下， “对联合国的需求从未如此之大” ，他提出了33亿美元的明年方案预算提案，削减了4,080万美元。"
+        }
+      ]
+    },
+    {
+      "id": "e95b4ea33463c87a",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "World News in Brief: West African migrant crossings, Argentina takes UK to maritime tribunal, farming in Gaza, mental health update",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168587",
+      "publishedAt": "2026-10-13T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "World News in Brief: West African migrant crossings, Argentina takes UK to maritime tribunal, farming in Gaza, mental health update.",
+          "zh": "《世界新闻简报》：西非移民过境点、阿根廷将英国带到海事法庭、加沙农业、心理健康最新动态。"
+        },
+        {
+          "en": "Fewer people from West Africa are reaching Europe by sea, but the journey has not become safer, the UN migration agency (IOM) said on Tuesday.",
+          "zh": "联合国移民机构（ IOM ）周二表示，通过海路抵达欧洲的西非人越来越少，但这一旅程并没有变得更加安全。"
+        }
+      ]
+    },
+    {
+      "id": "0c1a2dd5f5bc45fb",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "800 million young people face a future without jobs",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168588",
+      "publishedAt": "2026-10-13T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "800 million young people face a future without jobs.",
+          "zh": "8亿年轻人面临着没有工作的未来。"
+        },
+        {
+          "en": "Approximately 800 million young people entering the labour market in developing economies over the coming years will not find jobs unless countries act, the head of the UN Development Programme (UNDP) warned on Tuesday, as the agency launched two initiatives to boost investment and employment.",
+          "zh": "联合国开发计划署（ UNDP ）负责人周二警告说，除非各国采取行动，否则未来几年进入发展中经济体劳动力市场的约8亿年轻人将找不到工作，因为该机构推出了两项促进投资和就业的举措。"
+        }
+      ]
+    },
+    {
+      "id": "0d3f55735fa5fab2",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Government spent millions on Trump ads. And, federal agents raid Ilhan Omar's home",
+      "url": "https://www.npr.org/2026/10/13/g-s1-147822/up-first-newsletter-trump-ads-funding-campaign-rallies-ilhan-omar",
+      "publishedAt": "2026-10-13T11:08:14.000Z",
+      "sentences": [
+        {
+          "en": "Government spent millions on Trump ads.",
+          "zh": "政府在特朗普广告上花费了数百万美元"
+        },
+        {
+          "en": "And, federal agents raid Ilhan Omar's home.",
+          "zh": "联邦特工突袭了伊尔汗·奥马尔的家。"
+        },
+        {
+          "en": "The government is using millions of taxpayers' dollars on pro-Trump ads, even after the president said this would not happen.",
+          "zh": "政府正在将数百万纳税人的美元用于支持特朗普的广告，即使总统表示这不会发生。"
+        },
+        {
+          "en": "And, federal agents search Rep.",
+          "zh": "而且，联邦特工会搜查众议员。"
+        },
+        {
+          "en": "Ilhan Omar's D.C.",
+          "zh": null
+        },
+        {
+          "en": "home.",
+          "zh": "主页"
+        },
+        {
+          "en": "(Image credit: Alex Wong)",
+          "zh": "（图片来源： Alex Wong ）"
+        }
+      ]
+    },
+    {
+      "id": "34aa8522a584b6ce",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Pakistan imposes emergency rule in former prime minister's stronghold",
+      "url": "https://www.npr.org/2026/10/13/nx-s1-5998798/pakistan-imposes-emergency-rule-in-former-prime-ministers-stronghold",
+      "publishedAt": "2026-10-13T10:51:33.000Z",
+      "sentences": [
+        {
+          "en": "Pakistan imposes emergency rule in former prime minister's stronghold.",
+          "zh": "巴基斯坦对前总理的据点实施紧急统治。"
+        },
+        {
+          "en": "Pakistan has imposed emergency rule in the province governed by the political party of imprisoned former prime minister Imran Khan.",
+          "zh": "巴基斯坦在被监禁的前总理伊姆兰·汗（ Imran Khan ）的政党统治的省份实施了紧急状态。"
+        }
+      ]
+    },
+    {
+      "id": "d1c617594cc6f67a",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "What ice cream has to do with this year's Nobel Prize in economics",
+      "url": "https://www.npr.org/sections/planet-money/2026/10/13/g-s1-147816/what-ice-cream-has-to-do-with-this-years-nobel-prize-in-economics",
+      "publishedAt": "2026-10-13T10:30:00.000Z",
+      "sentences": [
+        {
+          "en": "What ice cream has to do with this year's Nobel Prize in economics.",
+          "zh": "冰淇淋与今年的诺贝尔经济学奖有什么关系。"
+        },
+        {
+          "en": "Prices can get sticky.",
+          "zh": "价格可能会变得粘滞。"
+        },
+        {
+          "en": "That helps explain why recessions hurt so much — and what policymakers can do about them.",
+          "zh": "这有助于解释为什么经济衰退会造成如此大的伤害，以及政策制定者可以做些什么。"
+        }
+      ]
+    },
+    {
+      "id": "a361531a7b1b9b78",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "How a scandal engulfing Brazil’s top court could return the Bolsonaros to power",
+      "url": "https://www.theguardian.com/world/2026/oct/13/scandal-brazil-court-jair-flavio-bolsonaro-power-election-moraes-lula",
+      "publishedAt": "2026-10-13T10:00:05.000Z",
+      "sentences": [
+        {
+          "en": "How a scandal engulfing Brazil’s top court could return the Bolsonaros to power.",
+          "zh": "一桩席卷巴西最高法院的丑闻如何让博尔索纳罗夫妇重新掌权。"
+        },
+        {
+          "en": "The judge who helped convict Jair Bolsonaro is caught up in a crisis that could benefit his son and damage Lula Marina Silva on Flávio Bolsonaro: He will try to finish his father’s ‘perverse project’ to destroy the Amazon Thundering to a crowd of thousands of far-right supporters in São Paulo on 7 September, Brazil’s Independence Day, the senator Flávio Bolsonaro focused less on his opponent in the presidential election , the leftist president Luiz Inácio Lula da Silva, than on someone who is not running at all.",
+          "zh": "帮助判定Jair Bolsonaro有罪的法官陷入了一场危机，这场危机可能使他的儿子受益并损害FlávioBolsonaro的Lula Marina Silva ：他将试图完成他父亲的“反常项目” ，以摧毁9月7日巴西独立日圣保罗成千上万的极右翼支持者，参议员FlávioBolsonaro在总统选举中更关注他的对手，左翼总统路易斯·伊纳西奥·卢拉·达席尔瓦"
+        },
+        {
+          "en": "“Whoever votes for Lula is voting for Alexandre de Moraes ,” Bolsonaro shouted, referring to the shaven-headed supreme court justice once described as “Voldemort” by Elon Musk.",
+          "zh": "“无论谁投票给卢拉，都是在投票给亚历山大·德·莫赖斯，”博尔索纳罗喊道，他指的是曾经被埃隆·马斯克描述为“伏地魔”的剃头最高法院大法官。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "16b45dda4b6dc086",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Breaking Bad actor RJ Mitte dies aged 34",
+      "url": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-13T08:03:34.000Z",
+      "sentences": [
+        {
+          "en": "Breaking Bad actor RJ Mitte dies aged 34.",
+          "zh": "Breaking Bad演员RJ Mitte去世，享年34岁。"
+        },
+        {
+          "en": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series.",
+          "zh": "米特患有脑瘫，在艾美奖获奖剧集中饰演小沃尔特·怀特。"
+        }
+      ]
+    },
+    {
+      "id": "0222bcff775b1692",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Latin American organised crime ‘may operate in 16 European countries’",
+      "url": "https://www.theguardian.com/global-development/2026/oct/13/latin-america-organised-crime-cartels-drugs-cocaine-europe",
+      "publishedAt": "2026-10-13T07:00:18.000Z",
+      "sentences": [
+        {
+          "en": "Latin American organised crime ‘may operate in 16 European countries’.",
+          "zh": "拉丁美洲有组织犯罪“可能在16个欧洲国家开展活动”。"
+        },
+        {
+          "en": "Cocaine seizures in Europe are up more than fivefold in 10 years as a host of cartels take root.",
+          "zh": "随着许多卡特尔的扎根，欧洲的可卡因缉获量在10年内增长了五倍以上。"
+        },
+        {
+          "en": "A four-month Guardian investigation reveals the true scale of a continent-wide shift A four-month investigation by the Guardian has revealed that the surge in cocaine trafficking to Europe is directly linked to the expanding presence of Latin American criminal networks in Europe, where they have forged close ties with local mafia organisations.",
+          "zh": "为期四个月的《卫报》调查揭示了整个欧洲大陆转变的真实规模。《卫报》为期四个月的调查显示，可卡因贩运到欧洲的激增与拉丁美洲犯罪网络在欧洲的存在直接相关，他们在那里与当地黑手党组织建立了密切联系。"
+        },
+        {
+          "en": "The investigation, utilising databases, police and intelligence agencies, along with interviews with judges, prosecutors and experts from eight countries, shows that cartels and factions from Colombia, Brazil, Ecuador, Venezuela, Mexico and the US are active in at least 12 European countries.",
+          "zh": "这项利用数据库、警察和情报机构进行的调查，以及对来自8个国家的法官、检察官和专家的采访显示，来自哥伦比亚、巴西、厄瓜多尔、委内瑞拉、墨西哥和美国的卡特尔和派系活跃在至少12个欧洲国家。"
+        },
+        {
+          "en": "Between 2014 and 2024, there was a 471% rise in the quantity of cocaine seized and more local laboratories processing cocaine derivatives were dismantled.",
+          "zh": "2014年至2024年间，可卡因缉获量增加了471% ，更多加工可卡因衍生物的当地实验室被拆除。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "dfb05a57234a988d",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Shock, anger and a crackdown: why a contentious electoral revision has sparked outrage",
+      "url": "https://www.theguardian.com/world/2026/oct/12/this-is-india-electoral-revision-protests",
+      "publishedAt": "2026-10-13T06:30:16.000Z",
+      "sentences": [
+        {
+          "en": "Shock, anger and a crackdown: why a contentious electoral revision has sparked outrage.",
+          "zh": "震惊、愤怒和镇压：为什么有争议的选举修订引发了愤怒。"
+        },
+        {
+          "en": "Marches in Delhi against changes to voting registration led to dragnets, internet blackouts – and questions about India’s electoral independence.",
+          "zh": "在德里，反对改变选民登记的游行导致了拖网、互联网停电，以及对印度选举独立性的质疑。"
+        },
+        {
+          "en": "Plus, the cinematographer capturing the beauty of the mundane • Don’t get This is India delivered to your inbox?",
+          "zh": "此外，电影摄影师会捕捉平凡的美景•难道这不是印度送到您的收件箱吗？"
+        },
+        {
+          "en": "Sign up here Months of simmering public anger have given rise to a season of discontent in India.",
+          "zh": "在这里注册数月来酝酿的公众愤怒在印度引起了一个不满的季节。"
+        },
+        {
+          "en": "In its latest iteration, the demand is for the removal of chief election commissioner Gyanesh Kumar and the scrapping of a controversial electoral rolls revision that has struck 130 million people off the register.",
+          "zh": "在其最新版本中，要求取消首席选举专员Gyanesh Kumar的职务，并取消有争议的选民名册修订，该修订已将1.3亿人从登记册中删除。"
+        },
+        {
+          "en": "Protests have erupted every day over the past week, prompting a violent crackdown on dissenters in the capital.",
+          "zh": "过去一周，抗议活动每天都在爆发，促使首都对持不同政见者进行暴力镇压。"
+        },
+        {
+          "en": "Over the weekend, Delhi was effectively under lockdown , transformed into a militarised landscape of barricades, road closures and paramilitary forces marching through the streets.",
+          "zh": "上周末，德里实际上被封锁了，变成了一个军事化的路障、道路封锁和准军事部队在街道上行进的景观。"
+        },
+        {
+          "en": "Ahead of a protest led by the Cockroach Janta party on Saturday, authorities deployed a massive dragnet : 245 trains to Delhi were cancelled, 45 metro stations were shut, liquor shops were closed, internet services were cut off in the heart of the city and activists were put under house arrest.",
+          "zh": "在星期六由蟑螂Janta党领导的抗议活动之前，当局部署了一个巨大的拖网： 245列火车被取消， 45个地铁站被关闭，酒类商店被关闭，城市中心的互联网服务被切断，活动人士被软禁。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "2dfc2d8fe8c905cf",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Hurricane Simon and Tropical Storm Rachel kill five people on Mexico’s Pacific coast",
+      "url": "https://www.theguardian.com/world/2026/oct/13/mexico-hurricane-simon-tropical-storm-rachel-kill-five-pacific-coast",
+      "publishedAt": "2026-10-13T04:29:46.000Z",
+      "sentences": [
+        {
+          "en": "Hurricane Simon and Tropical Storm Rachel kill five people on Mexico’s Pacific coast.",
+          "zh": "飓风西蒙和热带风暴雷切尔在墨西哥太平洋沿岸造成5人死亡。"
+        },
+        {
+          "en": "Security forces use helicopters to rescue dozens of people as the two storms damage infrastructure and cause flash flooding At least five people have died after Hurricane Simon and Tropical Storm Rachel pummelled Mexico’s Pacific coast, causing flooding that downed trees and electricity poles, blocked roads and inundated homes.",
+          "zh": "安全部队使用直升机救援数十人，因为这两场风暴破坏了基础设施并引发了山洪暴发至少有5人在飓风西蒙和热带风暴雷切尔袭击墨西哥太平洋沿岸后死亡，导致洪水泛滥，导致树木和电线杆倒塌，道路堵塞，房屋被淹。"
+        },
+        {
+          "en": "Simon claimed the life of a 71-year-old man who died when a wall collapsed in Chilpancingo in the southern state of Guerrero, governor Evelyn Salgado said at a press conference.",
+          "zh": "州长伊芙琳·萨尔加多（ Evelyn Salgado ）在新闻发布会上说，西蒙声称一名71岁的男子在南部格雷罗州的奇尔潘辛戈（ Chilpancingo ）一堵墙倒塌时死亡。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "ffddd0ed8fa82a04",
+      "sourceId": "guardian-world",
+      "category": "business",
+      "title": "IMF warns global economy ‘could soon test the limits of resilience’",
+      "url": "https://www.theguardian.com/business/2026/oct/13/imf-global-economy-world-economic-outlook-uk-gdp-forecast-2026",
+      "publishedAt": "2026-10-13T02:00:11.000Z",
+      "sentences": [
+        {
+          "en": "IMF warns global economy ‘could soon test the limits of resilience’.",
+          "zh": "国际货币基金组织警告说，全球经济“可能很快就会考验韧性的极限”。"
+        },
+        {
+          "en": "World Economic Outlook says states’ oil stocks are low and budgets are overstretched, as it upgrades UK GDP growth forecast for 2026 Threat of AI share crash puts world financial stability at risk, says IMF The global economy “could soon test the limits of resilience”, as emergency oil stocks run low and government budgets become overstretched, the International Monetary Fund has warned.",
+          "zh": "国际货币基金组织警告称，《世界经济展望》称，各国的石油库存较低，预算捉襟见肘，因为它上调了2026年英国GDP增长预测，人工智能份额崩溃的威胁使世界金融稳定面临风险。全球经济“可能很快就会考验韧性的极限” ，因为紧急石油库存低迷，政府预算捉襟见肘。"
+        },
+        {
+          "en": "In its twice-yearly World Economic Outlook, the IMF said global growth had withstood the Middle East conflict better than feared over the past six months.",
+          "zh": "国际货币基金组织在其每年两次的《世界经济展望》中表示，过去六个月，全球经济增长经受住了中东冲突的考验，好于人们的担忧。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "2c9ef4c48758e776",
+      "sourceId": "aws-news",
+      "category": "cloud",
+      "title": "Announcing AWS Lambda Web Functions",
+      "url": "https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/",
+      "publishedAt": "2026-10-12T22:34:47.000Z",
+      "sentences": [
+        {
+          "en": "Announcing AWS Lambda Web Functions.",
+          "zh": "宣布AWS Lambda Web函数。"
+        },
+        {
+          "en": "Today, we’re announcing AWS Lambda Web Functions , a new form factor that lets you run standard HTTP web applications on Lambda without rewriting your code into an event handler.",
+          "zh": "今天，我们宣布推出AWS Lambda Web Functions ，这是一种新的外形规格，可让您在Lambda上运行标准HTTP Web应用程序，而无需将代码重写到事件处理程序中。"
+        },
+        {
+          "en": "You can take a standard port-listening server built with Express, Hono, Fastify, Next.js, or any Node.js framework, deploy it with a single command, and Lambda automatically handles scaling, multi-region distribution, and active CPU billing.",
+          "zh": "您可以使用使用Express、Hono、Fastify、Next.js或任何Node.js框架构建的标准端口侦听服务器，使用单个命令进行部署， Lambda会自动处理扩展、多区域分配和活动CPU计费。"
+        },
+        {
+          "en": "No adapters, no infrastructure to manage, and no framework lock-in.",
+          "zh": "无适配器，无需管理基础设施，无框架锁定。"
+        },
+        {
+          "en": "With this launch, AWS Lambda now offers three distinct form factors, each built on the same Firecracker isolation technology and designed for a different programming model.",
+          "zh": "通过此次发布， AWS Lambda现在提供三种不同的外形规格，每种规格都基于相同的Firecracker隔离技术，专为不同的编程模型而设计。"
+        },
+        {
+          "en": "Lambda Event Functions are what you already know as Lambda functions.",
+          "zh": "Lambda事件函数是您已知的Lambda函数。"
+        },
+        {
+          "en": "They use the event-driven, single-concurrent handler model with wall-clock billing.",
+          "zh": "他们使用带有挂钟计费的事件驱动单并发处理程序模型。"
+        },
+        {
+          "en": "We’re introducing the “Event Functions” name to highlight that programming model: your function receives an event, processes it, and returns a response.",
+          "zh": "我们引入了“事件函数”名称来突出显示该编程模型：您的函数接收事件，处理事件并返回响应。"
+        },
+        {
+          "en": "The event-driven programming model is ideal for event processing, queue consumers, and invocations triggered by other AWS services.",
+          "zh": "事件驱动编程模型非常适合事件处理、排队消费者和其他AWS服务触发的调用。"
+        },
+        {
+          "en": "Lambda Web Functions use an HTTP-native programming model with multi-concurrent execution and active CPU billing.",
+          "zh": "Lambda Web函数使用具有多并发执行和活动CPU计费的HTTP原生编程模型。"
+        },
+        {
+          "en": "Your code listens on a port and handles standard HTTP requests.",
+          "zh": "您的代码侦听端口并处理标准HTTP请求。"
+        },
+        {
+          "en": "That programming model is ideal for web applications, API backends, and interactive HTTP workloads where multiple concurrent requests and I/O-heavy processing are the norm.",
+          "zh": "该编程模型非常适合Web应用程序、API后端和交互式HTTP工作负载，其中多个并发请求和I/O繁重处理是常态。"
+        }
+      ]
+    },
+    {
+      "id": "23216cfbe10c8c92",
+      "sourceId": "github-blog",
+      "category": "open-source",
+      "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/",
+      "publishedAt": "2026-10-12T17:43:59.000Z",
+      "sentences": [
+        {
+          "en": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase.",
+          "zh": "初学者GitHub Copilot应用程序：如何向Copilot教授您的代码库。"
+        },
+        {
+          "en": "Context matters when you re working with AI.",
+          "zh": "当您使用人工智能时，背景很重要。"
+        },
+        {
+          "en": "Every codebase has its own house rules: how components are structured, which scripts to run, and which conventions apply to different frameworks and file types.",
+          "zh": "每个代码库都有自己的内部规则：组件的结构方式、要运行的脚本以及适用于不同框架和文件类型的约定。"
+        },
+        {
+          "en": "Copilot can help you make changes across a project, but it works best when it knows those rules, too.",
+          "zh": "Copilot可以帮助您在整个项目中进行更改，但在了解这些规则时效果最好。"
+        },
+        {
+          "en": "Much of that knowledge can live inside the repository, so Copilot can pick it up automatically instead of requiring you to explain the same standards, scripts, and workflows every time you start a new task.",
+          "zh": "其中大部分知识可以存储在存储库中，因此Copilot可以自动拾取这些知识，而不必在每次启动新任务时都要求您解释相同的标准、脚本和工作流程。"
+        },
+        {
+          "en": "In this installment of our GitHub Copilot app for Beginners series, we ll look at four ways to tailor how Copilot works with your project: Custom instructions communicate the conventions Copilot should follow.",
+          "zh": "在本期面向初学者的GitHub Copilot应用程序系列中，我们将研究四种方法来定制Copilot与项目的工作方式：自定义说明传达Copilot应遵循的约定。"
+        },
+        {
+          "en": "Agent skills package repeatable procedures.",
+          "zh": "代理技能包可重复程序。"
+        },
+        {
+          "en": "Custom agents bring specialized guidance to larger tasks.",
+          "zh": "自定义代理为更大的任务提供专门的指导。"
+        },
+        {
+          "en": "Model Context Protocol (MCP) servers connect Copilot to external tools and data sources, expanding what it can do.",
+          "zh": "模型上下文协议(MCP)服务器将Copilot连接到外部工具和数据源，扩展其功能。"
+        },
+        {
+          "en": "Let s look at how each one works and how they can work together.",
+          "zh": "让我们来看看每个人如何工作，以及他们如何协同工作。"
+        },
+        {
+          "en": "Start with custom instructions Suppose you ask Copilot to add a custom page size to an application.",
+          "zh": "从自定义说明开始，假设您要求Copilot向应用程序添加自定义页面大小。"
+        },
+        {
+          "en": "Making the change is only part of the job.",
+          "zh": "做出改变只是工作的一部分。"
+        }
+      ]
+    },
+    {
+      "id": "8c74b81f618ade17",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Applying technology to understand and treat disease",
+      "url": "https://blog.google/innovation-and-ai/technology/health/ai-health-research/",
+      "publishedAt": "2026-10-12T17:30:00.000Z",
+      "sentences": [
+        {
+          "en": "Applying technology to understand and treat disease.",
+          "zh": "应用技术来理解和治疗疾病。"
+        },
+        {
+          "en": "In collaboration with scientists and research partners, Google is helping to make disease more detectable, treatable, and preventable — with the goal of improving health…",
+          "zh": "谷歌正在与科学家和研究合作伙伴合作，帮助提高疾病的可检测性、可治疗性和可预防性，目标是改善健康状况……"
+        }
+      ]
+    }
+  ],
+  "failures": []
+}
