@@ -1,0 +1,599 @@
+{
+  "date": "2026-10-17",
+  "collectedAt": "2026-10-18T03:11:20.952Z",
+  "items": [
+    {
+      "id": "bc0a3e3e3becf095",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Scuffles and fires break out as protesters rally across France, joining students",
+      "url": "https://www.npr.org/2026/10/17/nx-s1-6006773/student-protests-france",
+      "publishedAt": "2026-10-17T15:57:40.000Z",
+      "sentences": [
+        {
+          "en": "Scuffles and fires break out as protesters rally across France, joining students.",
+          "zh": "随着抗议者在法国各地集会，学生们也加入了进来，混战和火灾爆发了。"
+        },
+        {
+          "en": "Demonstrators across France converged with students Saturday to protest rising living costs, as the country's fiscal crisis deepens.",
+          "zh": "随着法国财政危机的加深，法国各地的示威者周六与学生聚集在一起，抗议生活费用的上涨。"
+        },
+        {
+          "en": "(Image credit: Emma Da Silva)",
+          "zh": "（图片来源： Emma Da Silva ）"
+        }
+      ]
+    },
+    {
+      "id": "ccd92597e0d97752",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Trump’s pause on Russia sanctions is ‘reward’ for Putin, Zelenskyy says",
+      "url": "https://www.theguardian.com/world/2026/oct/17/volodymyr-zelenskyy-donald-trump-lift-sanctions-russia-intensify-war-ukraine",
+      "publishedAt": "2026-10-17T15:38:17.000Z",
+      "sentences": [
+        {
+          "en": "Trump’s pause on Russia sanctions is ‘reward’ for Putin, Zelenskyy says.",
+          "zh": "泽伦斯基说，特朗普暂停对俄罗斯的制裁是对普京的“奖励”。"
+        },
+        {
+          "en": "Ukrainian president warns it will embolden Russian leader and intensify war as Moscow hits country’s power plants Power plant attacks reflect Russian blueprint to make Ukrainian cities unlivable Volodymyr Zelenskyy has described Donald Trump’s decision to roll back sanctions on Russia as a “reward” for Vladimir Putin and warned it will embolden the Russian leader and intensify the Kremlin’s war, as Moscow launched one of its worst strikes yet on Ukraine’s power plants in an attempt to black out the country’s cities before winter.",
+          "zh": "乌克兰总统警告说，随着莫斯科袭击该国的发电厂，这将使俄罗斯领导人更加胆大妄为，并加剧战争。发电厂的袭击反映了俄罗斯让乌克兰城市不适宜居住的蓝图。沃洛季米尔·泽伦斯基（ Volodymyr Zelenskyy ）将唐纳德·特朗普（ Donald Trump ）决定取消对俄罗斯的制裁描述为对弗拉基米尔·普京（ Vladimir Putin ）的“奖励” ，并警告说，这将使俄罗斯领导人更加胆大妄为，并加剧克里姆林宫的战争，因为莫斯科对乌克兰的发电厂发动了迄今为止最严重的袭击之一，试图熄火。"
+        },
+        {
+          "en": "The Ukrainian president also said he expected the Trump administration to lift more sanctions against Russia in the future and called for Europe to establish its own negotiations with Moscow as the US has sought better ties and business deals with the Kremlin.",
+          "zh": "乌克兰总统还表示，他预计特朗普政府将在未来取消对俄罗斯的更多制裁，并呼吁欧洲与莫斯科建立自己的谈判，因为美国已寻求与克里姆林宫建立更好的关系和商业交易。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "1c1e78e43ed50b2c",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Pope Leo XIV leaves hospital days after lung cancer surgery",
+      "url": "https://www.npr.org/2026/10/17/nx-s1-6006762/pope-leo-xiv-leaves-hospital-days-after-lung-cancer-surgery",
+      "publishedAt": "2026-10-17T15:10:14.000Z",
+      "sentences": [
+        {
+          "en": "Pope Leo XIV leaves hospital days after lung cancer surgery.",
+          "zh": "教皇利奥十四世在肺癌手术后几天离开医院。"
+        },
+        {
+          "en": "The Pope left Rome's Gemelli Hospital Saturday, days after surgery for lung cancer removed the lower lobe of his right lung.",
+          "zh": "教皇星期六离开了罗马的杰梅利医院，几天后，肺癌手术切除了右肺下叶。"
+        },
+        {
+          "en": "He is currently scheduled to travel to Latin America in November.",
+          "zh": "他目前计划于11月前往拉丁美洲。"
+        },
+        {
+          "en": "(Image credit: Andrew Medichini)",
+          "zh": "（图片来源： Andrew Medichini ）"
+        }
+      ]
+    },
+    {
+      "id": "88a7f0e55fd07da2",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
+      "url": "https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia",
+      "publishedAt": "2026-10-17T14:25:10.000Z",
+      "sentences": [
+        {
+          "en": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold.",
+          "zh": "泽伦斯基敦促在特朗普暂停制裁后支持美国对俄罗斯的新制裁。"
+        },
+        {
+          "en": "Zelenskyy described the move as unfortunate, adding it would encourage Russia to continue its assault.",
+          "zh": "泽伦斯基称此举令人遗憾，并补充说，这将鼓励俄罗斯继续进攻。"
+        },
+        {
+          "en": "Trump told Congress that the pause was in the national interest but gave no further details.",
+          "zh": "特朗普告诉国会，暂停谈判符合国家利益，但没有提供进一步的细节。"
+        },
+        {
+          "en": "(Image credit: Kateryna Klochko)",
+          "zh": "（图片来源： Kateryna Klochko ）"
+        }
+      ]
+    },
+    {
+      "id": "8e2aa409f0824ff1",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Pope discharged from hospital days after lung cancer surgery",
+      "url": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-17T13:51:36.000Z",
+      "sentences": [
+        {
+          "en": "Pope discharged from hospital days after lung cancer surgery.",
+          "zh": "Pope在肺癌手术后几天出院。"
+        },
+        {
+          "en": "The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.",
+          "zh": "教皇将于周日在圣彼得广场进行传统的Angelus祈祷和祝福。"
+        }
+      ]
+    },
+    {
+      "id": "8c36c180acb449c8",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Pope Leo discharged from hospital after cancer operation",
+      "url": "https://www.theguardian.com/world/2026/oct/17/pope-leo-discharged-from-hospital-after-cancer-operation",
+      "publishedAt": "2026-10-17T13:41:49.000Z",
+      "sentences": [
+        {
+          "en": "Pope Leo discharged from hospital after cancer operation.",
+          "zh": "教皇利奥在癌症手术后出院。"
+        },
+        {
+          "en": "Doctors say pontiff is ‘fit for discharge’ after operation to remove cancerous tumour from his lung Pope Leo lung cancer surgery: what kind of operation did he have and what happens next?",
+          "zh": "医生说教皇在手术切除肺癌肿瘤后“适合出院”教皇利奥肺癌手术：他做了什么样的手术？接下来会发生什么？"
+        },
+        {
+          "en": "Pope Leo has been discharged from hospital in Rome after undergoing an operation to remove a cancerous tumour from his lung .",
+          "zh": "教皇利奥在接受从肺部切除癌性肿瘤的手术后出院。"
+        },
+        {
+          "en": "Leo, 71, was deemed “fit for discharge”, his doctors, Luigi Carbone and Stefano Margaritora, said in a statement published by the Vatican.",
+          "zh": "71岁的Leo被认为“适合出院” ，他的医生Luigi Carbone和Stefano Margaritora在梵蒂冈发表的一份声明中说。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "20938e43864dab7d",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Nursery owner in China jailed for life after hundreds of children poisoned",
+      "url": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-17T12:11:58.000Z",
+      "sentences": [
+        {
+          "en": "Nursery owner in China jailed for life after hundreds of children poisoned.",
+          "zh": "中国的托儿所老板在数百名儿童中毒后被判终身监禁。"
+        },
+        {
+          "en": "She and five staff members were found to have used the inedible paint in meals to make them look more appealing.",
+          "zh": "她和五名工作人员被发现在用餐时使用了不可食用的油漆，使他们看起来更具吸引力。"
+        }
+      ]
+    },
+    {
+      "id": "bd64d219585231ab",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Flour sacks turned flood barriers: Gaza faces another winter without safe shelter",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168619",
+      "publishedAt": "2026-10-17T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Flour sacks turned flood barriers: Gaza faces another winter without safe shelter.",
+          "zh": "面粉袋变成了洪水屏障：加沙面临又一个没有安全住所的冬天。"
+        },
+        {
+          "en": "Like many people in the war-ravaged Gaza Strip, Ahmed Al-Omari is preparing for another winter of bitter cold and rain that threatens to cause flooding as families struggle to survive in tattered tents and damaged buildings.",
+          "zh": "与饱受战争蹂躏的加沙地带的许多人一样，艾哈迈德·奥马利（ Ahmed Al-Omari ）正在为又一个严寒和暴雨的冬天做准备，随着家庭在破旧的帐篷和受损建筑中挣扎求生，这有可能导致洪水泛滥。"
+        }
+      ]
+    },
+    {
+      "id": "ce9bb5dd87f5b656",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Perspective: Midterm money madness",
+      "url": "https://www.npr.org/2026/10/17/nx-s1-5997474/perspective-midterm-money-madness",
+      "publishedAt": "2026-10-17T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Perspective: Midterm money madness.",
+          "zh": "观点：中期资金疯狂。"
+        },
+        {
+          "en": "Campaign ad spending has topped $10 billion this election cycle, as voters struggle to afford groceries and gas.",
+          "zh": "由于选民难以负担杂货和汽油，本届选举周期的竞选广告支出已超过100亿美元（ $ 100亿美元）。"
+        },
+        {
+          "en": "(Image credit: Gregory A.",
+          "zh": "（图片来源： Gregory A."
+        },
+        {
+          "en": "Rec/Pool Portland Press Herald)",
+          "zh": "Rec/Pool Portland Press Herald ）"
+        }
+      ]
+    },
+    {
+      "id": "57f6586c9bfc3810",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Fraud, affordability and Trump policies drive friction in Minnesota Senate debate",
+      "url": "https://www.npr.org/2026/10/17/nx-s1-6004910/minn-us-senate-race",
+      "publishedAt": "2026-10-17T11:43:14.000Z",
+      "sentences": [
+        {
+          "en": "Fraud, affordability and Trump policies drive friction in Minnesota Senate debate.",
+          "zh": "欺诈、负担能力和特朗普政策在明尼苏达州参议院辩论中引发了摩擦。"
+        },
+        {
+          "en": "The major party candidates for Minnesota's U.S. Senate seat faced off in an hourlong debate Friday on MPR News with fraud, affordability and fallout from the Trump administration's policies as key points of friction.",
+          "zh": "明尼苏达州美国参议院席位的主要政党候选人周五在MPR News上进行了长达一小时的辩论，其中欺诈、负担能力和特朗普政府政策的影响是摩擦的关键点。"
+        }
+      ]
+    },
+    {
+      "id": "7636853a3767ba4d",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Dozens of critically endangered orangutans rescued from Indonesian wildfires",
+      "url": "https://www.npr.org/2026/10/17/nx-s1-6004881/dozens-of-critically-endangered-orangutans-rescued-from-indonesian-wildfires",
+      "publishedAt": "2026-10-17T11:43:13.000Z",
+      "sentences": [
+        {
+          "en": "Dozens of critically endangered orangutans rescued from Indonesian wildfires.",
+          "zh": "数十只极度濒危的猩猩从印度尼西亚野火中获救。"
+        },
+        {
+          "en": "Rescuers in Indonesia have saved dozens of orangutans from wildfires.",
+          "zh": "印度尼西亚的救援人员在野火中拯救了数十只猩猩。"
+        },
+        {
+          "en": "The critically endangered species is fighting for their lives and habitats during this deadly wildfire season.",
+          "zh": "在这个致命的野火季节，极度濒危的物种正在为自己的生命和栖息地而战。"
+        }
+      ]
+    },
+    {
+      "id": "3f02397fbe62109e",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Decades after apartheid, South Africans seek justice for crimes of the past",
+      "url": "https://www.npr.org/2026/10/17/nx-s1-5987671/south-africa-justice-sharpeville-apartheid",
+      "publishedAt": "2026-10-17T11:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Decades after apartheid, South Africans seek justice for crimes of the past.",
+          "zh": "种族隔离几十年后，南非人为过去的罪行寻求正义。"
+        },
+        {
+          "en": "More than three decades after the end of apartheid, families of victims of some of the worst crimes of South Africa's past are still fighting for justice.",
+          "zh": "种族隔离结束30多年后，南非过去一些最严重罪行的受害者家属仍在为正义而战。"
+        },
+        {
+          "en": "As survivors and perpetrators grow older, a new wave of legal efforts is seeking truth, accountability and reparations before it's too late.",
+          "zh": "随着幸存者和行为人年龄的增长，新一轮的法律努力正在寻求真相、问责和赔偿，以免为时已晚。"
+        }
+      ]
+    },
+    {
+      "id": "77b386c30370c768",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Rare pink diamond goes on display in France 100 years after amateur heist",
+      "url": "https://www.bbc.co.uk/news/articles/c61m4zkx47vlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-17T10:46:41.000Z",
+      "sentences": [
+        {
+          "en": "Rare pink diamond goes on display in France 100 years after amateur heist.",
+          "zh": "稀有粉色钻石在业余抢劫100年后在法国展出。"
+        },
+        {
+          "en": "The French royal jewel will be on public display for the first time since it was found hidden in an apple after a 1926 theft.",
+          "zh": "自1926年被盗后被发现藏在苹果中以来，法国皇家珠宝将首次公开展出。"
+        }
+      ]
+    },
+    {
+      "id": "2c85031267de3064",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
+      "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-17T09:58:17.000Z",
+      "sentences": [
+        {
+          "en": "Teacher fought US school attacker before armed dad shot suspect 'multiple times'.",
+          "zh": "在持枪父亲“多次”射击嫌疑人之前，老师与美国学校袭击者作战。"
+        },
+        {
+          "en": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
+          "zh": "警方称，这名16岁的嫌疑人此前就读于小学，并针对特殊教育需求课堂。"
+        }
+      ]
+    },
+    {
+      "id": "94eab1f0bb1f57a5",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Katie Zacharia leaving White House role less than five days into job",
+      "url": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-17T09:14:10.000Z",
+      "sentences": [
+        {
+          "en": "Katie Zacharia leaving White House role less than five days into job.",
+          "zh": "Katie Zacharia离职后不到五天就离开了白宫。"
+        },
+        {
+          "en": "Her public debut as press secretary ended with a flurry of media criticism about her credentials and preparedness.",
+          "zh": "她作为新闻秘书的公开亮相以一连串媒体对她的资历和准备情况的批评而告终。"
+        }
+      ]
+    },
+    {
+      "id": "4f29123e45323e2b",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Sidewalk sleepers: They have nowhere else to stay while a loved one is in the hospital",
+      "url": "https://www.npr.org/2026/10/17/g-s1-147874/hospital-diagnosis-patients-india-sidewalk",
+      "publishedAt": "2026-10-17T09:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Sidewalk sleepers: They have nowhere else to stay while a loved one is in the hospital.",
+          "zh": "人行道睡眠者：当亲人在医院时，他们无处可去。"
+        },
+        {
+          "en": "Patients travel miles to be treated at public hospitals in Delhi.",
+          "zh": "患者跋涉数英里前往德里的公立医院接受治疗。"
+        },
+        {
+          "en": "Those in need get financial aid for their care.",
+          "zh": "需要帮助的人可以获得经济援助。"
+        },
+        {
+          "en": "But for overnight accommodations, families are often on their own — and on the street.",
+          "zh": "但是，对于过夜住宿，家庭通常是独自一人—而且在街上。"
+        },
+        {
+          "en": "(Image credit: Sajad Hameed for NPR)",
+          "zh": "（图片来源： NPR的Sajad Hameed ）"
+        }
+      ]
+    },
+    {
+      "id": "244ffc3b821d4ad7",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
+      "url": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-17T03:11:10.000Z",
+      "sentences": [
+        {
+          "en": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico.",
+          "zh": "三名男子因在墨西哥谋杀澳大利亚和美国冲浪者而被判入狱158年。"
+        },
+        {
+          "en": "Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery.",
+          "zh": "杰克·罗宾逊（ Jake Robinson ）和卡勒姆·罗宾逊（ Callum Robinson ）兄弟以及他们的朋友卡特·罗德（ Carter Rhoad ）在一次明显拙劣的抢劫中"
+        }
+      ]
+    },
+    {
+      "id": "b54bd9f5ed163079",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/17/mexican-judge-sentences-three-men-to-158-years-in-prison-for-murders-of-australian-and-us-surfers-ntwnfb",
+      "publishedAt": "2026-10-17T02:52:59.000Z",
+      "sentences": [
+        {
+          "en": "Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​.",
+          "zh": "墨西哥法官因谋杀澳大利亚和美国冲浪者而判处三名男子158年徒刑。"
+        },
+        {
+          "en": "Australian ​brothers Jake ​and Callum Robinson, and ​their ‌American friend Carter Rhoad, were killed while on a surf trip in Baja California in 2024 Get our breaking news email , free app or daily news podcast A Mexican ⁠judge ⁠has sentenced ​three men to 158 years ⁠and nine months in prison each for ⁠the murder of ​two Australian ‌brothers ‌and their American friend during ‌a 2024 surf trip to the state of Baja California.",
+          "zh": "澳大利亚兄弟Jake和Callum Robinson以及他们的美国朋友Carter Rhoad于2024年在下加利福尼亚州的冲浪之旅中被杀害。获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客。一名墨西哥法官因在2024年下加利福尼亚州的冲浪之旅中谋杀两名澳大利亚兄弟和他们的美国朋友而判处三名男子158年监禁和九个月监禁。"
+        },
+        {
+          "en": "The ‌defendants were declared guilty a week ​ago of homicide, aggravated robbery, robbery with violence and vehicle theft ⁠with violence, crimes committed against ​Australian ​brothers Jake ​and Callum Robinson, and ​their ‌American friend ​Carter Rhoad.",
+          "zh": "一周前，被告被宣布犯有杀人罪、严重抢劫罪、暴力抢劫罪和暴力车辆盗窃罪，以及针对澳大利亚兄弟Jake和Callum Robinson以及他们的美国朋友Carter Rhoad的罪行。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "a1365c50f71f1cd7",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-17T02:33:09.000Z",
+      "sentences": [
+        {
+          "en": "Brazil sees record fall in Amazon deforestation as key election looms.",
+          "zh": "随着关键选举的临近，巴西看到亚马逊森林砍伐的创纪录下降。"
+        },
+        {
+          "en": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
+          "zh": "亚马逊雨林是应对气候变化的关键缓冲区，但在前总统贾尔·博尔索纳罗（ Jair Bolsonaro ）的领导下，森林砍伐已经扩大。"
+        }
+      ]
+    },
+    {
+      "id": "642c34e7eb1fd5c3",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Actress Selma Blair says she 'did not intend to harm anyone' in plane altercation",
+      "url": "https://www.bbc.co.uk/news/articles/cwly3zd1r45ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-17T01:55:45.000Z",
+      "sentences": [
+        {
+          "en": "Actress Selma Blair says she 'did not intend to harm anyone' in plane altercation.",
+          "zh": "女演员塞尔玛·布莱尔（ Selma Blair ）说，她在飞机冲突中“无意伤害任何人”。"
+        },
+        {
+          "en": "A publicist for the actress said the incident stemmed from a \"medical emergency\" and said she has a neurological disorder that can cause out-of-control responses.",
+          "zh": "这位女演员的一位公关人员表示，这起事件源于“医疗紧急情况” ，并表示她患有神经系统疾病，可能导致反应失控。"
+        }
+      ]
+    },
+    {
+      "id": "4d2797c44b0f3f5c",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Mimicking populists will not ease cost of living or boost productivity, Mathias Cormann warns",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/17/mimicking-populists-will-not-ease-cost-of-living-or-raise-productivity-mathias-cormann-warns-ntwnfb",
+      "publishedAt": "2026-10-17T01:49:17.000Z",
+      "sentences": [
+        {
+          "en": "Mimicking populists will not ease cost of living or boost productivity, Mathias Cormann warns.",
+          "zh": "Mathias Cormann警告说，模仿民粹主义者不会降低生活成本或提高生产力。"
+        },
+        {
+          "en": "Former minister and OECD head urges Australia not to adopt migration caps, with research showing migrants boost employment Get our breaking news email , free app or daily news podcast Australia’s mainstream political parties are being warned not to adopt populist policies such as migration caps to address voters’ grievances over the cost of living.",
+          "zh": "前部长和经合组织负责人敦促澳大利亚不要采用移民上限，研究表明移民可以促进就业。我们的突发新闻电子邮件、免费应用程序或每日新闻播客警告澳大利亚主流政党不要采取民粹主义政策，如移民上限，以解决选民对生活费用的不满。"
+        },
+        {
+          "en": "Instead, Australia’s longest-serving finance minister, Mathias Cormann, is urging politicians to deliver housing, real wage growth and lower energy costs by boosting productivity.",
+          "zh": "相反，澳大利亚任期最长的财政部长马蒂亚斯·科尔曼（ Mathias Cormann ）正在敦促政界人士通过提高生产力来提供住房、实际工资增长和降低能源成本。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "e263fd0408c3ce09",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Gone to the dogs: racing fans mourn closure of ‘Wenty’, Sydney’s historic greyhound track",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/17/gone-to-the-dogs-racing-fans-mourn-closure-of-wenty-sydneys-historic-greyhound-track",
+      "publishedAt": "2026-10-16T23:00:15.000Z",
+      "sentences": [
+        {
+          "en": "Gone to the dogs: racing fans mourn closure of ‘Wenty’, Sydney’s historic greyhound track.",
+          "zh": "走向狗群：赛车迷为悉尼历史悠久的灰狗赛道“Wenty”的关闭而哀悼。"
+        },
+        {
+          "en": "Thousands pack Wentworth Park for the final time before the stadium is demolished and returned to parkland Get our breaking news email , free app or daily news podcast The end of an era has fallen upon an Australian sporting landmark as the greyhound races at an inner-city track kicked off for the very last time.",
+          "zh": "在体育场被拆除并返回公园之前，成千上万的人最后一次聚集在温特沃斯公园（ Wentworth Park ）获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客随着内城赛道的灰狗比赛最后一次拉开帷幕，一个时代的结束已经降临在澳大利亚的一个体育地标上。"
+        },
+        {
+          "en": "Thousands packed into Wentworth Park in central Sydney on Friday night, where greyhound races have been held since 1932, for the last race meeting before the track’s planned demolition.",
+          "zh": "周五晚上，数千人挤在悉尼市中心的温特沃斯公园（ Wentworth Park ） ，自1932年以来一直在那里举行灰狗比赛，这是赛道计划拆除前的最后一次比赛。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "bfbf9ca78ba6e3fc",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Brazilian Amazon deforestation falls to lowest on record as pivotal vote looms",
+      "url": "https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election",
+      "publishedAt": "2026-10-16T19:37:53.000Z",
+      "sentences": [
+        {
+          "en": "Brazilian Amazon deforestation falls to lowest on record as pivotal vote looms.",
+          "zh": "随着关键投票的临近，巴西亚马逊森林砍伐率降至历史最低水平。"
+        },
+        {
+          "en": "Forest clearance at smallest total since records began in 1988 in success for Lula ahead of presidential run-off Deforestation in the Brazilian Amazon has fallen to its lowest level since records began, new government data shows.",
+          "zh": "新的政府数据显示，自1988年记录开始以来，卢拉在巴西亚马逊地区总统决选森林砍伐之前的成功森林清理总量已降至记录开始以来的最低水平。"
+        },
+        {
+          "en": "But whether this globally important success is maintained or reversed is on a knife edge ahead of a presidential election run-off on 25 October between two candidates with sharply different visions for the future of the rainforest and how that affects relations with the US under Donald Trump.",
+          "zh": "但是，在10月25日两位对热带雨林的未来有着截然不同愿景的候选人之间的总统选举决选之前，这一具有全球重要意义的成功是保持还是逆转，以及这如何影响唐纳德特朗普领导下的与美国的关系。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "bb8c1feda7f4c6f8",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "No 10 leaves option open to impose Chinese EV tariffs if UK joins EU scheme",
+      "url": "https://www.theguardian.com/politics/2026/oct/16/uk-chinese-electric-vehicle-ev-tariffs-eu-made-in-europe-scheme",
+      "publishedAt": "2026-10-16T18:09:34.000Z",
+      "sentences": [
+        {
+          "en": "No 10 leaves option open to impose Chinese EV tariffs if UK joins EU scheme.",
+          "zh": "如果英国加入欧盟计划，排名第10的国家将选择对中国征收电动汽车关税。"
+        },
+        {
+          "en": "Beijing warns against ‘discriminatory’ step after France drops opposition to British role in Made in Europe package No 10 has left the door open to imposing tariffs on Chinese-made electric vehicles as part of the Made in Europe package, prompting a warning from Beijing that such a move would be “discriminatory”.",
+          "zh": "在法国放弃反对英国在欧洲制造10号一揽子计划中的作用后，北京警告不要采取“歧视性”措施，这为作为欧洲制造一揽子计划的一部分对中国制造的电动汽车征收关税敞开了大门，这引发了北京方面的警告，即此举将是“歧视性的”。"
+        },
+        {
+          "en": "Downing Street said on Friday that it would “welcome the objective to have the UK included in the Industrial Accelerator Act” after France dropped its opposition to Britain joining the scheme .",
+          "zh": "唐宁街周五表示，在法国放弃反对英国加入该计划之后，它将“欢迎将英国纳入《工业加速器法案》的目标”。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "e78f657dccab65a1",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Brazil’s Lula says he now backs lowering age of criminal responsibility to 16",
+      "url": "https://www.theguardian.com/world/2026/oct/16/brazil-lula-age-criminal-responsibility",
+      "publishedAt": "2026-10-16T16:47:35.000Z",
+      "sentences": [
+        {
+          "en": "Brazil’s Lula says he now backs lowering age of criminal responsibility to 16.",
+          "zh": "巴西的卢拉说，他现在支持将刑事责任年龄降至16岁。"
+        },
+        {
+          "en": "Lula reverses position on age of responsibility for ‘heinous’ crimes in what many see as a desperate electoral gambit Brazil’s president, Luiz Inácio Lula da Silva, has announced that he now supports lowering the age of criminal responsibility for “heinous” crimes from 18 to 16, reversing a longstanding policy in what is widely seen as a desperate electoral gambit.",
+          "zh": "卢拉改变了对“令人发指”罪行责任年龄的立场，许多人认为这是绝望的选举策略巴西总统路易斯·伊纳西奥·卢拉·达席尔瓦（ Luiz Inácio Lula da Silva ）宣布，他现在支持将“令人发指”罪行的刑事责任年龄从18岁降至16岁，从而扭转了长期以来被广泛视为绝望的选举策略的政策。"
+        },
+        {
+          "en": "The U-turn, which Lula announced during a Thursday night interview with TV Globo, comes with the presidential runoff in just over a week.",
+          "zh": "卢拉在周四晚间接受环球电视台采访时宣布的转机，伴随着一周多的总统决选。"
+        },
+        {
+          "en": "The incumbent faces an uphill battle to overturn the first-round victory of his opponent, the far-right senator Flávio Bolsonaro, who remains slightly ahead at the polls.",
+          "zh": "现任总统面临着一场艰苦的战斗，以推翻他的对手，极右翼参议员弗拉维奥·博尔索纳罗（ FlávioBolsonaro ）的第一轮胜利，他在民意调查中仍然略有领先。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "b9fbebb49a086aa4",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "We’re sharing 3 tips to study smarter with Gemini Notebook.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/three-tips-study-gemini-notebook/",
+      "publishedAt": "2026-10-16T16:00:00.000Z",
+      "sentences": [
+        {
+          "en": "We’re sharing 3 tips to study smarter with Gemini Notebook.",
+          "zh": "我们分享了使用Gemini笔记本更聪明地学习的3个技巧。"
+        },
+        {
+          "en": "Master your exams with Google Gemini Notebook’s new 60-second video overviews and interactive quiz formats.",
+          "zh": "使用Google Gemini笔记本的新60秒视频概述和交互式测验格式掌握您的考试。"
+        },
+        {
+          "en": "Try these study tools at notebook.google.",
+          "zh": "请在notebook.google上尝试这些学习工具。"
+        }
+      ]
+    }
+  ],
+  "failures": []
+}
