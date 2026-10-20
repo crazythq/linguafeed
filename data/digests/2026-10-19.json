@@ -1,0 +1,829 @@
+{
+  "date": "2026-10-19",
+  "collectedAt": "2026-10-20T03:34:29.368Z",
+  "items": [
+    {
+      "id": "b33bad1bd24386b8",
+      "sourceId": "aws-news",
+      "category": "cloud",
+      "title": "AWS Weekly Roundup: AWS Lambda Web Functions, Amazon S3 on the Vercel Marketplace, and more (October 19, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-lambda-web-functions-amazon-s3-on-the-vercel-marketplace-and-more-october-19-2026/",
+      "publishedAt": "2026-10-19T15:34:59.000Z",
+      "sentences": [
+        {
+          "en": "AWS Weekly Roundup: AWS Lambda Web Functions, Amazon S3 on the Vercel Marketplace, and more (October 19, 2026).",
+          "zh": "AWS每周综述： AWS Lambda Web Functions、Vercel Marketplace上的Amazon S3等（ 2026年10月19日）。"
+        },
+        {
+          "en": "Nothing last week added a new kind of compute.",
+          "zh": "上周没有任何东西增加了一种新的计算方式。"
+        },
+        {
+          "en": "What it did instead was shorten the distance between the code you already have and that code being live.",
+          "zh": "相反，它缩短了您已经拥有的代码与正在运行的代码之间的距离。"
+        },
+        {
+          "en": "AWS Lambda learned to run a plain HTTP server with no adapter in front of it, and Amazon S3 became something you can provision from inside the tool you were already using, without opening the AWS Management Console.",
+          "zh": "AWS Lambda学会了运行前面没有适配器的普通HTTP服务器， Amazon S3成为了您可以从已使用的工具内部配置的内容，而无需打开AWS管理控制台。"
+        },
+        {
+          "en": "Different services, same direction.",
+          "zh": "不同的服务，相同的方向。"
+        },
+        {
+          "en": "The counterweight arrived on Thursday.",
+          "zh": "配重已于周四抵达。"
+        },
+        {
+          "en": "As it gets easier to put things into production, it matters more that you can say what those things are allowed to do, and this week’s most interesting read is about exactly that.",
+          "zh": "随着把东西投入生产变得越来越容易，更重要的是你可以说出这些东西被允许做什么，而本周最有趣的阅读正是关于这一点。"
+        },
+        {
+          "en": "Now, let’s get into this week’s AWS news… Headlines AWS Lambda Web Functions is a new form factor that runs a standard HTTP web application on Lambda without rewriting it into an event handler.",
+          "zh": "现在，让我们进入本周的AWS新闻... Headlines AWS Lambda Web Functions是一种新的外形规格，可在Lambda上运行标准HTTP Web应用程序，而无需将其重写为事件处理程序。"
+        },
+        {
+          "en": "You take a port-listening server built with Express, Hono, Fastify, or Next.js, run aws lambda-web deploy , and get back a live HTTPS URL in under a minute.",
+          "zh": "使用Express、Hono、Fastify或Next.js构建的端口侦听服务器，运行aws lambda-web deploy ，并在一分钟内恢复实时HTTPS URL。"
+        },
+        {
+          "en": "No adapters, no infrastructure to set up first, no framework lock-in.",
+          "zh": "无需适配器，无需首先设置基础设施，无需锁定框架。"
+        },
+        {
+          "en": "Lambda now has three form factors on the same Firecracker isolation, which compose inside one application: Event Functions (the model you already know) for async work, Web Functions for the user-facing layer, and MicroVMs for stateful sandboxes running untrusted code.",
+          "zh": "Lambda现在在同一个Firecracker隔离上有三个外形规格，它们在一个应用程序中组成：用于异步工作的事件函数（您已经知道的模型）、面向用户层的Web函数和用于运行不受信任代码的有状态沙箱的MicroVM。"
+        },
+        {
+          "en": "Two details make this more than repackaging.",
+          "zh": "有两个细节比重新包装更重要。"
+        }
+      ]
+    },
+    {
+      "id": "766a23e8525d3c02",
+      "sourceId": "guardian-world",
+      "category": "business",
+      "title": "Drone attack near market kills 80 in Sudan",
+      "url": "https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan",
+      "publishedAt": "2026-10-19T14:45:53.000Z",
+      "sentences": [
+        {
+          "en": "Drone attack near market kills 80 in Sudan.",
+          "zh": "市场附近的无人机袭击造成苏丹80人死亡。"
+        },
+        {
+          "en": "Witness says drone struck twice at transport hub in al-Dibab, in one of deadliest single attacks of war A drone strike near a market in southern Sudan on Sunday evening killed 80 people, mostly commuters catching rides home.",
+          "zh": "目击者称，无人机两次袭击了al-Dibab的交通枢纽，这是最致命的战争袭击之一。周日晚上，苏丹南部一个市场附近发生无人机袭击，造成80人死亡，其中大多数是乘车回家的通勤者。"
+        },
+        {
+          "en": "Ahmed Wadi, a witness, said the attack in the town of al-Dibab in West Kordofan state left “50 bodies who I helped bury, one of them my own brother Mohamed”.",
+          "zh": "目击者艾哈迈德·瓦迪（ Ahmed Wadi ）说，西科尔多凡州al-Dibab镇的袭击留下了“我帮助埋葬的50具尸体，其中一具是我自己的兄弟穆罕默德”。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "4e76560a44792de6",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "US airman dies as daredevil descent goes wrong before Texas college football game",
+      "url": "https://www.bbc.co.uk/news/articles/crd6dn63j2xwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-19T14:13:18.000Z",
+      "sentences": [
+        {
+          "en": "US airman dies as daredevil descent goes wrong before Texas college football game.",
+          "zh": "在德克萨斯大学橄榄球比赛之前，美国飞行员死于敢死队血统出错。"
+        },
+        {
+          "en": "The game continued after the incident.",
+          "zh": "事件发生后，比赛继续进行。"
+        },
+        {
+          "en": "The American Conference said the decision was made before his death was known.",
+          "zh": "美国会议表示，这一决定是在他去世前做出的。"
+        }
+      ]
+    },
+    {
+      "id": "7d64c70b69146871",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Ebola cases in Kenya highlight US failures amid Trump cuts to key services",
+      "url": "https://www.theguardian.com/world/2026/oct/19/ebola-cases-kenya-us-quarantine",
+      "publishedAt": "2026-10-19T14:11:08.000Z",
+      "sentences": [
+        {
+          "en": "Ebola cases in Kenya highlight US failures amid Trump cuts to key services.",
+          "zh": "肯尼亚的埃博拉病例凸显了特朗普削减关键服务期间美国的失败。"
+        },
+        {
+          "en": "Opposition to US-led quarantine center in Kenya follows sweeping funding cuts and withdrawal from WHO An eighth person in Kenya has tested positive for the Bundibugyo strain of Ebola in the country’s first-ever cluster of cases of the virus, as the second-largest outbreak in history has killed more than 4,300 and sickened more than 9,000 people in the region.",
+          "zh": "肯尼亚对美国领导的检疫中心的反对是在大规模削减资金和退出世卫组织之后。肯尼亚的第八个人在该国有史以来第一批埃博拉病毒病例中检测出Bundibugyo病毒株呈阳性，因为历史上第二大疫情已造成4,300多人死亡，并使该地区的9,000多人患病。"
+        },
+        {
+          "en": "It highlights the diminished role the US has played in the worsening Ebola outbreak by building a controversial quarantine center in Kenya, pulling back health support globally, and banning travelers from certain countries.",
+          "zh": "它强调了美国在肯尼亚建立了一个有争议的隔离中心，在全球范围内撤销了卫生支持，并禁止某些国家的旅客入境，从而削弱了美国在埃博拉疫情恶化中的作用。"
+        },
+        {
+          "en": "All of this has also reduced the ability to identify and respond to the outbreak and exacerbated mistrust.",
+          "zh": "所有这些也降低了识别和应对疫情的能力，加剧了不信任。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "e9f9cfe38be1d304",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Catalonia's former rebel president can return to Spain, court rules",
+      "url": "https://www.bbc.co.uk/news/articles/cvp8gzg4e143o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-19T14:06:53.000Z",
+      "sentences": [
+        {
+          "en": "Catalonia's former rebel president can return to Spain, court rules.",
+          "zh": "法院规定，加泰罗尼亚前反叛总统可以返回西班牙。"
+        },
+        {
+          "en": "The court upholds a decision to lift an arrest warrant for Carles Puigdemont linked to the independence bid he led in 2017.",
+          "zh": "法院维持撤销对Carles Puigdemont的逮捕令的决定，该逮捕令与他在2017年领导的独立竞标有关。"
+        }
+      ]
+    },
+    {
+      "id": "b1fd16c8275afd96",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Exiled critic of Rwandan president found beheaded",
+      "url": "https://www.bbc.co.uk/news/articles/c3lylj78777do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-19T13:42:41.000Z",
+      "sentences": [
+        {
+          "en": "Exiled critic of Rwandan president found beheaded.",
+          "zh": "流亡的卢旺达总统批评者被斩首。"
+        },
+        {
+          "en": "Former army sergeant major Robert Kabera was a popular YouTuber and singer, who had sought asylum in Uganda.",
+          "zh": "前陆军中士罗伯特·卡贝拉（ Robert Kabera ）是一位受欢迎的YouTuber和歌手，曾在乌干达寻求庇护。"
+        }
+      ]
+    },
+    {
+      "id": "72477d086944244f",
+      "sourceId": "cloudflare-blog",
+      "category": "security",
+      "title": "Beyond the patch: Protecting your NetScaler gateway against future vulnerabilities",
+      "url": "https://blog.cloudflare.com/protect-your-netscaler-gateway/",
+      "publishedAt": "2026-10-19T13:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Beyond the patch: Protecting your NetScaler gateway against future vulnerabilities.",
+          "zh": "超越补丁：保护您的NetScaler网关免受未来漏洞的影响。"
+        },
+        {
+          "en": "The recent disclosure of a major vulnerability in Citrix NetScaler pointed to a widespread weak point: a login page is an attack surface that can be used to compromise and access an application server.",
+          "zh": "最近披露的Citrix NetScaler中的一个重大漏洞指出了一个普遍存在的弱点：登录页面是一个攻击面，可用于危害和访问应用服务器。"
+        },
+        {
+          "en": "Indeed, the disclosures included an actively exploited flaw that allowed attackers to execute commands on affected gateways without signing in.",
+          "zh": "事实上，这些披露包括一个积极利用的漏洞，该漏洞允许攻击者在受影响的网关上执行命令，而无需登录。"
+        },
+        {
+          "en": "As with any emergency patch, admins had to weigh cutting off or disrupting their users’ access with the risk of delaying a critical security update.",
+          "zh": "与任何紧急补丁一样，管理员必须权衡切断或中断用户的访问权限，否则可能会延迟关键的安全更新。"
+        },
+        {
+          "en": "If you’re a NetScaler customer and you haven’t patched your instance, stop reading and go do that.",
+          "zh": "如果您是NetScaler客户并且尚未修补实例，请停止阅读并执行此操作。"
+        },
+        {
+          "en": "This was a bad one.",
+          "zh": "这是一件很糟糕的事情。"
+        },
+        {
+          "en": "Once you’ve finished the patch, we’ll explore how to avoid a future fire drill by laying additional security controls.",
+          "zh": "完成修补程序后，我们将探讨如何通过提供额外的安全控制来避免将来的消防演习。"
+        },
+        {
+          "en": "This issue extends beyond NetScaler and can be applied to any internal application available on the Internet.",
+          "zh": "此问题超出了NetScaler的范围，可以应用于Internet上可用的任何内部应用程序。"
+        },
+        {
+          "en": "Remote desktop portals, administrative consoles, and other publicly accessible authentication pages all deserve the same scrutiny: Does the intended audience require unrestricted Internet reachability?",
+          "zh": "远程桌面门户、管理控制台和其他可公开访问的身份验证页面都应该受到同样的审查：目标受众是否需要不受限制的互联网可访问性？"
+        },
+        {
+          "en": "And can an attacker bypass this authentication check to reach the application&#x27;s server?",
+          "zh": "攻击者可以绕过此身份验证检查来访问应用程序的服务器吗？"
+        },
+        {
+          "en": "Citrix released software updates to address the flaw , and Cloudflare followed with an emergency web application firewall (WAF) rule on October 1.",
+          "zh": "Citrix发布了软件更新以解决该漏洞， Cloudflare随后于10月1日发布了紧急Web应用程序防火墙(WAF)规则。"
+        },
+        {
+          "en": "But having a patch available does not guarantee safety: every instance has to be identified, updated, and tested.",
+          "zh": "但是，提供补丁并不能保证安全：必须识别、更新和测试每个实例。"
+        }
+      ]
+    },
+    {
+      "id": "8a5bbea3d5273e7f",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "We’re supporting nature restoration through sustainable farming in Brazil.",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/brazil-silvopasture/",
+      "publishedAt": "2026-10-19T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "We’re supporting nature restoration through sustainable farming in Brazil.",
+          "zh": "我们正在支持巴西通过可持续农业恢复自然。"
+        },
+        {
+          "en": "Google is partnering with Working Trees to remove 270,000 tons of CO2 via silvopasture in Brazil.",
+          "zh": "谷歌正在与Working Trees合作，在巴西通过Silvopasture去除27万吨二氧化碳。"
+        },
+        {
+          "en": "See how this project restores land and ranching.",
+          "zh": "了解该项目如何恢复土地和牧场。"
+        }
+      ]
+    },
+    {
+      "id": "7e241adb53c71237",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Protecting Earth’s fragile biodiversity takes spotlight at Armenia talks",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168620",
+      "publishedAt": "2026-10-19T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Protecting Earth’s fragile biodiversity takes spotlight at Armenia talks.",
+          "zh": "保护地球脆弱的生物多样性成为亚美尼亚会谈的焦点。"
+        },
+        {
+          "en": "Biodiversity losses continue to upend the lives of billions of people whose future prosperity depends on countries taking urgent action to protect our planet, the top UN official leading talks at the UN Biodiversity Conference in Yerevan, said on Monday.",
+          "zh": "生物多样性的丧失继续颠覆数十亿人的生活，他们的未来繁荣取决于各国采取紧急行动保护我们的地球。埃里温举行的联合国生物多样性会议上，联合国最高级官员主导了会谈，周一表示。"
+        }
+      ]
+    },
+    {
+      "id": "369355a9ad0ae691",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Gaza: Funding cuts leave half a million without food assistance",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168622",
+      "publishedAt": "2026-10-19T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Gaza: Funding cuts leave half a million without food assistance.",
+          "zh": "加沙：资金削减导致50万人没有粮食援助。"
+        },
+        {
+          "en": "Funding shortages have forced the World Food Programme (WFP) to slash assistance to hungry families in the Gaza Strip by roughly one third – a move that will affect some 500,000 people as winter approaches, the UN agency announced on Monday.",
+          "zh": "联合国机构周一宣布，资金短缺已迫使世界粮食计划署（ WFP ）削减对加沙地带饥饿家庭的援助约三分之一--随着冬季的临近，此举将影响约50万人。"
+        }
+      ]
+    },
+    {
+      "id": "feccb937e32d1fb7",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Guterres honours Indonesian troops who paid ‘ultimate sacrifice’",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168623",
+      "publishedAt": "2026-10-19T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Guterres honours Indonesian troops who paid ‘ultimate sacrifice’.",
+          "zh": "古特雷斯向付出“终极牺牲”的印尼军队致敬。"
+        },
+        {
+          "en": "UN Secretary-General António Guterres paid tribute to Indonesian peacekeepers on Monday, laying a wreath in honour of four who recently lost their lives in Lebanon and offering a robust defence of UN peacekeeping in what he called “testing times for peace”.",
+          "zh": "联合国秘书长安东尼奥·古特雷斯（ António Guterres ）周一向印度尼西亚维和人员致敬，为最近在黎巴嫩丧生的四名维和人员献上花圈，并在他所谓的“和平考验时刻”中为联合国维持和平行动提供强有力的辩护。"
+        }
+      ]
+    },
+    {
+      "id": "ad320c07baff978f",
+      "sourceId": "un-news",
+      "category": "business",
+      "title": "‘Season of fear’: Escalating Israeli attacks on West Bank olive farmers, deadly strikes on Gaza",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168625",
+      "publishedAt": "2026-10-19T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "‘Season of fear’: Escalating Israeli attacks on West Bank olive farmers, deadly strikes on Gaza.",
+          "zh": "“恐惧季节” ：以色列对约旦河西岸橄榄农的袭击升级，对加沙发动致命袭击。"
+        },
+        {
+          "en": "Israeli attacks on war-torn Gaza over the weekend killed at least six Palestinians, including children, despite a year-old ceasefire agreement.",
+          "zh": "尽管达成了为期一年的停火协议，但以色列周末对饱受战争蹂躏的加沙的袭击造成至少6名巴勒斯坦人死亡，其中包括儿童"
+        },
+        {
+          "en": "Meanwhile, in the occupied West Bank, settler violence continued through the ongoing olive harvest, with UN independent experts on Monday urging Israel to protect Palestinian farmers.",
+          "zh": "与此同时，在被占领的约旦河西岸，定居者的暴力活动持续不断，联合国独立专家周一敦促以色列保护巴勒斯坦农民。"
+        }
+      ]
+    },
+    {
+      "id": "86f3dbaa76b9b9da",
+      "sourceId": "un-news",
+      "category": "security",
+      "title": "Haiti: Elections on hold as gangs adapt to security crackdown, Security Council hears",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168626",
+      "publishedAt": "2026-10-19T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Haiti: Elections on hold as gangs adapt to security crackdown, Security Council hears.",
+          "zh": "海地：安理会获悉，随着帮派适应安全镇压，选举暂停。"
+        },
+        {
+          "en": "Armed groups in Haiti are adapting to intensified security operations, stepping up reprisals against civilians and extending their reach into rural areas, the UN warned the Security Council on Monday.",
+          "zh": "联合国周一警告安理会，海地的武装团体正在适应加强的安全行动，加大对平民的报复力度，并将其影响范围扩大到农村地区。"
+        }
+      ]
+    },
+    {
+      "id": "dde80a2889d75202",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Hunger is ‘an avoidable tragedy’ in a world of plenty: Türk",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168627",
+      "publishedAt": "2026-10-19T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Hunger is ‘an avoidable tragedy’ in a world of plenty: Türk.",
+          "zh": "在一个富裕的世界里，饥饿是“可以避免的悲剧” ： Türk。"
+        },
+        {
+          "en": "More than a quarter of humanity struggles to get enough food, even though the world produces enough for everyone, UN human rights chief Volker Türk said on Monday, blaming injustice and the denial of human rights for hunger in a world of plenty.",
+          "zh": "联合国人权事务主管沃尔克·蒂尔克（ Volker Türk ）周一表示，尽管世界生产的粮食足以满足每个人的需要，但超过四分之一的人类仍在努力获得足够的粮食。他将饥饿归咎于不公正和剥夺人权。"
+        }
+      ]
+    },
+    {
+      "id": "deac181fb7a04290",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "UN condemns deadly wave of drone strikes in war-torn Sudan",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168628",
+      "publishedAt": "2026-10-19T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "UN condemns deadly wave of drone strikes in war-torn Sudan.",
+          "zh": "联合国谴责在饱受战争蹂躏的苏丹发生的致命无人机袭击浪潮。"
+        },
+        {
+          "en": "Drone strikes killed and injured dozens across Sudan on Monday as the ongoing war continues to cause soaring displacement and hunger.",
+          "zh": "周一，由于持续不断的战争继续导致流离失所和饥饿飙升，无人机袭击造成苏丹各地数十人死亡和受伤。"
+        }
+      ]
+    },
+    {
+      "id": "b3c5e879a09c087c",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Personal attacks fire up debate before Brazil's run-off vote",
+      "url": "https://www.bbc.co.uk/news/articles/ck98zlzyqle3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-19T11:41:24.000Z",
+      "sentences": [
+        {
+          "en": "Personal attacks fire up debate before Brazil's run-off vote.",
+          "zh": "在巴西第二轮投票之前，人身攻击引发了辩论。"
+        },
+        {
+          "en": "The race heats up just days before the run-off between the left-wing incumbent and his right-wing challenger.",
+          "zh": "这场比赛在左翼现任者和他的右翼挑战者之间的决赛前几天升温。"
+        }
+      ]
+    },
+    {
+      "id": "2a0deb6236661875",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Australian prime minister says lawmaker critically injured by car is 'no accident'",
+      "url": "https://www.npr.org/2026/10/19/g-s1-148737/australia-lawmaker-critically-injured",
+      "publishedAt": "2026-10-19T11:38:43.000Z",
+      "sentences": [
+        {
+          "en": "Australian prime minister says lawmaker critically injured by car is 'no accident'.",
+          "zh": "澳大利亚总理表示，被汽车严重伤害的立法者“并非偶然”。"
+        },
+        {
+          "en": "A car hit an Australian federal independent lawmaker on Monday, critically injuring her in an apparent deliberate attack, Prime Minister Anthony Albanese said.",
+          "zh": "澳大利亚总理安东尼·阿尔巴尼斯（ Anthony Albanese ）表示，周一，一辆汽车撞上了一名澳大利亚联邦独立议员，在一次明显的蓄意袭击中严重伤害了她。"
+        },
+        {
+          "en": "The driver was arrested.",
+          "zh": "司机被逮捕。"
+        },
+        {
+          "en": "(Image credit: Mick Tsikas)",
+          "zh": "（图片来源： Mick Tsikas ）"
+        }
+      ]
+    },
+    {
+      "id": "999faf7151b53375",
+      "sourceId": "bbc-world",
+      "category": "security",
+      "title": "Italy plans tougher security measures after violent protests",
+      "url": "https://www.bbc.co.uk/news/articles/c6j9kwxxmxydo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-19T11:23:36.000Z",
+      "sentences": [
+        {
+          "en": "Italy plans tougher security measures after violent protests.",
+          "zh": "在暴力抗议之后，意大利计划采取更严格的安全措施。"
+        },
+        {
+          "en": "The government crackdown comes after protests over rising costs broke out into violent clashes.",
+          "zh": "政府镇压发生在抗议成本上升的抗议爆发为暴力冲突之后。"
+        }
+      ]
+    },
+    {
+      "id": "ebe44b85612d8b12",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "2026 midterms could be the most expensive on record. And, Macron condemns protests",
+      "url": "https://www.npr.org/2026/10/19/g-s1-148733/up-first-newsletter-ukraine-russia-campaign-finances-france-protests",
+      "publishedAt": "2026-10-19T11:15:43.000Z",
+      "sentences": [
+        {
+          "en": "2026 midterms could be the most expensive on record.",
+          "zh": "2026年中期选举可能是有史以来最昂贵的。"
+        },
+        {
+          "en": "And, Macron condemns protests.",
+          "zh": "此外，马克龙谴责抗议活动。"
+        },
+        {
+          "en": "More than $15 billion has been raised in this year's midterm elections.",
+          "zh": "今年的中期选举已经筹集了超过150 $。"
+        },
+        {
+          "en": "And, France's president is condemning the violent protests erupting across the country.",
+          "zh": "此外，法国总统正在谴责全国各地爆发的暴力抗议活动。"
+        },
+        {
+          "en": "(Image credit: Tim Evans)",
+          "zh": "（图片来源： Tim Evans ）"
+        }
+      ]
+    },
+    {
+      "id": "f3947b7b015ee2f2",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
+      "url": "https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods",
+      "publishedAt": "2026-10-19T10:07:09.000Z",
+      "sentences": [
+        {
+          "en": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods.",
+          "zh": "飓风特鲁迪威胁着墨西哥的太平洋沿岸和希腊遭受致命的洪水袭击。"
+        },
+        {
+          "en": "Trudy weakens to tropical storm after warnings of strong winds and heavy rain, while one person killed in Greece In contrast to the quiet Atlantic hurricane season, there has been ongoing activity in the Pacific, with Trudy being the 22nd and latest named system.",
+          "zh": "在强风和大雨警告后，特鲁迪减弱为热带风暴，而希腊有一人丧生与平静的大西洋飓风季节相反，太平洋地区一直在进行活动，特鲁迪是第22个也是最新命名的系统。"
+        },
+        {
+          "en": "The category 2 hurricane remained roughly 100 miles (160km) south-west of the coast of Mexico, meaning the worst of the conditions stayed offshore.",
+          "zh": "2级飓风仍在墨西哥海岸西南约100英里（ 160公里）处，这意味着最恶劣的条件仍在海上。"
+        },
+        {
+          "en": "However, the US National Hurricane Center put coastal parts of the states of Jalisco, Michoacán and Colima under hurricane warnings, with sustained winds of up to 60-90mph forecast on Sunday.",
+          "zh": "然而，美国国家飓风中心将哈利斯科州、米却肯州和科利马州的沿海地区置于飓风警报之下，预计周日的持续风速将达到60-90英里/小时。"
+        },
+        {
+          "en": "Rainfall totals of 100-150mm were likely for these areas, prompting warnings of flooding and landslides.",
+          "zh": "这些地区的降雨总量可能为100-150毫米，这引发了洪水和山体滑坡的警告。"
+        },
+        {
+          "en": "Warnings also covered the risk of a dangerous storm surge accompanied by damaging waves in areas of onshore winds across the coast of south-western Mexico.",
+          "zh": "警告还涵盖了危险的风暴潮的风险，伴随着墨西哥西南部沿海地区的陆上风的破坏性波浪。"
+        },
+        {
+          "en": "By Monday morning, Trudy had weakened and been downgraded to a tropical storm, with coastal warnings being lifted.",
+          "zh": "到周一早上，特鲁迪已经减弱，降级为热带风暴，沿海警报被解除。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "175e0532f2544baa",
+      "sourceId": "guardian-world",
+      "category": "ai",
+      "title": "China’s economy grows faster than forecast after AI boom boosts exports",
+      "url": "https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports",
+      "publishedAt": "2026-10-19T09:27:04.000Z",
+      "sentences": [
+        {
+          "en": "China’s economy grows faster than forecast after AI boom boosts exports.",
+          "zh": "在人工智能繁荣推动出口后，中国经济增长速度快于预期。"
+        },
+        {
+          "en": "Third-quarter GDP up by 4.5% compared with last year as industrial output is buoyed by electronics demand Roaring exports lifted China’s economic growth in the third quarter of this year, with factory output growing much faster than consumer spending.",
+          "zh": "与去年相比，第三季度GDP增长了4.5% ，因为工业产出受到电子产品需求的支撑。今年第三季度，咆哮的出口推动了中国的经济增长，工厂产出的增长速度远远快于消费者支出。"
+        },
+        {
+          "en": "China’s GDP grew by 4.5% year-on-year between July and September, the National Bureau of Statistics of China reported on Monday.",
+          "zh": "中国国家统计局周一报告称， 7月至9月期间，中国国内生产总值同比增长4.5%。"
+        },
+        {
+          "en": "The figures were better than economists had expected and up from the second quarter’s growth rate of 4.3%.",
+          "zh": "这些数字好于经济学家的预期，高于第二季度的4.3%的增长率。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "a4c4fedc7b827c9b",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers",
+      "url": "https://www.bbc.co.uk/news/articles/cmq5n8x106jdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-19T09:11:42.000Z",
+      "sentences": [
+        {
+          "en": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers.",
+          "zh": "研究人员说，阿米莉亚·埃尔哈特（ Amelia Earhart ）的飞机残骸可能是树木。"
+        },
+        {
+          "en": "Researchers travelled to a remote Pacific Island to confirm whether an object first spotted on satellite imagery in 2020 solved the mystery of the pilot's disappearance.",
+          "zh": "研究人员前往一个偏远的太平洋岛屿，以确认2020年首次在卫星图像上发现的物体是否解决了飞行员失踪的谜团。"
+        }
+      ]
+    },
+    {
+      "id": "5051961f5d0fe870",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Three deaths from float crushes raise safety concerns over Japanese festivals",
+      "url": "https://www.theguardian.com/world/2026/oct/19/safety-concerns-japan-traditional-festivals-fatal-accidents",
+      "publishedAt": "2026-10-19T09:08:34.000Z",
+      "sentences": [
+        {
+          "en": "Three deaths from float crushes raise safety concerns over Japanese festivals.",
+          "zh": "三人死于漂浮式粉碎，引发了对日本节日的安全担忧。"
+        },
+        {
+          "en": "Deputy mayor of Saijo died after becoming trapped under float, days after two similar incidents elsewhere There is mounting concern over the safety of Japan’s traditional festivals after the death of a senior local official who was reportedly crushed beneath a float at the weekend, days after two men died in similar incidents in another part of the country.",
+          "zh": "西条副市长在其他地方发生两起类似事件几天后被困在漂浮物下后去世据报道，一名高级地方官员在周末被压在漂浮物下后，人们越来越担心日本传统节日的安全性，几天后，两名男子在该国其他地区发生类似事件中丧生。"
+        },
+        {
+          "en": "Akihiro Nabae, the deputy mayor of Saijo, in western Japan, was carrying a giant float with other participants in a festival on Saturday when he became trapped beneath the structure, Agence France-Presse reported.",
+          "zh": "据法新社报道，日本西部西条市副市长Akihiro Nabae周六与其他参与者在一个节日中携带一辆巨型漂浮物，当时他被困在建筑物下面。"
+        },
+        {
+          "en": "Nabae, 62, was taken to hospital and later pronounced dead, local media said, adding that no one else was injured.",
+          "zh": "当地媒体称， 62岁的Nabae被送往医院，后来被宣布死亡，并补充说没有其他人受伤。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "526116a2014d181b",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "A Kelvin wave raised sea levels on the West Coast. More are coming",
+      "url": "https://www.npr.org/2026/10/19/nx-s1-6001744/el-nino-kelvin-wave-west-coast",
+      "publishedAt": "2026-10-19T09:00:00.000Z",
+      "sentences": [
+        {
+          "en": "A Kelvin wave raised sea levels on the West Coast.",
+          "zh": "开尔文海浪使西海岸的海平面上升。"
+        },
+        {
+          "en": "More are coming.",
+          "zh": "更多活动即将推出。"
+        },
+        {
+          "en": "A large underwater wave moved up the West Coast, raising sea levels.",
+          "zh": "一股巨大的水下波浪向西海岸移动，使海平面上升。"
+        },
+        {
+          "en": "Scientists say it's driven by El Niño and it's going to happen again.",
+          "zh": "科学家说，这是由厄尔尼诺现象驱动的，它将再次发生。"
+        },
+        {
+          "en": "(Image credit: Dillon J.",
+          "zh": "（图片来源： Dillon J."
+        },
+        {
+          "en": "Amaya)",
+          "zh": "Amaya ）"
+        }
+      ]
+    },
+    {
+      "id": "f598e99d910210f9",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "The real reason it's going to take a while to know who won in some midterm races",
+      "url": "https://www.npr.org/2026/10/19/nx-s1-5982027/california-vote-counting-margins",
+      "publishedAt": "2026-10-19T09:00:00.000Z",
+      "sentences": [
+        {
+          "en": "The real reason it's going to take a while to know who won in some midterm races.",
+          "zh": "需要一段时间才能知道谁在一些中期比赛中获胜的真正原因。"
+        },
+        {
+          "en": "Hint: It's not only because California counts slowly.",
+          "zh": "提示：这不仅仅是因为加利福尼亚州的数量很慢。"
+        },
+        {
+          "en": "(Image credit: Justin Sullivan)",
+          "zh": "（图片来源： Justin Sullivan ）"
+        }
+      ]
+    },
+    {
+      "id": "5a314bcba734afb4",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Morning news brief",
+      "url": "https://www.npr.org/2026/10/19/nx-s1-6003499/morning-news-brief",
+      "publishedAt": "2026-10-19T08:46:44.000Z",
+      "sentences": [
+        {
+          "en": "Morning news brief.",
+          "zh": "晨间新闻简报。"
+        },
+        {
+          "en": "Ukraine and Russia exchange strikes as relations between U.S. and Ukraine deteriorate, the midterms are on track to be the most expensive on record, French president denounces violent protests.",
+          "zh": "随着美国和乌克兰之间的关系恶化，乌克兰和俄罗斯互相罢工，中期选举有望成为有史以来最昂贵的，法国总统谴责暴力抗议活动。"
+        }
+      ]
+    },
+    {
+      "id": "05a7675a729117c8",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Michigan's Democratic Senate candidate Abdul El-Sayed campaigns in GOP stronghold",
+      "url": "https://www.npr.org/2026/10/19/nx-s1-6005195/michigans-democratic-senate-candidate-abdul-el-sayed-campaigns-in-gop-stronghold",
+      "publishedAt": "2026-10-19T08:46:18.000Z",
+      "sentences": [
+        {
+          "en": "Michigan's Democratic Senate candidate Abdul El-Sayed campaigns in GOP stronghold.",
+          "zh": "密歇根州民主党参议员候选人Abdul El-Sayed在共和党据点的竞选活动。"
+        },
+        {
+          "en": "Michigan's Democratic U.S. Senate candidate Abdul El-Sayed is campaigning in the GOP stronghold of Michigan's Upper Peninsula, an area that hasn't voted for a Democrat in Congress in over a decade.",
+          "zh": "密歇根州的民主党美国参议员候选人阿卜杜勒·赛义德（ Abdul El-Sayed ）正在密歇根州上半岛（ Upper Peninsula ）的共和党据点进行竞选活动，该地区十多年来没有在国会投票支持民主党人。"
+        }
+      ]
+    },
+    {
+      "id": "b1e5fc1f0ab8d70b",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Solar power is changing agriculture in Pakistan, but some fear it could cause issues",
+      "url": "https://www.npr.org/2026/10/19/nx-s1-5993523/solar-power-is-changing-agriculture-in-pakistan-but-some-fear-it-could-cause-issues",
+      "publishedAt": "2026-10-19T08:45:58.000Z",
+      "sentences": [
+        {
+          "en": "Solar power is changing agriculture in Pakistan, but some fear it could cause issues.",
+          "zh": "太阳能正在改变巴基斯坦的农业，但有些人担心它可能会导致问题。"
+        },
+        {
+          "en": "Solar power is transforming agriculture in Pakistan.",
+          "zh": "太阳能正在改变巴基斯坦的农业。"
+        },
+        {
+          "en": "But in a country already facing water scarcity and extreme weather, some fear their widespread use could cause problems.",
+          "zh": "但在一个已经面临水资源短缺和极端天气的国家，一些人担心它们的广泛使用可能会导致问题。"
+        }
+      ]
+    },
+    {
+      "id": "fca1d157876e3c16",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Bangladesh says it was not informed of its citizens' execution by Saudi Arabia",
+      "url": "https://www.bbc.co.uk/news/articles/cmde83w13p00o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-19T08:17:19.000Z",
+      "sentences": [
+        {
+          "en": "Bangladesh says it was not informed of its citizens' execution by Saudi Arabia.",
+          "zh": "孟加拉国表示，沙特阿拉伯没有告知其公民被处决的情况。"
+        },
+        {
+          "en": "Saudi Arabia said it executed two Bangladeshis last week for committing an \"indecent act\" in a mosque.",
+          "zh": "沙特阿拉伯表示，上周处决了两名在清真寺犯下“猥亵行为”的孟加拉国人。"
+        }
+      ]
+    },
+    {
+      "id": "f44ff57d59e6a8e8",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "‘This is not poker’: Alberta goes to polls in referendum that has exposed divisions, not least among separatists",
+      "url": "https://www.theguardian.com/world/2026/oct/19/alberta-goes-to-polls-in-referendum-divisions-separatists-canada",
+      "publishedAt": "2026-10-19T05:00:22.000Z",
+      "sentences": [
+        {
+          "en": "‘This is not poker’: Alberta goes to polls in referendum that has exposed divisions, not least among separatists.",
+          "zh": "“这不是扑克” ：艾伯塔省在全民公决中进行民意调查，揭露了分歧，尤其是分离主义者之间的分歧。"
+        },
+        {
+          "en": "Voters to be asked whether province should remain part of Canada or hold a second, binding independence vote Albertans are going to the polls to decide their place in Canada, in a referendum that has exposed deep divisions within the province, not least in the separatist movement itself.",
+          "zh": "选民将被问及该省是否应该继续成为加拿大的一部分，还是举行第二次具有约束力的独立投票，艾伯塔人将参加民意调查，以决定他们在加拿大的地位，这场公投暴露了该省内部的深刻分歧，尤其是在分离主义运动本身。"
+        },
+        {
+          "en": "On Monday, voters will respond to the question of whether Alberta should remain in Canada, or hold a second, binding independence referendum.",
+          "zh": "周一，选民将回答艾伯塔省是否应该留在加拿大，还是举行第二次具有约束力的独立公投。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "42d8bf56eac2c072",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Amelia Earhart researchers leave remote atoll empty-handed after ‘plane debris’ found to be a clump of trees",
+      "url": "https://www.theguardian.com/us-news/2026/oct/19/amelia-earhart-purdue-expedition-clump-of-trees-nikumaroro-kiribati",
+      "publishedAt": "2026-10-19T04:43:41.000Z",
+      "sentences": [
+        {
+          "en": "Amelia Earhart researchers leave remote atoll empty-handed after ‘plane debris’ found to be a clump of trees.",
+          "zh": "阿米莉亚·埃尔哈特（ Amelia Earhart ）的研究人员在发现“飞机残骸”是一团树后，空手离开了偏远的环礁。"
+        },
+        {
+          "en": "Expedition was drawn to Nikumaroro after spotting what was described as a metallic glint in waters off uninhabited island A US expedition that voyaged to a remote Pacific island in the hope of solving the mystery of what happened to pioneering pilot Amelia Earhart has said an object they suspected to be her plane was a clump of washed-up trees.",
+          "zh": "探险队在无人居住的岛屿附近的水域发现了所谓的金属闪光后被吸引到Nikumaroro。美国探险队前往一个偏远的太平洋岛屿，希望解决先驱飞行员Amelia Earhart发生的事情之谜。他们说，他们怀疑是她的飞机是一堆被冲毁的树木。"
+        },
+        {
+          "en": "“Unfortunately, we weren’t able to find that smoking gun,” said Steve Schultz of Purdue University, standing on the sand in front of a blue lagoon on the atoll of Nikumaroro, about halfway between Australia and Hawaii.",
+          "zh": "普渡大学（ Purdue University ）的史蒂夫·舒尔茨（ Steve Schultz ）站在澳大利亚和夏威夷之间的尼库马罗罗（ Nikumaroro ）环礁岛上的一个蓝色泻湖前面的沙滩上说： “不幸的是，我们找不到那把冒烟的枪。”"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "fe1da706fb4d295f",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base",
+      "url": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
+      "publishedAt": "2026-10-18T23:53:13.000Z",
+      "sentences": [
+        {
+          "en": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base.",
+          "zh": "在加拿大军事基地发生的“暴力、快速”枪击事件中，有四人丧生。"
+        },
+        {
+          "en": "Prime minister Mark Carney describes blaze as ‘one of the worst tragedies for the forces on Canadian soil in peacetime’ Four people have been killed and dozens more seriously injured after a “violent, fast-moving” fire tore through one of Canada’s busiest military training bases in Alberta, the country’s prime minister said on Sunday.",
+          "zh": "加拿大总理马克·卡尼（ Mark Carney ）将大火描述为“和平时期加拿大领土上部队最严重的悲剧之一”。加拿大总理周日表示，在加拿大最繁忙的军事训练基地之一发生“暴力，快速”的火灾后，已有四人丧生，数十人受重伤。"
+        },
+        {
+          "en": "Mark Carney called the incident “one of the worst tragedies for the forces on Canadian soil in peacetime”.",
+          "zh": "马克·卡尼（ Mark Carney ）称这起事件是“和平时期加拿大领土上部队最严重的悲剧之一”。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "96a1d05f6574f4f5",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+      "url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-18T23:20:15.000Z",
+      "sentences": [
+        {
+          "en": "Trump says suspension of Russia sanctions is to keep peace negotiations going.",
+          "zh": "特朗普表示，暂停对俄罗斯的制裁是为了保持和平谈判的进行。"
+        },
+        {
+          "en": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
+          "zh": "美国总统在制裁生效前两天阻止了对俄罗斯的多项制裁。"
+        }
+      ]
+    }
+  ],
+  "failures": []
+}
