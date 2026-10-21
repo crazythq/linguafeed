@@ -1,0 +1,1035 @@
+{
+  "date": "2026-10-20",
+  "collectedAt": "2026-10-21T03:27:46.787Z",
+  "items": [
+    {
+      "id": "9fa73e238996484a",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Swimmer, 65, killed in shark attack off South Africa's east coast",
+      "url": "https://www.bbc.co.uk/news/articles/cqx297pxg1djo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T15:58:57.000Z",
+      "sentences": [
+        {
+          "en": "Swimmer, 65, killed in shark attack off South Africa's east coast.",
+          "zh": "65岁的游泳者在南非东海岸的鲨鱼袭击中丧生。"
+        },
+        {
+          "en": "Janine Lochrenberg, 65, was out on her daily morning swim with her club when she was attacked, her family tell the BBC.",
+          "zh": "她的家人告诉英国广播公司， 65岁的珍妮·洛赫伦贝格（ Janine Lochrenberg ）在遭到袭击时，每天早上都和她的俱乐部一起游泳。"
+        }
+      ]
+    },
+    {
+      "id": "5a0e48440cff5330",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Flavio Bolsonaro’s ‘corrupto’ stunt sparks viral meme before Brazil election runoff",
+      "url": "https://www.theguardian.com/world/2026/oct/20/flavio-bolsonaro-corrupto-viral-meme-brazil-election-runoff",
+      "publishedAt": "2026-10-20T15:41:44.000Z",
+      "sentences": [
+        {
+          "en": "Flavio Bolsonaro’s ‘corrupto’ stunt sparks viral meme before Brazil election runoff.",
+          "zh": "弗拉维奥·博尔索纳罗（ Flavio Bolsonaro ）的“腐败”特技引发了巴西大选决赛前的病毒式迷因。"
+        },
+        {
+          "en": "Far-right presidential candidate’s TV debate swipe at rival backfires as people take to social media to parody it To Flávio Bolsonaro and his publicists, it must have seemed an ingenious idea that would expose his rival’s supposed crookedness on the eve of Brazil’s presidential election.",
+          "zh": "随着人们在社交媒体上模仿，极右翼总统候选人的电视辩论在竞争对手的反弹中大放异彩。对于弗拉维奥·博尔索纳罗（ Flávio Bolsonaro ）和他的公关人员来说，这似乎是一个巧妙的想法，将在巴西总统大选前夕揭露他的竞争对手的所谓歪曲。"
+        },
+        {
+          "en": "But the far-right politician’s decision to attend a primetime television debate against his leftwing opponent, Luiz Inácio Lula da Silva, with the word “corrupto” (corrupt) written on the palm of his hand has backfired.",
+          "zh": "但是，这位极右翼政客决定参加针对左翼对手路易斯·伊纳西奥·卢拉·达席尔瓦（ Luiz Inácio Lula da Silva ）的黄金时段电视辩论，手掌上写着“腐败” （ corrupto ）一词，却适得其反。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "aaace91e46634af6",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Expanding our defenses against financial scam ads",
+      "url": "https://blog.google/products/ads-commerce/financial-services-verification-united-states-canada/",
+      "publishedAt": "2026-10-20T15:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Expanding our defenses against financial scam ads.",
+          "zh": "扩大我们对金融诈骗广告的防御。"
+        },
+        {
+          "en": "We’re introducing new safeguards in early 2027 to help protect people in the U.S. and Canada from financial scams.",
+          "zh": "我们将于2027年初推出新的保障措施，以帮助保护美国和加拿大的人们免受金融诈骗。"
+        }
+      ]
+    },
+    {
+      "id": "5e5f2403446d1e3e",
+      "sourceId": "ms-devblogs",
+      "category": "open-source",
+      "title": "Can a local git remote replace GitHub in your agent eval?",
+      "url": "https://devblogs.microsoft.com/blog/can-a-local-git-remote-replace-github-in-your-agent-eval/",
+      "publishedAt": "2026-10-20T14:53:27.000Z",
+      "sentences": [
+        {
+          "en": "Can a local git remote replace GitHub in your agent eval?.",
+          "zh": "本地git远程是否可以替换代理eval中的GitHub ？。"
+        },
+        {
+          "en": "When an agent eval involves pushing, pulling or keeping a git branch in sync, the fixture needs a remote repository.",
+          "zh": "当代理评估涉及推送、拉动或保持git分支同步时，夹具需要一个远程存储库。"
+        },
+        {
+          "en": "The easiest one to set up is a bare repository next to the fixture.",
+          "zh": "最容易设置的是夹具旁边的裸存储库。"
+        },
+        {
+          "en": "It takes one git init --bare , works offline and resets with the rest of the workspace.",
+          "zh": "它需要一个git init --bare ，离线工作，并与其他工作区一起重置。"
+        },
+        {
+          "en": "A real GitHub repository in comparison, needs a token, an API call to create it and cleanup after every run.",
+          "zh": "相比之下，真正的GitHub存储库需要一个令牌，一个API调用来创建它，并在每次运行后进行清理。"
+        },
+        {
+          "en": "Run scenarios in parallel, and it gets even worse.",
+          "zh": "并行运行场景，情况变得更糟。"
+        },
+        {
+          "en": "Every run needs its own repository with a unique name that still looks like something a developer would create, and every failed teardown leaves one behind.",
+          "zh": "每次运行都需要自己的存储库，具有独特的名称，看起来仍然像开发人员会创建的东西，每次失败的拆卸都会留下一个。"
+        },
+        {
+          "en": "Multiply that by hundreds of runs, and you’re also putting load on GitHub’s services for traffic that serves nobody.",
+          "zh": "乘以数百次运行，您还会为GitHub的服务加载不为任何人服务的流量。"
+        },
+        {
+          "en": "So we wanted to know whether a local remote is a good enough stand-in for the real thing.",
+          "zh": "因此，我们想知道本地遥控器是否足以代替真实的遥控器。"
+        },
+        {
+          "en": "Mostly, it is.",
+          "zh": "大多数情况下，确实如此。"
+        },
+        {
+          "en": "The agent rebased just as well and pushed just as safely against both.",
+          "zh": "特工也重新设定了基地，并安全地对抗两者。"
+        },
+        {
+          "en": "But when the agent had to decide on its own whether to push, the local remote changed the answer.",
+          "zh": "但是，当代理不得不自己决定是否推送时，本地远程更改了答案。"
+        }
+      ]
+    },
+    {
+      "id": "1002978b490b1516",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Kenya cult leader's children still being starved weeks before trial, son says",
+      "url": "https://www.bbc.co.uk/news/articles/c6d7q2rxqxgxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T13:23:32.000Z",
+      "sentences": [
+        {
+          "en": "Kenya cult leader's children still being starved weeks before trial, son says.",
+          "zh": "儿子说，肯尼亚邪教领袖的孩子在审判前几周仍在挨饿。"
+        },
+        {
+          "en": "Dan Mackenzie initially defended his father but now says he felt he had to report his own grandmother.",
+          "zh": "Dan Mackenzie最初为他的父亲辩护，但现在说他觉得他必须举报自己的祖母。"
+        }
+      ]
+    },
+    {
+      "id": "bc34cbec3dd5a0fb",
+      "sourceId": "cloudflare-blog",
+      "category": "open-source",
+      "title": "Introducing tsrs: A port of TypeScript to Rust",
+      "url": "https://blog.cloudflare.com/typescript-rust-port/",
+      "publishedAt": "2026-10-20T13:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Introducing tsrs: A port of TypeScript to Rust.",
+          "zh": "引入tsrs ：将TypeScript移植到Rust。"
+        },
+        {
+          "en": "Cloudflare and VoidZero are now working with Max Schwenk of Owner.com on tsrs , a Rust port of the TypeScript compiler.",
+          "zh": "Cloudflare和VoidZero现在正在与Owner.com的Max Schwenk在tsrs上合作， tsrs是TypeScript编译器的Rust端口。"
+        },
+        {
+          "en": "We are doing this work in close collaboration with the TypeScript team, and incubating tsrs as part of the Oxc JavaScript compiler toolchain .",
+          "zh": "我们正在与TypeScript团队密切合作开展这项工作，并将tsrs作为Oxc JavaScript编译器工具链的一部分进行孵化。"
+        },
+        {
+          "en": "Our goal is to help developers spend less time waiting for their code to be checked and more time building.",
+          "zh": "我们的目标是帮助开发人员花更少的时间等待代码检查，花更多的时间构建代码。"
+        },
+        {
+          "en": "Making TypeScript faster and more memory-efficient also helps bring complete development environments to more places, including right in your browser.",
+          "zh": "使TypeScript更快、更节省内存也有助于将完整的开发环境带到更多地方，包括浏览器中的位置。"
+        },
+        {
+          "en": "To be clear, we are not forking TypeScript.",
+          "zh": "需要明确的是，我们不是在分叉TypeScript。"
+        },
+        {
+          "en": "We believe the TypeScript team should remain in full control of the language’s design and direction.",
+          "zh": "我们认为TypeScript团队应该继续完全控制语言的设计和方向。"
+        },
+        {
+          "en": "They have maintained a long-term vision while guiding TypeScript’s adoption across the JavaScript community.",
+          "zh": "他们一直保持着长期的愿景，同时指导TypeScript在JavaScript社区中的采用。"
+        },
+        {
+          "en": "We do not want to change that.",
+          "zh": "我们试图改变这一现状。"
+        },
+        {
+          "en": "The TypeScript team can move quite fast on many things, but for some features they may spend years intentionally exploring options and making prototypes before picking the right implementation.",
+          "zh": "TypeScript团队可以在许多事情上快速行动，但对于某些功能，他们可能会花费数年时间有意探索选项并制作原型，然后再选择正确的实现。"
+        },
+        {
+          "en": "A Rust port has to follow those decisions closely, or it will eventually fall apart and become incompatible.",
+          "zh": "Rust端口必须密切关注这些决策，否则它最终会崩溃并变得不兼容。"
+        },
+        {
+          "en": "We have to preserve the TypeScript language strictly based on its original implementation – and the TypeScript team should remain solely responsible for deciding what that looks like.",
+          "zh": "我们必须严格基于其原始实现来保留TypeScript语言， TypeScript团队应全权负责确定其外观。"
+        }
+      ]
+    },
+    {
+      "id": "a140491b8307de63",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Giving £2 a day to people in the Amazon helps protect rainforest, pilot project finds",
+      "url": "https://www.theguardian.com/environment/2026/oct/20/unconditional-basic-income-amazon-rainforest-peru-study",
+      "publishedAt": "2026-10-20T12:00:36.000Z",
+      "sentences": [
+        {
+          "en": "Giving £2 a day to people in the Amazon helps protect rainforest, pilot project finds.",
+          "zh": "试点项目发现，每天向亚马逊地区的人们提供2 £有助于保护热带雨林。"
+        },
+        {
+          "en": "Researchers say almost 90% of participants in unconditional basic income scheme in Peru adopted environmentally beneficial practices A pioneering project to provide Indigenous people in the Peruvian Amazon with an unconditional basic income has contributed to the protection of the rainforest, according to a study.",
+          "zh": "研究人员表示，秘鲁无条件基本收入计划的近90 ％的参与者采用了有利环境的做法。一项研究表明，为秘鲁亚马逊地区的原住民提供无条件基本收入的开创性项目有助于保护热带雨林。"
+        },
+        {
+          "en": "The analysis from the University of Bath is expected to contribute to a growing debate about the role of direct payments to communities that maintain globally important ecosystems.",
+          "zh": "巴斯大学的分析预计将有助于对直接支付给维持全球重要生态系统的社区的作用进行越来越多的辩论。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "f996055e34d8823f",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Yemen war continues to force families from homes amid hunger and disease",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168629",
+      "publishedAt": "2026-10-20T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Yemen war continues to force families from homes amid hunger and disease.",
+          "zh": "也门战争继续迫使家庭在饥饿和疾病中离开家园。"
+        },
+        {
+          "en": "More than 250,000 people have now fled renewed fighting in Yemen, the UN said on Tuesday, citing particular concern for those sheltering in the southwestern city of Taiz and the wider governorate, where access is “essentially blocked”.",
+          "zh": "联合国周二表示，现在已有超过25万人逃离也门重新爆发的战斗，理由是特别关注那些在西南部城市塔伊兹和更广泛的省份避难的人，那里的通道“基本上被封锁”。"
+        }
+      ]
+    },
+    {
+      "id": "868330fb5096ebfb",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "‘One step away from famine’: Inside Afghanistan’s hunger crisis",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168631",
+      "publishedAt": "2026-10-20T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "‘One step away from famine’: Inside Afghanistan’s hunger crisis.",
+          "zh": "“离饥荒只有一步之遥” ：阿富汗饥荒危机的内幕。"
+        },
+        {
+          "en": "Following extreme hunger warnings, a bitter reality is unfolding across Afghanistan: food is available, but remains inaccessible for millions of people.",
+          "zh": "在极端饥饿警告发出后，阿富汗各地正在出现一个严峻的现实：粮食是可用的，但数百万人仍然无法获得。"
+        }
+      ]
+    },
+    {
+      "id": "7caff10bd8da4c8f",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Bangladesh: UNICEF chief calls for an end to child marriage",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168632",
+      "publishedAt": "2026-10-20T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Bangladesh: UNICEF chief calls for an end to child marriage.",
+          "zh": "孟加拉国：联合国儿童基金会负责人呼吁结束童婚。"
+        },
+        {
+          "en": "At 14, Bushra faced being married off – until community leaders at a UNICEF-supported child protection hub worked with her father to prevent her from being given away against her will.",
+          "zh": "14岁时，布什拉面临离婚--直到联合国儿童基金会支持的儿童保护中心的社区领袖与她的父亲合作，防止她被违背自己的意愿送人。"
+        }
+      ]
+    },
+    {
+      "id": "6a68530ab0a32923",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "As Sudan war spills into Central African Republic, UN warns against early peacekeeper exit",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168630",
+      "publishedAt": "2026-10-20T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "As Sudan war spills into Central African Republic, UN warns against early peacekeeper exit.",
+          "zh": "随着苏丹战争蔓延到中非共和国，联合国警告不要提前撤出维和部队。"
+        },
+        {
+          "en": "The UN warned on Tuesday against a premature withdrawal of its peacekeepers as the war in Sudan spills over into the Central African Republic (CAR).",
+          "zh": "随着苏丹战争蔓延到中非共和国，联合国周二警告不要过早撤出维和部队。"
+        }
+      ]
+    },
+    {
+      "id": "e38cfae91ab677b7",
+      "sourceId": "un-news",
+      "category": "ai",
+      "title": "AI on track to ‘crowd out’ human decision-making in warfare",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168636",
+      "publishedAt": "2026-10-20T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "AI on track to ‘crowd out’ human decision-making in warfare.",
+          "zh": "人工智能有望在战争中“排挤”人类决策。"
+        },
+        {
+          "en": "Artificial intelligence is already being widely used on the battlefield, and the role of human judgment in military operations is shrinking rapidly, the head of the UN’s independent disarmament research institute warned on Tuesday.",
+          "zh": "联合国独立裁军研究所所长周二警告说，人工智能已经在战场上广泛使用，人类判断在军事行动中的作用正在迅速缩小。"
+        }
+      ]
+    },
+    {
+      "id": "034011bc826887d5",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T11:45:49.000Z",
+      "sentences": [
+        {
+          "en": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?.",
+          "zh": "朝鲜发布金正恩的照片--为什么有关金正恩去世的谣言不断传来？"
+        },
+        {
+          "en": "North Korean state media has published photos of the dictator with his daughter after the unsubstantiated rumour spread.",
+          "zh": "在未经证实的谣言传播之后，朝鲜官方媒体发布了这位独裁者和他女儿的照片。"
+        }
+      ]
+    },
+    {
+      "id": "1245b6feb5631d67",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Man charged with attack on Australia MP to face court",
+      "url": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T11:25:35.000Z",
+      "sentences": [
+        {
+          "en": "Man charged with attack on Australia MP to face court.",
+          "zh": "男子被控袭击澳大利亚国会议员出庭受审。"
+        },
+        {
+          "en": "Brendan Nugent's family say they have known Helen Haines, who remains in a critical condition, for more than 20 years.",
+          "zh": "布伦丹·纽金特（ Brendan Nugent ）的家人说，他们认识海伦·海恩斯（ Helen Haines ）已有20多年了，她仍然处于危急状态。"
+        }
+      ]
+    },
+    {
+      "id": "9d03a78c99d3dcd2",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "DOJ charges 28 with voting crimes. And, TikTok ignored staff's child safety concerns",
+      "url": "https://www.npr.org/2026/10/20/g-s1-148877/up-first-newsletter-california-elections-doj-midterms-trump-tiktok",
+      "publishedAt": "2026-10-20T11:04:49.000Z",
+      "sentences": [
+        {
+          "en": "DOJ charges 28 with voting crimes.",
+          "zh": "司法部指控28人犯有投票罪。"
+        },
+        {
+          "en": "And, TikTok ignored staff's child safety concerns.",
+          "zh": "而且， TikTok忽视了员工对儿童安全的担忧。"
+        },
+        {
+          "en": "The Justice Department has charged 28 people in California with voting crimes as Election Day nears.",
+          "zh": "随着选举日临近，司法部已指控加利福尼亚州28人投票犯罪。"
+        },
+        {
+          "en": "And, TikTok staff raised child safety concerns with executives, who failed to act, court records show.",
+          "zh": "法庭记录显示， TikTok员工向未能采取行动的高管提出了儿童安全问题。"
+        },
+        {
+          "en": "(Image credit: Imen Ben Youssef / Hans Lucas)",
+          "zh": "（图片来源： Imen Ben Youssef/Hans Lucas ）"
+        }
+      ]
+    },
+    {
+      "id": "93590db6a53c7325",
+      "sourceId": "npr-news",
+      "category": "ai",
+      "title": "What if an AI bubble bursts — and that accelerates AI job losses?",
+      "url": "https://www.npr.org/sections/planet-money/2026/10/20/g-s1-148305/what-if-an-ai-bubble-bursts-and-that-accelerates-ai-job-losses",
+      "publishedAt": "2026-10-20T10:30:00.000Z",
+      "sentences": [
+        {
+          "en": "What if an AI bubble bursts — and that accelerates AI job losses?.",
+          "zh": "如果人工智能泡沫破裂了，这会加速人工智能工作岗位的流失，该怎么办？"
+        },
+        {
+          "en": "Research on past recessions suggests downturns can accelerate automation.",
+          "zh": "对过去经济衰退的研究表明，经济衰退可以加速自动化。"
+        },
+        {
+          "en": "That raises the specter of a double whammy for workers.",
+          "zh": "这引发了工人遭受双重打击的幽灵。"
+        }
+      ]
+    },
+    {
+      "id": "8d48becbd026e2ae",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Billionaire Mukesh Ambani launches India’s biggest-ever IPO",
+      "url": "https://www.theguardian.com/business/2026/oct/20/mukesh-ambani-jio-platforms-ipo-india-stock-market",
+      "publishedAt": "2026-10-20T09:53:27.000Z",
+      "sentences": [
+        {
+          "en": "Billionaire Mukesh Ambani launches India’s biggest-ever IPO.",
+          "zh": "亿万富翁Mukesh Ambani发起印度有史以来规模最大的首次公开募股。"
+        },
+        {
+          "en": "Low-cost broadband provider Jio Platforms aims for £81bn valuation when it floats on the stock market on Wednesday India’s second-richest man, Mukesh Ambani, is launching what could be the country’s biggest-ever initial public offering (IPO), despite a stock market downturn.",
+          "zh": "低成本宽带提供商Jio Platforms的目标是在周三在股市上市时估值810亿英镑。尽管股市下跌，但印度第二大富豪Mukesh Ambani正在推出该国有史以来最大的首次公开募股（ IPO ）。"
+        },
+        {
+          "en": "Mumbai-based Jio Platforms, a telecoms company backed by Meta Platforms and Google, is hoping to raise up to 302bn rupees (£2.4bn) and is targeting a 10.3tn rupees valuation when it floats on the stock market from Wednesday.",
+          "zh": "总部位于孟买的Jio Platforms是一家由Meta Platforms和谷歌支持的电信公司，希望筹集高达3020亿卢比（ 24亿英镑）的资金，并计划从周三开始在股市上市时达到10.3万亿卢比的估值。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "720b42ad4da2fa01",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "TikTok staff raised child safety alarms. Court records show executives failed to act",
+      "url": "https://www.npr.org/2026/10/20/nx-s1-6005809/tiktok-child-safety-money-laundering",
+      "publishedAt": "2026-10-20T09:00:00.000Z",
+      "sentences": [
+        {
+          "en": "TikTok staff raised child safety alarms.",
+          "zh": "TikTok工作人员发出儿童安全警报。"
+        },
+        {
+          "en": "Court records show executives failed to act.",
+          "zh": "法庭记录显示，高管未能采取行动。"
+        },
+        {
+          "en": "The warnings surfaced in a trove of unreported court records.",
+          "zh": "这些警告在一堆未报告的法庭记录中浮出水面。"
+        },
+        {
+          "en": "\"I have been fighting about fixing this for months with people who didn't think the harms are severe enough,\" wrote one executive.",
+          "zh": "“几个月来，我一直在与那些认为危害不够严重的人争论解决这个问题，”一位高管写道。"
+        },
+        {
+          "en": "(Image credit: Imen Ben Youssef)",
+          "zh": "（图片来源： Imen Ben Youssef ）"
+        }
+      ]
+    },
+    {
+      "id": "709e10b1697c275c",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Can the new federal voucher program help public schools? Democrats are torn",
+      "url": "https://www.npr.org/2026/10/20/nx-s1-5979065/public-school-private-school-federal-voucher-scholarship-democrats",
+      "publishedAt": "2026-10-20T09:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Can the new federal voucher program help public schools?",
+          "zh": "新的联邦代用券计划能否帮助公立学校？"
+        },
+        {
+          "en": "Democrats are torn.",
+          "zh": "民主党人四分五裂。"
+        },
+        {
+          "en": "The new scholarship tax credit program could help public school families pay for some educational services, but advocates worry it could do more harm than good.",
+          "zh": "新的奖学金税收抵免计划可以帮助公立学校家庭支付一些教育服务，但倡导者担心它可能弊大于利。"
+        }
+      ]
+    },
+    {
+      "id": "d3c64c35277245ab",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
+      "url": "https://www.npr.org/2026/10/20/nx-s1-5989636/grocery-prices-eggs-coffee-inflation",
+      "publishedAt": "2026-10-20T09:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Why these 5 everyday items fluctuate in price at the grocery store.",
+          "zh": "为什么这5种日常用品在生鲜杂货店的价格波动。"
+        },
+        {
+          "en": "Here's what's behind the fluctuating costs of everyday grocery items such as ground beef, eggs and chocolate chip cookies.",
+          "zh": "以下是日常生活用品（如碎牛肉、鸡蛋和巧克力饼干）价格波动的原因。"
+        }
+      ]
+    },
+    {
+      "id": "71d7da6274f6fe02",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Morning news brief",
+      "url": "https://www.npr.org/2026/10/20/nx-s1-6003501/morning-news-brief",
+      "publishedAt": "2026-10-20T08:50:27.000Z",
+      "sentences": [
+        {
+          "en": "Morning news brief.",
+          "zh": "晨间新闻简报。"
+        },
+        {
+          "en": "Trump presses to find an end to the war in Ukraine while courting Russia, campaigning reaches fever pitch with Election Day two weeks away, DOJ charges 28 people in California with voting crimes.",
+          "zh": "特朗普在追求俄罗斯的同时敦促结束乌克兰战争，竞选活动在两周后的选举日达到高潮，司法部在加利福尼亚州指控28人投票犯罪。"
+        }
+      ]
+    },
+    {
+      "id": "a0c9fe64f5c5463c",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "She was harassed for crude remarks about Modi at a Cockroach protest. Now she can’t leave home",
+      "url": "https://www.theguardian.com/world/2026/oct/19/this-is-india-student-protests-abuse-modi-cockroach-protests",
+      "publishedAt": "2026-10-20T06:30:18.000Z",
+      "sentences": [
+        {
+          "en": "She was harassed for crude remarks about Modi at a Cockroach protest.",
+          "zh": "她因在蟑螂抗议活动中对莫迪的粗鲁言论而受到骚扰。"
+        },
+        {
+          "en": "Now she can’t leave home.",
+          "zh": "现在她不能出门了。"
+        },
+        {
+          "en": "​After a protest clip went viral, a teenager’s life was torn apart by threats that sent her and her family into hiding.",
+          "zh": "​在一段抗议视频传播开来后，一名青少年的生活被威胁撕裂，迫使她和她的家人躲藏起来。"
+        },
+        {
+          "en": "Plus, a book on citizen journalism • Don’t get This is India delivered to your inbox?",
+          "zh": "此外，还有一本关于公民新闻的书•《This is India》没有发送到您的收件箱？"
+        },
+        {
+          "en": "Sign up here Before 24 July, a person I will call R was preoccupied with the ordinary routines of teenage life: experimenting with makeup, grumbling over mathematics homework and hanging out with friends at a tea stall.",
+          "zh": "在7月24日之前，我称之为R的一个人全神贯注于青少年生活的日常生活：尝试化妆，抱怨数学作业，和朋友一起在茶摊上闲逛。"
+        },
+        {
+          "en": "That month, as the fever of student protests spread across the country, the 15-year-old watched on her phone as young people poured into Jantar Mantar, the designated protest site in Delhi, demanding education reform.",
+          "zh": "那个月，随着学生抗议活动在全国蔓延，这位15岁的年轻人在手机上看着年轻人涌入德里指定的抗议地点Jantar Mantar ，要求进行教育改革。"
+        },
+        {
+          "en": "She went too.",
+          "zh": "她也去了。"
+        },
+        {
+          "en": "But an 11-second video clip from the protest site, in which she made crude and profane remarks about the prime minister, Narendra Modi, upended her life.",
+          "zh": "但是，抗议现场的11秒视频剪辑，其中她对总理纳伦德拉·莫迪（ Narendra Modi ）发表了粗鲁和亵渎的言论，颠覆了她的生活。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "5f4ec105e6c165de",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Rays will face Brewers in World Series to produce a first-time champion",
+      "url": "https://www.npr.org/2026/10/20/nx-s1-6008836/rays-brewers-world-series",
+      "publishedAt": "2026-10-20T06:28:10.000Z",
+      "sentences": [
+        {
+          "en": "Rays will face Brewers in World Series to produce a first-time champion.",
+          "zh": "Rays将在世界系列赛中面对Brewers ，以产生首次冠军。"
+        },
+        {
+          "en": "The Rays will face the NL champion Milwaukee Brewers in the first matchup in which both teams are seeking their first World Series title since 1980.",
+          "zh": "射线队将在第一场比赛中面对NL冠军密尔沃基酿酒人队，两支球队都在寻求自1980年以来的第一个世界大赛冠军。"
+        },
+        {
+          "en": "(Image credit: David J.",
+          "zh": "（图片来源： David J."
+        },
+        {
+          "en": "Phillip)",
+          "zh": "Phillip"
+        }
+      ]
+    },
+    {
+      "id": "a5adb4e1f5c543fc",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Tourist found guilty after stealing Las Vegas flamingo from enclosure",
+      "url": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T03:10:39.000Z",
+      "sentences": [
+        {
+          "en": "Tourist found guilty after stealing Las Vegas flamingo from enclosure.",
+          "zh": "游客在从围栏中偷走拉斯维加斯火烈鸟后被判有罪。"
+        },
+        {
+          "en": "The man testified that he snatched Peachy from its enclosure at the Flamingo hotel and casino after drinking 30 to 40 beers, but did not mean any harm.",
+          "zh": "这名男子作证说，他在喝了30到40瓶啤酒后，从火烈鸟酒店和赌场的围栏里抢走了Peachy ，但没有任何伤害。"
+        }
+      ]
+    },
+    {
+      "id": "d553e1b9af4185c5",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Seventh day of violent clashes between Albanian protesters and police",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T02:45:05.000Z",
+      "sentences": [
+        {
+          "en": "Seventh day of violent clashes between Albanian protesters and police.",
+          "zh": "阿尔巴尼亚抗议者和警察之间暴力冲突的第七天。"
+        },
+        {
+          "en": "Almost 300 people have been injured, more than half of them police, as violent anti-government demonstrations show no sign of easing.",
+          "zh": "近300人受伤，其中一半以上是警察，因为暴力反政府示威活动没有缓解的迹象。"
+        }
+      ]
+    },
+    {
+      "id": "8efa433127974306",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "US grants deportation reprieve to migrants from Ukraine and Sudan",
+      "url": "https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan",
+      "publishedAt": "2026-10-19T22:34:43.000Z",
+      "sentences": [
+        {
+          "en": "US grants deportation reprieve to migrants from Ukraine and Sudan.",
+          "zh": "美国对来自乌克兰和苏丹的移民给予驱逐出境缓刑。"
+        },
+        {
+          "en": "DHS says migrants ‘retain protections’ after temporary protected status was set to expire on Monday Send us your questions about immigration and the midterms More than 100,000 people from Ukraine and Sudan can stay in the United States without immediate risk of deportation, the Department of Homeland Security said, in what amounts to a temporary reprieve after their right to stay in the country was set to expire on Monday.",
+          "zh": "国土安全部表示，移民在临时保护身份定于周一到期后“保留保护”向我们发送您关于移民和中期的问题国土安全部表示，来自乌克兰和苏丹的10万多人可以留在美国，没有立即被驱逐的风险，这相当于他们在该国的逗留权定于周一到期后的临时缓刑。"
+        },
+        {
+          "en": "Temporary protected status was set to end on Monday for about 101,000 Ukrainians and 1,800 Sudanese.",
+          "zh": "约101,000名乌克兰人和1,800名苏丹人的临时保护身份将于周一结束。"
+        },
+        {
+          "en": "But the DHS said an announcement “will be made at the appropriate time”.",
+          "zh": "但国土安全部表示， “将在适当的时候宣布”。"
+        },
+        {
+          "en": "Until then, the department said in a written statement, Ukrainians and Sudanese in the US covered by those temporary measures “retain protection”.",
+          "zh": "在此之前，该部门在一份书面声明中表示，这些临时措施涵盖在美国的乌克兰人和苏丹人“保留保护”。"
+        },
+        {
+          "en": "The department did not indicate how long they could stay or when a final announcement would be made on their status.",
+          "zh": "该部门没有说明他们可以停留多长时间，也没有说明何时会对他们的身份做出最终宣布。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "92b35826394962f9",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
+      "url": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-19T21:02:33.000Z",
+      "sentences": [
+        {
+          "en": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation.",
+          "zh": "网球明星斯维托利纳（ Svitolina ）表示，乌克兰战争的情绪损失导致蒙菲尔斯（ Monfils ）分"
+        },
+        {
+          "en": "The two top tennis pros married in 2021 and have one child together.",
+          "zh": "两位顶级网球职业选手于2021年结婚，育有一子。"
+        }
+      ]
+    },
+    {
+      "id": "92f044b92b6a9da8",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Partnering to strengthen the grid and support local communities in Arkansas",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/arkansas-partnerships/",
+      "publishedAt": "2026-10-19T20:15:00.000Z",
+      "sentences": [
+        {
+          "en": "Partnering to strengthen the grid and support local communities in Arkansas.",
+          "zh": "合作加强阿肯色州的电网并支持当地社区。"
+        },
+        {
+          "en": "Since we first announced plans to build in West Memphis, Arkansas, we’ve continued to work with community members.",
+          "zh": "自从我们首次宣布计划在阿肯色州西孟菲斯建造以来，我们一直与社区成员合作。"
+        }
+      ]
+    },
+    {
+      "id": "e76126b0ebbf01e0",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Mission blasts off for Mars to grab a piece of its moon",
+      "url": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-19T19:45:46.000Z",
+      "sentences": [
+        {
+          "en": "Mission blasts off for Mars to grab a piece of its moon.",
+          "zh": "任务向火星发射，以抓住它的一块月亮。"
+        },
+        {
+          "en": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
+          "zh": "一艘宇宙飞船即将发射，执行一项雄心勃勃的任务，将10克火星月球尘埃带回地球。"
+        }
+      ]
+    },
+    {
+      "id": "68e2ee5d21f7dc1b",
+      "sourceId": "cloudflare-blog",
+      "category": "security",
+      "title": "Cutting our inference bill by 68% by being obsessive about optimization",
+      "url": "https://blog.cloudflare.com/obsessive-inference-optimization/",
+      "publishedAt": "2026-10-19T19:12:53.000Z",
+      "sentences": [
+        {
+          "en": "Cutting our inference bill by 68% by being obsessive about optimization.",
+          "zh": "通过痴迷于优化，将我们的推理账单减少了68%。"
+        },
+        {
+          "en": "When we previously blogged about our AI code reviewer in April , an average review cost a palatable $1.19.",
+          "zh": "当我们之前在4月份发布关于我们的人工智能代码审核器的博客时，平均审核成本为1.19 $。"
+        },
+        {
+          "en": "By the end of August, that figure had shot up to about $2.46.",
+          "zh": "截至8月底，这一数字已飙升至约2.46 $。"
+        },
+        {
+          "en": "We hadn&#x27;t made any significant architectural changes: the coordinator was still handing work to the same set of specialist reviewers, and the same risk tiers decided how intensive of a review we gave.",
+          "zh": "我们没有进行任何重大的架构更改：协调员仍在将工作交给相同的专业审核员，相同的风险等级决定了我们进行审核的密集程度。"
+        },
+        {
+          "en": "Around mid-September we tasked our agents with working out where those tokens were going and cutting them — aggressively.",
+          "zh": null
+        },
+        {
+          "en": "With code quality at high effort, the average review now costs just $0.77, down 68% from the $2.43 it averaged over our two most expensive weeks before we started.",
+          "zh": null
+        },
+        {
+          "en": "Our main goal was to cut costs, but as part of this work we also managed to optimize the reviewer, so that the median review now takes just 1m 32s instead of the 4m 09s it took before.",
+          "zh": null
+        },
+        {
+          "en": "About 40% of the savings came from changes and optimizations to the reviewer&#x27;s code, and the rest from experimenting with which models we use and how much effort they put in.",
+          "zh": null
+        },
+        {
+          "en": "How a review doubled in cost The chart below shows the cost of an average review on each weekday since March.",
+          "zh": null
+        },
+        {
+          "en": "It holds the mix of review tiers fixed, so a day with more large reviews doesn&#x27;t skew the data.",
+          "zh": null
+        },
+        {
+          "en": "The cost per review steadily rose from $1.22 (March) → $1.44 (June) → $1.74 (July) and finally, to $2.32 (August).",
+          "zh": null
+        },
+        {
+          "en": "A small part of that is that more reviews landed in the most expensive tier (59% of reviews in March and then 65% in August).",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "5e09805dda87945d",
+      "sourceId": "github-blog",
+      "category": "open-source",
+      "title": "How to continue a GitHub Copilot app session in VS Code",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
+      "publishedAt": "2026-10-19T18:47:22.000Z",
+      "sentences": [
+        {
+          "en": "How to continue a GitHub Copilot app session in VS Code.",
+          "zh": "如何在VS Code中继续GitHub Copilot应用会话。"
+        },
+        {
+          "en": "The agent has finished the bulk of your change.",
+          "zh": "客服代表已完成您的大部分更改。"
+        },
+        {
+          "en": "Now you want to inspect one implementation detail, adjust a few lines by hand, and run the project locally before you ship it.",
+          "zh": "现在，您要检查一个实现细节，手动调整几行，并在发货前在本地运行项目。"
+        },
+        {
+          "en": "But the work is sitting in the GitHub Copilot app and your editor is where you review diffs, debug code, and make final adjustments.",
+          "zh": "但工作正在GitHub Copilot应用程序中进行，您可以在编辑器中查看差异、调试代码并进行最终调整。"
+        },
+        {
+          "en": "Do you have to choose between staying in the session and starting over in Visual Studio Code?",
+          "zh": "是否必须在保留会话和从Visual Studio Code中重新开始之间进行选择？"
+        },
+        {
+          "en": "You don t.",
+          "zh": "你不会。"
+        },
+        {
+          "en": "You can open the Copilot app session directly in VS Code and continue with its conversation, code changes, and working context intact.",
+          "zh": "您可以直接在VS Code中打开Copilot应用会话，并继续其对话、代码更改和工作上下文。"
+        },
+        {
+          "en": "That means Copilot can handle the repetitive or time-consuming work, then hand control back to you for closer review, hands-on editing, and local testing.",
+          "zh": "这意味着Copilot可以处理重复或耗时的工作，然后将控制权交还给您，以便进行更仔细的审核、动手编辑和本地测试。"
+        },
+        {
+          "en": "In this tutorial, you ll learn how to: Open a Copilot app session in VS Code.",
+          "zh": "在本教程中，您将学习如何：在VS Code中打开Copilot应用会话。"
+        },
+        {
+          "en": "Review the agent s changes line by line.",
+          "zh": "逐行查看座席的更改。"
+        },
+        {
+          "en": "Continue the same conversation from your editor.",
+          "zh": "继续编辑器中的相同对话。"
+        },
+        {
+          "en": "Modify and test the code locally.",
+          "zh": "在本地修改和测试代码。"
+        }
+      ]
+    },
+    {
+      "id": "646d538912841f36",
+      "sourceId": "guardian-world",
+      "category": "business",
+      "title": "Israeli police detain 10 people in rare raid against West Bank settlers",
+      "url": "https://www.theguardian.com/world/2026/oct/19/israeli-police-detain-10-people-in-rare-raid-against-west-bank-settlers",
+      "publishedAt": "2026-10-19T18:05:14.000Z",
+      "sentences": [
+        {
+          "en": "Israeli police detain 10 people in rare raid against West Bank settlers.",
+          "zh": "以色列警方在针对约旦河西岸定居者的罕见突袭中拘留了10人。"
+        },
+        {
+          "en": "Move comes after US photojournalist and group of European diplomats and Palestinians were assaulted in separate attacks Israeli police have detained 10 people in a rare raid against settlers, after a weekend of extreme violence in the occupied West Bank including an attack on US photojournalist Heidi Levine , which she described as an “attempted lynching”.",
+          "zh": "此前，美国摄影记者、一群欧洲外交官和巴勒斯坦人在单独的袭击中遭到袭击，以色列警方在被占领的约旦河西岸发生周末极端暴力事件（包括袭击美国摄影记者海蒂·莱文，她称之为“企图私刑” ）后，罕见地对定居者进行了突袭，拘留了10人。"
+        },
+        {
+          "en": "She was knocked down, kicked and beaten by a group of masked Israeli men as she covered the olive harvest in a Palestinian village on Friday.",
+          "zh": "周五，她在一个巴勒斯坦村庄的橄榄收获现场被一群戴着面具的以色列男子击倒、踢打和殴打。"
+        },
+        {
+          "en": "The militants broke four vertebrae and a rib, ripped open her finger so it required surgery and left her with lacerations across her body.",
+          "zh": "武装分子打破了四根椎骨和一根肋骨，撕开了她的手指，因此需要手术，并在她的身体上留下了撕裂伤。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "40634a33b7feb1d3",
+      "sourceId": "cloudflare-blog",
+      "category": "security",
+      "title": "Introducing Clairic, a new System One class of extraction models",
+      "url": "https://blog.cloudflare.com/clairic-extraction-model/",
+      "publishedAt": "2026-10-19T17:48:26.000Z",
+      "sentences": [
+        {
+          "en": "Introducing Clairic, a new System One class of extraction models.",
+          "zh": null
+        },
+        {
+          "en": "Today, we&#x27;re announcing a preview of a new class of System One-style models: extraction models.",
+          "zh": null
+        },
+        {
+          "en": "Our first one, Clairic, is available hosted on Workers AI as @cf/cloudflare/clairic.",
+          "zh": null
+        },
+        {
+          "en": "We intend to release the model open-weights soon.",
+          "zh": null
+        },
+        {
+          "en": "Clairic is an extraction model that is able to extract, compute, estimate, and forecast values from unstructured inputs — all at a significantly higher accuracy, faster latency, and cheaper cost than traditional LLMs.",
+          "zh": null
+        },
+        {
+          "en": "Context When System One models were announced by TypeSafe a month ago, it took the industry by storm.",
+          "zh": null
+        },
+        {
+          "en": "As referenced by TypeSafe in their blog and defined by Daniel Kahneman’s book Thinking, Fast and Slow , a System One model should be fast and precise, which contrasts a System Two model that is capable of deliberate reasoning (like LLMs).",
+          "zh": null
+        },
+        {
+          "en": "With this, TypeSafe introduced Jev — a model that is purpose-fit for a specific use case, and priced accessibly given its niche domain.",
+          "zh": null
+        },
+        {
+          "en": "It excelled where LLMs failed, helping users make decisions based on probabilities and well-typed outputs.",
+          "zh": null
+        },
+        {
+          "en": "The introduction of Jev prompted people to start thinking about a new class of models that were not LLMs and how to integrate them into their workflows.",
+          "zh": null
+        },
+        {
+          "en": "We were inspired by the concept of System One models and started thinking about other tasks where LLMs are inefficient.",
+          "zh": null
+        },
+        {
+          "en": "There are many structured-output calls going to frontier LLMs today with the same shapes again and again: What&#x27;s the invoice total?",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "bfc0fa7a8d693ff5",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Houthi attack kills 53 in biggest single loss of life since Yemen civil war reignited",
+      "url": "https://www.theguardian.com/world/2026/oct/19/houthi-attack-yemen-al-alam-camp-biggest-single-loss-of-life-civil-war",
+      "publishedAt": "2026-10-19T17:15:23.000Z",
+      "sentences": [
+        {
+          "en": "Houthi attack kills 53 in biggest single loss of life since Yemen civil war reignited.",
+          "zh": "自也门内战重新爆发以来，胡塞武装袭击造成53人死亡，伤亡人数最多。"
+        },
+        {
+          "en": "More than 200 mostly young people said to be injured after ballistic missile attack on training camp for government forces At least 53 people have been killed in a Houthi ballistic missile attack on a training camp for Yemeni government security forces, making it the largest single loss of life since the country’s civil war reignited in September.",
+          "zh": "200多名据称在政府军训练营遭到弹道导弹袭击后受伤的年轻人至少有53人在胡塞武装对也门政府安全部队训练营的弹道导弹袭击中丧生，使其成为自9月份该国内战重新点燃以来最大的一次生命损失。"
+        },
+        {
+          "en": "The attack on al-Alam camp in the southern Shabwa province was said to have injured more than 200 others, mostly young recruits, and was described as a disaster by the country’s UN-recognised government.",
+          "zh": "据称，对Shabwa省南部al-Alam营地的袭击造成200多人受伤，其中大多数是年轻的新兵，被该国联合国承认的政府描述为一场灾难。"
+        },
+        {
+          "en": "The injured were taken from the police and army training camp in the Jardan district to a hospital in the local capital, Ataq, where pleas for blood donations were made.",
+          "zh": "受伤人员被从Jardan区的警察和军队训练营带到当地首都Ataq的一家医院，在那里提出了献血请求。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "52617e21810898c1",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "How to shape your slides and videos with Gemini Notebook",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos/",
+      "publishedAt": "2026-10-19T17:00:00.000Z",
+      "sentences": [
+        {
+          "en": "How to shape your slides and videos with Gemini Notebook.",
+          "zh": "如何使用Gemini笔记本塑造幻灯片和视频。"
+        },
+        {
+          "en": "Gemini Notebook is giving more creative control in the creation of Slide Decks and Video Overviews.",
+          "zh": "Gemini Notebook在创建幻灯片和视频概述方面提供了更多创意控制。"
+        }
+      ]
+    },
+    {
+      "id": "09f8398b85efcf6f",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
+      "url": "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children",
+      "publishedAt": "2026-10-19T16:08:14.000Z",
+      "sentences": [
+        {
+          "en": "Kenyan starvation cult leader guilty of murder of 190 children and one adult.",
+          "zh": "肯尼亚饥饿邪教领袖犯有谋杀190名儿童和一名成人的罪行。"
+        },
+        {
+          "en": "Paul Mackenzie and his church set up sect that ordered followers to starve themselves and their children, say prosecutors A Kenyan court has found the starvation cult leader Paul Mackenzie and about 30 others guilty of murder over the deaths of ⁠190 children and one adult in one of the world’s worst cult-related disasters in recent history.",
+          "zh": "检察官说，保罗·麦肯齐（ Paul Mackenzie ）和他的教会建立了一个教派，命令追随者让自己和他们的孩子挨饿。肯尼亚一家法院裁定，饥饿邪教领袖保罗·麦肯齐（ Paul Mackenzie ）和其他约30人犯有谋杀罪，他们杀害了190名儿童和一名成年人，这是近代历史上世界上最严重的邪教相关灾难之一。"
+        },
+        {
+          "en": "Mackenzie was arrested in 2023 after police received a tipoff, and weeks later authorities began uncovering bodies in shallow graves in the Shakahola forest near the coast ⁠in south-eastern Kenya.",
+          "zh": "Mackenzie于2023年在警方收到警报后被捕，几周后，当局开始在肯尼亚东南部海岸附近的Shakahola森林的浅坟中发现尸体。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "6bcd2a5d60e7816c",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "See the top style searches from people in big fashion capitals.",
+      "url": "https://blog.google/products-and-platforms/products/search/fashion-capital-style-searches/",
+      "publishedAt": "2026-10-19T16:00:00.000Z",
+      "sentences": [
+        {
+          "en": "See the top style searches from people in big fashion capitals.",
+          "zh": "查看来自大型时尚之都的热门时尚搜索。"
+        },
+        {
+          "en": "We took a look at Google Trends to see what people in seven major fashion capitals are searching for to give them that je ne sais quoi when it comes to their sartorial s…",
+          "zh": "我们查看了Google趋势，看看七个主要时尚之都的人们正在寻找什么，以便在他们的裁缝服装方面为他们提供最佳选择……"
+        }
+      ]
+    },
+    {
+      "id": "49ec90948533c3b6",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "4 tips for styling outfits with Gemini",
+      "url": "https://blog.google/products-and-platforms/products/gemini/stylist-outfit-tips-gemini/",
+      "publishedAt": "2026-10-19T16:00:00.000Z",
+      "sentences": [
+        {
+          "en": "4 tips for styling outfits with Gemini.",
+          "zh": "使用Gemini打造服装的4个技巧。"
+        },
+        {
+          "en": "Here’s how athlete stylist Sydney Bordonaro uses Gemini to build looks for clients — and how you can build your own, too.",
+          "zh": "以下是运动员造型师Sydney Bordonaro如何利用Gemini打造客户造型，以及如何打造自己的造型。"
+        }
+      ]
+    }
+  ],
+  "failures": []
+}
