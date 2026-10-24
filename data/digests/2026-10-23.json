@@ -1,0 +1,763 @@
+{
+  "date": "2026-10-23",
+  "collectedAt": "2026-10-24T03:26:22.907Z",
+  "items": [
+    {
+      "id": "e2a20110fb044eb9",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Watch: CCTV footage shows gunmen near church in Jordan",
+      "url": "https://www.bbc.co.uk/news/videos/c39wz712q0kzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-23T15:59:36.000Z",
+      "sentences": [
+        {
+          "en": "Watch: CCTV footage shows gunmen near church in Jordan.",
+          "zh": "观看：闭路电视录像显示约旦教堂附近有枪手。"
+        },
+        {
+          "en": "Dozens of people had been inside the church for a funeral when the shooting began, local media report.",
+          "zh": "据当地媒体报道，枪击事件开始时，有数十人在教堂内参加葬礼。"
+        }
+      ]
+    },
+    {
+      "id": "6b36c0e7b8d21f48",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Ex-FBI employees charged with lying to Congress over Hunter Biden inquiries",
+      "url": "https://www.npr.org/2026/10/23/g-s1-149534/justice-fbi-charged-hunter-biden-laptop",
+      "publishedAt": "2026-10-23T15:51:04.000Z",
+      "sentences": [
+        {
+          "en": "Ex-FBI employees charged with lying to Congress over Hunter Biden inquiries.",
+          "zh": "前联邦调查局雇员被指控在亨特·拜登的调查中向国会撒谎。"
+        },
+        {
+          "en": "Republicans have long accused the FBI of mishandling the laptop and the investigations into the younger Biden.",
+          "zh": "共和党人长期以来一直指责联邦调查局对笔记本电脑处理不当，并对年轻的拜登进行了调查。"
+        },
+        {
+          "en": "(Image credit: Anna Moneymaker)",
+          "zh": "（图片来源： Anna Moneymaker ）"
+        }
+      ]
+    },
+    {
+      "id": "69507617ea9517a6",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+      "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-23T15:37:07.000Z",
+      "sentences": [
+        {
+          "en": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead.",
+          "zh": "两名以色列士兵被枪杀后，以色列部队开始拆除希伯伦的巴勒斯坦建筑物。"
+        },
+        {
+          "en": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning.",
+          "zh": "星期五上午，两名巴勒斯坦枪手在约旦河西岸城外的一个检查站发动袭击，士兵被打死。"
+        }
+      ]
+    },
+    {
+      "id": "709eed1c6dd0bdcc",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Oil spill washes up on UAE beaches after tanker strike",
+      "url": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-23T15:30:47.000Z",
+      "sentences": [
+        {
+          "en": "Oil spill washes up on UAE beaches after tanker strike.",
+          "zh": "油轮罢工后，阿联酋海滩的溢油冲刷。"
+        },
+        {
+          "en": "Satellite images show oil spreading for miles along the coastline, threatening local marine wildlife",
+          "zh": "卫星图像显示石油沿着海岸线蔓延数英里，威胁着当地的海洋野生动物"
+        }
+      ]
+    },
+    {
+      "id": "2c18588beec585bb",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "PSG v Lyon moved as Paris prepares for more protests",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw8rz3eyn26po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-23T14:18:41.000Z",
+      "sentences": [
+        {
+          "en": "PSG v Lyon moved as Paris prepares for more protests.",
+          "zh": "随着巴黎准备举行更多抗议活动，巴黎圣日耳曼诉里昂案发生了变化。"
+        },
+        {
+          "en": "Paris St-Germain's Ligue 1 match against Lyon at the Parc des Princes is pushed back 24 hours as the French capital prepares for another weekend of protests.",
+          "zh": "巴黎圣日耳曼法甲联赛在王子公园对阵里昂的比赛被推迟了24小时，因为法国首都正在为另一个周末的抗议活动做准备。"
+        }
+      ]
+    },
+    {
+      "id": "69e462b2096c1d8d",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Will a macaque eat a grape sitting on a pile of poo? A study on germophobia",
+      "url": "https://www.npr.org/2026/10/23/nx-s1-6009527/monkey-macaque-germs-virus-outbreak",
+      "publishedAt": "2026-10-23T14:16:10.000Z",
+      "sentences": [
+        {
+          "en": "Will a macaque eat a grape sitting on a pile of poo?",
+          "zh": "猕猴会吃掉一堆粪便上的葡萄吗？"
+        },
+        {
+          "en": "A study on germophobia.",
+          "zh": "一项关于恐细菌症的研究。"
+        },
+        {
+          "en": "When an outbreak strikes, humans try to avoid germs.",
+          "zh": "当疫情爆发时，人类会尽量避免病菌。"
+        },
+        {
+          "en": "(Remember wiping off groceries at the start of the pandemic?)",
+          "zh": "（还记得在疫情开始时擦掉生鲜杂货吗？ ）"
+        },
+        {
+          "en": "What about ..",
+          "zh": "怎么样？"
+        },
+        {
+          "en": "monkeys?",
+          "zh": "猴子"
+        },
+        {
+          "en": "(Image credit: Stephan Kaufhold)",
+          "zh": "（图片来源： Stephan Kaufhold ）"
+        }
+      ]
+    },
+    {
+      "id": "40bd1140205dc2a7",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
+      "url": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
+      "publishedAt": "2026-10-23T13:57:11.000Z",
+      "sentences": [
+        {
+          "en": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus.",
+          "zh": "尼日利亚埃博拉病毒感染来源之谜加剧了对病毒传播的担忧。"
+        },
+        {
+          "en": "Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in Uganda Health officials across Africa are racing to determine how Nigeria’s first Ebola patient ⁠in more than a decade ⁠became infected, amid fears ​the outbreak could spread further after reaching a fourth African country.",
+          "zh": "瑞士表示，患者是瑞士外交官的妻子，据信在乌干达旅行时感染了病毒非洲各地的卫生官员正在竞相确定尼日利亚十多年来首位埃博拉患者是如何感染的，因为担心疫情可能会在到达第四个非洲国家后进一步蔓延。"
+        },
+        {
+          "en": "The Swiss foreign ministry said on Friday the patient in Nigeria, the Ugandan-born wife of a Swiss diplomat based in Abuja, had not travelled to the Democratic Republic of ⁠Congo, where the outbreak was first detected in mid-May before spreading to Uganda, Kenya and now Nigeria.",
+          "zh": "瑞士外交部周五表示，尼日利亚的病人，一名驻阿布贾的瑞士外交官的乌干达出生的妻子，没有前往刚果民主共和国，那里的疫情于5月中旬首次被发现，然后蔓延到乌干达，肯尼亚和现在的尼日利亚。"
+        },
+        {
+          "en": "The woman was believed to have contracted Ebola while travelling with her husband in Uganda, the ministry added.",
+          "zh": "该部补充说，据信这名妇女与丈夫在乌干达旅行时感染了埃博拉病毒。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "a35c4f32043074cb",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Authorities investigating whether first Kenya and Nigeria Ebola cases crossed paths",
+      "url": "https://www.npr.org/2026/10/23/g-s1-149515/africa-ebola-outbreak",
+      "publishedAt": "2026-10-23T12:41:39.000Z",
+      "sentences": [
+        {
+          "en": "Authorities investigating whether first Kenya and Nigeria Ebola cases crossed paths.",
+          "zh": "当局正在调查首例肯尼亚和尼日利亚埃博拉病例是否相交。"
+        },
+        {
+          "en": "Nigeria this week recorded its first case of Ebola in the current outbreak, which has spread from the epicenter in Congo to several other African countries.",
+          "zh": "尼日利亚本周在当前的埃博拉疫情中记录了首例埃博拉病例，该疫情已从刚果的疫情中心蔓延到其他几个非洲国家。"
+        },
+        {
+          "en": "(Image credit: Tony Karumba)",
+          "zh": "（图片来源： Tony Karumba ）"
+        }
+      ]
+    },
+    {
+      "id": "2b1ee56484e47819",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Denmark to ban mink farming in government U-turn",
+      "url": "https://www.bbc.co.uk/news/articles/c59vzjm118j1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-23T12:17:45.000Z",
+      "sentences": [
+        {
+          "en": "Denmark to ban mink farming in government U-turn.",
+          "zh": "丹麦将在政府掉头时禁止水貂养殖。"
+        },
+        {
+          "en": "Once the world's largest producer of mink pelts, the nation's industry has declined in recent years.",
+          "zh": "作为世界上最大的水貂皮生产国，该国的工业近年来有所下降。"
+        }
+      ]
+    },
+    {
+      "id": "a11f258b2b1a7ac1",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Yemen: Deepening concerns for Taiz City as aid is blocked from entering",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168654",
+      "publishedAt": "2026-10-23T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Yemen: Deepening concerns for Taiz City as aid is blocked from entering.",
+          "zh": "也门：由于援助无法进入，对塔伊兹市的担忧日益加深。"
+        },
+        {
+          "en": "Aid agencies warned on Friday of the fast-developing humanitarian emergency inside Taiz City in Yemen, which has been encircled by de facto Houthi forces fighting government troops along the country’s west coast.",
+          "zh": "援助机构周五警告说，也门塔伊兹市内的人道主义紧急情况正在迅速发展，该市已被事实上的胡塞武装包围，与该国西海岸的政府部队作战。"
+        }
+      ]
+    },
+    {
+      "id": "b7a388a52d0634b7",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "‘Burden and loss’ builds in DR Congo, as Kenya strengthens Ebola containment",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168655",
+      "publishedAt": "2026-10-23T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "‘Burden and loss’ builds in DR Congo, as Kenya strengthens Ebola containment.",
+          "zh": "随着肯尼亚加强对埃博拉病毒的遏制， “负担和损失”在刚果民主共和国建立起来。"
+        },
+        {
+          "en": "As Ebola continues to spread in the Democratic Republic of the Congo (DRC), more resources are needed to fight the disease and feed patients and families, UN agencies said on Friday.",
+          "zh": "联合国机构周五表示，随着埃博拉病毒继续在刚果民主共和国蔓延，需要更多资源来对抗这种疾病，并为患者和家属提供食物。"
+        }
+      ]
+    },
+    {
+      "id": "a1dd16c6a7464526",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Soil mapping aims to boost agricultural production in Kenya",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168657",
+      "publishedAt": "2026-10-23T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Soil mapping aims to boost agricultural production in Kenya.",
+          "zh": "土壤测绘旨在促进肯尼亚的农业生产。"
+        },
+        {
+          "en": "A new Kenyan initiative is helping farmers better understand their soils in a bid to improve crop yields amid intensifying climate shocks.",
+          "zh": "一项新的肯尼亚倡议正在帮助农民更好地了解他们的土壤，以便在气候冲击加剧的情况下提高作物产量。"
+        }
+      ]
+    },
+    {
+      "id": "11a6e0c7536275c3",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Sudan: Drone strikes killed at least 306 people in three weeks",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168661",
+      "publishedAt": "2026-10-23T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Sudan: Drone strikes killed at least 306 people in three weeks.",
+          "zh": "苏丹：无人机袭击在三周内造成至少306人死亡。"
+        },
+        {
+          "en": "UN human rights chief Volker Türk on Friday strongly condemned an escalation in drone strikes across Sudan this month, which killed at least 306 people and injured hundreds more in the first three weeks of October alone.",
+          "zh": "联合国人权事务主管沃尔克·蒂尔克（ Volker Türk ）周五强烈谴责本月在苏丹各地发生的无人机袭击升级，仅在10月的前三周就造成至少306人死亡，数百人受伤。"
+        }
+      ]
+    },
+    {
+      "id": "d1234088a86542e9",
+      "sourceId": "un-news",
+      "category": "business",
+      "title": "West Bank: Guterres alarmed as Israel imposes sweeping closures after deadly Hebron attack",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168660",
+      "publishedAt": "2026-10-23T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "West Bank: Guterres alarmed as Israel imposes sweeping closures after deadly Hebron attack.",
+          "zh": "约旦河西岸：古特雷斯对以色列在希伯伦发生致命袭击后实施全面封锁感到震惊。"
+        },
+        {
+          "en": "The UN said on Friday it was “extremely alarmed” by intensifying violence in the occupied West Bank, as Israel moved to seal off the territory following a deadly attack on its soldiers in Hebron.",
+          "zh": "联合国周五表示，它对被占领的约旦河西岸暴力事件的加剧感到“非常震惊” ，因为以色列在希伯伦对其士兵发动致命袭击后开始封锁该领土。"
+        }
+      ]
+    },
+    {
+      "id": "6133d790e46162cd",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Blood brothers: WHO chief joins ENHYPEN to celebrate drive success",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168662",
+      "publishedAt": "2026-10-23T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Blood brothers: WHO chief joins ENHYPEN to celebrate drive success.",
+          "zh": "血亲兄弟：世卫组织负责人与ENHYPEN一起庆祝DRIVE的成功。"
+        },
+        {
+          "en": "The head of the World Health Organization (WHO) is a self-confessed fan of K-pop sensation ENHYPEN and this week, he got the chance to tell them so in person.",
+          "zh": "世界卫生组织（ WHO ）负责人自称是K-pop感觉ENHYPEN的粉丝，本周，他有机会亲自告诉他们。"
+        }
+      ]
+    },
+    {
+      "id": "5c9533d042f4b971",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "World News in Brief: Iran nuclear inspections, deadly church attack in Jordan, El Fasher – one year on",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168664",
+      "publishedAt": "2026-10-23T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "World News in Brief: Iran nuclear inspections, deadly church attack in Jordan, El Fasher – one year on.",
+          "zh": "《世界新闻简报》：伊朗核视察、约旦教堂遭到致命袭击、法希尔--一年过去了。"
+        },
+        {
+          "en": "The head of the International Atomic Energy Agency (IAEA), Rafael Grossi, called on Friday for a swift return of inspectors to Iran, warning of growing fragility in the global nuclear non-proliferation regime.",
+          "zh": "国际原子能机构（ IAEA ）负责人拉斐尔·格罗西（ Rafael Grossi ）周五呼吁视察员迅速返回伊朗，并警告全球核不扩散制度日益脆弱。"
+        }
+      ]
+    },
+    {
+      "id": "ece4dc9e3d2a67fa",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Doctors tell the BBC about the targeting of Sudanese hospitals by paramilitary fighters",
+      "url": "https://www.bbc.co.uk/news/videos/c8x23gegwz34o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-23T11:30:32.000Z",
+      "sentences": [
+        {
+          "en": "Doctors tell the BBC about the targeting of Sudanese hospitals by paramilitary fighters.",
+          "zh": "医生告诉英国广播公司，准军事武装分子以苏丹医院为目标。"
+        },
+        {
+          "en": "A BBC investigation has found evidence that Sudanese paramilitary fighters systematically destroyed el-Fasher's healthcare system.",
+          "zh": "英国广播公司的一项调查发现，有证据表明苏丹准军事战斗人员有系统地摧毁了法希尔的医疗保健系统。"
+        }
+      ]
+    },
+    {
+      "id": "4fc8d01d3c44b1b3",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Military reinforcements move to Mideast. And, millions of Americans vote early",
+      "url": "https://www.npr.org/2026/10/23/g-s1-149514/up-first-newsletter-iran-war-midterm-voting-trump-bbc",
+      "publishedAt": "2026-10-23T11:22:25.000Z",
+      "sentences": [
+        {
+          "en": "Military reinforcements move to Mideast.",
+          "zh": "军队增援部队向中东移动。"
+        },
+        {
+          "en": "And, millions of Americans vote early.",
+          "zh": "而且，数以百万计的美国人提前投票。"
+        },
+        {
+          "en": "Military reinforcements are heading to the Middle East and some personnel have left the region, pointing to a potential attack on Iran.",
+          "zh": "军事增援部队正在前往中东，一些人员已经离开该地区，这表明可能对伊朗发动袭击。"
+        },
+        {
+          "en": "And, millions of Americans have already voted in the midterms.",
+          "zh": "而且，数以百万计的美国人已经在中期投票中投票。"
+        },
+        {
+          "en": "(Image credit: Finn Gomez)",
+          "zh": "（图片来源： Finn Gomez ）"
+        }
+      ]
+    },
+    {
+      "id": "f19d8bd0dbb90a12",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Why Meta is charging to post more hyperlinks",
+      "url": "https://www.npr.org/sections/planet-money/2026/10/23/nx-s1-6012726/why-meta-is-charging-to-post-more-hyperlinks",
+      "publishedAt": "2026-10-23T11:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Why Meta is charging to post more hyperlinks.",
+          "zh": "为什么Meta收费发布更多超链接。"
+        },
+        {
+          "en": "Social media sites aren't the biggest fans of people leaving via hyperlinks.",
+          "zh": "社交媒体网站并不是人们通过超链接离开的最大粉丝。"
+        },
+        {
+          "en": "In fact, Meta has made it subscription-worthy for a Facebook Page to post more than two hyperlinks per month.",
+          "zh": "事实上， Meta已经让Facebook页面每月发布两个以上的超链接变得值得订阅。"
+        },
+        {
+          "en": "What's the rationale for companies want to keep you on their site?",
+          "zh": "公司希望您留在他们的网站上的理由是什么？"
+        },
+        {
+          "en": "(Image credit: Tony Avelar)",
+          "zh": "（图片来源： Tony Avelar ）"
+        }
+      ]
+    },
+    {
+      "id": "47a139a5c1cd507b",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Cyprus police open investigation into financial affairs of Roman Abramovich",
+      "url": "https://www.bbc.co.uk/news/articles/c875p1yy90ryo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-23T10:14:37.000Z",
+      "sentences": [
+        {
+          "en": "Cyprus police open investigation into financial affairs of Roman Abramovich.",
+          "zh": "塞浦路斯警方对罗曼·阿布拉莫维奇（ Roman Abramovich ）的财务"
+        },
+        {
+          "en": "Questions about the integrity of some of Abramovich's professional advisers, were raised earlier this month.",
+          "zh": "本月早些时候，对阿布拉莫维奇的一些专业顾问的诚信提出了质疑。"
+        }
+      ]
+    },
+    {
+      "id": "3350b81653d6dc71",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Woman with Ebola in Nigeria confirmed as wife of Swiss diplomat",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-23T10:14:33.000Z",
+      "sentences": [
+        {
+          "en": "Woman with Ebola in Nigeria confirmed as wife of Swiss diplomat.",
+          "zh": "尼日利亚埃博拉病毒感染妇女被确认为瑞士外交官的妻子。"
+        },
+        {
+          "en": "Her husband is currently in isolation but has not developed any symptoms, Swiss officials say.",
+          "zh": "瑞士官员说，她的丈夫目前被隔离，但没有出现任何症状。"
+        }
+      ]
+    },
+    {
+      "id": "52323257023fbddc",
+      "sourceId": "npr-news",
+      "category": "business",
+      "title": "Israel orders closure of West Bank after soldiers kill 2 men behind an alleged attack",
+      "url": "https://www.npr.org/2026/10/23/nx-s1-6013333/netanyahu-closure-west-bank",
+      "publishedAt": "2026-10-23T09:40:32.000Z",
+      "sentences": [
+        {
+          "en": "Israel orders closure of West Bank after soldiers kill 2 men behind an alleged attack.",
+          "zh": "以色列下令关闭约旦河西岸，此前士兵在一起涉嫌袭击事件中杀害了两名男子。"
+        },
+        {
+          "en": "Israeli soldiers shot and killed two men who the military said had launched an attack near the city of Hebron in the occupied West Bank on Friday morning.",
+          "zh": "以色列士兵开枪打死了两名男子，军方称他们于周五早上在被占领的约旦河西岸的希伯伦市附近发动了袭击。"
+        },
+        {
+          "en": "At least five people were injured, including some critically.",
+          "zh": "至少有5人受伤，其中一些人伤势严重。"
+        },
+        {
+          "en": "(Image credit: Mahmoud Illean)",
+          "zh": "（图片来源： Mahmoud Illean ）"
+        }
+      ]
+    },
+    {
+      "id": "1ab816be79cf2b5b",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Magnitude-7 earthquake hits Tibet, killing at least 16 and destroying hundreds of homes",
+      "url": "https://www.theguardian.com/world/2026/oct/23/magnitude-7-earthquake-hits-china-tibet",
+      "publishedAt": "2026-10-23T07:53:58.000Z",
+      "sentences": [
+        {
+          "en": "Magnitude-7 earthquake hits Tibet, killing at least 16 and destroying hundreds of homes.",
+          "zh": "7级地震袭击了西藏，造成至少16人死亡，数百所房屋被毁。"
+        },
+        {
+          "en": "Search and rescue efforts under way after quake strikes region’s north, with at least seven aftershocks recorded A magnitude-7 earthquake has hit Tibet, killing at least 16 people, injuring 54 and destroying hundreds of homes in the northern regional city of Nagqu, official media have said.",
+          "zh": "官方媒体称，在地震袭击西藏北部地区后，正在进行搜索和救援工作，至少发生了7次余震。7级地震袭击了西藏，造成至少16人死亡， 54人受伤，并摧毁了北部地区城市那曲的数百所房屋。"
+        },
+        {
+          "en": "Search and rescue efforts continued after at least 339 homes and 20 livestock sheds collapsed, the Nagqu media office said, citing city government officials.",
+          "zh": "那曲媒体办公室援引市政府官员的话说，在至少339所房屋和20个牲畜棚倒塌后，搜索和救援工作仍在继续。"
+        },
+        {
+          "en": "It was the biggest quake in the region in the past five years, according to China’s national broadcaster CCTV.",
+          "zh": "据中国国家广播电台中央电视台报道，这是过去五年来该地区最大的地震。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "4ae8de252b8db866",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "India slashes cost of cancer drugs after court rules mark-ups are ‘extortion’",
+      "url": "https://www.theguardian.com/global-development/2026/oct/23/india-cuts-cost-cancer-drugs",
+      "publishedAt": "2026-10-23T07:00:03.000Z",
+      "sentences": [
+        {
+          "en": "India slashes cost of cancer drugs after court rules mark-ups are ‘extortion’.",
+          "zh": "印度削减抗癌药物的成本后，法院规则加价是“敲诈勒索”。"
+        },
+        {
+          "en": "Case filed in 2022 by patient unable to afford medicine leads to cap on drug prices for millions who face ruin if diagnosed The Indian government has moved to reduce the price of cancer drugs after a retired bank clerk took her case to the supreme court.",
+          "zh": "2022年，无力负担药物费用的患者提起诉讼，导致数百万人面临破产的药品价格上限印度政府已经采取行动，降低癌症药物的价格，此前一名退休的银行职员将她的案件提交最高法院。"
+        },
+        {
+          "en": "From next month, 137 cancer drugs in India will be cheaper as the government tries to tackle the tragedy of poorer patients either forgoing treatment, selling land or falling into debt to meet the high cost of some medicines, which are making large profits for hospitals and pharmacists.",
+          "zh": "从下个月开始，印度的137种抗癌药物将更便宜，因为政府试图解决较贫穷的患者放弃治疗，出售土地或陷入债务的悲剧，以满足某些药物的高成本，这些药物正在为医院和药剂师带来巨额利润。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "c0b2c1525f974232",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Jim Chalmers faces a world of hard choices where the solution to one problem makes the other worse",
+      "url": "https://www.theguardian.com/business/2026/oct/23/jim-chalmers-hard-choices-economy-inflation-unemployment",
+      "publishedAt": "2026-10-23T04:54:47.000Z",
+      "sentences": [
+        {
+          "en": "Jim Chalmers faces a world of hard choices where the solution to one problem makes the other worse.",
+          "zh": "Jim Chalmers面临着一个艰难的选择，其中一个问题的解决方案使另一个问题变得更糟。"
+        },
+        {
+          "en": "High inflation, low growth and rising unemployment can be added to the federal treasurer’s wall of worries Get our new political email , free app or daily news podcast Jim Chalmers in a speech last week offered the scant encouragement that the economy would be “a bit better” in a year’s time.",
+          "zh": "高通胀、低增长和不断上升的失业率可能会被添加到联邦财政部长的担忧墙上。在上周的一次演讲中，我们的新政治电子邮件、免费应用程序或每日新闻播客吉姆·查尔默斯（ Jim Chalmers ）几乎没有鼓励经济在一年内“好一点”。"
+        },
+        {
+          "en": "Fast forward to Friday morning, and the treasurer revealed that his officials were busy downgrading their forecasts ahead of December’s mid-year budget update to show slower growth and higher unemployment.",
+          "zh": "快进到周五上午，这位财务主管透露，他的官员正忙于在12月的年中预算更新之前下调他们的预测，以显示增长放缓和失业率上升。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "178ef4e6f9bd16d7",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Brazil’s election and the battle for the Amazon – podcast",
+      "url": "https://www.theguardian.com/news/audio/2026/oct/23/brazil-election-battle-for-amazon-podcast",
+      "publishedAt": "2026-10-23T02:00:56.000Z",
+      "sentences": [
+        {
+          "en": "Brazil’s election and the battle for the Amazon – podcast.",
+          "zh": "巴西的选举和争夺亚马逊的斗争–播客。"
+        },
+        {
+          "en": "Our Latin America correspondent, Tom Phillips, heads to Roraima to hear what’s at stake for the rainforest and the communities that live there in the Brazilian presidential runoff on Sunday.",
+          "zh": "我们的拉丁美洲记者汤姆·菲利普斯（ Tom Phillips ）前往罗赖马（ Roraima ） ，在周日的巴西总统决选中了解热带雨林和生活在那里的社区的利害关系。"
+        },
+        {
+          "en": "Send your comments and questions to tif.questions@theguardian.com For the Amazon and the communities who live there, the stakes in Sunday’s Brazilian presidential election runoff could scarcely be higher.",
+          "zh": "将您的意见和问题发送到tif.questions@theguardian.com对于亚马逊和居住在那里的社区来说，周日巴西总统选举决赛的风险几乎不会更高。"
+        },
+        {
+          "en": "Our Latin America correspondent, Tom Phillips heads to Roraima, the country’s most northern state, to hear from voters, preachers and politicians in a region that heavily backed Flávio Bolsonaro in the first round.",
+          "zh": "我们的拉丁美洲记者汤姆·菲利普斯（ Tom Phillips ）前往该国最北部的罗赖马州，听取该地区选民、传教士和政治家的意见，该地区在第一轮投票中大力支持弗拉维奥·博尔索纳罗（ Flávio Bolsonaro ）。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "7988e9c89e799d65",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Lewis Hamilton aims to extend career till early 2030s so he can race in African Grand Prix",
+      "url": "https://www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix",
+      "publishedAt": "2026-10-22T21:53:28.000Z",
+      "sentences": [
+        {
+          "en": "Lewis Hamilton aims to extend career till early 2030s so he can race in African Grand Prix.",
+          "zh": "刘易斯·汉密尔顿的目标是将职业生涯延长到21世纪30年代初，这样他就可以参加非洲大奖赛。"
+        },
+        {
+          "en": "41-year-old set on ‘dream to be able to race in Africa’ Rwanda to host despite criticism of human rights record Lewis Hamilton has said he hopes to remain racing in Formula One until he can take part in the African Grand Prix which is set to take place in Rwanda in the 2030s .",
+          "zh": "41岁的刘易斯·汉密尔顿（ Lewis Hamilton ）曾表示，他希望继续参加一级方程式赛车，直到他能够参加定于2030年代在卢旺达举行的非洲大奖赛。"
+        },
+        {
+          "en": "The seven-time world champion believes it is right that F1 is to hold a race there despite criticism of the country’s human rights record.",
+          "zh": "这位七届世界冠军认为，尽管该国的人权记录受到批评，但F1在那里举行比赛是正确的。"
+        },
+        {
+          "en": "Last week F1 confirmed Rwanda was to host the African Grand Prix having concluded a 10-year agreement for the meeting on a purpose-built circuit, with the first race set for the early 2030s.",
+          "zh": "上周， F1确认卢旺达将主办非洲大奖赛，并就专门建造的赛道达成了为期10年的协议，第一场比赛定于21世纪30年代初举行。"
+        },
+        {
+          "en": "It is lined up to be held on a circuit in Bugesera, 25 miles south of the capital, Kigali, which has yet to be constructed and marks a return to the African continent for the first time since it last held a race at Kyalami, South Africa in 1993.",
+          "zh": "它将在首都基加利以南25英里的Bugesera的一条赛道上举行，该赛道尚未建成，标志着自1993年上一次在南非Kyalami举行比赛以来首次重返非洲大陆。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "93b9ec234846ac90",
+      "sourceId": "aws-news",
+      "category": "cloud",
+      "title": "AWS Continuum for code vulnerabilities is now generally available",
+      "url": "https://aws.amazon.com/blogs/aws/aws-continuum-for-code-vulnerabilities-is-now-generally-available/",
+      "publishedAt": "2026-10-22T20:33:10.000Z",
+      "sentences": [
+        {
+          "en": "AWS Continuum for code vulnerabilities is now generally available.",
+          "zh": "针对代码漏洞的AWS Continuum现已全面推出。"
+        },
+        {
+          "en": "Today, we’re announcing the general availability of AWS Continuum for code vulnerabilities .",
+          "zh": "今天，我们宣布AWS Continuum针对代码漏洞全面推出。"
+        },
+        {
+          "en": "AWS Continuum is a security service that finds and validates code vulnerabilities, then delivers fixes as patches you can automate or as pull requests in your repositories.",
+          "zh": "AWS Continuum是一种安全服务，可查找和验证代码漏洞，然后以修补程序的形式提供修补程序，您可以自动执行修补程序，也可以在存储库中提取请求。"
+        },
+        {
+          "en": "AWS Continuum for code vulnerabilities confirms which findings are exploitable in your environment, ranks the resulting issues by business impact, and proposes a fix for each one.",
+          "zh": "针对代码漏洞的AWS Continuum可确认您环境中哪些发现可被利用，按业务影响对由此产生的问题进行排名，并为每个问题提出修复建议。"
+        },
+        {
+          "en": "Every remediation starts in a mode where Continuum proposes the fix and a person approves it before it ships.",
+          "zh": "每种补救措施都始于Continuum提出补救措施并在发货前获得人员批准的模式。"
+        },
+        {
+          "en": "In the future, you will be able to decide which actions Continuum can take on its own, within the guardrails you define.",
+          "zh": "将来，您将能够在您定义的护栏内决定Continuum可以自行采取哪些行动。"
+        },
+        {
+          "en": "Using frontier artificial intelligence (AI) models, threat actors can turn a vulnerability disclosure into working exploit code in minutes, and the same tools that speed up development also increase the volume of findings your teams must process.",
+          "zh": "使用前沿人工智能(AI)模型，威胁行为者可以在几分钟内将漏洞披露转化为工作漏洞利用代码，而加速开发的相同工具也会增加团队必须处理的调查结果数量。"
+        },
+        {
+          "en": "If your organization runs a large application estate, your scanners likely produce thousands of findings a day, and many of them need no action.",
+          "zh": "如果您的组织运营着一个大型应用程序园区，您的扫描仪每天可能会产生数千个发现，其中许多无需采取任何行动。"
+        },
+        {
+          "en": "A finding can be unreachable, unexploitable, or already mitigated by a runtime control.",
+          "zh": "发现可能无法访问、无法利用或已被运行时控件缓解。"
+        },
+        {
+          "en": "Generic severity scores don’t tell you which resources a threat actor can actually reach, so a critical score on a dev-only utility looks the same as a medium score on a service one step away from a payments database.",
+          "zh": "一般的严重程度分数不会告诉您威胁行为者实际上可以访问哪些资源，因此仅限开发的实用程序的关键分数看起来与距离支付数据库仅一步之遥的服务的中等分数相同。"
+        },
+        {
+          "en": "Previously, confirming whether a finding was exploitable took hours of manual investigation, and shipping a fix with confidence took days of coordination across security, infrastructure, and application teams, because the blast radius of a change is hard to assess without business context.",
+          "zh": "以前，确认发现是否可利用需要数小时的人工调查，而满怀信心地交付修复需要数天时间在安全、基础设施和应用程序团队之间进行协调，因为如果没有业务背景，很难评估变更的爆炸半径。"
+        },
+        {
+          "en": "To close that gap, Continuum proves which findings are exploitable and bounds the risk of each fix it proposes.",
+          "zh": "为了缩小这一差距， Continuum证明了哪些发现是可以利用的，并限制了它提出的每个修复的风险。"
+        }
+      ]
+    },
+    {
+      "id": "c10dae251e662270",
+      "sourceId": "github-blog",
+      "category": "security",
+      "title": "How bug bounty sharpens one researcher’s security skills",
+      "url": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/",
+      "publishedAt": "2026-10-22T17:21:30.000Z",
+      "sentences": [
+        {
+          "en": "How bug bounty sharpens one researcher’s security skills.",
+          "zh": "漏洞赏金如何提高一名研究人员的安全技能。"
+        },
+        {
+          "en": "As Cybersecurity Awareness Month continues, the GitHub Bug Bounty team is excited to spotlight another top-performing security researcher from the GitHub Security Bug Bounty Program: @r31n !",
+          "zh": "随着网络安全意识月持续进行， GitHub Bug Bounty团队很高兴关注GitHub安全漏洞赏金计划的另一位表现最佳的安全研究员： @ r31n ！"
+        },
+        {
+          "en": "As home to the world s developers, GitHub is dedicated to the security and reliability of the code behind millions of projects, and our Bug Bounty Program remains a cornerstone of that commitment.",
+          "zh": "作为全球开发者的家园， GitHub致力于数百万个项目背后的代码的安全性和可靠性，我们的漏洞赏金计划仍然是这一承诺的基石。"
+        },
+        {
+          "en": "Collaboration with external researchers is one of the most effective ways to improve security, and every year, the community helps us identify and fix vulnerabilities that make the platform safer for everyone.",
+          "zh": "与外部研究人员合作是提高安全性的最有效方法之一，每年，社区都会帮助我们识别和修复漏洞，使平台更安全。"
+        },
+        {
+          "en": "The security research landscape is changing rapidly.",
+          "zh": "安全研究格局正在迅速变化。"
+        },
+        {
+          "en": "AI has lowered the barrier to entry and become a genuine force multiplier.",
+          "zh": "人工智能降低了进入门槛，成为真正的力量倍增器。"
+        },
+        {
+          "en": "We use it across our own internal security programs, and we welcome researchers who do the same .",
+          "zh": "我们在自己的内部安全计划中使用它，我们欢迎研究人员也这样做。"
+        },
+        {
+          "en": "However, what separates great research has not changed: validation, a working proof of concept, and a clear demonstration of real security impact.",
+          "zh": "然而，伟大研究的区别并没有改变：验证，概念的工作证明，以及对真实安全影响的清晰演示。"
+        },
+        {
+          "en": "The tools do not matter; the quality of the work does.",
+          "zh": "工具无关紧要；工作的质量才是。"
+        },
+        {
+          "en": "The researchers we spotlight this month exemplify exactly that standard through findings that are verified, reproducible, and demonstrate that a security boundary has been crossed rather than simply theorizing that one exists.",
+          "zh": "我们本月聚焦的研究人员通过经过验证、可重现的研究结果证明了这一标准，并证明安全边界已被跨越，而不是简单地推测存在安全边界。"
+        },
+        {
+          "en": "Researchers who consistently work at that level can earn an invitation to our permanent VIP program, which offers higher payouts, faster response times, and early previews of beta products and features.",
+          "zh": "始终在这个级别工作的研究人员可以获得加入我们永久VIP计划的邀请，该计划可提供更高的收款、更快的响应时间以及测试版产品和功能的早期预览。"
+        },
+        {
+          "en": "Learn more about how to qualify on our public bounty site .",
+          "zh": "在我们的公开赏金网站上了解更多有关如何获得资格的信息。"
+        }
+      ]
+    },
+    {
+      "id": "b4dcb60e642b2c2f",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Revealed: billionaire Reform donor was in business with foundation linked to Iranian regime",
+      "url": "https://www.theguardian.com/politics/2026/oct/22/reform-farage-donor-business-ties-iran-ayatollahs",
+      "publishedAt": "2026-10-22T16:39:49.000Z",
+      "sentences": [
+        {
+          "en": "Revealed: billionaire Reform donor was in business with foundation linked to Iranian regime.",
+          "zh": "透露：亿万富翁改革捐赠者与与伊朗政权有关的基金会开展业务。"
+        },
+        {
+          "en": "Exclusive: Sasan Ghandehari’s partnership with religious foundation raises questions about past dealings with republic criticised by Nigel Farage Nigel Farage’s newest billionaire donor was in business with a powerful Iranian religious foundation under the authority of the country’s supreme leader, raising questions about his past dealings with the hardline republic.",
+          "zh": "独家：萨桑·甘德哈里（ Sasan Ghandehari ）与宗教基金会的合作伙伴关系引发了人们对他过去与共和国打交道的质疑，奈杰尔·法拉奇（ Nigel Farage ）批评了奈杰尔·法拉奇（ Nigel Farage ）的最新亿万富翁捐赠者，他在该国最高领导人的授权下与一个强大的伊朗宗教基金会开展业务，这引发了人们对他过去与强硬派共和国打交道的质疑"
+        },
+        {
+          "en": "Hossein Ghandehari, also called Sasan, was little known in the UK until he pledged to give millions to Reform UK this summer and donated £50,000 to Farage to cover the cost of two passes for the Davos World Economic Forum.",
+          "zh": "Hossein Ghandehari ，也被称为Sasan ，在英国鲜为人知，直到他承诺今年夏天向Reform UK捐赠数百万美元，并向Farage捐赠5万英镑，以支付达沃斯世界经济论坛的两张通行证的费用。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    }
+  ],
+  "failures": []
+}
