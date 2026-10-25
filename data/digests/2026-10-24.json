@@ -1,0 +1,691 @@
+{
+  "date": "2026-10-24",
+  "collectedAt": "2026-10-25T03:21:55.758Z",
+  "items": [
+    {
+      "id": "b63a73bec91ba1d8",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
+      "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-24T15:21:44.000Z",
+      "sentences": [
+        {
+          "en": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat.",
+          "zh": "一名男子在希特勒山顶的鹰巢撤退失火后被捕。"
+        },
+        {
+          "en": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
+          "zh": "大约200名应急人员被派往德国纳粹独裁者的阿尔卑斯山住所扑灭大火。"
+        }
+      ]
+    },
+    {
+      "id": "4d5e52cf2ccc8bf7",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Kim Jong-un crosses newly opened bridge into China",
+      "url": "https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china",
+      "publishedAt": "2026-10-24T13:34:56.000Z",
+      "sentences": [
+        {
+          "en": "Kim Jong-un crosses newly opened bridge into China.",
+          "zh": "金正恩穿过新开通的桥梁进入中国。"
+        },
+        {
+          "en": "North Korean leader travels over New Yalu River Bridge to meet senior Communist party member Kim Jong-un has visited China, inaugurating a bridge that connects the two countries and saying he hopes to expand cooperation with his neighbour.",
+          "zh": "朝鲜领导人穿越新鸭绿江大桥，会见共产党高级成员金正恩访问中国，为连接两国的桥梁揭幕，并表示希望扩大与邻国的合作。"
+        },
+        {
+          "en": "The North Korean leader arrived in the Chinese border city of Dandong on Saturday after crossing the New Yalu River Bridge, according to South Korea’s unification ministry, which handles affairs related to North Korea, and China’s official Xinhua news agency.",
+          "zh": "据负责处理与朝鲜有关事务的韩国统一部和中国官方新华社报道，朝鲜领导人于周六穿过新鸭绿江大桥后抵达中国边境城市丹东。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "af154c8b7028fa6b",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Ukraine says Starlink connection 'now stable' after network limits",
+      "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-24T12:12:40.000Z",
+      "sentences": [
+        {
+          "en": "Ukraine says Starlink connection 'now stable' after network limits.",
+          "zh": "乌克兰表示，在网络限制之后， Starlink连接“现在稳定”。"
+        },
+        {
+          "en": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
+          "zh": "放缓的Starlink连接影响了乌克兰的军事和无人机行动一周。"
+        }
+      ]
+    },
+    {
+      "id": "916a3157b71603e0",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Women ‘first to suffer’ under siege, first to step up as frontline responders in Sudan",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168663",
+      "publishedAt": "2026-10-24T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Women ‘first to suffer’ under siege, first to step up as frontline responders in Sudan.",
+          "zh": "妇女“首先遭受”围困，首先成为苏丹的一线救援人员。"
+        },
+        {
+          "en": "When Tahani Al-Numeiri heard the first explosions in Khartoum, her hometown, war seemed so remote that she assumed they were celebrations from a nearby wedding.",
+          "zh": "当塔哈尼·努梅里（ Tahani Al-Numeiri ）在她的家乡喀土穆听到第一次爆炸时，战争似乎是如此遥远，以至于她认为这是附近婚礼的庆祝活动。"
+        },
+        {
+          "en": "It was the morning of 15 April 2023, and the paramilitary Rapid Support Forces had just turned their guns on the army.",
+          "zh": "那是2023年4月15日的早晨，准军事快速支援部队刚刚向军队开枪。"
+        }
+      ]
+    },
+    {
+      "id": "c82d4c2fb894a357",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Perspective: The next James Bond",
+      "url": "https://www.npr.org/2026/10/24/nx-s1-6004258/perspective-the-next-james-bond",
+      "publishedAt": "2026-10-24T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Perspective: The next James Bond.",
+          "zh": "透视：下一个詹姆斯·邦德。"
+        },
+        {
+          "en": "A new James Bond is nigh, to replace the last actor in the 64 year-old movie franchise.",
+          "zh": "新的詹姆斯·邦德（ James Bond ）即将取代这部64岁电影系列的最后一位演员。"
+        },
+        {
+          "en": "What evil forces will the new 007 face?",
+          "zh": "新007将面临哪些邪恶势力？"
+        },
+        {
+          "en": "Killer Drones?",
+          "zh": "杀手级无人机？"
+        },
+        {
+          "en": "Killer AI?",
+          "zh": "杀手AI ？"
+        },
+        {
+          "en": "Killer lettuce?",
+          "zh": "杀手莴苣？"
+        },
+        {
+          "en": "(Image credit: Jack Kay/Getty Images)",
+          "zh": "（图片来源： Jack Kay/Getty Images ）"
+        }
+      ]
+    },
+    {
+      "id": "5fe105728dcc6fd2",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
+      "url": "https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan",
+      "publishedAt": "2026-10-24T11:59:08.000Z",
+      "sentences": [
+        {
+          "en": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40.",
+          "zh": "在约旦的一次葬礼上，枪手向一座教堂开火，造成7人死亡， 40人受伤。"
+        },
+        {
+          "en": "Footage broadcast on Jordanian state television showed three gunmen firing shots at a Greek Orthodox church in the city of Karak on Friday.",
+          "zh": "约旦国家电视台播出的镜头显示，周五，三名枪手向卡拉克市的一座希腊东正教教堂开枪。"
+        },
+        {
+          "en": "(Image credit: AP Photo)",
+          "zh": "（图片来源：美联社照片）"
+        }
+      ]
+    },
+    {
+      "id": "7882edc0a8e9c8c7",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "U.S. birth rate drops to record low, but older women are having more babies",
+      "url": "https://www.npr.org/2026/10/24/nx-s1-6012804/birth-rate-population-cdc",
+      "publishedAt": "2026-10-24T10:00:00.000Z",
+      "sentences": [
+        {
+          "en": "U.S. birth rate drops to record low, but older women are having more babies.",
+          "zh": "美国出生率降至创纪录的低点，但年龄较大的女性生育的婴儿越来越多。"
+        },
+        {
+          "en": "The U.S. birth rate fell to its lowest level ever recorded, according to a report from the Centers for Disease Control and Prevention.",
+          "zh": "根据美国疾病控制和预防中心的一份报告，美国的出生率降至有史以来的最低水平。"
+        },
+        {
+          "en": "The drop would have been greater, but women over age 30 are having more children.",
+          "zh": "下降幅度会更大，但30岁以上的女性生育的孩子更多。"
+        },
+        {
+          "en": "(Image credit: CHARLY TRIBALLEAU)",
+          "zh": "（图片来源： CHARLY TRIBALLEAU ）"
+        }
+      ]
+    },
+    {
+      "id": "aa2c3b3a25bd9a23",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Is your Medicare Advantage plan ending next year? Here's what to know",
+      "url": "https://www.npr.org/2026/10/24/nx-s1-6014612/medicare-advantage-open-enrollment-cancelled-plan",
+      "publishedAt": "2026-10-24T10:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Is your Medicare Advantage plan ending next year?",
+          "zh": "您的Medicare Advantage计划是否将于明年结束？"
+        },
+        {
+          "en": "Here's what to know.",
+          "zh": "以下是须知事项。"
+        },
+        {
+          "en": "Medicare open enrollment runs through Dec.",
+          "zh": "Medicare公开招生将持续到12月"
+        },
+        {
+          "en": "7, and for as many as 5 million seniors, it will be important to log on and pick a new plan.",
+          "zh": "7 ，对于多达500万的老年人来说，登录并选择一个新的方案非常重要。"
+        },
+        {
+          "en": "(Image credit: Jim Watson)",
+          "zh": "（图片来源： Jim Watson ）"
+        }
+      ]
+    },
+    {
+      "id": "fc2568292034cd45",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-24T09:46:53.000Z",
+      "sentences": [
+        {
+          "en": "Woman, 65, becomes second patient to die of Ebola in Kenya.",
+          "zh": "65岁的女性成为肯尼亚第二位死于埃博拉病毒的患者。"
+        },
+        {
+          "en": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
+          "zh": "她是第一名受害者的近亲，这名男子来自刚果民主共和国。"
+        }
+      ]
+    },
+    {
+      "id": "57bac841db7270e7",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "British woman dies trying to save sons on Bahamas snorkelling trip",
+      "url": "https://www.theguardian.com/world/2026/oct/24/british-woman-dies-trying-to-save-sons-on-bahamas-snorkelling-trip",
+      "publishedAt": "2026-10-24T09:43:09.000Z",
+      "sentences": [
+        {
+          "en": "British woman dies trying to save sons on Bahamas snorkelling trip.",
+          "zh": "英国女子在巴哈马浮潜之旅中为拯救儿子而死。"
+        },
+        {
+          "en": "Mother, 36, died after current off North Bimini reportedly swept away two boys, who were later rescued, police say A British woman has died in the Bahamas while trying to rescue her two sons after a current swept them away as they were snorkelling.",
+          "zh": "据报道， 36岁的母亲在北比米尼附近冲走两名后来获救的男孩后死亡，警方称，一名英国女子在巴哈马群岛试图营救她的两个儿子时死亡，当时他们正在浮潜。"
+        },
+        {
+          "en": "The Royal Bahamas police force said it had launched an investigation after the death of a 36-year-old woman on Tuesday.",
+          "zh": "巴哈马皇家警察部队表示，在一名36岁女子于周二死亡后，已展开调查。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "d14f1415a00f6f28",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Three released without charge after fatal arson attack in Ireland",
+      "url": "https://www.bbc.co.uk/news/articles/cv0ld9571511o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-24T09:38:28.000Z",
+      "sentences": [
+        {
+          "en": "Three released without charge after fatal arson attack in Ireland.",
+          "zh": "在爱尔兰发生致命的纵火袭击后，三人未经指控被释放。"
+        },
+        {
+          "en": "Three people - two women and one man - have been released, and one person remains in custody, gardaí say.",
+          "zh": "Gardaí说，三人--两名妇女和一名男子--已被释放，一人仍被拘留。"
+        }
+      ]
+    },
+    {
+      "id": "35f149b1133c1371",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "This decade has been missing its big-impact midterm",
+      "url": "https://www.npr.org/2026/10/24/nx-s1-6014811/midterm-election-history-house-senate",
+      "publishedAt": "2026-10-24T09:00:00.000Z",
+      "sentences": [
+        {
+          "en": "This decade has been missing its big-impact midterm.",
+          "zh": "这十年错过了具有重大影响的中期计划。"
+        },
+        {
+          "en": "Every other decade over the past hundred years has produced at least one midterm that made a big difference in Congress and in national politics more broadly.",
+          "zh": "在过去的一百年里，每隔十年至少进行一次中期选举，这对国会和更广泛的国家政治产生了重大影响。"
+        },
+        {
+          "en": "(Image credit: Saul Loeb)",
+          "zh": "（图片来源： Saul Loeb ）"
+        }
+      ]
+    },
+    {
+      "id": "2f85a91b545e153e",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels",
+      "url": "https://www.npr.org/2026/10/24/g-s1-149729/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels",
+      "publishedAt": "2026-10-24T07:04:13.000Z",
+      "sentences": [
+        {
+          "en": "Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels.",
+          "zh": "被胡塞叛乱分子围困的也门城市饮用水供应减少。"
+        },
+        {
+          "en": "Taiz, a city in southwestern Yemen, faces a severe water crisis as Houthi rebels backed by Iran tighten their encirclement.",
+          "zh": "也门西南部的塔伊兹市面临严重的水危机，因为伊朗支持的胡塞叛乱分子加强了包围。"
+        },
+        {
+          "en": "The city has struggled with water issues for over a decade, but the situation has worsened in recent weeks.",
+          "zh": "十多年来，这座城市一直在努力解决水问题，但最近几周情况有所恶化。"
+        },
+        {
+          "en": "(Image credit: Abdulnasser Alseddik)",
+          "zh": "（图片来源： Abdulnasser Alseddik ）"
+        }
+      ]
+    },
+    {
+      "id": "235b5642d4313712",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Typhoon Champi kills one and injures more than 500 in Taiwan as it heads to China",
+      "url": "https://www.theguardian.com/world/2026/oct/24/typhoon-champi-kills-one-and-injures-more-than-500-in-taiwan-as-it-heads-to-china",
+      "publishedAt": "2026-10-24T02:22:32.000Z",
+      "sentences": [
+        {
+          "en": "Typhoon Champi kills one and injures more than 500 in Taiwan as it heads to China.",
+          "zh": "台风冠军在前往中国期间在台湾造成一人死亡， 500多人受伤。"
+        },
+        {
+          "en": "Super typhoon weakening but large parts of Taiwan, including Taipei, still mostly closed and flights cancelled Typhoon Champi swept past Taiwan on Saturday killing one person, injuring more than 500, and uprooting trees and severing power as it weakened and ⁠headed north toward ⁠the ​Chinese coast.",
+          "zh": "超级台风减弱，但包括台北在内的台湾大部分地区仍然大部分关闭，周六台风Champi席卷台湾的航班被取消，造成一人死亡， 500多人受伤，树木被连根拔起，权力被切断，因为它减弱并向北朝着中国海岸前进。"
+        },
+        {
+          "en": "Earlier classified as a super typhoon and one of the strongest storms in the ⁠Pacific this year, Champi was still packing gusts of about 126km per hour (78 miles per hour) near its ⁠centre, according to Taiwan’s Central Weather Administration (CWA).",
+          "zh": "根据台湾中央气象局（ CWA ）的数据，早些时候被归类为超级台风和今年太平洋最强风暴之一， Champi仍然在其中心附近以每小时126公里（每小时78英里）的阵风行进。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "06c9309238102b21",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Australian MP's condition improves after alleged car attack",
+      "url": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-24T01:55:15.000Z",
+      "sentences": [
+        {
+          "en": "Australian MP's condition improves after alleged car attack.",
+          "zh": "在涉嫌汽车袭击后，澳大利亚国会议员的状况有所改善。"
+        },
+        {
+          "en": "The independent MP is now in a serious but stable condition, according to the Melbourne hospital.",
+          "zh": "据墨尔本医院称，这名独立议员现在病情严重但稳定。"
+        }
+      ]
+    },
+    {
+      "id": "ef486b88d6eb6260",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Embattled Greens senator Jordon Steele-John confirms leave from parliament after allegations against him made public",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/24/greens-senator-jordon-steele-john-confirms-leave-from-parliament-ntwnfb",
+      "publishedAt": "2026-10-24T00:52:33.000Z",
+      "sentences": [
+        {
+          "en": "Embattled Greens senator Jordon Steele-John confirms leave from parliament after allegations against him made public.",
+          "zh": "陷入困境的绿党参议员乔丹·斯蒂尔-约翰（ Jordon Steele-John ）在对他的指控公开后确认离开议会。"
+        },
+        {
+          "en": "WA politician says he considered attending Senate estimates virtually but was told it would be ‘unacceptable’ Get our new political email , free app or daily news podcast Jordon Steele-John has confirmed he will not attend parliament next week as the embattled Greens senator apologises for publicly releasing the letter outlining the claims against him.",
+          "zh": "华盛顿州政界人士表示，他考虑以虚拟方式参加参议院的估计，但被告知这将是“不可接受的”。获取我们的新政治电子邮件，免费应用程序或每日新闻播客Jordon Steele-John已确认他将不会参加下周的议会，因为陷入困境的绿党参议员为公开发布概述对他的指控的信件而道歉。"
+        },
+        {
+          "en": "On Saturday afternoon, Steele-John removed a social media post containing a three-page letter marked as “confidential” sent to the Greens leader, David Shoebridge, earlier this month.",
+          "zh": "周六下午，斯蒂尔-约翰（ Steele-John ）删除了一篇社交媒体帖子，其中包含本月早些时候发送给绿党领袖大卫·休布里奇（ David Shoebridge ）的一封标有“机密”的三页信"
+        },
+        {
+          "en": "The letter urged an investigation into allegations he had acted inappropriately towards women between 2017 and 2025.",
+          "zh": "这封信敦促对他在2017年至2025年期间对女性采取不当行为的指控进行调查。"
+        },
+        {
+          "en": "Sign up for Guardian Australia’s Politics, really newsletter here Continue reading..",
+          "zh": "订阅澳大利亚《卫报》的政治，真正的新闻通讯在这里继续阅读。"
+        }
+      ]
+    },
+    {
+      "id": "b1ce173818dfcae1",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Helen Haines’s condition improves days after losing both legs from alleged attack",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/24/helen-hainess-condition-improves-days-after-losing-both-legs-from-alleged-attack-ntwnfb",
+      "publishedAt": "2026-10-24T00:41:29.000Z",
+      "sentences": [
+        {
+          "en": "Helen Haines’s condition improves days after losing both legs from alleged attack.",
+          "zh": "海伦·海恩斯（ Helen Haines ）在因涉嫌袭击而失去双腿后几天病情有所改善。"
+        },
+        {
+          "en": "Independent MP now serious but stable, according to update from Melbourne’s Alfred hospital Get our breaking news email , free app or daily news podcast Independent MP Helen Haines’s condition has been downgraded to serious but stable after she lost both legs following an alleged attack near her electorate office in north-east Victoria on Monday afternoon.",
+          "zh": "独立议员现在严重但稳定，根据墨尔本阿尔弗雷德医院的最新消息获取我们的突发新闻电子邮件，免费应用程序或每日新闻播客独立议员海伦·海因斯（ Helen Haines ）在周一下午在维多利亚州东北部的选民办公室附近发生涉嫌袭击后失去双腿后，她的病情已降级为严重但稳定。"
+        },
+        {
+          "en": "The Alfred hospital in Melbourne provided an update on Haines’s condition on Saturday morning.",
+          "zh": "周六早上，墨尔本的Alfred医院提供了Haines病情的最新消息。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "97c227bfaa084727",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-24T00:36:47.000Z",
+      "sentences": [
+        {
+          "en": "White House lifts tariffs on some Canadian goods as midterm elections loom.",
+          "zh": "随着中期选举的临近，白宫取消了对一些加拿大商品的关税。"
+        },
+        {
+          "en": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
+          "zh": "从10月30日起，一些产品（包括某些机械）的关税将被放宽，而其他产品（如地毯）的关税将被放宽。"
+        }
+      ]
+    },
+    {
+      "id": "e74c44b14e60bf33",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Rubio tells Cubans ‘now is the time’ to act to see political change",
+      "url": "https://www.theguardian.com/us-news/2026/oct/23/marco-rubio-cuba-trump",
+      "publishedAt": "2026-10-24T00:30:02.000Z",
+      "sentences": [
+        {
+          "en": "Rubio tells Cubans ‘now is the time’ to act to see political change.",
+          "zh": "卢比奥告诉古巴人“现在是采取行动看到政治变革的时候了”。"
+        },
+        {
+          "en": "US secretary of state makes comments after Trump tells US rally warships could intervene on return from Iran Marco Rubio urged Cubans seeking political change in their country to act, saying “now is the time” moments after Donald Trump told a Friday rally for candidates in south Florida that US warships could intervene in Cuba on their way back from the Iran war.",
+          "zh": "美国国务卿发表评论后，特朗普告诉美国集会战舰可能在从伊朗返回后进行干预马可·卢比奥敦促古巴人寻求政治变革，在他们的国家采取行动，说“现在是时候”的时刻唐纳德·特朗普周五在佛罗里达州南部的候选人集会上说，美国战舰可能会在从伊朗战争回来的路上干预古巴。"
+        },
+        {
+          "en": "The US secretary of state, in his social media post addressed “to those who seek to create positive change”, urged Cubans to capitalize on Trump’s plans.",
+          "zh": "美国国务卿在他的社交媒体帖子中向“那些寻求创造积极变化的人”发表讲话，敦促古巴人利用特朗普的计划。"
+        },
+        {
+          "en": "“The disappointment of failed promises, corruption, and the privileged lives of only a few; seize this opportunity to create the change you desire through a discrete [sic] partnership with the CIA,” Rubio said.",
+          "zh": "卢比奥说： “对失败的承诺、腐败和少数人的特权生活的失望；抓住这个机会，通过与中央情报局的离散[原文如此]伙伴关系，创造你想要的变革。”"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "fdf271095940d4a8",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Thunderstorms, heavy rain and flash flooding predicted for much of Australia",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/24/thunderstorms-heavy-rain-and-flash-flooding-predicted-for-much-of-australia",
+      "publishedAt": "2026-10-23T23:26:05.000Z",
+      "sentences": [
+        {
+          "en": "Thunderstorms, heavy rain and flash flooding predicted for much of Australia.",
+          "zh": "预计澳大利亚大部分地区将出现雷暴、大雨和山洪暴发。"
+        },
+        {
+          "en": "Parts of Queensland, Victoria and South Australia can expect severe storms on Saturday, moving into NSW and Tasmania by Sunday Get our breaking news email , free app or daily news podcast Severe thunderstorms and heavy rain will sweep across most Australian states this weekend, adding to the deluge in an already drenched Queensland.",
+          "zh": "昆士兰州、维多利亚州和南澳大利亚州的部分地区可能会在周六遭受严重风暴，并在周日前进入新南威尔士州和塔斯马尼亚州获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客本周末澳大利亚大多数州都将发生严重的雷暴和大雨，这加剧了已经湿透的昆士兰州的洪水。"
+        },
+        {
+          "en": "Flash flooding in south-east Queensland this week prompted hundreds of SES callouts and the closure of multiple schools.",
+          "zh": "本周昆士兰州东南部的山洪暴发引发了数百起SES标记和多所学校的关闭。"
+        },
+        {
+          "en": "On Saturday morning, the Bureau of Meteorology had nine flood warnings in place for south Queensland.",
+          "zh": "星期六早上，气象局为昆士兰州南部发布了九次洪水警报。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "03a27aa845611eb5",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-23T23:08:23.000Z",
+      "sentences": [
+        {
+          "en": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election.",
+          "zh": "学生运动将塞尔维亚的武契奇带到了颈部和颈部选举中。"
+        },
+        {
+          "en": "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule.",
+          "zh": "学生名单已经从近两年的反腐败抗议活动中脱颖而出，成为对武契奇统治的最大挑战。"
+        }
+      ]
+    },
+    {
+      "id": "316ed2d0479cf95c",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
+      "url": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-23T22:47:07.000Z",
+      "sentences": [
+        {
+          "en": "Father who killed Oregon school gunman describes anguish over children he couldn't save.",
+          "zh": "杀害俄勒冈州学校枪手的父亲描述了他无法拯救的孩子的痛苦。"
+        },
+        {
+          "en": "Kaylub Giamanco has been hailed as a hero for killing a teenager who fatally shot three children and a teacher.",
+          "zh": "Kaylub Giamanco因杀害一名致命射杀三名儿童和一名教师的少年而被誉为英雄。"
+        }
+      ]
+    },
+    {
+      "id": "60f970e1df3b48e3",
+      "sourceId": "cloudflare-blog",
+      "category": "security",
+      "title": "Origin Range Requests: Serving large files without range-request tuning",
+      "url": "https://blog.cloudflare.com/origin-range-requests/",
+      "publishedAt": "2026-10-23T18:22:59.000Z",
+      "sentences": [
+        {
+          "en": "Origin Range Requests: Serving large files without range-request tuning.",
+          "zh": "原始范围请求：无需范围请求调整即可提供大文件。"
+        },
+        {
+          "en": "A video player seeking to the middle of a movie asks for a few megabytes.",
+          "zh": "寻找电影中间的视频播放器要求几兆字节。"
+        },
+        {
+          "en": "Under our old range caching, that one request could make Cloudflare pull 128 MiB from the origin and move it between data centers, sometimes after the viewer had already left.",
+          "zh": "在我们的旧范围缓存下，一个请求可以使Cloudflare从源中提取128 MiB并在数据中心之间移动，有时在观众已经离开之后。"
+        },
+        {
+          "en": "Range requests are how large files get delivered, and caching them naively easily leads to wasted network bandwidth and wasted disk operations when running a CDN at scale.",
+          "zh": "范围请求是交付大文件的方式，在大规模运行CDN时，天真地缓存它们很容易导致浪费网络带宽和浪费磁盘操作。"
+        },
+        {
+          "en": "So we rebuilt how our cache handles them.",
+          "zh": "因此，我们重建了缓存处理它们的方式。"
+        },
+        {
+          "en": "For R2, Cloudflare&#x27;s object storage, p99 time to first byte dropped by about half, and a follow-up improvement cut tiered cache traffic for R2 and similar workloads by about 6%.",
+          "zh": "对于R2 ， Cloudflare的对象存储， p99到第一个字节的时间减少了大约一半，后续改进将R2和类似工作负载的分层缓存流量减少了大约6%。"
+        },
+        {
+          "en": "Today, we&#x27;re making that new implementation available as Origin Range Requests , a self-service feature on all plans.",
+          "zh": "今天，我们将该新实现作为Origin Range Requests提供，这是所有套餐的自助服务功能。"
+        },
+        {
+          "en": "There&#x27;s no range size to tune and no need to contact support.",
+          "zh": "无需调整范围大小，也无需联系客服。"
+        },
+        {
+          "en": "Turn it on with a Cache Rule , and Cloudflare handles the rest.",
+          "zh": "使用缓存规则将其打开， Cloudflare将处理其余部分。"
+        },
+        {
+          "en": "A request for part of a file An HTTP range request asks for part of a resource instead of the whole resource.",
+          "zh": "对文件的一部分的请求HTTP范围请求请求的是资源的一部分，而不是整个资源。"
+        },
+        {
+          "en": "The client sends a normal GET with a Range header: GET /movie.mp4 HTTP/1.1 Host: example.com Range: bytes=1048576-2097151 If the server supports the request, it returns 206 Partial Content and identifies the returned bytes with Content-Range : HTTP/1.1 206 Partial Content Content-Range: bytes 1048576-2097151/524288000 Content-Length: 1048576 Range requests are common for large objects.",
+          "zh": "客户端发送带有Range标头的正常GET ： GET/movie.mp4 HTTP/1.1 Host: example.com Range: bytes = 1048576-2097151如果服务器支持该请求，它将返回206 Partial Content ，并使用Content-Range: HTTP/1.1 206 Partial Content Content-Range: bytes 1048576-2097151/524288000 Content-Length: 1048576标识返回的字节。对于大型对象，范围请求很常见。"
+        },
+        {
+          "en": "A video player can request bytes around a seek position instead of the whole file.",
+          "zh": "视频播放器可以请求查找位置周围的字节，而不是整个文件。"
+        }
+      ]
+    },
+    {
+      "id": "70bdd870b2ac82df",
+      "sourceId": "cloudflare-blog",
+      "category": "science",
+      "title": "Bringing post-quantum cryptography to geographically fenced key management",
+      "url": "https://blog.cloudflare.com/post-quantum-geo-key-manager/",
+      "publishedAt": "2026-10-23T18:06:56.000Z",
+      "sentences": [
+        {
+          "en": "Bringing post-quantum cryptography to geographically fenced key management.",
+          "zh": "将后量子密码学引入地理围栏密钥管理。"
+        },
+        {
+          "en": "Today, Cloudflare is launching a post-quantum geographically restricted key manager in support of our Data Localization Suite (DLS) in closed beta.",
+          "zh": "今天， Cloudflare将推出后量子地理限制密钥管理器，以支持我们的数据本地化套件(DLS)的封闭测试版。"
+        },
+        {
+          "en": "This new PQ GeoKey Manager is a cornerstone of Cloudflare’s data sovereignty solutions, making sure that a customer&#x27;s decryption keys are only accessible in their chosen geography.",
+          "zh": "这款新的PQ GeoKey Manager是Cloudflare数据主权解决方案的基石，可确保客户的解密密钥只能在其选择的地理位置访问。"
+        },
+        {
+          "en": "GeoKey Manager implements this by wrapping each decryption key such that it can only be decrypted by Cloudflare servers that are located in the allowed geography.",
+          "zh": "GeoKey Manager通过包装每个解密密钥来实现这一点，使其只能由位于允许地理位置的Cloudflare服务器解密。"
+        },
+        {
+          "en": "While general availability (GA) is planned for Q1 2027, today’s launch is an important milestone on our journey to support our customers’ data sovereignty goals while also migrating all Cloudflare products to post-quantum (PQ) cryptography .",
+          "zh": "虽然计划在2027年第一季度全面上市（ GA ） ，但今天的发布是我们支持客户数据主权目标之旅中的一个重要里程碑，同时也将所有Cloudflare产品迁移到后量子（ PQ ）加密。"
+        },
+        {
+          "en": "Governments, financial institutions, healthcare providers, and defense organizations process highly sensitive data that can remain sensitive for years or decades after it is produced.",
+          "zh": "政府、金融机构、医疗保健提供商和国防组织处理高度敏感的数据，这些数据在生成后可以保持敏感数年或数十年。"
+        },
+        {
+          "en": "Encryption is often required to protect this data.",
+          "zh": "通常需要加密来保护这些数据。"
+        },
+        {
+          "en": "When classical, public-key encryption is used, adversaries do not immediately need a quantum computer today to put that data at risk: they can store the ciphertext and retain them until quantum computers can break the public key cryptography protecting it — an attack strategy known as harvest now, decrypt later.",
+          "zh": "当使用经典的公钥加密时，对手现在并不需要量子计算机来将数据置于风险之中：他们可以存储密文并保留它们，直到量子计算机可以破解保护它的公钥加密—这种攻击策略称为现在收获，稍后解密。"
+        },
+        {
+          "en": "For organizations with geographic requirements, resisting that threat is only half the challenge.",
+          "zh": "对于具有地域要求的组织来说，抵御这种威胁只是挑战的一半。"
+        },
+        {
+          "en": "At Cloudflare&#x27;s scale, high availability requires replicating customer data across many servers across our global network.",
+          "zh": "按照Cloudflare的规模，高可用性需要在我们全球网络中的许多服务器上复制客户数据。"
+        },
+        {
+          "en": "However, many data sovereignty regulations require that certain types of data be processed only within a given geographical region.",
+          "zh": "但是，许多数据主权法规要求仅在给定地理区域内处理某些类型的数据。"
+        },
+        {
+          "en": "We must therefore ensure the data is end-to-end encrypted such that only servers within the region have access to the plaintext.",
+          "zh": "因此，我们必须确保数据是端到端加密的，只有区域内的服务器才能访问明文。"
+        }
+      ]
+    },
+    {
+      "id": "b3057c3a49fd9a0c",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Duchess of Sussex ‘deeply distressed’ over child sexual abuse image claims against father",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/23/meghan-duchess-of-sussex-distressed-child-sexual-abuse-image-claims-against-father",
+      "publishedAt": "2026-10-23T17:14:16.000Z",
+      "sentences": [
+        {
+          "en": "Duchess of Sussex ‘deeply distressed’ over child sexual abuse image claims against father.",
+          "zh": "苏塞克斯公爵夫人对针对父亲的儿童性虐待形象索赔“深感痛苦”。"
+        },
+        {
+          "en": "Meghan reveals she was made aware of ‘disturbing allegations’ against him in 2018 by Met police The Duchess of Sussex has said she is “deeply distressed” over accusations involving child sexual abuse images against her estranged father, Thomas Markle Sr, and revealed she was made aware of “disturbing allegations” against him in 2018 by the Metropolitan police.",
+          "zh": "梅根透露，她在2018年被大都会警察局告知对他的“令人不安的指控”苏塞克斯公爵夫人表示，她对涉及对她疏远的父亲托马斯·马克尔（ Thomas Markle Sr ）的儿童性虐待图像的指控“深感悲痛” ，并透露她知道大都会警察局在2018年对他的“令人不安的指控”。"
+        },
+        {
+          "en": "Meghan issued a statement after the Sun newspaper published claims that her half-brother Thomas Markle Jr alleged he had found a stash of images belonging to their father at his former home in the Philippines.",
+          "zh": "梅根在《太阳报》发表声明后发表声明称，她的同父异母兄弟小托马斯·马克尔（ Thomas Markle Jr ）声称，他在他们父亲在菲律宾的前家中发现了一些属于他父亲的照片。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "fbadabad4df2c3de",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "See what 5 builders are making with Gemini 4 Argon",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-builders/",
+      "publishedAt": "2026-10-23T16:00:00.000Z",
+      "sentences": [
+        {
+          "en": "See what 5 builders are making with Gemini 4 Argon.",
+          "zh": "看看5位建筑商用Gemini 4 Argon做了什么。"
+        },
+        {
+          "en": "See how five builders are putting Gemini 4 Argon to work — and get inspired for your next build.",
+          "zh": "了解五位建筑商如何让Gemini 4 Argon发挥作用，并为您的下一次建造获得灵感。"
+        }
+      ]
+    }
+  ],
+  "failures": []
+}
