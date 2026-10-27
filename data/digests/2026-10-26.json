@@ -1,0 +1,845 @@
+{
+  "date": "2026-10-26",
+  "collectedAt": "2026-10-27T03:51:25.258Z",
+  "items": [
+    {
+      "id": "55a9edc815280797",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Catholic bishops apologise for 'exploited' Trump meeting",
+      "url": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-26T15:46:31.000Z",
+      "sentences": [
+        {
+          "en": "Catholic bishops apologise for 'exploited' Trump meeting.",
+          "zh": "天主教主教为“被剥削”的特朗普会议道歉。"
+        },
+        {
+          "en": "Two bishops in images that show them praying with Trump have said they believed the meeting was private.",
+          "zh": "两位主教在图片中展示了他们与特朗普一起祈祷，他们说他们认为这次会议是私人的。"
+        }
+      ]
+    },
+    {
+      "id": "387b0af82a269f43",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Police arrest teenager after shooting that injured 12, including children, in Florida",
+      "url": "https://www.bbc.co.uk/news/articles/ckpdg8vnv171o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-26T15:45:30.000Z",
+      "sentences": [
+        {
+          "en": "Police arrest teenager after shooting that injured 12, including children, in Florida.",
+          "zh": "警方在佛罗里达州开枪打伤12人（包括儿童）后逮捕了青少年。"
+        },
+        {
+          "en": "The incident happened on Saturday night, close to an American football stadium where a game had just been played.",
+          "zh": "事件发生在周六晚上，靠近刚刚举行比赛的美式足球场。"
+        }
+      ]
+    },
+    {
+      "id": "c889760de5d37b05",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
+      "url": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
+      "publishedAt": "2026-10-26T15:07:23.000Z",
+      "sentences": [
+        {
+          "en": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’.",
+          "zh": "英国制裁涉嫌参与法希尔“强奸运动”的苏丹军方领导人。"
+        },
+        {
+          "en": "Commanders suspected of sexual violence during the largest and fastest slaughter of civilians in more than 30 years have been subjected to travel ban and asset freeze Senior Sudanese commanders implicated in a “campaign of rape” have been targeted by the UK on the first anniversary of a mass atrocity that saw tens of thousands of civilians killed over several days.",
+          "zh": "在30多年来规模最大、速度最快的屠杀平民事件中，涉嫌性暴力的指挥官一直受到旅行禁令和财产冻结，卷入“强奸运动”的苏丹高级指挥官在一场大规模暴行发生一周年之际成为英国的目标，这场暴行导致数万名平民在几天内丧生。"
+        },
+        {
+          "en": "A year after the fall of El Fasher , the British government said it had sanctioned military leaders from both sides in the country’s ongoing conflict whom it suspected of sexual violence during the siege of the city.",
+          "zh": "法希尔陷落一年后，英国政府表示，它已经制裁了该国持续冲突双方的军事领导人，他们涉嫌在围困该市期间实施性暴力。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "41de2a71b391307f",
+      "sourceId": "ms-devblogs",
+      "category": "release-notes",
+      "title": "PostgreSQL Like A Pro: Build, query, and troubleshoot without leaving VS Code",
+      "url": "https://devblogs.microsoft.com/blog/postgresql-like-a-pro-vscode/",
+      "publishedAt": "2026-10-26T15:05:12.000Z",
+      "sentences": [
+        {
+          "en": "PostgreSQL Like A Pro: Build, query, and troubleshoot without leaving VS Code.",
+          "zh": "PostgreSQL Like A Pro ：无需离开VS Code即可进行构建、查询和故障排除。"
+        },
+        {
+          "en": "You’re building an app in VS Code.",
+          "zh": "您正在VS Code中构建应用。"
+        },
+        {
+          "en": "Then you need to check a table, understand how two tables connect, or figure out why a query is slow.",
+          "zh": "然后，您需要检查一个表，了解两个表是如何连接的，或者找出查询速度慢的原因。"
+        },
+        {
+          "en": "That often means opening another tool and finding your way back to the code.",
+          "zh": "这通常意味着打开另一个工具并找到返回代码的路。"
+        },
+        {
+          "en": "The PostgreSQL extension for VS Code brings common database tasks into your editor.",
+          "zh": "PostgreSQL VS Code扩展将常见数据库任务带入编辑器。"
+        },
+        {
+          "en": "You can explore database objects, write and run SQL, and use database context with GitHub Copilot as you work.",
+          "zh": "您可以探索数据库对象，编写和运行SQL ，并在工作时使用GitHub Copilot的数据库上下文。"
+        },
+        {
+          "en": "Here are four ways to make that part of your development workflow, from finding your first table to reviewing a performance recommendation.",
+          "zh": "从查找第一张表格到查看绩效建议，以下是使该内容成为开发工作流程的一部分的四种方法。"
+        },
+        {
+          "en": "Each section includes a video from PostgreSQL Like a Pro: VS Code Edition if you’d like to follow along.",
+          "zh": "每个部分都包含来自PostgreSQL Like a Pro: VS Code Edition的视频（如果您想跟进的话）。"
+        },
+        {
+          "en": "1.",
+          "zh": null
+        },
+        {
+          "en": "Get connected and find your way around Before writing a query, you need to know what’s in the database.",
+          "zh": "在撰写查询之前，您需要了解数据库中的内容。"
+        },
+        {
+          "en": "Install Microsoft’s PostgreSQL extension, then select the PostgreSQL icon in the Activity Bar to add a connection.",
+          "zh": "安装Microsoft的PostgreSQL扩展，然后在活动栏中选择PostgreSQL图标以添加连接。"
+        },
+        {
+          "en": "You can connect to on-premises or cloud databases and save connection profiles to reuse later.",
+          "zh": "您可以连接到本地或云数据库，并保存连接配置文件以便稍后重用。"
+        }
+      ]
+    },
+    {
+      "id": "f9c579d144253248",
+      "sourceId": "aws-news",
+      "category": "cloud",
+      "title": "AWS Weekly Roundup: Amazon Polly Generative engine, TorchNeuron for Trainium, and more (October 26, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-polly-generative-engine-torchneuron-for-trainium-and-more-october-26-2026/",
+      "publishedAt": "2026-10-26T15:02:24.000Z",
+      "sentences": [
+        {
+          "en": "AWS Weekly Roundup: Amazon Polly Generative engine, TorchNeuron for Trainium, and more (October 26, 2026).",
+          "zh": "AWS每周综述： Amazon Polly生成引擎、Trainium的TorchNeuron等（ 2026年10月26日）。"
+        },
+        {
+          "en": "A few weeks ago I presented to a small group of commercial and technology leaders from Brazilian agribusiness at the AWS office in São Paulo.",
+          "zh": "几周前，我在圣保罗的AWS办公室向巴西农业综合企业的一小群商业和技术领导者进行了演讲。"
+        },
+        {
+          "en": "My talk ran through where generative AI fits across the different stages of an agribusiness operation, and the point I kept returning to is that the markets we call traditional are exactly the ones where keeping up with this technology decides who ends up ahead of the curve.",
+          "zh": "我的演讲贯穿了生成式人工智能适用于农业综合企业运营的不同阶段，我不断回到的一点是，我们称之为传统的市场正是跟上这项技术的市场，决定谁最终走在曲线的前面。"
+        },
+        {
+          "en": "Nobody there was arguing about whether AI belongs in agriculture.",
+          "zh": "那里没有人争论人工智能是否属于农业。"
+        },
+        {
+          "en": "The questions were about delivery: who receives the output, in which language, on which device, often while driving between farms.",
+          "zh": "问题是关于交付的：谁接收输出，使用哪种语言，在哪种设备上，通常是在农场之间行驶时。"
+        },
+        {
+          "en": "That is why a launch I might otherwise have filed under routine leads my list this week.",
+          "zh": "这就是为什么我本来可能在例行公事下提交的发布会在本周排在我的名单前面。"
+        },
+        {
+          "en": "The Amazon Polly Generative engine upgrade added 14 new voices, two of them in Brazilian Portuguese.",
+          "zh": "Amazon Polly Generative引擎升级增加了14种新声音，其中两种是巴西葡萄牙语。"
+        },
+        {
+          "en": "When your user has both hands on a steering wheel, the interface is a voice.",
+          "zh": "当您的用户双手放在方向盘上时，界面就是一个声音。"
+        },
+        {
+          "en": "Presenting “GenAI no Agronegócio Brasileiro” at the AWS office in São Paulo.",
+          "zh": "在圣保罗的AWS办事处展示“GenAI no Agronegócio Brasileiro”。"
+        },
+        {
+          "en": "The rest of the week had a sharper edge.",
+          "zh": "本周剩余时间的边缘更加锋利。"
+        },
+        {
+          "en": "The biggest launch is a security service built on the premise that the gap between a vulnerability being disclosed and a vulnerability being exploited has effectively closed, and AWS published the honeypot evidence for exactly that in the same week.",
+          "zh": "最大的发布是建立在被披露的漏洞和被利用的漏洞之间的差距已经有效弥合的前提下的安全服务， AWS在同一周发布了蜜罐证据。"
+        },
+        {
+          "en": "Now, let’s get into this week’s AWS news… AWS Continuum for code vulnerabilities is now generally available AWS Continuum reframes vulnerability management as an end-to-end job rather than a scanner that hands you a list.",
+          "zh": "现在，让我们来看看本周的AWS新闻……针对代码漏洞的AWS Continuum现已正式推出AWS Continuum将漏洞管理重新构建为端到端工作，而不是向您提供列表的扫描仪。"
+        }
+      ]
+    },
+    {
+      "id": "f0acb11d7bdafd3b",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Powering sub-Saharan Africa beyond the grid",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/sub-saharan-africa-ignite/",
+      "publishedAt": "2026-10-26T15:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Powering sub-Saharan Africa beyond the grid.",
+          "zh": "在电网之外为撒哈拉以南非洲供电。"
+        },
+        {
+          "en": "Google spent the past three years collaborating with Ignite Energy Access through our Startups for Sustainable Development program.",
+          "zh": "Google在过去三年中通过我们的Startups for Sustainable Development计划与Ignite Energy Access合作。"
+        }
+      ]
+    },
+    {
+      "id": "be7f243c1026b50b",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Audi boss under fire in Germany for Trump rally appearance",
+      "url": "https://www.theguardian.com/world/2026/oct/26/audi-boss-under-fire-in-germany-for-trump-rally-appearance",
+      "publishedAt": "2026-10-26T14:42:27.000Z",
+      "sentences": [
+        {
+          "en": "Audi boss under fire in Germany for Trump rally appearance.",
+          "zh": "奥迪老板在德国因特朗普拉力赛出场而受到抨击。"
+        },
+        {
+          "en": "Gernot Döllner criticised for in-person announcement of major investment in US days before midterm elections The head of the luxury carmaker Audi is under fire in Germany for appearing at a rally with Donald Trump just days before the US midterm elections, to announce billions of dollars of investment in battleground state Georgia.",
+          "zh": "Gernot Döllner批评亲自宣布在中期选举前几天对美国进行重大投资。豪华汽车制造商奥迪的负责人在德国受到抨击，因为他在美国中期选举前几天与唐纳德·特朗普一起参加集会，宣布在战场州格鲁吉亚投资数十亿美元。"
+        },
+        {
+          "en": "Gernot Döllner joined Trump on stage after the US president gave a speech criticised by the head of an elected body of employees at Audi’s parent company, Volkswagen, as being full of “racism, sexism, transphobia [and] contempt for democracy”.",
+          "zh": "格诺·多尔纳（ Gernot Döllner ）在美国总统发表演讲后加入了特朗普的舞台，奥迪母公司大众（ Volkswagen ）当选员工的负责人批评他充满了“种族主义、性别歧视、跨性别恐惧症[和]蔑视民主”。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "389047118581412a",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-26T14:34:52.000Z",
+      "sentences": [
+        {
+          "en": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement.",
+          "zh": "资深统治者武契奇在学生领导的抗议运动中落败后，塞尔维亚举行了庆祝活动。"
+        },
+        {
+          "en": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+          "zh": "这位执政12年的民粹主义右翼领导人表示， “很明显”他的政党已经失去了被认为是对该国未来的公投的投票。"
+        }
+      ]
+    },
+    {
+      "id": "64ebafba5677c6b6",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Nurse killed in attack while responding to Ebola alert in DR Congo",
+      "url": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-26T14:27:32.000Z",
+      "sentences": [
+        {
+          "en": "Nurse killed in attack while responding to Ebola alert in DR Congo.",
+          "zh": "在刚果民主共和国应对埃博拉警报时，一名护士在袭击中丧生。"
+        },
+        {
+          "en": "Local youths reportedly accused the health workers of contaminating water sources and spreading Ebola.",
+          "zh": "据报道，当地青年指责卫生工作者污染水源和传播埃博拉病毒。"
+        }
+      ]
+    },
+    {
+      "id": "b4d20aefa8c3aa9f",
+      "sourceId": "npr-news",
+      "category": "ai",
+      "title": "AI giant Anthropic files for an IPO that could break records",
+      "url": "https://www.npr.org/2026/10/26/nx-s1-6014772/anthropic-ai-ipo-could-break-records",
+      "publishedAt": "2026-10-26T14:16:23.000Z",
+      "sentences": [
+        {
+          "en": "AI giant Anthropic files for an IPO that could break records.",
+          "zh": "人工智能巨头Anthropic的IPO文件可能会打破记录。"
+        },
+        {
+          "en": "The AI company, which makes the popular Claude chatbot, has filed for an initial public offering that could be one of the biggest ever.",
+          "zh": "这家制造受欢迎的Claude聊天机器人的人工智能公司已申请首次公开募股，这可能是有史以来规模最大的公司之一。"
+        },
+        {
+          "en": "(Image credit: Patrick Sison)",
+          "zh": "（图片来源： Patrick Sison ）"
+        }
+      ]
+    },
+    {
+      "id": "0e5704c9c609d05d",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
+      "url": "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-26T14:16:09.000Z",
+      "sentences": [
+        {
+          "en": "Chris Brown given suspended eight-month prison sentence over nightclub attack.",
+          "zh": "克里斯·布朗（ Chris Brown ）因夜总会袭击被判缓刑八个月。"
+        },
+        {
+          "en": "The R&B star previously pleaded guilty to affray, after attacking a music producer with a glass bottle.",
+          "zh": "这位R ＆ B明星在用玻璃瓶袭击音乐制作人后，先前承认有罪。"
+        }
+      ]
+    },
+    {
+      "id": "1ee616a24c0ec358",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "US Marine indicted for murder and robbery of woman in Japan",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgxjex1z9wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-26T14:13:18.000Z",
+      "sentences": [
+        {
+          "en": "US Marine indicted for murder and robbery of woman in Japan.",
+          "zh": "美国海军陆战队被控在日本谋杀和抢劫妇女。"
+        },
+        {
+          "en": "Prosecutors have indicted Devin Jacob Ballard for a killing that has caused outrage in Japan, local media reports.",
+          "zh": "据当地媒体报道，检察官已起诉德文·雅各布·巴拉德（ Devin Jacob Ballard ）犯有在日本引起愤怒的杀人罪。"
+        }
+      ]
+    },
+    {
+      "id": "594be5bd31019da8",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "We’re helping farmers around the world connect to essential services online.",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/digital-public-infrastructure-farmers/",
+      "publishedAt": "2026-10-26T14:00:00.000Z",
+      "sentences": [
+        {
+          "en": "We’re helping farmers around the world connect to essential services online.",
+          "zh": "我们正在帮助世界各地的农民在线获取基本服务。"
+        },
+        {
+          "en": "Google.org is investing $2.5M to help 1 million farmers access AI-powered agricultural services via the World Bank's ONA.",
+          "zh": "Google.org正在投资250万美元，帮助100万农民通过世界银行的ONA获得人工智能驱动的农业服务。"
+        },
+        {
+          "en": "See how it works.",
+          "zh": "看看它是如何工作的。"
+        }
+      ]
+    },
+    {
+      "id": "5c34d364b9dc4ad9",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Japanese prosecutors charge US marine suspected of robbing and killing woman",
+      "url": "https://www.theguardian.com/world/2026/oct/26/japanese-prosecuters-charge-marine-killing",
+      "publishedAt": "2026-10-26T13:41:41.000Z",
+      "sentences": [
+        {
+          "en": "Japanese prosecutors charge US marine suspected of robbing and killing woman.",
+          "zh": "日本检察官指控美国海军涉嫌抢劫和杀害妇女。"
+        },
+        {
+          "en": "Devin Jacob Ballard, 20, denies charges that he fatally strangled Anna Yagi, 39, in a hotel on the island of Okinawa Prosecutors in Japan have filed formal charges against a US marine suspected of murdering and robbing a woman while stationed on the country’s island of Okinawa, according to Japanese media.",
+          "zh": "据日本媒体报道， 20岁的德文·雅各布·巴拉德（ Devin Jacob Ballard ）否认了他在冲绳岛的一家酒店致命扼杀39岁的安娜·八木（ Anna Yagi ）的指控。日本检察官已对一名涉嫌谋杀和抢劫一名驻扎在冲绳岛的女性的美国海军提出正式指控。"
+        },
+        {
+          "en": "Devin Jacob Ballard, a 20-year-old lance corporal assigned to Marine Corps Air Station Futenma in Okinawa, is charged with fatally strangling Anna Yagi, 39, at a hotel in the city and stealing from her a backpack containing a wallet, the public broadcaster NHK reported .",
+          "zh": "据公共广播公司NHK报道，被派往冲绳普天间海军陆战队航空站的20岁长矛下士德文·雅各布·巴拉德（ Devin Jacob Ballard ）被控在该市一家酒店致命地扼杀39岁的安娜·亚吉（ Anna Yagi ） ，并从她身上偷走了一个装有钱包的背包。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "65b1d0250df858a6",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Australian judge rejects prisoner's human rights challenge to Vegemite ban",
+      "url": "https://www.npr.org/2026/10/26/g-s1-149923/australian-judge-rejects-prisoners-human-rights-challenge-to-vegemite-ban",
+      "publishedAt": "2026-10-26T13:25:33.000Z",
+      "sentences": [
+        {
+          "en": "Australian judge rejects prisoner's human rights challenge to Vegemite ban.",
+          "zh": "澳大利亚法官驳回囚犯对Vegemite禁令的人权挑战。"
+        },
+        {
+          "en": "Andre McKechnie, 55, is serving a life sentence for murder.",
+          "zh": "55岁的Andre McKechnie因谋杀罪正在服无期徒刑。"
+        },
+        {
+          "en": "He took his battle for the salty, sticky, black-brown byproduct of brewing beer to the court last year.",
+          "zh": "去年，他在法庭上为酿造啤酒的咸、粘、黑褐色副产品而战。"
+        },
+        {
+          "en": "He argued being refused Vegemite breached the Charter of Human Rights and Responsibilities Act.",
+          "zh": "他辩称， Vegemite被拒绝违反了《人权宪章和责任法》。"
+        },
+        {
+          "en": "(Image credit: Rick Rycroft)",
+          "zh": "（图片来源： Rick Rycroft ）"
+        }
+      ]
+    },
+    {
+      "id": "e5102fe2e458f9d0",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "What to know about China's plenum as Xi seeks stronger party discipline",
+      "url": "https://www.npr.org/2026/10/26/g-s1-149918/what-to-know-about-chinas-plenum-as-xi-seeks-stronger-party-discipline",
+      "publishedAt": "2026-10-26T13:20:38.000Z",
+      "sentences": [
+        {
+          "en": "What to know about China's plenum as Xi seeks stronger party discipline.",
+          "zh": "在习近平寻求更强有力的党的纪律之际，对中国的全体会议有什么了解。"
+        },
+        {
+          "en": "This closed-door gathering that started Monday comes about a year before Xi is expected to secure a fourth term and personnel changes to key leadership bodies.",
+          "zh": "这次闭门会议于周一开始，距离习近平有望获得第四个任期和关键领导机构的人事变动大约还有一年的时间。"
+        },
+        {
+          "en": "(Image credit: Xie Huanchi)",
+          "zh": "（图片来源：谢焕驰）"
+        }
+      ]
+    },
+    {
+      "id": "84c8b528621607ac",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "How Google Beam connects military families globally",
+      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-uso-docuseries-service-members/",
+      "publishedAt": "2026-10-26T13:00:00.000Z",
+      "sentences": [
+        {
+          "en": "How Google Beam connects military families globally.",
+          "zh": "Google Beam如何连接全球军人家庭。"
+        },
+        {
+          "en": "Google and the USO are bringing Google Beam to 20 locations, connecting deployed service members and their families.",
+          "zh": "Google和USO正在将Google Beam带到20个地点，将部署的服务成员及其家人联系起来。"
+        }
+      ]
+    },
+    {
+      "id": "0585ad055e3c044d",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Ebola: UN officials condemn killing of nurse in DR Congo",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168667",
+      "publishedAt": "2026-10-26T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Ebola: UN officials condemn killing of nurse in DR Congo.",
+          "zh": "埃博拉：联合国官员谴责在刚果民主共和国杀害护士的行为。"
+        },
+        {
+          "en": "The UN’s Ebola coordinator and the head of the World Health Organization (WHO) have deplored the killing of a nurse working to halt the spread of the disease in the Democratic Republic of the Congo (DRC).",
+          "zh": "联合国埃博拉协调员和世界卫生组织（世卫组织）负责人对一名致力于遏制该疾病在刚果民主共和国蔓延的护士遇害表示遗憾。"
+        }
+      ]
+    },
+    {
+      "id": "7919e1977422b522",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "In Egypt, Guterres warns against Iran-US escalation",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168669",
+      "publishedAt": "2026-10-26T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "In Egypt, Guterres warns against Iran-US escalation.",
+          "zh": "在埃及，古特雷斯警告伊朗-美国关系升级。"
+        },
+        {
+          "en": "UN Secretary-General António Guterres called for dialogue and diplomacy to end the war between Iran and the United States in remarks on Monday to journalists in Cairo, Egypt.",
+          "zh": "联合国秘书长安东尼奥·古特雷斯（ António Guterres ）周一在埃及开罗向记者发表讲话，呼吁通过对话和外交手段结束伊朗与美国之间的战争。"
+        }
+      ]
+    },
+    {
+      "id": "28cf2b6e0f7512d3",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Ukraine: Investigators find Russia committed war crimes by targeting civilians",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168670",
+      "publishedAt": "2026-10-26T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Ukraine: Investigators find Russia committed war crimes by targeting civilians.",
+          "zh": "乌克兰：调查人员发现俄罗斯以平民为目标犯下了战争罪。"
+        },
+        {
+          "en": "Top human rights experts investigating Russia’s full-scale invasion of Ukraine said on Monday that the Russian authorities had committed war crimes and crimes against humanity by attacking civilians and vital energy infrastructure, among other violations of international law.",
+          "zh": "调查俄罗斯全面入侵乌克兰的高级人权专家周一表示，俄罗斯当局通过袭击平民和重要能源基础设施以及其他违反国际法的行为犯下了战争罪和危害人类罪。"
+        }
+      ]
+    },
+    {
+      "id": "af84b0bc7217b043",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Women and girls’ share of civilian war deaths doubles since 2021",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168673",
+      "publishedAt": "2026-10-26T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Women and girls’ share of civilian war deaths doubles since 2021.",
+          "zh": "自2021年以来，妇女和女童在平民战争死亡中所占比例翻了一番。"
+        },
+        {
+          "en": "War is growing deadlier for women and girls, who accounted for one in four of the more than 37,000 civilians killed in armed conflict last year – double their share in 2021 – according to major UN report released Monday.",
+          "zh": "根据周一发布的联合国主要报告，去年在武装冲突中丧生的37,000多名平民中，有四分之一是妇女和女孩，她们在战争中的死亡率越来越高，是2021年的两倍。"
+        }
+      ]
+    },
+    {
+      "id": "25b28e42ff00fb53",
+      "sourceId": "un-news",
+      "category": "business",
+      "title": "West Bank: Hebron crackdown displaces thousands, Türk warns of ethnic cleansing",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168672",
+      "publishedAt": "2026-10-26T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "West Bank: Hebron crackdown displaces thousands, Türk warns of ethnic cleansing.",
+          "zh": "约旦河西岸：土耳其警告称，希伯伦镇压行动导致数千人流离失所。"
+        },
+        {
+          "en": "Israel’s “aggressive operation” in the West Bank city of Hebron raises serious concerns of ethnic cleansing, UN human rights chief Volker Türk warned on Monday, as the number of Palestinians forced from their homes passed 3,000 on the eve of Israeli elections.",
+          "zh": "联合国人权事务主管沃尔克·图尔克（ Volker Türk ）周一警告说，以色列在约旦河西岸城市希伯伦的“侵略行动”引发了对种族清洗的严重担忧，因为在以色列选举前夕，被迫离开家园的巴勒斯坦人数超过了3000人。"
+        }
+      ]
+    },
+    {
+      "id": "413fb5569da42d9c",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Redistricting isn't playing out how the GOP hoped. And, Brazil's Lula wins 4th term",
+      "url": "https://www.npr.org/2026/10/26/g-s1-149917/up-first-newsletter-republican-redistricting-france-serbia-protests-brazil-luiz-inacio-lula-da-silva",
+      "publishedAt": "2026-10-26T11:11:00.000Z",
+      "sentences": [
+        {
+          "en": "Redistricting isn't playing out how the GOP hoped.",
+          "zh": "重新划分选区并没有达到共和党的期望。"
+        },
+        {
+          "en": "And, Brazil's Lula wins 4th term.",
+          "zh": "而且，巴西的卢拉赢得了第四个任期。"
+        },
+        {
+          "en": "Republicans are spending millions on the midterms, and they still may not win districts drawn to favor them.",
+          "zh": "共和党人在中期选举中花费了数百万美元，他们仍然可能无法赢得支持他们的选区。"
+        },
+        {
+          "en": "And, Brazil's Luiz Inácio Lula da Silva won a fourth term in a stunning political comeback.",
+          "zh": "此外，巴西选手路易斯·伊纳西奥·卢拉·达席尔瓦（ Luiz Inácio Lula da Silva ）在惊人的政治复出中赢得了第四"
+        },
+        {
+          "en": "(Image credit: Anna Moneymaker)",
+          "zh": "（图片来源： Anna Moneymaker ）"
+        }
+      ]
+    },
+    {
+      "id": "eb7f0340af3d096c",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "US forces accused of ‘weaponising’ Somalia’s floods by trapping women and children in the path of El Niño",
+      "url": "https://www.theguardian.com/global-development/2026/oct/26/us-forces-accused-of-weaponising-somalia-flood-el-nino",
+      "publishedAt": "2026-10-26T11:00:40.000Z",
+      "sentences": [
+        {
+          "en": "US forces accused of ‘weaponising’ Somalia’s floods by trapping women and children in the path of El Niño.",
+          "zh": "美国军队被指控通过将妇女和儿童困在厄尔尼诺现象的道路上，将索马里的洪水“武器化”。"
+        },
+        {
+          "en": "Exclusive: Coordinated airstrikes on territory held by al-Shabaab are driving the civilian population to find refuge alongside a river where rising water levels are a threat to safety.",
+          "zh": "独家：对青年党控制地区的协调空袭迫使平民在水位上升对安全构成威胁的河流旁寻找避难所。"
+        },
+        {
+          "en": "Is it a deliberate military strategy?",
+          "zh": "这是一种蓄意的军事战略吗？"
+        },
+        {
+          "en": "The water was rising rapidly.",
+          "zh": "水涨得很快。"
+        },
+        {
+          "en": "It had already reached Cayni Ali’s waist.",
+          "zh": "它已经到达凯妮·阿里的腰部。"
+        },
+        {
+          "en": "Her home, five metres from the flooded River Juba in southern Somalia, never stood a chance.",
+          "zh": "她的家距离索马里南部被洪水淹没的朱巴河5米，从来没有机会。"
+        },
+        {
+          "en": "There was nowhere to go.",
+          "zh": "无处可去。"
+        },
+        {
+          "en": "Ali’s city of Jilib was under attack.",
+          "zh": "阿里的吉利卜城遭到袭击。"
+        },
+        {
+          "en": "Repeated airstrikes, said the mother of six, were pinning its population beside the rising river.",
+          "zh": "这位六个孩子的母亲说，反复的空袭将人口困在上升的河流旁边。"
+        },
+        {
+          "en": "“The drones come all the time,” said the 27-year-old.",
+          "zh": "“无人机一直在来，”这位27岁的老人说。"
+        },
+        {
+          "en": "“We hear them constantly.",
+          "zh": "“我们经常听到他们的声音。"
+        },
+        {
+          "en": "They kill animals, civilians.",
+          "zh": "他们杀死动物，平民。"
+        }
+      ]
+    },
+    {
+      "id": "2f3de9f7785b0deb",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Sudan paramilitary drone strikes cause mass power cuts in eastern states",
+      "url": "https://www.theguardian.com/world/2026/oct/26/sudan-paramilitary-drone-strikes-rapid-support-forces-power-cuts-eastern-states",
+      "publishedAt": "2026-10-26T09:59:27.000Z",
+      "sentences": [
+        {
+          "en": "Sudan paramilitary drone strikes cause mass power cuts in eastern states.",
+          "zh": "苏丹准军事无人机袭击导致东部各州大规模停电。"
+        },
+        {
+          "en": "Rapid Support Forces strike five power stations in three states controlled by Sudanese army Sudan’s paramilitary Rapid Support Forces have launched a coordinated drone attack against five power stations, causing mass power outages across the country’s east, a government official said.",
+          "zh": "一名政府官员表示，快速支援部队袭击了苏丹军队控制的三个州的五个发电站，苏丹准军事组织快速支援部队对五个发电站发动了协调一致的无人机袭击，导致该国东部地区大规模停电。"
+        },
+        {
+          "en": "The drones hit two power stations each in the states of Al-Jazira and Gedaref and one in White Nile state, “resulting in power outages across large parts of these three states”, the official said on condition of anonymity.",
+          "zh": "这位不愿透露姓名的官员说，无人机袭击了Al-Jazira和Gedaref州的两个发电站，以及白尼罗州的一个发电站， “导致这三个州的大部分地区停电”。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "d4759a2e2fd24c37",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "‘Zero-energy companionship’: bizarre hobby takes seed among China’s stressed young adults",
+      "url": "https://www.theguardian.com/world/2026/oct/26/zero-energy-companionship-bizarre-hobby-takes-seed-among-chinas-stressed-young-adults",
+      "publishedAt": "2026-10-26T09:47:14.000Z",
+      "sentences": [
+        {
+          "en": "‘Zero-energy companionship’: bizarre hobby takes seed among China’s stressed young adults.",
+          "zh": "“零能耗伴侣” ：奇怪的爱好在中国压力很大的年轻人中播下种子。"
+        },
+        {
+          "en": "Faced with a stagnant jobs market, many are spurning children or pets in favour of ‘raising bricks’ Young adults in China looking for a cheaper, low-maintenance alternative to having children or pets have found an answer: raising bricks.",
+          "zh": "面对停滞不前的就业市场，许多人正在抛弃儿童或宠物，转而“养砖”中国的年轻人正在寻找一种比养孩子或宠物更便宜、维护成本更低的替代品，他们找到了一个答案：养砖。"
+        },
+        {
+          "en": "Bricks may not be as cuddly as cats or as life-affirming as human offspring, but they also cost next to nothing.",
+          "zh": "砖块可能不像猫那么可爱，也不像人类后代那样有生命力，但它们的成本几乎为零。"
+        },
+        {
+          "en": "“No cats, no dating, I started raising a brick,” wrote one brick parent on social media.",
+          "zh": "一位砖头父母在社交媒体上写道： “没有猫，没有约会，我开始养砖头。”"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "2266d80af6660255",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Trump escalates anti-Muslim attacks against El-Sayed in Michigan",
+      "url": "https://www.npr.org/2026/10/26/nx-s1-6016816/trump-escalates-anti-muslim-attacks",
+      "publishedAt": "2026-10-26T09:22:36.000Z",
+      "sentences": [
+        {
+          "en": "Trump escalates anti-Muslim attacks against El-Sayed in Michigan.",
+          "zh": "特朗普升级了对密歇根州El-Sayed的反穆斯林攻击。"
+        },
+        {
+          "en": "President Trump intensified his anti-Muslim rhetoric against Michigan Senate candidate Abdul El-Sayed on Sunday, portraying him as a threat to national security and questioning his loyalty to the United States.",
+          "zh": "周日，特朗普总统加强了对密歇根州参议院候选人阿卜杜勒·赛义德的反穆斯林言论，将他描述为对国家安全的威胁，并质疑他对美国的忠诚。"
+        },
+        {
+          "en": "(Image credit: Julia Demaree Nikhinson)",
+          "zh": "（图片来源： Julia Demaree Nikhinson ）"
+        }
+      ]
+    },
+    {
+      "id": "538669a444c72f7a",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Loggers say Roadless Rule repeal won't solve their biggest challenges",
+      "url": "https://www.npr.org/2026/10/26/nx-s1-6009247/loggers-say-roadless-rule-repeal-wont-solve-their-biggest-challenges",
+      "publishedAt": "2026-10-26T09:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Loggers say Roadless Rule repeal won't solve their biggest challenges.",
+          "zh": "记录者表示，无路规则的废除不会解决他们面临的最大挑战。"
+        },
+        {
+          "en": "President Trump is planning to open up some of the nation's last pristine forests to road building and timber companies.",
+          "zh": "特朗普总统正计划向道路建设和木材公司开放该国最后一片原始森林。"
+        },
+        {
+          "en": "But those who work in the woods say it won't do enough to revive the industry.",
+          "zh": "但那些在森林里工作的人说，这对振兴这个行业来说还不够。"
+        },
+        {
+          "en": "(Image credit: Kirk Siegler)",
+          "zh": "（图片来源： Kirk Siegler ）"
+        }
+      ]
+    },
+    {
+      "id": "aca7ce5234cbb542",
+      "sourceId": "npr-news",
+      "category": "ai",
+      "title": "How AI is transforming hurricane forecasts",
+      "url": "https://www.npr.org/2026/10/26/nx-s1-6012820/ai-hurricane-forecast-google-deepmind-isaias",
+      "publishedAt": "2026-10-26T09:00:00.000Z",
+      "sentences": [
+        {
+          "en": "How AI is transforming hurricane forecasts.",
+          "zh": "人工智能如何改变飓风预报。"
+        },
+        {
+          "en": "Hurricane forecasters are increasingly using artificial intelligence to make predictions.",
+          "zh": "飓风预报员越来越多地使用人工智能进行预测。"
+        },
+        {
+          "en": "(Image credit: NOAA)",
+          "zh": "（图片来源︰"
+        }
+      ]
+    },
+    {
+      "id": "ed1d84d05e8c4acc",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "UK poised to miss reduced aid spending target of 0.3% of national income",
+      "url": "https://www.theguardian.com/politics/2026/oct/26/uk-international-aid-target-spending-shortfall-budget-research",
+      "publishedAt": "2026-10-26T06:59:36.000Z",
+      "sentences": [
+        {
+          "en": "UK poised to miss reduced aid spending target of 0.3% of national income.",
+          "zh": "英国有望错过削减援助支出占国民收入0.3%的目标。"
+        },
+        {
+          "en": "Calculations from the Center for Global Development say spending next year is likely to be £410m less than anticipated The UK is on course to miss its target of spending 0.3% of national income on international aid by an estimated £400m by the end of next year.",
+          "zh": "全球发展中心(Center for Global Development)的计算显示，明年的支出可能比预期少4.1亿英镑。英国有望在明年年底前实现将国民收入的0.3%用于国际援助的目标，预计将减少4亿英镑。"
+        },
+        {
+          "en": "Calculations from the Center for Global Development (CGD) found the UK was on course for a large shortfall in promised official development assistance at the end of 2027.",
+          "zh": "全球发展中心（ CGD ）的计算发现，到2027年底，英国承诺的官方发展援助将出现巨大缺口。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "a8fb3c457a70088a",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Australian murderer loses bid to eat Vegemite in prison",
+      "url": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-26T04:05:28.000Z",
+      "sentences": [
+        {
+          "en": "Australian murderer loses bid to eat Vegemite in prison.",
+          "zh": "澳大利亚凶手在监狱中失去了吃Vegemite的竞标。"
+        },
+        {
+          "en": "Andre McKechnie, who murdered a property developer, argued it was his right to enjoy Australian culture.",
+          "zh": "谋杀了一名房地产开发商的Andre McKechnie认为，享受澳大利亚文化是他的权利。"
+        }
+      ]
+    },
+    {
+      "id": "30993307ab52b70e",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Watch: How President Lula turned it around to beat Flávio Bolsonaro",
+      "url": "https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-26T02:53:00.000Z",
+      "sentences": [
+        {
+          "en": "Watch: How President Lula turned it around to beat Flávio Bolsonaro.",
+          "zh": "观看：卢拉总统如何扭转局面，击败弗拉维奥·博尔索纳罗。"
+        },
+        {
+          "en": "Brazil's left-wing President has been elected for a fourth term after narrowly beating right-wing Flávio Bolsonaro in a knife-edge vote.",
+          "zh": "巴西左翼总统弗拉维奥·博尔索纳罗（ Flávio Bolsonaro ）在刀锋投票中以微弱优势击败右翼后，第四次当选。"
+        }
+      ]
+    },
+    {
+      "id": "0d074eb7e47a153d",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Xi Jinping’s corruption crackdown in the spotlight as China prepares for meeting of top leaders",
+      "url": "https://www.theguardian.com/world/2026/oct/26/xi-jinping-corruption-crackdown-china-fifth-plenum",
+      "publishedAt": "2026-10-26T00:58:25.000Z",
+      "sentences": [
+        {
+          "en": "Xi Jinping’s corruption crackdown in the spotlight as China prepares for meeting of top leaders.",
+          "zh": "在中国准备与最高领导人会晤之际，习近平的反腐败行动备受瞩目。"
+        },
+        {
+          "en": "The fifth plenum comes against a backdrop of years of purges that have had some analysts wondering if the issue is corruption or a lack of loyalty When Xi Jinping came to power in 2012, he pledged to stamp out corruption all through the ranks of the Communist party.",
+          "zh": "五中全会的背景是多年的清洗，一些分析人士怀疑这个问题是腐败还是缺乏忠诚。2012年习近平上台时，他承诺要彻底消除共产党内部的腐败现象。"
+        },
+        {
+          "en": "More than a decade later, the pace of investigations has not slowed.",
+          "zh": "十多年后，调查的步伐并没有放缓。"
+        },
+        {
+          "en": "Last year, China’s disciplinary authorities opened investigations into more than 1 million people, including more than 100 officials at or above ministerial or provincial level.",
+          "zh": "去年，中国纪律部门对100多万人展开调查，其中包括100多名部级或省级以上官员。"
+        },
+        {
+          "en": "As Chinese Communist party (CCP) officials kick off an important meeting this week, discipline – and party loyalty – is high on the agenda.",
+          "zh": "随着中国共产党（ CCP ）官员本周开始举行重要会议，纪律和党的忠诚度是议程上的重要议题。"
+        },
+        {
+          "en": "For those who try to read the tea leaves of elite Chinese politics, concern about the apparent lack of discipline is dominating CCP discussions.",
+          "zh": "对于那些试图阅读中国精英政治茶叶的人来说，对明显缺乏纪律的担忧正在主导中共的讨论。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    }
+  ],
+  "failures": []
+}
