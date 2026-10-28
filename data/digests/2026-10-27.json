@@ -1,0 +1,895 @@
+{
+  "date": "2026-10-27",
+  "collectedAt": "2026-10-28T04:11:09.001Z",
+  "items": [
+    {
+      "id": "ad95eb880a07271a",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "West warns of famine risk in Sudan as civil war grinds on",
+      "url": "https://www.bbc.co.uk/news/articles/cj5ynkk6v3pzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T15:41:46.000Z",
+      "sentences": [
+        {
+          "en": "West warns of famine risk in Sudan as civil war grinds on.",
+          "zh": "随着内战的爆发，韦斯特警告说，苏丹存在饥荒风险。"
+        },
+        {
+          "en": "Millions face acute hunger in Sudan as conflict, drought and funding cuts aggravate the humanitarian crisis.",
+          "zh": "由于冲突、干旱和资金削减加剧了人道主义危机，苏丹数百万人面临严重饥饿。"
+        }
+      ]
+    },
+    {
+      "id": "cc7dc046155f648c",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "8 examples of Gemini 4 Argon in action",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-in-action/",
+      "publishedAt": "2026-10-27T15:00:00.000Z",
+      "sentences": [
+        {
+          "en": "8 examples of Gemini 4 Argon in action.",
+          "zh": "8个双子座4氩气的例子。"
+        },
+        {
+          "en": "From deep research to interactive design, here are eight examples of what Gemini 4 Argon, our most intelligent model yet, is capable of.",
+          "zh": "从深入研究到交互式设计，以下是我们迄今为止最智能的模型Gemini 4 Argon的八个例子。"
+        }
+      ]
+    },
+    {
+      "id": "73c1cf1210327dd6",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Bolsonaro's party accepts Brazil election defeat, but he refuses to concede",
+      "url": "https://www.npr.org/2026/10/27/nx-s1-6019217/bolsonaro-flavio-lula-brazil-election-trump",
+      "publishedAt": "2026-10-27T14:41:17.000Z",
+      "sentences": [
+        {
+          "en": "Bolsonaro's party accepts Brazil election defeat, but he refuses to concede.",
+          "zh": "博尔索纳罗的政党接受巴西选举失败，但他拒绝让步。"
+        },
+        {
+          "en": "Brazil's opposition party accepts President Luiz Inácio Lula da Silva's election victory, but Flávio Bolsonaro won't concede, while President Trump calls the vote \"rigged\" without offering evidence.",
+          "zh": "巴西反对党接受总统路易斯·伊纳西奥·卢拉·达席尔瓦（ Luiz Inácio Lula da Silva ）的选举胜利，但弗拉维奥·博尔索纳罗（ Flávio Bolsonaro ）不会让步，而特朗普总统在没有提供证据的情况下称"
+        },
+        {
+          "en": "(Image credit: Eraldo Peres)",
+          "zh": "（图片来源： Eraldo Peres ）"
+        }
+      ]
+    },
+    {
+      "id": "49f9b59bf81b1586",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Ballon d'Or ceremony raises case of French sports journalist jailed in Algeria",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T14:29:39.000Z",
+      "sentences": [
+        {
+          "en": "Ballon d'Or ceremony raises case of French sports journalist jailed in Algeria.",
+          "zh": "Ballon d 'Or仪式提出了法国体育记者在阿尔及利亚被判入狱的案件。"
+        },
+        {
+          "en": "He is in jail accused of supporting terrorism after travelling to the politically sensitive region Kabylie.",
+          "zh": "他在前往政治敏感地区Kabylie后被指控支持恐怖主义。"
+        }
+      ]
+    },
+    {
+      "id": "aac1f443f85fc722",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Discursive Verses: Jay-Z, the Super Bowl and playing with house money",
+      "url": "https://www.npr.org/2026/10/27/nx-s1-6019093/the-week-in-hip-hop-jay-z-super-bowl",
+      "publishedAt": "2026-10-27T14:15:21.000Z",
+      "sentences": [
+        {
+          "en": "Discursive Verses: Jay-Z, the Super Bowl and playing with house money.",
+          "zh": "话语经文： Jay-Z ，超级碗和玩弄房子的钱。"
+        },
+        {
+          "en": "NPR Music culture critic and reporter Rodney Carmichael ruminates on the latest in rap culture.",
+          "zh": "NPR音乐文化评论家和记者Rodney Carmichael反思最新的说唱文化。"
+        },
+        {
+          "en": "This week: Is the rap mogul's self-selection a crowning achievement or a final affront?",
+          "zh": "本周：说唱大亨的自我选择是最高成就还是最后的侮辱？"
+        },
+        {
+          "en": "(Image credit: Kevin C.",
+          "zh": "（图片来源： Kevin C."
+        },
+        {
+          "en": "Cox/Getty Images)",
+          "zh": "Cox/Getty Images ）"
+        }
+      ]
+    },
+    {
+      "id": "1fffe6df1fe9857c",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "A 'Green Army' is out to thwart El Niño flooding",
+      "url": "https://www.npr.org/2026/10/27/nx-s1-6010370/el-nino-floods-nairobi-green-army",
+      "publishedAt": "2026-10-27T14:12:35.000Z",
+      "sentences": [
+        {
+          "en": "A 'Green Army' is out to thwart El Niño flooding.",
+          "zh": "一支“绿色军队”正在阻止厄尔尼诺洪水。"
+        },
+        {
+          "en": "In Nairobi, a city prone to floods, workers in the \"Green Army\" are making preparations to prevent disaster when El Niño arrives.",
+          "zh": "在内罗毕这个容易发生洪水的城市， “绿军”的工作人员正在做准备，以防止厄尔尼诺现象到来时的灾难。"
+        },
+        {
+          "en": "(Image credit: Donwilson Odhiambo)",
+          "zh": "（图片来源： Donwilson Odhiambo ）"
+        }
+      ]
+    },
+    {
+      "id": "4fc5953b2bfdb1bd",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
+      "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T13:25:54.000Z",
+      "sentences": [
+        {
+          "en": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China.",
+          "zh": "姆巴佩（ Mbappé ）对毛泽东在中国的强烈反对后发表的“判断不当”言论表示歉意。"
+        },
+        {
+          "en": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes.",
+          "zh": "这位法国明星在一次关于模因的采访中称这位前中国领导人为“独裁者”。"
+        }
+      ]
+    },
+    {
+      "id": "f21bc890ebec1e8c",
+      "sourceId": "cloudflare-blog",
+      "category": "security",
+      "title": "What took the Internet offline in Q3 2026",
+      "url": "https://blog.cloudflare.com/q3-2026-internet-disruption-summary/",
+      "publishedAt": "2026-10-27T13:00:00.000Z",
+      "sentences": [
+        {
+          "en": "What took the Internet offline in Q3 2026.",
+          "zh": "是什么让互联网在2026年第三季度离线。"
+        },
+        {
+          "en": "The Internet can feel invisible when everything is working normally.",
+          "zh": "当一切正常工作时，互联网可能会隐形。"
+        },
+        {
+          "en": "But when connectivity breaks, the many systems it depends upon become evident in an instant.",
+          "zh": "但是，当连接中断时，它所依赖的许多系统瞬间变得明显。"
+        },
+        {
+          "en": "Because Cloudflare’s global network handles more than 20% of the web’s traffic, it offers a unique perspective of how Internet traffic is behaving.",
+          "zh": "由于Cloudflare的全球网络处理超过20 ％的网络流量，因此它为互联网流量的行为提供了独特的视角。"
+        },
+        {
+          "en": "When failures in infrastructure, power, policy, or security disrupt access to the Internet, Cloudflare Radar can observe the impact by monitoring traffic to our customers.",
+          "zh": "当基础设施、电源、政策或安全方面的故障中断对互联网的访问时， Cloudflare Radar可以通过监控客户的流量来观察影响。"
+        },
+        {
+          "en": "Each quarter, we review the disruptions detected and annotated on Radar, highlighting what happened, where it happened, and the broader conditions that shaped each event.",
+          "zh": "每个季度，我们都会审查雷达上检测到的中断情况并进行注释，重点介绍发生了什么、发生在哪里以及影响每个事件的更广泛条件。"
+        },
+        {
+          "en": "In this post, we examine the major categories of Internet disruptions observed during the third quarter of 2026, including government-directed shutdowns, power outages and natural disasters.",
+          "zh": "在本文中，我们将研究2026年第三季度观察到的互联网中断的主要类别，包括政府定向关闭、停电和自然灾害。"
+        },
+        {
+          "en": "Disruptions at a glance Between July and September, Internet disruptions were largely driven by failures in the systems the Internet depends on.",
+          "zh": "7月至9月期间的中断一目了然，互联网中断主要是由互联网所依赖的系统故障驱动的。"
+        },
+        {
+          "en": "Power grids failed in Cuba, Honduras, Guam, Ukraine, and several other countries.",
+          "zh": "古巴、洪都拉斯、关岛、乌克兰和其他几个国家的电网出现故障。"
+        },
+        {
+          "en": "Natural disasters damaged electricity and telecommunications infrastructure from Nepal to Colombia.",
+          "zh": "自然灾害破坏了从尼泊尔到哥伦比亚的电力和电信基础设施。"
+        },
+        {
+          "en": "Government-directed shutdowns remained the most frequent source of disruption, driven largely by exam-related shutdowns in Iraq, while renewed conflict in Ethiopia’s Tigray region showed how quickly connectivity can become part of a broader political and humanitarian crisis.",
+          "zh": "政府主导的关闭仍然是最常见的中断来源，主要是由伊拉克与考试相关的关闭造成的，而埃塞俄比亚提格雷地区再次发生的冲突表明，连通性很快就会成为更广泛的政治和人道主义危机的一部分。"
+        },
+        {
+          "en": "Outages within the United States, Japan, and Portugal — countries with a relatively strong history of Internet resilience — remind us that no country is immune to disruption.",
+          "zh": "美国、日本和葡萄牙这些互联网复原力相对较强的国家发生的中断提醒我们，没有哪个国家可以幸免于中断。"
+        }
+      ]
+    },
+    {
+      "id": "b98b75e5e3efe8c1",
+      "sourceId": "cloudflare-blog",
+      "category": "cloud",
+      "title": "Introducing the Cloudflare PHP Capture the Flag challenge",
+      "url": "https://blog.cloudflare.com/php-ctf/",
+      "publishedAt": "2026-10-27T13:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Introducing the Cloudflare PHP Capture the Flag challenge.",
+          "zh": "介绍Cloudflare PHP Capture the Flag挑战。"
+        },
+        {
+          "en": "Last week was one for the Internet security history books.",
+          "zh": "上周是互联网安全历史书籍的一周。"
+        },
+        {
+          "en": "First, eight eMudhra intermediate certificates were compromised , creating the possibility of forged certificates that could be used to impersonate servers.",
+          "zh": "首先，八个eMudhra中间证书被泄露，造成伪造证书的可能性，可用于模拟服务器。"
+        },
+        {
+          "en": "Then came php2shell : serious vulnerabilities in PHP, the runtime behind a large portion of the Web.",
+          "zh": "然后是php2shell ： PHP中的严重漏洞，这是Web大部分背后的运行时。"
+        },
+        {
+          "en": "Cloudflare worked around the clock as these events unfolded to protect our customers and help protect the Internet.",
+          "zh": "随着这些事件的展开， Cloudflare全天候工作，以保护我们的客户并帮助保护互联网。"
+        },
+        {
+          "en": "We shipped client updates and multiple mitigations , updated our web application firewall (WAF) with new rules to block attackers from exploiting the PHP vulnerabilities, and introduced a new feature called full transaction detection .",
+          "zh": "我们发布了客户端更新和多项缓解措施，更新了Web应用程序防火墙(WAF)的新规则，以阻止攻击者利用PHP漏洞，并引入了一项名为完全事务检测的新功能。"
+        },
+        {
+          "en": "As always in situations like this, these new capabilities were made available on all plans, including Free.",
+          "zh": "与往常一样，这些新功能适用于所有计划，包括免费计划。"
+        },
+        {
+          "en": "Put our WAF to the test Protecting systems from vulnerabilities like these is always an ongoing process, not a one-time event.",
+          "zh": "测试我们的WAF保护系统免受此类漏洞的攻击始终是一个持续的过程，而不是一次性的事件。"
+        },
+        {
+          "en": "The widespread adoption of AI allows attackers to discover new vectors with unprecedented speed and efficiency, so collecting real-world data to test our assumptions and strengthen defenses is essential.",
+          "zh": "人工智能的广泛采用使攻击者能够以前所未有的速度和效率发现新的媒介，因此收集真实世界的数据来测试我们的假设和加强防御至关重要。"
+        },
+        {
+          "en": "That’s why today we&#x27;re launching the Cloudflare PHP Capture the Flag challenge , run through our Bug Bounty program .",
+          "zh": "这就是为什么我们今天要启动Cloudflare PHP Capture the Flag挑战，通过我们的Bug Bounty计划运行。"
+        },
+        {
+          "en": "We&#x27;ve put a deliberately vulnerable PHP installation behind our WAF, and we&#x27;re inviting security researchers on HackerOne to try to bypass the protections and capture a flag.",
+          "zh": "我们在WAF后面故意安装了一个易受攻击的PHP ，我们邀请HackerOne上的安全研究人员尝试绕过保护并捕获标记。"
+        },
+        {
+          "en": "How this Capture the Flag (CTF) works We are keeping this simple.",
+          "zh": "Capture the Flag （ CTF ）的工作原理我们保持简单。"
+        }
+      ]
+    },
+    {
+      "id": "958f93db13edac30",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Fitbit Edge: Premium design for an active life",
+      "url": "https://blog.google/products-and-platforms/devices/fitbit/fitbit-edge-design/",
+      "publishedAt": "2026-10-27T13:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Fitbit Edge: Premium design for an active life.",
+          "zh": "Fitbit Edge ：活跃生活的高级设计。"
+        },
+        {
+          "en": "With a reimagined screen, refined mechanics, and elevated style, Fitbit Edge looks as good as it performs, year after year.",
+          "zh": "Fitbit Edge经过重新构想的屏幕、精致的机制和升级的风格，年复一年地看起来和它的表现一样好。"
+        }
+      ]
+    },
+    {
+      "id": "a61abb04aeca3ebd",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Ebola: 20 contacts released from quarantine in Kenya, amid vaccine ‘hope’ in DR Congo",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168676",
+      "publishedAt": "2026-10-27T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Ebola: 20 contacts released from quarantine in Kenya, amid vaccine ‘hope’ in DR Congo.",
+          "zh": "埃博拉：在刚果民主共和国的疫苗“希望”中， 20名接触者从肯尼亚的隔离中获释。"
+        },
+        {
+          "en": "Twenty people associated with Kenya’s first case of Ebola Bundibugyo virus disease have been reunited with their families after being released from quarantine following completion of a mandatory 21-day monitoring period.",
+          "zh": "在完成为期21天的强制性监测期后，与肯尼亚首例埃博拉Bundibugyo病毒病相关的20人在被隔离后与家人团聚。"
+        }
+      ]
+    },
+    {
+      "id": "55450105f54378f4",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Record carbon dioxide levels will impact us for centuries, says UN weather agency",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168677",
+      "publishedAt": "2026-10-27T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Record carbon dioxide levels will impact us for centuries, says UN weather agency.",
+          "zh": "联合国气象机构表示，创纪录的二氧化碳水平将影响我们几个世纪。"
+        },
+        {
+          "en": "Levels of carbon dioxide (CO2) and other major greenhouse gases in the atmosphere caused by burning fossil fuels reached record highs in 2025, locking in more long-term global warming, the World Meteorological Organization (WMO) said on Tuesday.",
+          "zh": "世界气象组织（ WMO ）周二表示，燃烧化石燃料导致大气中的二氧化碳（ CO2 ）和其他主要温室气体含量在2025年达到历史最高水平，锁定了更长期的全球变暖。"
+        }
+      ]
+    },
+    {
+      "id": "971c16135d288af6",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "World News in Brief: ‘No safe place in Ukraine’, IAEA calls for Iran nuclear inspections, Kenya hosts thousands of Ethiopians fleeing clashes",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168682",
+      "publishedAt": "2026-10-27T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "World News in Brief: ‘No safe place in Ukraine’, IAEA calls for Iran nuclear inspections, Kenya hosts thousands of Ethiopians fleeing clashes.",
+          "zh": "《世界新闻简报》： “乌克兰没有安全的地方” ，国际原子能机构呼吁进行伊朗核检查，肯尼亚收容了成千上万逃离冲突的埃塞俄比亚人。"
+        },
+        {
+          "en": "The UN refugee agency (UNHCR) on Tuesday urged continued international support for Ukraine’s population as Russian airstrikes intensify and humanitarian needs grow in advance of another bitterly cold winter.",
+          "zh": "联合国难民事务高级专员办事处（难民署）周二敦促国际社会继续支持乌克兰人民，因为俄罗斯空袭加剧，人道主义需求在另一个严寒的冬天之前增长。"
+        }
+      ]
+    },
+    {
+      "id": "c93cac4e7196caef",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Four in five domestic workers lack formal job protections, UN finds",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168683",
+      "publishedAt": "2026-10-27T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Four in five domestic workers lack formal job protections, UN finds.",
+          "zh": "联合国发现，五分之四的家政工人缺乏正式的工作保护。"
+        },
+        {
+          "en": "An estimated 66.5 million domestic workers – representing more than four out of five domestic workers worldwide – were informally employed in 2025, a new report by the UN’s labour organisation has found.",
+          "zh": "联合国劳工组织的一份新报告发现， 2025年估计有6650万家政工人（占全球五分之四以上的家政工人）非正式就业。"
+        }
+      ]
+    },
+    {
+      "id": "891abf0c21e897b8",
+      "sourceId": "un-news",
+      "category": "security",
+      "title": "Security Council LIVE: Women and girls face greater dangers in war",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168684",
+      "publishedAt": "2026-10-27T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Security Council LIVE: Women and girls face greater dangers in war.",
+          "zh": "安理会现场直播：妇女和女童在战争中面临更大的危险。"
+        },
+        {
+          "en": "From Gaza to Yemen, women and girls are facing ever greater dangers this year simply surviving in war zones.",
+          "zh": "从加沙到也门，妇女和女童今年面临着前所未有的危险，她们只是在战区生存。"
+        },
+        {
+          "en": "The Security Council meets Tuesday to debate the best way to improve security for women caught up in conflict.",
+          "zh": "安全理事会周二举行会议，讨论改善陷入冲突的妇女安全的最佳途径。"
+        }
+      ]
+    },
+    {
+      "id": "6212f2be6175ecda",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Gaza: Families brace for fourth winter in tents as aid operations remain stymied",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168685",
+      "publishedAt": "2026-10-27T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Gaza: Families brace for fourth winter in tents as aid operations remain stymied.",
+          "zh": "加沙：由于援助行动仍然受阻，家庭准备在帐篷里度过第四个冬天。"
+        },
+        {
+          "en": "Families in Gaza are bracing for a fourth winter in tents and makeshift shelters as UN aid operations face mounting obstacles, with transport suspended on Tuesday due to Israel’s closure of the key Kerem Shalom crossing for election day.",
+          "zh": "随着联合国援助行动面临越来越多的障碍，加沙的家庭正准备在帐篷和临时避难所度过第四个冬天，由于以色列在选举日关闭关键的凯雷姆沙洛姆过境点，周二交通暂停。"
+        }
+      ]
+    },
+    {
+      "id": "4f0a25166f580f1f",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "General Assembly weighs US embargo against Cuba ahead of 34th vote",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168686",
+      "publishedAt": "2026-10-27T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "General Assembly weighs US embargo against Cuba ahead of 34th vote.",
+          "zh": "联大在第34次投票前权衡美国对古巴的封锁。"
+        },
+        {
+          "en": "The General Assembly opened its annual debate on the US economic embargo against Cuba on Tuesday.",
+          "zh": "大会于周二开始就美国对古巴的经济封锁进行年度辩论。"
+        },
+        {
+          "en": "On Wednesday, 28 October, Member States will vote for the 34th time on a resolution calling for it to end.",
+          "zh": "10月28日（周三） ，成员国将第34次就一项呼吁终止制裁的决议进行投票。"
+        }
+      ]
+    },
+    {
+      "id": "7f2710e2a2a9c413",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Ex-FBI chief James Comey faces federal charges for third time",
+      "url": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T11:44:54.000Z",
+      "sentences": [
+        {
+          "en": "Ex-FBI chief James Comey faces federal charges for third time.",
+          "zh": "前联邦调查局局长詹姆斯·科米（ James Comey ）第三次面临联邦指控"
+        },
+        {
+          "en": "Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016.",
+          "zh": "科米的律师表示，此案源于2016年涉嫌向《纽约时报》披露机密信息。"
+        }
+      ]
+    },
+    {
+      "id": "1930dec01d8d66a6",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Democrats have a midterm edge, poll shows. And, Israelis vote in high-stakes election",
+      "url": "https://www.npr.org/2026/10/27/g-s1-150052/up-first-newsletter-midterms-polling-data-voter-fraud-israel-prime-minister-elections",
+      "publishedAt": "2026-10-27T11:39:52.000Z",
+      "sentences": [
+        {
+          "en": "Democrats have a midterm edge, poll shows.",
+          "zh": "民意调查显示，民主党人具有中期优势。"
+        },
+        {
+          "en": "And, Israelis vote in high-stakes election.",
+          "zh": "而且，以色列人在高风险选举中投票。"
+        },
+        {
+          "en": "Democrats are still holding a slight edge with Election Day a week away, according to a new NPR/PBS News/Marist poll.",
+          "zh": "根据新的NPR/PBS新闻/Marist民意调查，民主党人在一周后的选举日仍保持轻微优势。"
+        },
+        {
+          "en": "And, Israelis are casting their votes in an election that could change leadership.",
+          "zh": "而且，以色列人正在可能改变领导层的选举中投票。"
+        },
+        {
+          "en": "(Image credit: Allison Joyce)",
+          "zh": "（图片来源： Allison Joyce ）"
+        }
+      ]
+    },
+    {
+      "id": "a8b557c74308b442",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Netherlands pulls out of Eurovision again over Israel participation",
+      "url": "https://www.bbc.co.uk/news/articles/cmr4y5dvlzneo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T11:23:19.000Z",
+      "sentences": [
+        {
+          "en": "Netherlands pulls out of Eurovision again over Israel participation.",
+          "zh": "荷兰因以色列的参与而再次退出欧洲电视网。"
+        },
+        {
+          "en": "A Dutch broadcaster reverses a decision to take part, citing \"sensitivities\" over Israel's participation.",
+          "zh": "一位荷兰广播公司以对以色列参与的“敏感性”为由，推翻了参与的决定。"
+        }
+      ]
+    },
+    {
+      "id": "fb9cd0d5f3da2101",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "How Aldi is pushing down grocery prices",
+      "url": "https://www.npr.org/sections/planet-money/2026/10/27/g-s1-149358/how-aldi-is-pushing-down-grocery-prices",
+      "publishedAt": "2026-10-27T10:30:00.000Z",
+      "sentences": [
+        {
+          "en": "How Aldi is pushing down grocery prices.",
+          "zh": "Aldi如何压低生鲜杂货价格。"
+        },
+        {
+          "en": "The German-owned chain's low prices are winning over shoppers — and pushing competitors to respond.",
+          "zh": "这家德国连锁店的低价正在赢得购物者的青睐，并迫使竞争对手做出回应。"
+        },
+        {
+          "en": "(Image credit: Kevin Dietsch)",
+          "zh": "（图片来源： Kevin Dietsch ）"
+        }
+      ]
+    },
+    {
+      "id": "ed15945fee9bdc02",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "UK officials discussing options including free movement with EU ahead of summit",
+      "url": "https://www.theguardian.com/politics/2026/oct/27/uk-eu-relationship-talks-summit-free-movement-jonathan-reynolds",
+      "publishedAt": "2026-10-27T09:41:15.000Z",
+      "sentences": [
+        {
+          "en": "UK officials discussing options including free movement with EU ahead of summit.",
+          "zh": "英国官员在峰会前与欧盟讨论自由流动等选项。"
+        },
+        {
+          "en": "Business secretary says focus for November summit will be trade and youth mobility, but talks will also include ‘future options for relationship’ British officials have begun discussions with the EU about a long-term relationship that could include a return to free movement, the business secretary has said while promising the British people “are the boss” when it comes to what the UK will accept.",
+          "zh": "商务大臣表示， 11月峰会的重点将是贸易和青年流动性，但会谈还将包括“未来的关系选择”英国官员已经开始与欧盟讨论长期关系，其中可能包括恢复自由流动，商务大臣表示，同时承诺英国人民在谈到英国将接受什么时“是老板”。"
+        },
+        {
+          "en": "Jonathan Reynolds said the focus for British negotiations was the EU summit in November to seal an agreement to ease some trading restrictions and a youth mobility deal.",
+          "zh": "乔纳森·雷诺兹（ Jonathan Reynolds ）表示，英国谈判的重点是11月举行的欧盟峰会，以达成一项协议，放宽一些贸易限制和一项青年流动协议。"
+        },
+        {
+          "en": "But he said the prime minister, Andy Burnham, had made it clear he wanted to see a long-term and stable relationship with the bloc.",
+          "zh": "但他表示，总理安迪·伯纳姆（ Andy Burnham ）明确表示，他希望与欧盟建立长期稳定的关系。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "b5f6694ddb2961c4",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Fears grow for Iranian athletes on death row as mountaineer latest to be hanged",
+      "url": "https://www.theguardian.com/global-development/2026/oct/27/fears-grow-for-iranian-athletes-on-death-row-as-mountaineer-latest-to-be-hanged",
+      "publishedAt": "2026-10-27T09:30:30.000Z",
+      "sentences": [
+        {
+          "en": "Fears grow for Iranian athletes on death row as mountaineer latest to be hanged.",
+          "zh": "伊朗运动员对死囚牢房的恐惧与日俱增，因为登山者最近被绞死。"
+        },
+        {
+          "en": "Two sportspeople have been executed in the past month and at least six more face the same fate, says activist group Fears are growing for more Iranian athletes facing execution after mountain climber Ali-Sina Mostafavi became the latest in a string to be killed by the regime.",
+          "zh": "活动组织Fears表示，在过去的一个月里，有两名运动员被处决，至少还有六名运动员面临同样的命运，在登山者Ali-Sina Mostafavi成为被政权杀害的最新一批伊朗运动员之后，越来越多的伊朗运动员面临处决。"
+        },
+        {
+          "en": "Mostafavi – who documented his ascents of some of the world’s highest peaks, including Mount Everest – was executed on 14 October having been arrested in April after the anti-government protests a few months earlier.",
+          "zh": "穆斯塔法维（ Mostafavi ）记录了他登上包括珠穆朗玛峰在内的一些世界最高峰的记录，他在几个月前的反政府抗议活动后于4月被捕，于10月14日被处决。"
+        },
+        {
+          "en": "His death followed the killing of Siavash Jamshidi Kheirabadi, a taekwondo athlete, at the start of October, and the mixed martial arts fighter Gholamreza Khani Shakarab, who was hanged in May.",
+          "zh": "他的死亡发生在10月初跆拳道运动员Siavash Jamshidi Kheirabadi和5月份被绞死的混合武术战士Gholamreza Khani Shakarab被杀之后。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "4b43920ccda0c035",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "What Marco Rubio’s sidestepping of New Delhi says about the US’s stance on India",
+      "url": "https://www.theguardian.com/world/2026/oct/26/marco-rubio-us-secretary-of-state-india-visit-mumbai",
+      "publishedAt": "2026-10-27T09:21:33.000Z",
+      "sentences": [
+        {
+          "en": "What Marco Rubio’s sidestepping of New Delhi says about the US’s stance on India.",
+          "zh": "马可·卢比奥对新德里的回避说明了美国对印度的立场。"
+        },
+        {
+          "en": "Rubio’s decision not to meet Narendra Modi last week was seen by some as a snub – but by focusing on business leaders and oil, the secretary of state made American priorities clear.",
+          "zh": "卢比奥上周决定不与纳伦德拉·莫迪（ Narendra Modi ）会面被一些人视为冷落–但通过关注商界领袖和石油，国务卿明确了美国的优先事项。"
+        },
+        {
+          "en": "Plus: the artist bringing a female perspective to men’s clothing • Don’t get This is India delivered to your inbox?",
+          "zh": "此外：艺术家将女性视角带入男装•不明白这是印度送到您的收件箱吗？"
+        },
+        {
+          "en": "Sign up here When the US secretary of state, Marco Rubio, visited India for the second time this year, headlines concentrated on who he met and where he went.",
+          "zh": "美国国务卿马可·卢比奥（ Marco Rubio ）今年第二次访问印度时，头条新闻集中在他遇到的人和他去了哪里。"
+        },
+        {
+          "en": "The fact that Rubio bypassed New Delhi and did not meet the prime minister, Narendra Modi, during his trip last week, and instead traveled to the financial capital, Mumbai, where he met India’s foreign minister, Subrahmanyam Jaishankar (pictured top with Rubio), and business leaders, did not go unnoticed.",
+          "zh": "卢比奥在上周的访问中绕过了新德里，没有与总理纳伦德拉·莫迪（ Narendra Modi ）会面，而是前往金融之都孟买，在那里他会见了印度外交部长苏布拉马尼亚姆·杰尚卡（ Subrahmanyam Jaishankar ） （与卢比奥合影）和商界领袖，这一事实并没有被忽视。"
+        },
+        {
+          "en": "Nor did his decision to travel to Jamnagar, the small Gujarati town that is home to Reliance Industries’ colossal oil refinery complex.",
+          "zh": "他也没有决定前往古吉拉特小镇贾姆纳加尔（ Jamnagar ） ，这是信实工业（ Reliance Industries ）庞大的炼油厂所在地。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "ea4ac05e267fa7a7",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Melting glaciers in Dolomites reveal cache of first world war munitions",
+      "url": "https://www.theguardian.com/world/2026/oct/27/melting-glaciers-dolomites-first-world-war-munitions-italy",
+      "publishedAt": "2026-10-27T07:00:04.000Z",
+      "sentences": [
+        {
+          "en": "Melting glaciers in Dolomites reveal cache of first world war munitions.",
+          "zh": "多洛米蒂山脉融化的冰川揭示了第一次世界大战弹药的宝库。"
+        },
+        {
+          "en": "Italian army removes and defuses 250 explosives encased in ice for more than 100 years after hikers’ sightings A significant cache of unexploded bombs from the first world war emerged this summer from rapidly retreating glaciers in the Dolomites, the Italian army has said.",
+          "zh": "意大利军队表示，在徒步旅行者目击事件发生100多年后，意大利军队移除并拆除了250枚包裹在冰中的爆炸物。今年夏天，从多洛米蒂山脉迅速撤退的冰川中出现了一大批来自第一次世界大战的未爆炸弹。"
+        },
+        {
+          "en": "The devices, which included Italian artillery shells and French mortar bombs, were removed and defused by the army’s Julia Alpine brigade, according to a statement.",
+          "zh": "根据一份声明，这些装置包括意大利炮弹和法国迫击炮弹，被军队的朱莉娅阿尔卑斯山旅拆除并拆除。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "ce05360d5d90600b",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Jay-Z to perform at Super Bowl half-time show",
+      "url": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T05:05:15.000Z",
+      "sentences": [
+        {
+          "en": "Jay-Z to perform at Super Bowl half-time show.",
+          "zh": "Jay-Z将在超级碗半场表演中表演。"
+        },
+        {
+          "en": "The rapper has been involved with the show for years but has never before performed at the NFL championship game.",
+          "zh": "这位说唱歌手多年来一直参与该节目，但从未在NFL冠军赛中表演过。"
+        }
+      ]
+    },
+    {
+      "id": "e6d594ea2a28ff43",
+      "sourceId": "guardian-world",
+      "category": "ai",
+      "title": "Chinese markets lose trillions as race for AI supremacy with US takes its toll",
+      "url": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing",
+      "publishedAt": "2026-10-27T04:42:50.000Z",
+      "sentences": [
+        {
+          "en": "Chinese markets lose trillions as race for AI supremacy with US takes its toll.",
+          "zh": "随着与美国争夺人工智能霸权的竞争造成损失，中国市场损失了数万亿美元。"
+        },
+        {
+          "en": "Lack of profits and the threat posed by western countries are raising concern about the sustainability of Beijing’s AI boom Trillions of dollars have been wiped from China’s stock markets in recent months amid increasing anxiety about the future of artificial intelligence, as Beijing races against the United States for dominance in the sector.",
+          "zh": "利润不足和西方国家构成的威胁引发了人们对北京人工智能繁荣可持续性的担忧。近几个月来，随着北京与美国争夺该领域的主导地位，对人工智能未来的担忧日益加剧，数万亿美元已从中国股市中消失。"
+        },
+        {
+          "en": "The STAR 50 Index, which tracks technology and innovation companies on the Shanghai stock exchange, has plunged 40% since June.",
+          "zh": "追踪上海证券交易所科技创新公司的STAR 50指数自6月以来下跌了40%。"
+        },
+        {
+          "en": "Other indexes of major companies dropped by about 20% over the same time period.",
+          "zh": "同期各大公司其他指数下跌约20%。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "ab88661a74761e9b",
+      "sourceId": "k8s-blog",
+      "category": "cloud",
+      "title": "Announcing the Workload Conformance Working Group",
+      "url": "https://kubernetes.io/blog/2026/10/27/announcing-workload-conformance-wg/",
+      "publishedAt": "2026-10-27T04:30:00.000Z",
+      "sentences": [
+        {
+          "en": "Announcing the Workload Conformance Working Group.",
+          "zh": "宣布工作量一致性工作组。"
+        },
+        {
+          "en": "We are excited to announce that the Kubernetes community now has a Workload Conformance Working Group .",
+          "zh": "我们很高兴地宣布， Kubernetes社区现在有一个工作负载一致性工作组。"
+        },
+        {
+          "en": "The working group is writing a shared standard for how workloads behave at runtime on Kubernetes.",
+          "zh": "工作组正在编写Kubernetes运行时工作负载行为的共享标准。"
+        },
+        {
+          "en": "To get it right, we need input from the people who build those workloads and from the people who run the clusters they're deployed on.",
+          "zh": null
+        },
+        {
+          "en": "Why workloads need a shared standard Certified Kubernetes tests the cluster, and Kubernetes AI Conformance tests whether a cluster can run AI and ML workloads.",
+          "zh": null
+        },
+        {
+          "en": "Nothing comparable exists for the workloads themselves, so cluster operators still check each application by hand before routine maintenance or a Kubernetes upgrade.",
+          "zh": null
+        },
+        {
+          "en": "The problems they find are familiar.",
+          "zh": null
+        },
+        {
+          "en": "A routine node drain is often how you discover that an application can't tolerate disruption.",
+          "zh": null
+        },
+        {
+          "en": "An upgrade can break an application that still depends on a removed API version .",
+          "zh": null
+        },
+        {
+          "en": "Others show up in day-to-day operation: workloads that ask for privileges they don't need, or reserve resources they never use.",
+          "zh": null
+        },
+        {
+          "en": "Kubernetes already documents much of this, including security and handling disruptions .",
+          "zh": null
+        },
+        {
+          "en": "Even so, every cluster operator ends up repeating the same assessment, and application maintainers get the same questions from each environment they support.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "a7be1f4f1e47bba1",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "US bans vehicles from China’s BYD at Japan military base, calling them ‘unacceptable’ risk",
+      "url": "https://www.theguardian.com/world/2026/oct/27/us-bans-byd-electric-vehicles-kadena-military-base",
+      "publishedAt": "2026-10-27T02:50:31.000Z",
+      "sentences": [
+        {
+          "en": "US bans vehicles from China’s BYD at Japan military base, calling them ‘unacceptable’ risk.",
+          "zh": "美国禁止在日本军事基地使用中国比亚迪的车辆，称其“不可接受”的风险。"
+        },
+        {
+          "en": "US military says the restrictions on the electric vehicles at Kadena airbase also apply to delivery drivers and taxis One of America’s biggest overseas military bases has banned vehicles made by the Chinese electric vehicle maker BYD over security concerns, the US military in Japan said on Tuesday.",
+          "zh": "美国驻日本军方周二表示，美国军方表示，嘉手纳空军基地对电动汽车的限制也适用于送货司机和出租车。美国最大的海外军事基地之一出于安全考虑，禁止了中国电动汽车制造商比亚迪生产的车辆。"
+        },
+        {
+          "en": "The ban, which went into effect this week at Kadena airbase on the southern Japanese island of Okinawa , has fueled speculation that similar measures could be taken at other US military facilities as part of Washington’s crackdown on Chinese technology it suspects of being used to collect sensitive information.",
+          "zh": "这项禁令于本周在日本南部冲绳岛嘉手纳空军基地生效，引发了人们的猜测，即可能在其他美国军事设施采取类似措施，作为华盛顿镇压中国涉嫌用于收集敏感信息的技术的一部分。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "87222fd3ea56f85a",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
+      "url": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T02:40:17.000Z",
+      "sentences": [
+        {
+          "en": "Jordan carries out deadly strike in Syria in retaliation for church attack.",
+          "zh": "约旦在叙利亚发动致命罢工，以报复教堂袭击。"
+        },
+        {
+          "en": "The attack on a village in Syria killed five people, including women and children, Syrian health officials said.",
+          "zh": "叙利亚卫生官员表示，对叙利亚一个村庄的袭击造成5人死亡，其中包括妇女和儿童。"
+        }
+      ]
+    },
+    {
+      "id": "95695fd4f9f797a4",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
+      "url": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T01:46:38.000Z",
+      "sentences": [
+        {
+          "en": "Lula's comeback in Brazil dents Trump's ambitions for Latin America.",
+          "zh": "卢拉在巴西的回归削弱了特朗普对拉丁美洲的雄心。"
+        },
+        {
+          "en": "The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders.",
+          "zh": "特朗普-卢拉关系可能已经解冻，但几个问题可能会重新点燃两位领导人之间的紧张关系。"
+        }
+      ]
+    },
+    {
+      "id": "e77549dba84aa9c3",
+      "sourceId": "cloudflare-blog",
+      "category": "ai",
+      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model, and our remediation with SGLang",
+      "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+      "publishedAt": "2026-10-26T22:01:23.000Z",
+      "sentences": [
+        {
+          "en": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model, and our remediation with SGLang.",
+          "zh": "在GLM-5.3 Workers AI模型中交叉请求KV缓存曝光，以及我们对SGLang的修复。"
+        },
+        {
+          "en": "On September 8, 2026, we were alerted by a security researcher, Gadi Evron from Knostic , to a tenant isolation issue affecting the GLM-5.3 Workers AI model ( @cf/zai-org/glm-5.3 ) starting on August 27, 2026.",
+          "zh": "2026年9月8日，来自Knostic的安全研究员Gadi Evron提醒我们，从2026年8月27日开始，租户隔离问题会影响GLM-5.3 Workers AI模型(@ cf/zai-org/glm-5.3)。"
+        },
+        {
+          "en": "We have remediated the issue, and we restored the model on September 9.",
+          "zh": "我们已解决此问题，并于9月9日恢复了模型。"
+        },
+        {
+          "en": "We have confirmed that no other model hosted on Workers AI was affected.",
+          "zh": "我们已确认， Workers AI上托管的任何其他模型均未受到影响。"
+        },
+        {
+          "en": "Between August 27 and September 9, a small number of customers using the GLM 5.3 Workers AI model received responses that contained data from other customers&#x27; requests made to the same model shortly before theirs.",
+          "zh": "在8月27日至9月9日期间，少数使用GLM 5.3 Workers AI模型的客户收到了回复，其中包含来自其他客户在他们之前不久向同一模型提出的请求的数据。"
+        },
+        {
+          "en": "In total, 155 responses were affected, all to prompts longer than 681,280 tokens.",
+          "zh": "总共有155个回复受到影响，所有回复的提示长度均超过681,280个令牌。"
+        },
+        {
+          "en": "After excluding our own testing and the researcher&#x27;s, the requests we identified are consistent in timing and volume with ordinary long-context use, not with someone repeatedly exploiting the bug.",
+          "zh": "在排除了我们自己的测试和研究人员的测试之后，我们确定的请求在时间和数量上与普通的长上下文使用一致，而不是与反复利用该漏洞的人一致。"
+        },
+        {
+          "en": "We found no evidence of deliberate exploitation.",
+          "zh": "我们没有发现故意剥削的证据。"
+        },
+        {
+          "en": "Today we are publishing this report alongside a post from SGLang, the open-source inference engine that we use, as a coordinated disclosure.",
+          "zh": "今天，我们将此报告与我们使用的开源推理引擎SGLang的帖子一起发布，作为协调披露。"
+        },
+        {
+          "en": "This post describes the bug that caused this issue, our response timeline, and the subsequent hardening we have conducted on our production SGLang deployments.",
+          "zh": "本文介绍了导致此问题的错误、我们的响应时间表以及我们在生产SGLang部署中进行的后续强化。"
+        },
+        {
+          "en": "We also detail our continued efforts with the upstream maintainers of SGLang to address this and similar bugs.",
+          "zh": "我们还详细介绍了我们与SGLang的上游维护人员一起努力解决此漏洞和类似漏洞。"
+        },
+        {
+          "en": "What happened GLM is a text generation model from Z.ai that is built for agentic coding workflows; it is one of the many models available through Workers AI.",
+          "zh": "GLM是Z.ai为代理编码工作流程构建的文本生成模型；它是Workers AI提供的众多模型之一。"
+        }
+      ]
+    },
+    {
+      "id": "b1d7eb2dedce5839",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Our newest AI Quest: Mapping the human brain",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+      "publishedAt": "2026-10-26T16:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Our newest AI Quest: Mapping the human brain.",
+          "zh": "我们最新的人工智能任务：映射人脑。"
+        },
+        {
+          "en": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
+          "zh": "通过谷歌最新的AI Quests神经科学课程“Polar Peaks”学习人工智能素养。"
+        }
+      ]
+    },
+    {
+      "id": "1f93e5d0440cbc79",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "15 college students share their favorite Gemini features",
+      "url": "https://blog.google/products-and-platforms/products/gemini/college-student-favorite-features/",
+      "publishedAt": "2026-10-26T16:00:00.000Z",
+      "sentences": [
+        {
+          "en": "15 college students share their favorite Gemini features.",
+          "zh": "15名大学生分享他们最喜欢的双子座功能。"
+        },
+        {
+          "en": "We asked 15 college students about their favorite Gemini features for learning, studying, taking notes, and more.",
+          "zh": "我们向15名大学生询问了他们最喜欢的双子座学习、学习、做笔记等功能。"
+        }
+      ]
+    }
+  ],
+  "failures": []
+}
