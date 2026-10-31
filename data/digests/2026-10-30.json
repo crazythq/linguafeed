@@ -1,0 +1,875 @@
+{
+  "date": "2026-10-30",
+  "collectedAt": "2026-10-31T04:15:22.839Z",
+  "items": [
+    {
+      "id": "93c1cc8d18144e66",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Democratic senator blames Egypt press crackdown on US military aid decision",
+      "url": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-30T15:17:11.000Z",
+      "sentences": [
+        {
+          "en": "Democratic senator blames Egypt press crackdown on US military aid decision.",
+          "zh": "民主党参议员指责埃及媒体镇压美国军事援助决定。"
+        },
+        {
+          "en": "Chris Murphy said waiving a human rights condition on aid paved the way for arrests of journalists.",
+          "zh": "克里斯·墨菲（ Chris Murphy ）表示，放弃援助的人权条件为逮捕记者铺平了道路。"
+        }
+      ]
+    },
+    {
+      "id": "43d3c4ff1e9f08c7",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Six dead after helicopter crashes in northern Indian state",
+      "url": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-30T15:06:05.000Z",
+      "sentences": [
+        {
+          "en": "Six dead after helicopter crashes in northern Indian state.",
+          "zh": "直升机在印度北部坠毁，造成6人死亡。"
+        },
+        {
+          "en": "The aircraft reportedly took off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact.",
+          "zh": "据报道，这架飞机于周五下午从Badrinath的印度教朝圣地起飞，然后失去联系。"
+        }
+      ]
+    },
+    {
+      "id": "8aeda3af1b304b59",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Spain transport minister says he won't resign over high-speed rail disaster",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-30T15:03:39.000Z",
+      "sentences": [
+        {
+          "en": "Spain transport minister says he won't resign over high-speed rail disaster.",
+          "zh": "西班牙交通部长表示，他不会因高速铁路灾难而辞职。"
+        },
+        {
+          "en": "Óscar Puente has been facing calls to resign after two high-speed trains collided earlier in the week, killing at least 69 people.",
+          "zh": "本周早些时候，两列高速列车相撞，造成至少69人死亡，奥斯卡·蓬特（ Óscar Puente ）一直面临辞职的呼声。"
+        }
+      ]
+    },
+    {
+      "id": "d870a7467c8a6ca4",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "NPR special: 5 takeaways from a year of listening to swing voters",
+      "url": "https://www.npr.org/2026/10/30/nx-s1-6008113/npr-special-swing-voter-focus-groups",
+      "publishedAt": "2026-10-30T15:00:00.000Z",
+      "sentences": [
+        {
+          "en": "NPR special: 5 takeaways from a year of listening to swing voters.",
+          "zh": "NPR特别节目：听取摇摆选民一年意见的5个要点。"
+        },
+        {
+          "en": "Every election, there is a crucial sliver of voters who help determine which candidates win.",
+          "zh": "每次选举都有一小部分选民帮助决定哪些候选人获胜。"
+        },
+        {
+          "en": "Here are five takeaways from a year of listening to voters who backed Biden in 2020 and then Trump in 2024.",
+          "zh": "以下是一年听取2020年支持拜登、2024年支持特朗普的选民意见的五个要点。"
+        },
+        {
+          "en": "(Image credit: Ryan Murphy)",
+          "zh": "（图片来源： Ryan Murphy ）"
+        }
+      ]
+    },
+    {
+      "id": "4cb0aca3bd91ccfc",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
+      "url": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-30T14:48:22.000Z",
+      "sentences": [
+        {
+          "en": "Pope Leo XIV becomes first pontiff to vote in a US election.",
+          "zh": "教皇利奥十四世成为第一位在美国大选中投票的教皇。"
+        },
+        {
+          "en": "The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress.",
+          "zh": "这位出生于芝加哥的教皇与特朗普的关系紧张，他邮寄了一份中期选举选票，该选票将决定美国国会的控制权。"
+        }
+      ]
+    },
+    {
+      "id": "4d4206ade98bad0a",
+      "sourceId": "cloudflare-blog",
+      "category": "cloud",
+      "title": "Cloudflare services for private origins is now generally available",
+      "url": "https://blog.cloudflare.com/private-origins-public-to-private/",
+      "publishedAt": "2026-10-30T14:23:43.000Z",
+      "sentences": [
+        {
+          "en": "Cloudflare services for private origins is now generally available.",
+          "zh": "针对私有来源的Cloudflare服务现已全面推出。"
+        },
+        {
+          "en": "Today, Cloudflare services for private origins is generally available.",
+          "zh": "如今，针对私有来源的Cloudflare服务已全面推出。"
+        },
+        {
+          "en": "Point a proxied DNS record at a private IP, and Cloudflare reaches the origin over your existing Cloudflare One connection .",
+          "zh": "将代理DNS记录指向专用IP ， Cloudflare将通过您现有的Cloudflare One连接到达原点。"
+        },
+        {
+          "en": "Your origin stays private, while web application firewall ( WAF ), caching , bot management , and Workers work just as they do for public origins.",
+          "zh": "您的源代码保持私有，而Web应用程序防火墙(WAF)、缓存、机器人管理和工作人员的工作方式与公共源代码相同。"
+        },
+        {
+          "en": "In June, we launched this capability in closed beta to address a problem we kept hearing from customers: Their internal APIs, AI agent backends, MCP servers, and operational tools weren’t built to face the Internet, but those services still need to accept requests from partners, customers, or agents over the Internet.",
+          "zh": "今年6月，我们在封闭测试版中推出了这项功能，以解决我们一直听到的客户问题：他们的内部API、AI代理后端、MCP服务器和操作工具不是为面对互联网而构建的，但这些服务仍然需要接受合作伙伴、客户或代理通过互联网发出的请求。"
+        },
+        {
+          "en": "Before the beta, putting Cloudflare in front of these services meant exposing a public IP, opening a firewall port, or running cloudflared alongside the origin.",
+          "zh": "在测试版之前，将Cloudflare置于这些服务之前意味着暴露公共IP、打开防火墙端口或在源端旁边运行Cloudflare。"
+        },
+        {
+          "en": "Those requirements often left private applications without the same protections and controls they used for public applications, including WAF, bot management, rate limiting, caching, traffic acceleration, rewrites, and Workers.",
+          "zh": "这些要求通常会使私有应用程序失去它们用于公共应用程序的相同保护和控制，包括WAF、机器人管理、速率限制、缓存、流量加速、重写和工作人员。"
+        },
+        {
+          "en": "What is generally available today During the closed beta, eligible customers requested access through their account team.",
+          "zh": null
+        },
+        {
+          "en": "Today, we’re opening access beyond that beta group.",
+          "zh": null
+        },
+        {
+          "en": "Point a proxied A or AAAA record at a private IP, and Cloudflare’s application services work as they do for public origins: WAF and managed rules Bot management Rate limiting Caching Transform and rewrite rules Workers Some limitations remain.",
+          "zh": null
+        },
+        {
+          "en": "Argo Smart Routing and Dedicated CDN Egress IPs aren’t supported, and origin health checks require Load Balancing .",
+          "zh": null
+        },
+        {
+          "en": "See the developer documentation for the full list of current limitations.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "6313753e936b75f1",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "‘Amateur morons’: Flávio Bolsonaro’s short-lived ‘president-elect’ claim met with mockery",
+      "url": "https://www.theguardian.com/world/2026/oct/30/flavio-bolsonaros-president-elect-claim-mockery-brazil",
+      "publishedAt": "2026-10-30T14:08:41.000Z",
+      "sentences": [
+        {
+          "en": "‘Amateur morons’: Flávio Bolsonaro’s short-lived ‘president-elect’ claim met with mockery.",
+          "zh": "“业余白痴” ：弗拉维奥·博尔索纳罗（ Flávio Bolsonaro ）短暂的“当选总统”主张遭到嘲弄。"
+        },
+        {
+          "en": "Brazilian media ridicule defeated candidate over ‘shameful’ absconsion to US and bizarre letter with wrong coat of arms Flávio Bolsonaro had hoped that by Sunday night people would be calling him the next president of Brazil.",
+          "zh": "巴西媒体的嘲笑击败了候选人，原因是“可耻”地抛弃了美国，以及带有错误徽章的奇怪信件弗拉维奥·博尔索纳罗（ Flávio Bolsonaro ）曾希望到周日晚上，人们会称他为巴西的下一任总统。"
+        },
+        {
+          "en": "Instead, the far-right politician’s decision to flee to the US after losing the election and – for 58 minutes – to declare himself “Brazil’s true president-elect” , has made him a laughing stock, with Brazilian newspapers and commentators raining a barrage of scornful adjectives down on the conquered candidate.",
+          "zh": "相反，这位极右翼政客在选举失利后决定逃往美国，并在58分钟内宣布自己是“巴西真正的当选总统” ，这使他成为笑柄，巴西报纸和评论员对这位被征服的候选人下了一连串轻蔑的形容词。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "953a21482a7a6994",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
+      "url": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
+      "publishedAt": "2026-10-30T13:01:22.000Z",
+      "sentences": [
+        {
+          "en": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance.",
+          "zh": "区块链情报公司将朝鲜与$ 6.3B黑客入侵币安联系起来。"
+        },
+        {
+          "en": "The world's biggest cryptocurrency exchange reported Thursday that approximately $6.3 billion was impacted in an apparent hack.",
+          "zh": "这家全球最大的加密货币交易所周四报告称，约63亿美元受到明显黑客攻击的影响。"
+        },
+        {
+          "en": "(Image credit: Matt Slocum)",
+          "zh": "（图片来源： Matt Slocum ）"
+        }
+      ]
+    },
+    {
+      "id": "d6802ac164b210a4",
+      "sourceId": "ms-devblogs",
+      "category": "release-notes",
+      "title": "Does ‘eval’ in the workspace path change what your agent does?",
+      "url": "https://devblogs.microsoft.com/blog/does-eval-in-the-workspace-path-change-what-your-agent-does/",
+      "publishedAt": "2026-10-30T12:49:14.000Z",
+      "sentences": [
+        {
+          "en": "Does ‘eval’ in the workspace path change what your agent does?.",
+          "zh": "工作区路径中的“eval”是否会改变您的客服代表的工作？。"
+        },
+        {
+          "en": "Your eval might be telling the agent it’s a test before the agent reads a single instruction.",
+          "zh": "在客服代表阅读单个说明之前，您的评估可能是在告诉客服代表这是一个测试。"
+        },
+        {
+          "en": "Eval tools need a fresh folder for every run, and the easiest way to get one is a temp directory with a random name like /tmp/eval-7f3a2c .",
+          "zh": "评估工具每次运行都需要一个新的文件夹，获取一个文件夹的最简单方法是使用/tmp/eval-7f3a2c等随机名称的临时目录。"
+        },
+        {
+          "en": "The agent sees that path on every turn, in the system prompt as its working directory and in the output of every tool call.",
+          "zh": "代理在每次转弯时都会看到该路径，在系统提示符中作为其工作目录，并在每个工具调用的输出中看到该路径。"
+        },
+        {
+          "en": "If models can tell when they’re being tested, a folder literally called eval is about the easiest giveaway there is.",
+          "zh": "如果模型可以告诉他们何时进行测试，那么一个名为eval的文件夹就是最简单的赠品。"
+        },
+        {
+          "en": "So we checked whether the folder name changes what agents do.",
+          "zh": "因此，我们检查了文件夹名称是否更改了代理的操作。"
+        },
+        {
+          "en": "Across about 900 runs and four models, it made them more convinced they were being tested, but it didn’t change their behavior in any way we could measure.",
+          "zh": "在大约900次运行和4个模型中，这使他们更加确信自己正在接受测试，但并没有以我们可以测量的任何方式改变他们的行为。"
+        },
+        {
+          "en": "They didn’t cheat less, cut fewer corners, report more honestly or work harder.",
+          "zh": "他们没有减少作弊、减少偷工减料、更诚实地举报或更努力地工作。"
+        },
+        {
+          "en": "Why we expected the folder name to change behavior Needham et al. showed that models can tell evaluations from real use well above chance, and more easily in agentic settings.",
+          "zh": "为什么我们期望文件夹名称改变行为Needham等人表明，模型可以比机会更轻松地区分实际使用的评估，并且在代理设置中更容易。"
+        },
+        {
+          "en": "Schoen et al. found that models aware of being evaluated take fewer covert actions.",
+          "zh": "Schoen等人发现，意识到被评估的模型采取的隐蔽行动较少。"
+        },
+        {
+          "en": "Research on test awareness in reasoning models shows that it changes how readily a model complies with requests and how much it optimizes for passing tests.",
+          "zh": "对推理模型中测试感知的研究表明，它改变了模型遵守请求的容易程度以及通过测试的优化程度。"
+        },
+        {
+          "en": "Our own work pointed the same way.",
+          "zh": "我们自己的工作也指出了同样的方向。"
+        }
+      ]
+    },
+    {
+      "id": "7ba9047fa9e349d3",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "China denies allegations of spy operation targeting Nvidia CEO",
+      "url": "https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-30T12:20:04.000Z",
+      "sentences": [
+        {
+          "en": "China denies allegations of spy operation targeting Nvidia CEO.",
+          "zh": "中国否认针对英伟达首席执行官的间谍行动指控。"
+        },
+        {
+          "en": "US intelligence officials believe a Chinese businesswoman was gathering information for Beijing on the US chip-making giant, The New York Times reports.",
+          "zh": "据《纽约时报》报道，美国情报官员认为，一名中国女商人正在为北京收集有关这家美国芯片制造巨头的信息。"
+        }
+      ]
+    },
+    {
+      "id": "d56efbba7781b6bf",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Why is the Cheesecake Factory at the center of the latest culture war?",
+      "url": "https://www.npr.org/2026/10/30/nx-s1-6023106/cheesecake-factory-culture-war-affordability-trump-obama",
+      "publishedAt": "2026-10-30T12:00:31.000Z",
+      "sentences": [
+        {
+          "en": "Why is the Cheesecake Factory at the center of the latest culture war?.",
+          "zh": "为什么芝士蛋糕工厂是最新文化大战的中心？"
+        },
+        {
+          "en": "A joke by former President Obama has gone viral and received backlash from the Trump administration as the issue of affordability looms large over next week's midterm elections.",
+          "zh": "随着负担能力问题在下周的中期选举中凸显出来，前总统奥巴马的一个笑话已经病毒式传播，并受到特朗普政府的强烈反对。"
+        },
+        {
+          "en": "(Image credit: Kayla Bartkowski)",
+          "zh": "（图片来源： Kayla Bartkowski ）"
+        }
+      ]
+    },
+    {
+      "id": "2c42536034d9b008",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Yemen war makes reaching assistance too dangerous for many",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168706",
+      "publishedAt": "2026-10-30T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Yemen war makes reaching assistance too dangerous for many.",
+          "zh": "也门战争使获得援助对许多人来说太危险了。"
+        },
+        {
+          "en": "More than 280,000 people have now been displaced by fighting in Yemen and many vulnerable people are unable to access lifesaving relief because it is too dangerous to do so, the UN refugee agency (UNHCR) said on Friday.",
+          "zh": "联合国难民署（ UNHCR ）周五表示，也门有超过28万人因战斗而流离失所，许多弱势群体无法获得救生救济，因为这样做太危险了。"
+        }
+      ]
+    },
+    {
+      "id": "704f1b2758c0d3e3",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "UN rights office warns of deepening displacement ‘nightmare’ in Gaza",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168707",
+      "publishedAt": "2026-10-30T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "UN rights office warns of deepening displacement ‘nightmare’ in Gaza.",
+          "zh": "联合国人权高专办警告说，加沙的流离失所“噩梦”正在加深。"
+        },
+        {
+          "en": "Israeli forces continue to push Palestinians into ever-smaller areas of the Gaza Strip while destroying civilian infrastructure and attacking displacement sites, the UN human rights office, OHCHR, warned on Friday amid concerns of ethnic cleansing.",
+          "zh": "联合国人权高专办周五在种族清洗的担忧中警告说，以色列军队继续将巴勒斯坦人推向加沙地带越来越小的地区，同时摧毁民用基础设施并袭击流离失所地点。"
+        }
+      ]
+    },
+    {
+      "id": "07e6a9b89d0e0264",
+      "sourceId": "un-news",
+      "category": "science",
+      "title": "DR Congo: Hunger deepens for millions amid conflict, Ebola and climate shocks",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168708",
+      "publishedAt": "2026-10-30T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "DR Congo: Hunger deepens for millions amid conflict, Ebola and climate shocks.",
+          "zh": "刚果民主共和国：冲突、埃博拉和气候冲击加剧了数百万人的饥饿。"
+        },
+        {
+          "en": "More than 28 million people in the Democratic Republic of the Congo (DRC) are not getting enough to eat and the number is expected to tick up in the coming months, according to the latest alert from the IPC global food security monitor.",
+          "zh": "根据IPC全球粮食安全监测的最新警报，刚果民主共和国（ DRC ）有超过2800万人没有足够的食物，预计这一数字将在未来几个月内上升。"
+        }
+      ]
+    },
+    {
+      "id": "cda984fd3145ada6",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Ukraine: Oleshky ceasefire offers ‘hope’ for civilians as attacks on aid vehicles continue",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168712",
+      "publishedAt": "2026-10-30T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Ukraine: Oleshky ceasefire offers ‘hope’ for civilians as attacks on aid vehicles continue.",
+          "zh": "乌克兰： Oleshky停火为平民提供了“希望” ，因为对援助车辆的袭击仍在继续。"
+        },
+        {
+          "en": "Each day the ceasefire in Oleshky holds means hope for civilians in the city, the UN’s top humanitarian official said, stressing that those wishing to leave must be able to do so safely and voluntarily.",
+          "zh": "联合国高级人道主义官员表示，奥列什基的每一天停火都意味着该市平民的希望，并强调那些希望离开的人必须能够安全和自愿地离开。"
+        }
+      ]
+    },
+    {
+      "id": "fce6834aa3094b6a",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "World News in Brief: 300,000 displaced in Lebanon, Türk ‘deeply concerned’ over Novaya Gazeta closure, $50 million refugee appeal, World Cities Day",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168713",
+      "publishedAt": "2026-10-30T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "World News in Brief: 300,000 displaced in Lebanon, Türk ‘deeply concerned’ over Novaya Gazeta closure, $50 million refugee appeal, World Cities Day.",
+          "zh": "《世界新闻简报》：在黎巴嫩有30万流离失所者，蒂尔克对《新报》的关闭、5000万美元的难民上诉、世界城市日表示“深切关注”。"
+        },
+        {
+          "en": "More than 300,000 people displaced since early March remain internally displaced in Lebanon, where the humanitarian crisis is “far from over,” according to the UN’s aid coordination office (OCHA).",
+          "zh": "根据联合国援助协调办公室（ OCHA ）的数据，自3月初以来，超过30万流离失所者仍在黎巴嫩境内流离失所，那里的人道主义危机“远未结束”。"
+        }
+      ]
+    },
+    {
+      "id": "ff37186058394944",
+      "sourceId": "npr-news",
+      "category": "security",
+      "title": "Binance flags 'potential security issue,' says approximately $6.3 billion impacted",
+      "url": "https://www.npr.org/2026/10/30/nx-s1-6023109/binance-security-issue",
+      "publishedAt": "2026-10-30T11:21:56.000Z",
+      "sentences": [
+        {
+          "en": "Binance flags 'potential security issue,' says approximately $6.3 billion impacted.",
+          "zh": "币安标志着“潜在的安全问题” ，约63亿美元受到影响。"
+        },
+        {
+          "en": "It wasn't immediately clear the extent of the damage hackers might have been able to cause, and Binance had not explicitly confirmed that funds had been pilfered.",
+          "zh": "目前尚不清楚黑客可能造成的损害程度，币安也没有明确证实资金被盗。"
+        },
+        {
+          "en": "The company said its teams are \"working around the clock\" to resolve the issue.",
+          "zh": "该公司表示，其团队正在“全天候工作”以解决这个问题。"
+        },
+        {
+          "en": "(Image credit: Matt Slocum)",
+          "zh": "（图片来源： Matt Slocum ）"
+        }
+      ]
+    },
+    {
+      "id": "977751fba06629cc",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Alaska's Senate race faces claims of spoiler candidate. And, Hegseth ousts Army general",
+      "url": "https://www.npr.org/2026/10/30/g-s1-150889/up-first-newsletter-midterm-elections-iran-war-veteran-affairs-loans",
+      "publishedAt": "2026-10-30T11:20:26.000Z",
+      "sentences": [
+        {
+          "en": "Alaska's Senate race faces claims of spoiler candidate.",
+          "zh": "阿拉斯加的参议院竞选面临着破坏者候选人的说法。"
+        },
+        {
+          "en": "And, Hegseth ousts Army general.",
+          "zh": "而且，赫格塞特罢免了陆军将军。"
+        },
+        {
+          "en": "Alaska's governor ordered an investigation into claims that Dems recruited a spoiler candidate to confuse voters.",
+          "zh": "阿拉斯加州州长下令对Dems招募扰乱者候选人以迷惑选民的指控进行调查。"
+        },
+        {
+          "en": "And, Hegseth ousted an Army general as the U.S. prepares for potential attacks on Iran.",
+          "zh": "而且，在美国准备对伊朗发动潜在袭击之际，黑格塞斯罢免了一名陆军将军。"
+        },
+        {
+          "en": "(Image credit: David Swanson)",
+          "zh": "（图片来源： David Swanson ）"
+        }
+      ]
+    },
+    {
+      "id": "a208a1e534514af1",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Beijing Queer film festival cancelled after harassment from authorities",
+      "url": "https://www.theguardian.com/world/2026/oct/30/beijing-queer-film-festival-cancelled-after-police-harassment",
+      "publishedAt": "2026-10-30T11:04:12.000Z",
+      "sentences": [
+        {
+          "en": "Beijing Queer film festival cancelled after harassment from authorities.",
+          "zh": "北京酷儿电影节因受到当局的骚扰而取消。"
+        },
+        {
+          "en": "Forums for discussion of feminist and LGBTQ+ views face growing intolerance from Chinese state, say experts Beijing’s annual independent queer film festival has been cancelled after what is understood to have been a campaign of sustained harassment from authorities.",
+          "zh": "讨论女权主义和LGBTQ +观点的论坛面临来自中国政府的越来越多的不容忍，专家们表示，北京一年一度的独立酷儿电影节在被认为是当局持续骚扰的运动后被取消。"
+        },
+        {
+          "en": "Beijing Queer film festival, which was due to begin on Friday in China’s capital, is one of the country’s oldest independent film festivals.",
+          "zh": "原定于周五在中国首都开幕的北京酷儿电影节是中国历史最悠久的独立电影节之一。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "63117dc94f2a80cf",
+      "sourceId": "npr-news",
+      "category": "ai",
+      "title": "The two most interesting risks to Anthropic",
+      "url": "https://www.npr.org/sections/planet-money/2026/10/30/nx-s1-6022515/the-two-most-interesting-risks-to-anthropic",
+      "publishedAt": "2026-10-30T11:00:00.000Z",
+      "sentences": [
+        {
+          "en": "The two most interesting risks to Anthropic.",
+          "zh": "Anthropic的两个最有趣的风险。"
+        },
+        {
+          "en": "Anthropic gave a 94-page list of risk factors in its S-1 this week.",
+          "zh": "Anthropic本周在其S-1中列出了94页的风险因素清单。"
+        },
+        {
+          "en": "Two of them stood out.",
+          "zh": "其中两人脱颖而出。"
+        },
+        {
+          "en": "(Image credit: Kevin Dietsch)",
+          "zh": "（图片来源： Kevin Dietsch ）"
+        }
+      ]
+    },
+    {
+      "id": "71e927c2efd319e2",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Severe rainfall and flood warnings issued for central Greece and western Turkey",
+      "url": "https://www.theguardian.com/environment/2026/oct/30/severe-rainfall-flood-warnings-greece-turkey",
+      "publishedAt": "2026-10-30T10:07:16.000Z",
+      "sentences": [
+        {
+          "en": "Severe rainfall and flood warnings issued for central Greece and western Turkey.",
+          "zh": "希腊中部和土耳其西部发布强降雨和洪水警报。"
+        },
+        {
+          "en": "Turkey has been hit by powerful thunderstorms and a fatal tornado this week with more heavy rain expected Heavy rain and strong winds will continue to affect parts of south-eastern Europe and Turkey over the next few days, as an area of low pressure in the region has allowed for the formation of powerful thunderstorms.",
+          "zh": "土耳其本周受到强雷暴和致命龙卷风的袭击，预计未来几天，大雨和强风将继续影响东南欧和土耳其的部分地区，因为该地区的低气压地区允许形成强雷暴。"
+        },
+        {
+          "en": "During a particularly intense thunderstorm in Antalya, a coastal city in the south-west of Turkey, the formation of a tornado resulted in the deaths of four construction workers on Tuesday.",
+          "zh": "在土耳其西南部沿海城市安塔利亚发生的一场特别强烈的雷暴中，周二龙卷风的形成导致四名建筑工人死亡。"
+        },
+        {
+          "en": "Authorities in Greece and Turkey have released severe rainfall and flooding warnings, as a further 100-150mm (nearly 4-6in) of rain is expected this week in central Greece and western parts of Turkey, with locally higher totals possible.",
+          "zh": "希腊和土耳其当局已发布严重降雨和洪水警告，预计本周希腊中部和土耳其西部地区将再降雨100-150毫米（近4-6英寸） ，当地降雨总量可能更高。"
+        },
+        {
+          "en": "Travelling eastwards towards south Asia, strong winds and heavy rainfall have swept across the Indian regions of Odisha and Andhra Pradesh as Cyclone Arnab made landfall.",
+          "zh": "随着飓风阿纳布登陆，强风和强降雨向东吹向南亚，席卷了印度的奥里萨邦和安得拉邦地区。"
+        },
+        {
+          "en": "With wind gusts in excess of 85mph (140km/h) and rainfall totals in some regions exceeding 200mm, the severe storm has prompted mass evacuations of more than 180,000 people, as well as widespread disruption to energy and transport infrastructure.",
+          "zh": "由于阵风超过85英里/小时（ 140公里/小时） ，一些地区的降雨总量超过200毫米，这场严重的风暴已导致超过18万人大规模撤离，并对能源和运输基础设施造成广泛干扰。"
+        },
+        {
+          "en": "The cyclone will weaken as it continues to traverse northwards over the coming days, though will continue to deliver heavy rain to parts of northern and central India as it does so.",
+          "zh": "在接下来的几天里，随着气旋继续向北行进，气旋将减弱，尽管它将继续向印度北部和中部的部分地区输送大雨。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "d93c6142062b4ec2",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Candy prices got you scared stiff? What to know about the cost of Halloween this year",
+      "url": "https://www.npr.org/2026/10/30/nx-s1-6018566/halloween-candy-prices-chocolate",
+      "publishedAt": "2026-10-30T09:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Candy prices got you scared stiff?",
+          "zh": "糖果价格让你害怕僵硬？"
+        },
+        {
+          "en": "What to know about the cost of Halloween this year.",
+          "zh": "关于今年万圣节费用的注意事项。"
+        },
+        {
+          "en": "Prices for candy, the most popular Halloween purchase, and gum have risen 7.7% in one year and are up more than 18% in two years, according to the latest federal data.",
+          "zh": "根据最新的联邦数据，最受欢迎的万圣节购买糖果和口香糖的价格在一年内上涨了7.7% ，两年内上涨了18%以上。"
+        },
+        {
+          "en": "(Image credit: Stephanie Scarbrough)",
+          "zh": "（图片来源： Stephanie Scarbrough ）"
+        }
+      ]
+    },
+    {
+      "id": "8db784f419fa5bf8",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Human rights lawyer couple sentenced to 10 years' prison in Pakistan",
+      "url": "https://www.bbc.co.uk/news/articles/crq5nplyvlg8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-30T07:53:38.000Z",
+      "sentences": [
+        {
+          "en": "Human rights lawyer couple sentenced to 10 years' prison in Pakistan.",
+          "zh": "人权律师夫妇在巴基斯坦被判处10年徒刑。"
+        },
+        {
+          "en": "Imaan Mazari and Hadi Ali Chattha were charged over an incident in 2024, when England's cricket team was touring Pakistan.",
+          "zh": "Imaan Mazari和Hadi Ali Chattha因2024年英格兰板球队在巴基斯坦巡回赛时发生的事件而被起诉。"
+        }
+      ]
+    },
+    {
+      "id": "29f7fd3ebb197df3",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
+      "url": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-30T06:02:23.000Z",
+      "sentences": [
+        {
+          "en": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery.",
+          "zh": "由于危机对阿萨德后经济复苏构成挑战，叙利亚人正在努力应对物价飙升。"
+        },
+        {
+          "en": "End of subsidies and rising prices drive discontent, testing support for Ahmed al-Sharaa's government.",
+          "zh": "补贴的结束和价格上涨引发了不满情绪，考验了对艾哈迈德·沙拉政府的支持。"
+        }
+      ]
+    },
+    {
+      "id": "1b177d530b43c046",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Sudanese diaspora and human rights groups denounce UAE nominee for UN top job",
+      "url": "https://www.theguardian.com/world/2026/oct/30/sudanese-diaspora-human-rights-groups-denounce-uae-nominee-un-top-job",
+      "publishedAt": "2026-10-30T05:00:45.000Z",
+      "sentences": [
+        {
+          "en": "Sudanese diaspora and human rights groups denounce UAE nominee for UN top job.",
+          "zh": "苏丹侨民和人权组织谴责阿联酋被提名担任联合国最高职位。"
+        },
+        {
+          "en": "Critics cite Lana Nusseibeh’s denial of accusations the UAE is fuelling Sudan war by supporting paramilitary RSF Members of the Sudanese diaspora and international human rights monitors have denounced the candidature of an Emirati diplomat for the top job at the UN, citing her denial of accusations that the United Arab Emirates is fuelling the war in Sudan by supporting the paramilitary Rapid Support Forces.",
+          "zh": "批评人士援引拉娜·努赛贝（ Lana Nusseibeh ）否认阿联酋通过支持苏丹侨民的准军事无国界成员来助长苏丹战争的指控，国际人权监察员谴责阿联酋外交官竞选联合国最高职位，理由是她否认阿联酋通过支持准军事快速支援部队来助长苏丹战争的指控。"
+        },
+        {
+          "en": "The UAE nominated Lana Nusseibeh last week to replace the UN secretary general, António Guterres, as he finishes his second five-year term ⁠this year, upending a race that had become gridlocked.",
+          "zh": "阿联酋上周提名拉纳·努赛贝（ Lana Nusseibeh ）接替联合国秘书长安东尼奥·古特雷斯（ António Guterres ） ，因为他今年结束了第二个五年任期，颠覆了陷入僵局的竞选。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "f1b4ac3f2294370b",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
+      "url": "https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg",
+      "publishedAt": "2026-10-30T05:00:45.000Z",
+      "sentences": [
+        {
+          "en": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg.",
+          "zh": "坑洞、伤痕累累的土地和替罪羊：约翰内斯堡非法开采黄金的祸害。"
+        },
+        {
+          "en": "There is no end in sight for the drivers of illegal mining, while police action appears ineffective Cora Bailey has been encountering illegal miners ever since she first started treating injured animals in the townships around Roodepoort, west of Johannesburg, in 1991.",
+          "zh": "非法采矿的司机看不到尽头，而警方的行动似乎无效。自1991年科拉·贝利（ Cora Bailey ）第一次开始在约翰内斯堡以西的鲁德波特（ Roodepoort ）周围的乡镇治疗受伤的动物以来，她一直在遇到非法矿工。"
+        },
+        {
+          "en": "But as the price of gold has soared, so too has activity in the abandoned mine shafts that mark the area.",
+          "zh": "但随着黄金价格的飙升，标志着该地区的废弃矿井的活动也随之飙升。"
+        },
+        {
+          "en": "In late September, dozens of zama zamas – the name given to illegal miners in South Africa, meaning roughly “to take a chance” in Zulu – arrived to dig for gold across the dirt road from her charity, Claw (Community Led Animal Welfare).",
+          "zh": "9月下旬，数十名zama zamas--南非非法矿工的名字，在祖鲁语中大致意为“抓住机会” --从她的慈善机构Claw （社区主导的动物福利）的土路上挖掘黄金。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "2ab275747853b06e",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "China expels a record number from Communist party amid Xi’s intensified purges of top officials",
+      "url": "https://www.theguardian.com/world/2026/oct/30/china-expels-record-number-communist-party-xi-jinping-purges-officials-fifth-plenum",
+      "publishedAt": "2026-10-30T02:56:46.000Z",
+      "sentences": [
+        {
+          "en": "China expels a record number from Communist party amid Xi’s intensified purges of top officials.",
+          "zh": "在习近平加紧清洗高级官员之际，中国从共产党驱逐了创纪录的人数。"
+        },
+        {
+          "en": "The unprecedented number of empty seats at the fifth plenum – a symbol of expulsions – serve as a symbol for the scale of the purges under Xi Jinping China expelled a record number of officials from the Chinese Communist party (CCP) as it concluded a major political gathering , which saw an unprecedented number of empty seats indicating the scale of the purges under Xi Jinping.",
+          "zh": "五中全会前所未有的空位--这是驱逐的象征--是习近平领导下的清洗规模的象征，在中国共产党（ CCP ）结束一场重大政治集会时，中国共产党（ CCP ）开除了创纪录数量的官员，空位数量前所未有，表明习近平领导下的清洗规模。"
+        },
+        {
+          "en": "A record 33 members were expelled at this week’s fifth plenum, a gathering of top officials that takes place roughly once a year.",
+          "zh": "创纪录的33名成员在本周的第五次全体会议上被开除，这是一次大约每年一次的高级官员聚会。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "8d59b9f3c08d9e94",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Mushroom murderer fails to overturn convictions in Australian court challenge",
+      "url": "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-30T01:35:40.000Z",
+      "sentences": [
+        {
+          "en": "Mushroom murderer fails to overturn convictions in Australian court challenge.",
+          "zh": "蘑菇杀手未能在澳大利亚法院质疑中推翻定罪。"
+        },
+        {
+          "en": "Erin Patterson argued her trial was unfair due to seven grounds but three appeal judges dismissed them all.",
+          "zh": "艾琳·帕特森（ Erin Patterson ）认为，由于七个理由，她的审判是不公平的，但三名上诉法官驳回了所有这些理由。"
+        }
+      ]
+    },
+    {
+      "id": "958095fe4bcd0d81",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Cuts like a knife: Canadian rocker Bryan Adams trolls Trump with new song",
+      "url": "https://www.theguardian.com/world/2026/oct/29/bryan-adams-donald-trump-song",
+      "publishedAt": "2026-10-29T17:49:47.000Z",
+      "sentences": [
+        {
+          "en": "Cuts like a knife: Canadian rocker Bryan Adams trolls Trump with new song.",
+          "zh": "像刀子一样切割：加拿大摇滚歌手布莱恩·亚当斯（ Bryan Adams ）用新歌向特朗普发出巨魔"
+        },
+        {
+          "en": "Musician wrote a ‘love letter’ to Canada with a new album – and some pointed commentary about the US president Lake Ontario, the vast body of water that straddles the US-Canada border, has gone by many names over the centuries: Lac Saint-Louis, Lacus Ontarius, Skaniadorio, Cataraqui Lake.",
+          "zh": "音乐家用一张新专辑给加拿大写了一封“情书” --还有一些关于美国总统安大略湖的尖锐评论，安大略湖是横跨美加边境的广阔水域，几个世纪以来有很多名字：圣路易湖、安大略湖、斯卡尼亚多里奥湖、卡塔拉基湖。"
+        },
+        {
+          "en": "But one thing it will never be called, says the Canadian rock star Bryan Adams , is Lake America.",
+          "zh": "但加拿大摇滚明星布莱恩·亚当斯（ Bryan Adams ）说，有一件事永远不会被称为美国湖。"
+        },
+        {
+          "en": "In his new song Lake Ontario, Adams takes aim at the US president, Donald Trump , accusing him of “breaking the peace” between the people who live on the lake’s shores.",
+          "zh": "在他的新歌《安大略湖》（ Lake Ontario ）中，亚当斯瞄准了美国总统唐纳德·特朗普（ Donald Trump ） ，指责他“破坏”了湖边居民之间的和平。"
+        },
+        {
+          "en": "The ‘lake of shining waters ’ is what the Iroquois called her It’s a First Nations name – not an executive order.",
+          "zh": "易洛魁人称她为“闪闪发光的水湖” ，这是第一民族的名字，而不是行政命令。"
+        },
+        {
+          "en": "But things weren’t going his way in Iran So like a baby tossing the toys from the pram You can push us to the brink But where the open road divides Continue reading..",
+          "zh": "但在伊朗，事情并不顺利，所以就像一个婴儿从婴儿车里扔玩具一样，你可以把我们推到边缘，但是在开阔的道路分裂的地方。继续阅读.."
+        }
+      ]
+    },
+    {
+      "id": "7b9ebd7053e226e7",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Brazil’s victory for the planet and democracy: seven lessons from Lula’s win",
+      "url": "https://www.theguardian.com/world/2026/oct/29/brazil-victory-planet-democracy-lessons-lula-win",
+      "publishedAt": "2026-10-29T17:46:38.000Z",
+      "sentences": [
+        {
+          "en": "Brazil’s victory for the planet and democracy: seven lessons from Lula’s win.",
+          "zh": "巴西对地球和民主的胜利：卢拉胜利的七个教训。"
+        },
+        {
+          "en": "The trouncing of the far right provides a playbook for social and environmental movements in other countries facing elections, including the US, Spain and France Thank you, Brazil, for demonstrating how the far right can be trounced while protection for the Amazon is strengthened.",
+          "zh": "极右翼的垮台为其他面临选举的国家（包括美国、西班牙和法国）的社会和环境运动提供了一本剧本。感谢巴西展示了如何在加强对亚马逊的保护的同时垮台极右翼。"
+        },
+        {
+          "en": "In a world where nature and democracy appeared to be bleeding out in tandem, voters and forest defenders in this global south powerhouse have shown it is possible to staunch the flow.",
+          "zh": "在一个自然和民主似乎同时流失的世界里，这个全球南方强国的选民和森林捍卫者已经证明，阻止这种流失是可能的。"
+        },
+        {
+          "en": "This should provide much needed inspiration and, more practically, a playbook for social and environmental movements in other countries facing elections, including the US, Spain and France.",
+          "zh": "这应该为包括美国、西班牙和法国在内的面临选举的其他国家的社会和环境运动提供急需的灵感，更实际地说，是一本剧本。"
+        },
+        {
+          "en": "The astonishing comeback victory of Luiz Inácio Lula da Silva in Sunday’s presidential runoff against his extreme right challenger Flavío Bolsonaro has brought oceans of rapturous supporters on to the streets, while also thrilling conservationists, climate activists and social justice campaigners across the world.",
+          "zh": "路易斯·伊纳西奥·卢拉·达席尔瓦（ Luiz Inácio Lula da Silva ）在周日的总统决赛中对他的极右翼挑战者弗拉维奥·博尔索纳罗（ Flavío Bolsonaro ）的惊人复出胜利让狂喜的支持者走上街头，同时也让世界各地的环保主义者、气候活动家和社会正义活动家感到兴奋。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "d9e57218237adad6",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/edit-files-directly/",
+      "publishedAt": "2026-10-29T16:15:00.000Z",
+      "sentences": [
+        {
+          "en": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
+          "zh": "您现在可以直接在Gemini中生成、预览和编辑文档、PDF、演示文稿、电子表格等。"
+        },
+        {
+          "en": "Generate, edit, and preview PDFs or Docs directly in Gemini.",
+          "zh": "直接在Gemini中生成、编辑和预览PDF或文档。"
+        },
+        {
+          "en": "Use the new full-screen editor to refine your files today.",
+          "zh": "立即使用新的全屏编辑器来优化文件。"
+        },
+        {
+          "en": "See what's new in Gemini.",
+          "zh": "了解双子座的最新动态。"
+        }
+      ]
+    },
+    {
+      "id": "2f7e4426274adf45",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Celebrate Halloween with these tricks in Google Photos.",
+      "url": "https://blog.google/products-and-platforms/products/photos/halloween-tricks-2026/",
+      "publishedAt": "2026-10-29T16:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Celebrate Halloween with these tricks in Google Photos.",
+          "zh": "使用Google相册中的这些技巧庆祝万圣节。"
+        },
+        {
+          "en": "Use Ask Photos to find past costumes and edit spooky backgrounds in Google Photos.",
+          "zh": "使用Ask Photos查找过去的服装，并在Google相册中编辑幽灵般的背景。"
+        },
+        {
+          "en": "Try these festive tricks to perfect your Halloween snaps today.",
+          "zh": "立即尝试这些节日技巧，完善您的万圣节快照。"
+        }
+      ]
+    },
+    {
+      "id": "60134842d45d4023",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Gemini Notebook makes hundreds of textbooks available to help students learn even more.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-access-textbooks/",
+      "publishedAt": "2026-10-29T16:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Gemini Notebook makes hundreds of textbooks available to help students learn even more.",
+          "zh": "Gemini Notebook提供数百种教科书，帮助学生学习更多知识。"
+        },
+        {
+          "en": "Add textbooks from OpenStax and S Chand to Google Gemini Notebook.",
+          "zh": "将OpenStax和S Chand中的教科书添加到Google Gemini Notebook。"
+        },
+        {
+          "en": "Generate custom study guides and quizzes now.",
+          "zh": "立即生成自定义学习指南和测验。"
+        },
+        {
+          "en": "See the available catalog.",
+          "zh": "请参阅可用的目录。"
+        }
+      ]
+    },
+    {
+      "id": "ff479ec2b2cda02d",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Colorado students joined a Google hackathon to tackle energy grid challenges.",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/colorado-impact-hackathon/",
+      "publishedAt": "2026-10-29T16:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Colorado students joined a Google hackathon to tackle energy grid challenges.",
+          "zh": "科罗拉多州的学生参加了谷歌黑客马拉松，以应对能源网的挑战。"
+        },
+        {
+          "en": "Students at the Google Colorado Impact Hackathon built AI tools like SolarSnap to modernize the energy grid.",
+          "zh": "Google Colorado Impact Hackathon的学生构建了SolarSnap等人工智能工具，以实现能源网的现代化。"
+        },
+        {
+          "en": "See the winning innovations here.",
+          "zh": "在此处查看获奖创新。"
+        }
+      ]
+    }
+  ],
+  "failures": []
+}
