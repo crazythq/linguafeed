@@ -1,0 +1,603 @@
+{
+  "date": "2026-11-02",
+  "collectedAt": "2026-11-03T05:29:47.943Z",
+  "items": [
+    {
+      "id": "51989af3e30c5734",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Wizz Air flight from Luton in emergency landing after bomb threat",
+      "url": "https://www.bbc.co.uk/news/articles/c6rryvwre0p5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-02T14:35:38.000Z",
+      "sentences": [
+        {
+          "en": "Wizz Air flight from Luton in emergency landing after bomb threat.",
+          "zh": "炸弹威胁后， Wizz Air从卢顿紧急降落。"
+        },
+        {
+          "en": "A Hungarian fighter jet escorted the aircraft to Budapest after the threat was received mid-air.",
+          "zh": "在收到空中威胁后，一架匈牙利战斗机护送飞机前往布达佩斯。"
+        }
+      ]
+    },
+    {
+      "id": "3017d51cc49fa391",
+      "sourceId": "cloudflare-blog",
+      "category": "security",
+      "title": "How we halved DNS build delay and cut memory use by 85%",
+      "url": "https://blog.cloudflare.com/dns-targeted-zone-builds/",
+      "publishedAt": "2026-11-02T14:00:00.000Z",
+      "sentences": [
+        {
+          "en": "How we halved DNS build delay and cut memory use by 85%.",
+          "zh": "我们如何将DNS构建延迟减半，并将内存使用量减少85%。"
+        },
+        {
+          "en": "When I last wrote about our DNS propagation pipeline in 2022 , the Zone Builder received about 250 DNS record changes per second.",
+          "zh": "当我上次在2022年撰写有关DNS传播管道的文章时， Zone Builder每秒收到约250次DNS记录更改。"
+        },
+        {
+          "en": "Today it receives about 700, nearly three times as many, plus about 100 other events, such as zone setting changes.",
+          "zh": "今天，它收到了大约700个，几乎是原来的三倍，加上大约100个其他事件，例如区域设置更改。"
+        },
+        {
+          "en": "However, the number of events was never the real problem.",
+          "zh": "然而，事件的数量从来都不是真正的问题。"
+        },
+        {
+          "en": "The problem was the kind of work some of those events needed, and how that work grows with the size of a zone.",
+          "zh": "问题在于这些活动所需的工作类型，以及这些工作如何随着区域的大小而增长。"
+        },
+        {
+          "en": "Some zones now hold more than 20 million records, and we expect them to keep growing toward hundreds of millions.",
+          "zh": "一些区域现在拥有超过2000万条记录，我们预计它们将不断增长，达到数亿条。"
+        },
+        {
+          "en": "Each event starts a clock that measures how long it takes us to turn that change into data our authoritative DNS servers can use.",
+          "zh": "每个事件都会启动一个时钟，用于衡量我们将更改转换为权威DNS服务器可以使用的数据所需的时间。"
+        },
+        {
+          "en": "We call that work a build.",
+          "zh": "我们称之为构建。"
+        },
+        {
+          "en": "A build reads the current database state, converts it into the format used at the edge, and writes any changes to Quicksilver .",
+          "zh": "构建读取当前数据库状态，将其转换为边缘使用的格式，并将任何更改写入Quicksilver。"
+        },
+        {
+          "en": "In 2022, per-record builds were 150 times faster than full builds on average.",
+          "zh": "2022年，每个记录的构建平均比完整构建快150倍。"
+        },
+        {
+          "en": "On a test zone with one million records, per-record builds were 4,250 times faster.",
+          "zh": "在一个拥有100万条记录的测试区域，每条记录的构建速度提高了4,250倍。"
+        },
+        {
+          "en": "We ended that post with the obvious next step: do the same thing for zone settings.",
+          "zh": "我们以明显的下一步结束了这篇帖子：对区域设置执行相同的操作。"
+        }
+      ]
+    },
+    {
+      "id": "f2de8e72f98519e1",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Ryanair says it may freeze workers' pay and raise airfares",
+      "url": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-02T12:22:10.000Z",
+      "sentences": [
+        {
+          "en": "Ryanair says it may freeze workers' pay and raise airfares.",
+          "zh": "瑞安航空表示，它可能会冻结工人的工资并提高机票价格。"
+        },
+        {
+          "en": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
+          "zh": "该航空公司表示，除非美以战争结束，否则2028年燃料价格可能会上涨20亿€。"
+        }
+      ]
+    },
+    {
+      "id": "b6e12ef6aaa7b5b2",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Haley Stevens backs Mike Rogers. And, Gulf states brace for potential attack on Iran",
+      "url": "https://www.npr.org/2026/11/02/g-s1-151215/up-first-newsletter-michigan-senate-iran-war-supreme-court-colorado-catholic-church",
+      "publishedAt": "2026-11-02T12:19:54.000Z",
+      "sentences": [
+        {
+          "en": "Haley Stevens backs Mike Rogers.",
+          "zh": "海莉·史蒂文斯支持迈克·罗杰斯。"
+        },
+        {
+          "en": "And, Gulf states brace for potential attack on Iran.",
+          "zh": "而且，海湾国家准备应对对伊朗的潜在攻击。"
+        },
+        {
+          "en": "Democrats in Michigan are considering their options after Haley Stevens endorsed GOP candidate Mike Rogers for Senate.",
+          "zh": "在海利·史蒂文斯（ Haley Stevens ）支持共和党候选人迈克·罗杰斯（ Mike Rogers ）参议员之后，密歇根州的民主党人正在"
+        },
+        {
+          "en": "And the Gulf states are bracing for a possible U.S. attack on Iran after the midterms.",
+          "zh": "海湾国家正在为美国在中期选举后可能对伊朗发动的袭击做准备。"
+        },
+        {
+          "en": "(Image credit: Finn Gomez)",
+          "zh": "（图片来源： Finn Gomez ）"
+        }
+      ]
+    },
+    {
+      "id": "8926691970afb98a",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Uganda begins withdrawing troops from Somalia after 20 years",
+      "url": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-02T12:05:34.000Z",
+      "sentences": [
+        {
+          "en": "Uganda begins withdrawing troops from Somalia after 20 years.",
+          "zh": "乌干达在20年后开始从索马里撤军。"
+        },
+        {
+          "en": "Uganda has been helping Somalia battle an insurgency led by the al-Shabab militant group since 2007.",
+          "zh": "自2007年以来，乌干达一直在帮助索马里打击青年党激进组织领导的叛乱活动。"
+        }
+      ]
+    },
+    {
+      "id": "7a4ba80d8fdfae0b",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Six in seven journalist murders go unpunished, UNESCO reports",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168719",
+      "publishedAt": "2026-11-02T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Six in seven journalist murders go unpunished, UNESCO reports.",
+          "zh": "联合国教科文组织报告称，七分之六的记者谋杀案逍遥法外。"
+        },
+        {
+          "en": "Global impunity for journalist killings has risen for the first time in more than a decade, while the growing use of drones is an emerging threat for reporters in conflict zones, according to the latest report from UN cultural organization UNESCO.",
+          "zh": "根据联合国教科文组织文化组织的最新报告，十多年来，全球记者被杀害的有罪不罚现象首次出现，而越来越多地使用无人机是冲突地区记者面临的新威胁。"
+        }
+      ]
+    },
+    {
+      "id": "5d5425854bdd6cc3",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Ethiopia: Violence in the north is pushing health system to the brink, WHO chief warns",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168720",
+      "publishedAt": "2026-11-02T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Ethiopia: Violence in the north is pushing health system to the brink, WHO chief warns.",
+          "zh": "埃塞俄比亚：世卫组织负责人警告说，北部的暴力正在将卫生系统推向边缘。"
+        },
+        {
+          "en": "The head of the World Health Organization (WHO) called on Monday for greater protection for civilians caught in conflict in northern Ethiopia following deadly drone strikes this past weekend.",
+          "zh": "世界卫生组织（世卫组织）负责人周一呼吁加强对上周末发生致命无人机袭击后陷入埃塞俄比亚北部冲突的平民的保护。"
+        }
+      ]
+    },
+    {
+      "id": "e30cb372c956e69d",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Ukraine: WFP provides hot meals to Oleshky evacuees as UN pushes to restore power before winter",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168722",
+      "publishedAt": "2026-11-02T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Ukraine: WFP provides hot meals to Oleshky evacuees as UN pushes to restore power before winter.",
+          "zh": "乌克兰：在联合国推动冬季前恢复供电之际，世界粮食计划署为Oleshky撤离者提供热餐。"
+        },
+        {
+          "en": "The UN World Food Programme (WFP) is providing emergency food assistance to more than 400 people who were able to leave the Russian-occupied city of Oleshky, in Ukraine’s Kherson region, during a brief local ceasefire.",
+          "zh": "联合国世界粮食计划署（ WFP ）正在向400多人提供紧急粮食援助，他们在短暂的当地停火期间离开了俄罗斯占领的乌克兰赫尔松地区的奥莱什基市。"
+        }
+      ]
+    },
+    {
+      "id": "3e6e2af59bd0af6e",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "World News in Brief: healthcare crisis in Yemen’s Taiz and Afghanistan, Western Sahara mission's phased closure",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168723",
+      "publishedAt": "2026-11-02T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "World News in Brief: healthcare crisis in Yemen’s Taiz and Afghanistan, Western Sahara mission's phased closure.",
+          "zh": "《世界新闻简报》：也门塔伊兹和阿富汗的医疗危机，西撒哈拉使团分阶段关闭。"
+        },
+        {
+          "en": "The humanitarian crisis in Yemen is worsening, particularly in the southwestern city of Taiz, which is being encircled by paramilitary Iran-backed Houthi forces.",
+          "zh": "也门的人道主义危机正在恶化，特别是在西南部城市塔伊兹，该城市正被伊朗支持的准军事胡塞武装包围。"
+        }
+      ]
+    },
+    {
+      "id": "80dd54c409cefded",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Two economists studied California's billionaire tax. They reached wildly different conclusions",
+      "url": "https://www.npr.org/sections/planet-money/2026/11/02/g-s1-151009/two-economists-studied-californias-billionaire-tax-they-reached-wildly-different-conclusions",
+      "publishedAt": "2026-11-02T11:30:00.000Z",
+      "sentences": [
+        {
+          "en": "Two economists studied California's billionaire tax.",
+          "zh": "两位经济学家研究了加利福尼亚州的亿万富翁税"
+        },
+        {
+          "en": "They reached wildly different conclusions.",
+          "zh": "他们得出了截然不同的结论。"
+        },
+        {
+          "en": "What happens in California could shape how America taxes the superrich.",
+          "zh": "加利福尼亚州发生的事情可能会影响美国对超级富豪征税的方式。"
+        },
+        {
+          "en": "But will its billionaire tax fill state coffers — or drain them?",
+          "zh": "但它的亿万富翁税收会填补国家金库还是消耗它们？"
+        },
+        {
+          "en": "(Image credit: PATRICK T.",
+          "zh": "（图片来源： PATRICK T."
+        },
+        {
+          "en": "FALLON/AFP via Getty Images)",
+          "zh": "FALLON/AFP via Getty Images ）"
+        }
+      ]
+    },
+    {
+      "id": "5d4ca73724edaa6a",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Five arrested after South African farmer shot and tortured",
+      "url": "https://www.bbc.co.uk/news/articles/cv4g13z0px8yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-02T10:48:47.000Z",
+      "sentences": [
+        {
+          "en": "Five arrested after South African farmer shot and tortured.",
+          "zh": "南非农民遭到枪击和酷刑后，五人被捕。"
+        },
+        {
+          "en": "The attack on Donovan Marx, 50, comes as right-wing groups say there is a genocide of white people - a claim widely discredited.",
+          "zh": "对50岁的多诺万·马克思（ Donovan Marx ）的袭击发生之际，右翼组织表示对白人进行了种族灭绝-这一说法广受怀疑。"
+        }
+      ]
+    },
+    {
+      "id": "daa6340103c9cb2e",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "With students scarce, college admissions offices get friendlier, less intimidating",
+      "url": "https://www.npr.org/2026/11/02/nx-s1-6007855/college-admissions-change-fewer-students",
+      "publishedAt": "2026-11-02T10:00:00.000Z",
+      "sentences": [
+        {
+          "en": "With students scarce, college admissions offices get friendlier, less intimidating.",
+          "zh": "由于学生稀缺，大学招生办公室变得更加友好，不那么令人生畏。"
+        },
+        {
+          "en": "Colleges are trying to transform an admissions process that has often been daunting, secretive and stressful into an experience that's open, easier — and downright friendly.",
+          "zh": "大学正试图将一个经常令人生畏、神秘和充满压力的招生过程转变为一种开放、轻松和完全友好的体验。"
+        },
+        {
+          "en": "(Image credit: Oliver Parini)",
+          "zh": "（图片来源： Oliver Parini ）"
+        }
+      ]
+    },
+    {
+      "id": "846b3cc3b53b8c69",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "6 things to watch for on election night",
+      "url": "https://www.npr.org/2026/11/02/nx-s1-6025451/midterms-what-to-watch-election-night",
+      "publishedAt": "2026-11-02T10:00:00.000Z",
+      "sentences": [
+        {
+          "en": "6 things to watch for on election night.",
+          "zh": "选举之夜需要注意的6件事。"
+        },
+        {
+          "en": "Some of the key storylines to watch will center around various voters groups that have soured on President Trump during his second turn out.",
+          "zh": "值得关注的一些关键故事情节将围绕在第二次投票中对特朗普总统感到不满的各种选民团体展开。"
+        },
+        {
+          "en": "(Image credit: Spencer Platt)",
+          "zh": "（图片来源： Spencer Platt ）"
+        }
+      ]
+    },
+    {
+      "id": "87995d7809c868e1",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "How does this fluoride-free toothpaste compare when it comes to oral health?",
+      "url": "https://www.npr.org/2026/11/02/nx-s1-5955806/fluoride-toothpaste-hydroxyapatite-dental-oral-health",
+      "publishedAt": "2026-11-02T10:00:00.000Z",
+      "sentences": [
+        {
+          "en": "How does this fluoride-free toothpaste compare when it comes to oral health?.",
+          "zh": "这款无氟牙膏与口腔健康相比如何？。"
+        },
+        {
+          "en": "Many people are swapping out their fluoride dental products for ones made with a mineral called hydroxyapatite.",
+          "zh": "许多人正在将他们的氟化物牙科产品换成由一种叫做羟基磷灰石的矿物质制成的产品。"
+        },
+        {
+          "en": "What do dentists say about it?",
+          "zh": "牙医对此有何看法？"
+        },
+        {
+          "en": "(Image credit: mihailomilovanovic)",
+          "zh": "（图片来源： mihailomilovanovic ）"
+        }
+      ]
+    },
+    {
+      "id": "9d25dae59b5cfa43",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Popular Australian children's author jailed over child exploitation offences",
+      "url": "https://www.bbc.co.uk/news/articles/cmjwe9nggp60o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-02T08:03:39.000Z",
+      "sentences": [
+        {
+          "en": "Popular Australian children's author jailed over child exploitation offences.",
+          "zh": "受欢迎的澳大利亚儿童作家因剥削儿童罪被判入狱。"
+        },
+        {
+          "en": "The author of Jasper Jones and Runt pleaded guilty in May after police raided his home months earlier.",
+          "zh": "在几个月前警方突袭了他的家后， Jasper Jones和Runt的作者于5月认罪。"
+        }
+      ]
+    },
+    {
+      "id": "3590619ebcdb10e7",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Most Israelis think settlements policy should change to avoid more sanctions, poll finds",
+      "url": "https://www.theguardian.com/world/2026/nov/02/uk-trade-ban-west-bank-settlements-israel-election-poll",
+      "publishedAt": "2026-11-02T06:00:33.000Z",
+      "sentences": [
+        {
+          "en": "Most Israelis think settlements policy should change to avoid more sanctions, poll finds.",
+          "zh": "民意调查发现，大多数以色列人认为应该改变定居点政策，以避免更多的制裁。"
+        },
+        {
+          "en": "Survey finds UK government’s decision to impose trade ban was not a decisive factor in how Israelis voted in election The UK government’s decision to impose a ban on trade in goods from illegal settlements was not decisive in how Israelis voted in their general election , but a majority think the Israeli government’s settlements policy should change if it is going to lead to further sanctions, a new poll of Israelis shows.",
+          "zh": "一项新的以色列民意调查显示，调查发现，英国政府实施贸易禁令的决定并不是以色列人在选举中投票的决定性因素。英国政府实施非法定居点货物贸易禁令的决定并不是以色列人在大选中投票的决定性因素，但大多数人认为，如果要导致进一步的制裁，以色列政府的定居点政策应该改变。"
+        },
+        {
+          "en": "There had been fierce criticism of the UK foreign secretary Ed Miliband’s decision in September to impose a trade ban and wider sanctions on illegal settlements, with some claiming it would drive Israeli voters into the arms of Benjamin Netanyahu.",
+          "zh": "英国外交大臣埃德·米利班德（ Ed Miliband ） 9月份决定对非法定居点实施贸易禁令和更广泛的制裁，受到了激烈的批评，一些人声称这将使以色列选民陷入本雅明·内塔尼亚胡（ Benjamin Netanyahu ）的怀抱。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "46cd8cbd30cb3823",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Israel has ‘historic’ opportunity to change direction, says leader of Arab coalition",
+      "url": "https://www.theguardian.com/world/2026/nov/02/israel-opposition-bloc-arab-coalition-knesset-yousef-jabareen",
+      "publishedAt": "2026-11-02T06:00:32.000Z",
+      "sentences": [
+        {
+          "en": "Israel has ‘historic’ opportunity to change direction, says leader of Arab coalition.",
+          "zh": "阿拉伯联盟领导人表示，以色列拥有改变方向的“历史性”机会。"
+        },
+        {
+          "en": "Yousef Jabareen says he is ready to join forces with opposition bloc to oust Benjamin Netanyahu after winning record number of seats in Knesset The leader of Israel’s main Palestinian coalition, which holds the balance of power after Tuesday’s elections, has said the country is facing a historic opportunity to change direction.",
+          "zh": "优素福·贾巴林（ Yousef Jabareen ）表示，他准备与反对派集团联手，在以色列议会赢得创纪录的席位后，推翻本雅明·内塔尼亚胡（ Benjamin Netanyahu ）。在周二选举后保持权力平衡的以色列主要巴勒斯坦联盟的领导人表示，该国正面临着改变方向的历史性机会。"
+        },
+        {
+          "en": "Yousef Jabareen, the head of the Joint List, said he was ready to join forces with the “Change” bloc to oust Benjamin Netanyahu and his far-right coalition, and to wrest control of the Knesset.",
+          "zh": "联合名单负责人优素福·贾巴林（ Yousef Jabareen ）表示，他准备与“变革”集团合作，推翻本雅明·内塔尼亚胡（ Benjamin Netanyahu ）及其极右联盟，并夺取以色列议会的控制权。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "89fc8f48f3fc7507",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "China state broadcaster pulls La Liga matches following Mbappé joke",
+      "url": "https://www.bbc.co.uk/news/articles/cq78pypg0800o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-02T03:58:38.000Z",
+      "sentences": [
+        {
+          "en": "China state broadcaster pulls La Liga matches following Mbappé joke.",
+          "zh": "中国国家广播公司在姆巴佩开玩笑后拉开了西甲比赛。"
+        },
+        {
+          "en": "China Media Group, which acknowledged Mbappé's apology, has not said how long the blackout will last.",
+          "zh": "中国传媒集团承认姆巴佩的道歉，但没有透露停电将持续多久。"
+        }
+      ]
+    },
+    {
+      "id": "9e63bf21a4708cbb",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "France launches attempted murder investigation after petrol bomb thrown at police",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-02T00:15:30.000Z",
+      "sentences": [
+        {
+          "en": "France launches attempted murder investigation after petrol bomb thrown at police.",
+          "zh": "法国在向警方投掷汽油弹后启动谋杀未遂调查。"
+        },
+        {
+          "en": "There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row.",
+          "zh": "抗议者连续第三个周末在法国各城市走上街头，数百人被捕。"
+        }
+      ]
+    },
+    {
+      "id": "f8aa221527d8f25c",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda",
+      "url": "https://www.theguardian.com/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda",
+      "publishedAt": "2026-11-01T22:26:11.000Z",
+      "sentences": [
+        {
+          "en": "UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda.",
+          "zh": "英国“激烈”的奴隶制赔偿不应该列入英联邦峰会议程。"
+        },
+        {
+          "en": "British prime minister has now agreed to structured dialogue on reparatory justice but issue remains off formal Chogm agenda British officials reportedly insisted that discussions of reparations for slavery should not be on the agenda of the Commonwealth leaders’ summit in Antigua and Barbuda – and even warned that Andy Burnham would not attend the meeting if the subject was formally included, according to a leading Caribbean political figure.",
+          "zh": "据报道，英国首相现已同意就赔偿正义进行结构性对话，但据报道，英国官员坚持认为，关于奴隶制赔偿的讨论不应列入安提瓜和巴布达英联邦领导人峰会的议程，甚至警告说，如果该主题被正式纳入，安迪·伯纳姆将不会出席会议。"
+        },
+        {
+          "en": "Ralph Gonsalves, a former prime minister of St Vincent and the Grenadines and a senior figure in the reparatory justice movement Repair Campaign, welcomed Britain’s decision to enter structured dialogue on reparations, but said the UK had come “kicking and screaming” to the conversation.",
+          "zh": "圣文森特和格林纳丁斯前总理拉尔夫·贡萨尔维斯（ Ralph Gonsalves ）是赔偿正义运动修复运动的高级人物，他欢迎英国决定就赔偿问题进行结构性对话，但表示英国在谈话中“踢腿和尖叫”。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "9a97986aa28bfe34",
+      "sourceId": "github-blog",
+      "category": "open-source",
+      "title": "Game Off 2026: The theme is SHIFT",
+      "url": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
+      "publishedAt": "2026-11-01T21:36:00.000Z",
+      "sentences": [
+        {
+          "en": "Game Off 2026: The theme is SHIFT.",
+          "zh": "Game Off 2026 ：主题是转变。"
+        },
+        {
+          "en": "It s time to make Shift happen.",
+          "zh": "现在是实现转变的时候了。"
+        },
+        {
+          "en": "Game Off , GitHub s annual month-long game jam, returns for its 14th year this November.",
+          "zh": "Game Off是GitHub为期一个月的年度游戏果酱，将于今年11月迎来第14个年头。"
+        },
+        {
+          "en": "Thousands of developers have joined us over the years to make everything from polished platformers to wonderfully weird experiments.",
+          "zh": "多年来，成千上万的开发人员加入了我们，从精致的平台游戏到奇怪的实验，无所不包。"
+        },
+        {
+          "en": "Whether you re making your first game or your fiftieth, we d love for you to join us.",
+          "zh": "无论您是制作第一款游戏还是第五十款游戏，我们都希望您加入我们。"
+        },
+        {
+          "en": "The theme for Game Off 2026 is SHIFT !",
+          "zh": "Game Off 2026的主题是转变！"
+        },
+        {
+          "en": "Shift gears.",
+          "zh": "换档。"
+        },
+        {
+          "en": "Shift perspectives.",
+          "zh": "转变视角。"
+        },
+        {
+          "en": "Shift dimensions.",
+          "zh": "班次尺寸。"
+        },
+        {
+          "en": "Shift bits.",
+          "zh": "移位位。"
+        },
+        {
+          "en": "Work the night shift.",
+          "zh": "上夜班。"
+        },
+        {
+          "en": "Or make a game where the only buttons are the Shift keys.",
+          "zh": "或者制作一个只有Shift键的游戏。"
+        }
+      ]
+    },
+    {
+      "id": "3ba56f3fae090328",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Negotiators ‘braced for worst’ over US-Iran talks to reopen strait of Hormuz",
+      "url": "https://www.theguardian.com/world/2026/nov/01/negotiators-braced-for-worst-over-us-iran-talks-to-reopen-strait-of-hormuz",
+      "publishedAt": "2026-11-01T17:49:28.000Z",
+      "sentences": [
+        {
+          "en": "Negotiators ‘braced for worst’ over US-Iran talks to reopen strait of Hormuz.",
+          "zh": "谈判代表对美国-伊朗重新开放霍尔木兹海峡的谈判“做好了最坏的准备”。"
+        },
+        {
+          "en": "Third day of indirect talks as Qatar tries to negotiate release of $6bn in Iranian assets that could lead to waterway’s reopening Officials from the Gulf states are “braced for the worst” as they wait for Washington’s response to an Iranian proposal that could reopen the strait of Hormuz before the US midterm elections on Tuesday.",
+          "zh": "在间接会谈的第三天，卡塔尔试图通过谈判释放60亿美元的伊朗资产，这可能导致海湾国家的水道重新开放官员“做好最坏的准备” ，因为他们等待华盛顿对伊朗提案的回应，该提案可能在周二美国中期选举之前重新开放霍尔木兹海峡。"
+        },
+        {
+          "en": "Indirect talks in Doha ran into a third day on Sunday with Qatar trying to negotiate the release of more than $6bn in Iranian assets, which could lead to the reopening of the strait of Hormuz and the restart of negotiations on Iran’s nuclear programme.",
+          "zh": "周日，在多哈举行的间接谈判进入第三天，卡塔尔试图就释放超过60亿美元的伊朗资产进行谈判，这可能导致霍尔木兹海峡重新开放，并重启关于伊朗核计划的谈判。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "947eeaf0750c1a62",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+      "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-01T17:06:32.000Z",
+      "sentences": [
+        {
+          "en": "Israeli strikes in Gaza kill eight including child, hospitals say.",
+          "zh": "医院表示，以色列在加沙的袭击造成8人死亡，其中包括儿童。"
+        },
+        {
+          "en": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
+          "zh": "官员说，五名哈马斯警察在汗尤尼斯被打死，三人在加沙城被打死，其中包括一名儿童。"
+        }
+      ]
+    },
+    {
+      "id": "aee68fc2e0feba9e",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Tens of thousands protest against Narendra Modi regime in Delhi",
+      "url": "https://www.theguardian.com/world/2026/nov/01/india-opposition-protest-rally-delhi",
+      "publishedAt": "2026-11-01T16:11:50.000Z",
+      "sentences": [
+        {
+          "en": "Tens of thousands protest against Narendra Modi regime in Delhi.",
+          "zh": "数万人在德里抗议纳伦德拉·莫迪（ Narendra Modi ）政权。"
+        },
+        {
+          "en": "Led by Congress party, India’s opposition alliance channels anger over removal of 130 million names from voter roll Thousands of opposition supporters have gathered in Delhi as protests against the Narendra Modi government continue to gather momentum.",
+          "zh": "在国会党的领导下，印度反对派联盟对从选民名册中删除1.3亿个名字表示愤怒。成千上万的反对派支持者聚集在德里，抗议纳伦德拉·莫迪（ Narendra Modi ）政府的抗议活动继续增强势头。"
+        },
+        {
+          "en": "Led by the Congress party, India’s opposition alliance has brought together supporters from across the country, amid growing anger over a large-scale revision of the country’s voter roll that has seen 130 million names erased.",
+          "zh": "在国会党的领导下，印度的反对派联盟汇集了来自全国各地的支持者，人们对该国选民名册的大规模修订越来越愤怒，该修订已导致1.3亿个名字被删除。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    }
+  ],
+  "failures": []
+}
