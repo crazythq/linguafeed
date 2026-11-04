@@ -1,0 +1,745 @@
+{
+  "date": "2026-11-03",
+  "collectedAt": "2026-11-04T04:58:30.569Z",
+  "items": [
+    {
+      "id": "6ecd0e14a1389cad",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "The private creative world of Rabindranath Tagore, the man Yeats called ‘greater than any of us’",
+      "url": "https://www.theguardian.com/world/2026/nov/03/rabindranath-tagore-yeats-nobel-prize-india",
+      "publishedAt": "2026-11-03T15:24:53.000Z",
+      "sentences": [
+        {
+          "en": "The private creative world of Rabindranath Tagore, the man Yeats called ‘greater than any of us’.",
+          "zh": "拉宾德拉纳特·泰戈尔（ Rabindranath Tagore ）的私人创意世界，叶芝称之为“比我们任何人都伟大”。"
+        },
+        {
+          "en": "A previously unseen family archive offers a glimpse into the Indian Nobel prize winner’s artistic process and personal relationships in his final years Don’t get This is India delivered to your inbox?",
+          "zh": "以前从未见过的家庭档案提供了印度诺贝尔奖获得者最后几年的艺术过程和人际关系的一瞥。难道印度没有送到您的收件箱吗？"
+        },
+        {
+          "en": "Sign up here It’s easy to run out of words to describe Rabindranath Tagore.",
+          "zh": "在这里注册描述拉宾德拉纳特·泰戈尔（ Rabindranath Tagore ）的词汇很容易用尽。"
+        },
+        {
+          "en": "The first non-European to win the Nobel prize in literature, Tagore was a Bengali poet, musician, novelist, philosopher, songwriter, painter, humanist and educator.",
+          "zh": "泰戈尔是第一位获得诺贝尔文学奖的非欧洲人，他是孟加拉诗人、音乐家、小说家、哲学家、词曲作者、画家、人文主义者和教育家。"
+        },
+        {
+          "en": "Born in 1861, Tagore left an indelible mark on the subcontinent’s literature, music, education and art.",
+          "zh": "泰戈尔出生于1861年，在次大陆的文学、音乐、教育和艺术上留下了不可磨灭的印记。"
+        },
+        {
+          "en": "Among his enduring legacies are the national anthems of India and Bangladesh.",
+          "zh": "他持久的遗产包括印度和孟加拉国的国歌。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "421050a981f43901",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Mining giant joins fight to stop killer toad march across Australia",
+      "url": "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-03T15:05:01.000Z",
+      "sentences": [
+        {
+          "en": "Mining giant joins fight to stop killer toad march across Australia.",
+          "zh": "矿业巨头加入战斗，以阻止杀手蟾蜍在澳大利亚的游行。"
+        },
+        {
+          "en": "Rio Tinto is jointly funding a A$28m \"toad containment zone\" to protect the Pilbara region.",
+          "zh": "力拓正在共同资助一个2800万澳元的“蟾蜍遏制区” ，以保护皮尔巴拉地区。"
+        }
+      ]
+    },
+    {
+      "id": "e743b0302fdabad4",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Libya's top religious authority rules against wearing Nike clothes",
+      "url": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-03T14:56:46.000Z",
+      "sentences": [
+        {
+          "en": "Libya's top religious authority rules against wearing Nike clothes.",
+          "zh": "利比亚最高宗教权威禁止穿耐克服装。"
+        },
+        {
+          "en": "The US company was named after the Greek goddess of victory, so the Dar al-Ifta said displaying its logo was unIslamic.",
+          "zh": "这家美国公司以希腊胜利女神的名字命名，因此Dar al-Ifta表示展示其徽标是非伊斯兰教的。"
+        }
+      ]
+    },
+    {
+      "id": "e581154108f523de",
+      "sourceId": "cloudflare-blog",
+      "category": "security",
+      "title": "Introducing Zero Wire, a hub for investigating critical Internet vulnerabilities",
+      "url": "https://blog.cloudflare.com/zero-wire/",
+      "publishedAt": "2026-11-03T14:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Introducing Zero Wire, a hub for investigating critical Internet vulnerabilities.",
+          "zh": "Zero Wire是调查关键互联网漏洞的枢纽。"
+        },
+        {
+          "en": "You run security at your organization.",
+          "zh": "您在您的组织中运行安全。"
+        },
+        {
+          "en": "It’s 7:00 am, and you’re having breakfast.",
+          "zh": "现在是早上7点，您正在吃早餐。"
+        },
+        {
+          "en": "You receive a ping: a new critical vulnerability has been disclosed.",
+          "zh": "您收到一个ping ：一个新的严重漏洞已被披露。"
+        },
+        {
+          "en": "Your team scrambles to compare vendor advisories, read technical research, check which systems run the affected software, and answer familiar questions from the business: are we affected, and what are we doing about it?",
+          "zh": "您的团队争先恐后地比较供应商建议，阅读技术研究，检查哪些系统运行受影响的软件，并回答业务部门熟悉的问题：我们是否受到影响，我们正在对此采取什么措施？"
+        },
+        {
+          "en": "Another disclosure arrives before that work is finished.",
+          "zh": "另一项披露是在工作完成之前到达的。"
+        },
+        {
+          "en": "AI is changing both the volume and speed of critical vulnerability discovery.",
+          "zh": "人工智能正在改变关键漏洞发现的数量和速度。"
+        },
+        {
+          "en": "It can analyze large codebases at scale and surface deeply nested flaws that may have existed for years without being found through human review.",
+          "zh": "它可以分析大规模的大型代码库，并揭示可能已经存在多年的深度嵌套漏洞，而无需通过人工审查。"
+        },
+        {
+          "en": "That discovery momentum will put more pressure on security teams to understand the impact of each disclosure on their infrastructure.",
+          "zh": "这种发现势头将给安全团队带来更大的压力，要求他们了解每次披露对其基础设施的影响。"
+        },
+        {
+          "en": "To help security teams prepare, today we’re introducing Zero Wire : a public vulnerability intelligence feed on Cloudflare Radar, bringing the clarity of a news wire service to critical security developments.",
+          "zh": "为了帮助安全团队做好准备，我们今天推出了Zero Wire ： Cloudflare Radar上的公共漏洞情报源，将新闻通讯服务的清晰度带入关键的安全开发中。"
+        },
+        {
+          "en": "It helps security leaders and practitioners understand significant vulnerabilities and decide what to do next.",
+          "zh": "它有助于安全领导者和从业人员了解重大漏洞，并决定下一步该怎么做。"
+        },
+        {
+          "en": "How it works Zero Wire lives inside Cloudflare Radar under the security section.",
+          "zh": "Zero Wire的工作原理位于Cloudflare Radar的安全部分。"
+        }
+      ]
+    },
+    {
+      "id": "6b8f491b68466440",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Expanding AI educator training to new countries",
+      "url": "https://blog.google/products-and-platforms/products/education/google-ai-educator-series-global-expansion-november-2026/",
+      "publishedAt": "2026-11-03T14:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Expanding AI educator training to new countries.",
+          "zh": "将人工智能教育工作者培训扩展到新的国家/地区。"
+        },
+        {
+          "en": "A celebration of educator stories from Malaysia, India, Philippines, and the UK, plus new GES sessions and expansion into Spain, Brazil, Australia, and Sub- Saharan Afri…",
+          "zh": "庆祝来自马来西亚、印度、菲律宾和英国的教育工作者故事，以及新的GES会议和扩展到西班牙、巴西、澳大利亚和撒哈拉以南非洲……"
+        }
+      ]
+    },
+    {
+      "id": "5d1fb9768da7b3a4",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Working collaboratively to fight scams in Asia Pacific",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/fight-against-apac-scams/",
+      "publishedAt": "2026-11-03T14:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Working collaboratively to fight scams in Asia Pacific.",
+          "zh": "携手合作，打击亚太地区的诈骗。"
+        },
+        {
+          "en": "Google combines built-in protections with local partnerships and education to tackle scams in APAC.",
+          "zh": "Google将内置保护与本地合作伙伴关系和教育相结合，以解决亚太地区的诈骗问题。"
+        }
+      ]
+    },
+    {
+      "id": "8bc47e2b314460fe",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Designing responsible AI for learning",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026/",
+      "publishedAt": "2026-11-03T14:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Designing responsible AI for learning.",
+          "zh": "为学习设计负责任的人工智能。"
+        },
+        {
+          "en": "We’re bringing Guided Learning capabilities to Search and Google Classroom, and evolving our approach to school controls.",
+          "zh": "我们正在将引导式学习功能引入搜索和Google课堂，并改进我们的学校控制方法。"
+        }
+      ]
+    },
+    {
+      "id": "11401edf31e0b15a",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "AI in the learning era",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-2026/",
+      "publishedAt": "2026-11-03T14:00:00.000Z",
+      "sentences": [
+        {
+          "en": "AI in the learning era.",
+          "zh": "学习时代的人工智能。"
+        },
+        {
+          "en": "Read announcements from Google’s 2026 AI in the Learning Era event.",
+          "zh": "阅读Google 2026 AI in the Learning Era活动的公告。"
+        }
+      ]
+    },
+    {
+      "id": "f841ee71fc6c0a36",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "We’re providing funding for organizations building AI for teachers.",
+      "url": "https://blog.google/products-and-platforms/products/education/google-org-funding-ai-education/",
+      "publishedAt": "2026-11-03T14:00:00.000Z",
+      "sentences": [
+        {
+          "en": "We’re providing funding for organizations building AI for teachers.",
+          "zh": "我们正在为为教师构建人工智能的组织提供资金。"
+        },
+        {
+          "en": "Google.org is funding five organizations to build AI tools for teachers.",
+          "zh": "Google.org正在资助五个组织为教师构建人工智能工具。"
+        },
+        {
+          "en": "See how these initiatives support educators and students.",
+          "zh": "了解这些计划如何为教育工作者和学生提供支持。"
+        },
+        {
+          "en": "Get the details.",
+          "zh": "獲得詳細資料"
+        }
+      ]
+    },
+    {
+      "id": "b1acee54f67377df",
+      "sourceId": "google-blog",
+      "category": "science",
+      "title": "New research shows how Guided Learning supports students",
+      "url": "https://blog.google/products-and-platforms/products/education/guided-learning-uk-japan/",
+      "publishedAt": "2026-11-03T14:00:00.000Z",
+      "sentences": [
+        {
+          "en": "New research shows how Guided Learning supports students.",
+          "zh": "新的研究显示了引导式学习如何支持学生。"
+        },
+        {
+          "en": "New research shows Guided Learning drives higher learning gains, plus new features for Google Classroom.",
+          "zh": "新的研究表明，引导式学习可以带来更高的学习成果，以及Google Classroom的新功能。"
+        }
+      ]
+    },
+    {
+      "id": "c5713532d0c0b478",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
+      "url": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-03T13:55:47.000Z",
+      "sentences": [
+        {
+          "en": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries.",
+          "zh": "在10个国家的超市冰箱遭受网络攻击后，欧洲处于警戒状态。"
+        },
+        {
+          "en": "Supermarkets have reported problems from Estonia and Sweden to Portugal and Italy and many retainers have been forced to discard food.",
+          "zh": "从爱沙尼亚和瑞典到葡萄牙和意大利，超市都报告了问题，许多保留者被迫丢弃食物。"
+        }
+      ]
+    },
+    {
+      "id": "87efcfd56daab67a",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "US strikes Iran’s Qeshm Island as Vance voices optimism about a deal",
+      "url": "https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island",
+      "publishedAt": "2026-11-03T13:52:34.000Z",
+      "sentences": [
+        {
+          "en": "US strikes Iran’s Qeshm Island as Vance voices optimism about a deal.",
+          "zh": "万斯对达成协议表示乐观，美国袭击了伊朗的格什姆岛。"
+        },
+        {
+          "en": "Strikes on eve of US midterms reportedly target surface-to-air missiles being used against US assets The ⁠US launched limited strikes on ​Iran’s Qeshm Island late on Monday, hours after the vice-president, JD Vance, said he was optimistic that diplomatic efforts to end the war were moving in the right direction.",
+          "zh": "据报道，美国中期选举前夕的罢工目标是针对美国资产的地对空导弹。美国周一晚些时候对伊朗的格什姆岛发动了有限的罢工，此前几小时，副总统万斯表示，他对结束战争的外交努力朝着正确的方向前进持乐观态度。"
+        },
+        {
+          "en": "The strikes, disclosed by Iranians on social media and confirmed by US Central Command (Centcom), came on the eve of crucial midterm elections in which Donald Trump’s Republican party is expected to be punished by voters.",
+          "zh": "伊朗人在社交媒体上披露并得到美国中央司令部（ Centcom ）确认的罢工发生在关键的中期选举前夕，预计唐纳德特朗普的共和党将受到选民的惩罚。"
+        },
+        {
+          "en": "Diplomatic mediators believe it will be clear within two days whether the basis for continued indirect talks between the US and Iran exists.",
+          "zh": "外交调解人认为，美国和伊朗之间继续进行间接谈判的基础是否存在将在两天内明确。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "f44b9135783edd36",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Trump’s troubles with Iran could open the door to China",
+      "url": "https://www.theguardian.com/world/2026/nov/03/trump-iran-middle-east-china-gulf-hormuz-xi-jinping",
+      "publishedAt": "2026-11-03T13:13:50.000Z",
+      "sentences": [
+        {
+          "en": "Trump’s troubles with Iran could open the door to China.",
+          "zh": "特朗普与伊朗的麻烦可能会打开通往中国的大门。"
+        },
+        {
+          "en": "Beijing launches diplomatic salvo to woo Gulf leaders and bolster its influence in the region China has held a flurry of meetings with Gulf leaders in a sign that Beijing is stepping up its diplomatic efforts in the Middle East.",
+          "zh": "北京方面发动外交进攻，以吸引海湾地区领导人，并加强其在该地区的影响力。中国与海湾地区领导人举行了一系列会议，表明北京正在加强在中东的外交努力。"
+        },
+        {
+          "en": "The diplomatic salvo comes before a highly anticipated meeting between Donald Trump and Xi Jinping when the US president is expected to attend the Apec conference in Shenzhen, China, on 18 and 19 November.",
+          "zh": "美国总统唐纳德•特朗普(Donald Trump)和习近平(Xi Jinping)将在11月18日和19日出席在中国深圳举行的亚太经合组织(APEC)会议，此次会晤备受期待。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "74ecce8615d5a0c3",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Brazil publishes first global ‘roadmap’ for phasing out fossil fuels",
+      "url": "https://www.theguardian.com/environment/2026/nov/03/brazil-first-global-roadmap-phasing-out-fossil-fuels",
+      "publishedAt": "2026-11-03T13:00:07.000Z",
+      "sentences": [
+        {
+          "en": "Brazil publishes first global ‘roadmap’ for phasing out fossil fuels.",
+          "zh": "巴西发布首个逐步淘汰化石燃料的全球“路线图”。"
+        },
+        {
+          "en": "Cop30 host sets out steps to break link with coal, oil and gas as it aims to move focus from negotiating to implementing All countries can start to break their dependence on fossil fuels now without needing to wait for new technologies or economic changes, Brazil’s government has said ahead of a global climate summit.",
+          "zh": "巴西政府在全球气候峰会之前表示， COP30东道国制定了打破与煤炭、石油和天然气联系的步骤，旨在将重点从谈判转向实施所有国家现在都可以开始打破对化石燃料的依赖，而无需等待新技术或经济变化。"
+        },
+        {
+          "en": "Brazil, the host of last year’s UN climate conference , set out the world’s first global “roadmap” for phasing out fossil fuels on Tuesday, showing that countries could boost their economies and pull people out of poverty while breaking the link with coal, oil and gas.",
+          "zh": "去年联合国气候大会的东道国巴西周二制定了世界上第一个逐步淘汰化石燃料的全球“路线图” ，表明各国可以促进经济发展，使人们摆脱贫困，同时打破与煤炭、石油和天然气的联系。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "cbe8b1061522d97b",
+      "sourceId": "bbc-world",
+      "category": "release-notes",
+      "title": "US urges Venezuela to release remaining political prisoners",
+      "url": "https://www.bbc.co.uk/news/articles/cxg5jln586pno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-03T12:09:20.000Z",
+      "sentences": [
+        {
+          "en": "US urges Venezuela to release remaining political prisoners.",
+          "zh": "美国敦促委内瑞拉释放剩余的政治犯。"
+        },
+        {
+          "en": "The US secretary of state also discusses laying the groundwork for 'free, fair, and credible elections'.",
+          "zh": "这位美国国务卿还讨论了为“自由、公平和可信的选举”奠定基础的问题。"
+        }
+      ]
+    },
+    {
+      "id": "e9599f558bbcce90",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Air raid alerts and attacks on schools: the devastating face of education in Ukraine",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168724",
+      "publishedAt": "2026-11-03T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Air raid alerts and attacks on schools: the devastating face of education in Ukraine.",
+          "zh": "空袭警报和对学校的袭击：乌克兰教育的毁灭性一面。"
+        },
+        {
+          "en": "Ukraine has sustained almost 2,000 attacks on education since the full-scale Russian invasion in 2022, with some 270 this year alone, the UN Children’s Fund (UNICEF) said on Tuesday, a day after a strike at a school being used to distribute aid.",
+          "zh": "联合国儿童基金会（ UNICEF ）周二表示，自2022年俄罗斯全面入侵以来，乌克兰已经发生了近2,000起针对教育的袭击事件，仅今年就有约270起。此前一天，一所学校遭到罢工，被用来分发援助物资。"
+        }
+      ]
+    },
+    {
+      "id": "0caeba8ab4183dbc",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Gender equality pays off for business – so why are companies pulling back?",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168726",
+      "publishedAt": "2026-11-03T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Gender equality pays off for business – so why are companies pulling back?.",
+          "zh": "性别平等为企业带来了回报--那么，企业为什么要退缩呢？"
+        },
+        {
+          "en": "Gender equality and diversity are good for business – but while increasing numbers of women are reaching top spots in the corporate world, more initiatives are needed to keep momentum going.",
+          "zh": "性别平等和多样性对企业有利，但随着越来越多的女性进入企业界的榜首，需要采取更多举措来保持势头。"
+        }
+      ]
+    },
+    {
+      "id": "4756d18b9c7dbc81",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Haiti gang leader seeks UN talks as El Salvador sends 2,000 troops to hunt for missing soldiers",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168728",
+      "publishedAt": "2026-11-03T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Haiti gang leader seeks UN talks as El Salvador sends 2,000 troops to hunt for missing soldiers.",
+          "zh": "海地帮派领导人寻求联合国会谈，萨尔瓦多派遣2000名士兵寻找失踪士兵。"
+        },
+        {
+          "en": "A Haitian gang leader wanted by the United States has asked the UN to mediate, as El Salvador sends more than 2,000 troops into the country to search for four of its soldiers who went missing after a gang ambush.",
+          "zh": "美国通缉的一名海地帮派头目要求联合国进行调解，因为萨尔瓦多派遣2000多名士兵进入该国寻找四名在帮派伏击后失踪的士兵。"
+        }
+      ]
+    },
+    {
+      "id": "b58fea159839259e",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Married off at 14: In Yemen’s war, women and girls suffer ‘devastating consequences’",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168730",
+      "publishedAt": "2026-11-03T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Married off at 14: In Yemen’s war, women and girls suffer ‘devastating consequences’.",
+          "zh": "14岁结婚：在也门战争中，妇女和女童遭受“毁灭性后果”。"
+        },
+        {
+          "en": "Safa is 14.",
+          "zh": "萨法（ Safa ） 14岁。"
+        },
+        {
+          "en": "Her mother died earlier this year.",
+          "zh": "她的母亲今年早些时候去世了。"
+        },
+        {
+          "en": "She has no brothers or sisters.",
+          "zh": "她没有兄弟姐妹。"
+        },
+        {
+          "en": "And a few weeks ago, as the crisis took hold, her father married her to an elderly man, afraid that if he were killed in the hostilities, no one would be left to protect her.",
+          "zh": "几周前，随着危机的蔓延，她的父亲将她嫁给了一位老人，担心如果他在敌对行动中被杀，没有人会留下来保护她。"
+        }
+      ]
+    },
+    {
+      "id": "6050d88993248dab",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "World News in Brief: Children killed in Myanmar strike, new violence flares in Mozambique, an Internet affordability milestone",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168729",
+      "publishedAt": "2026-11-03T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "World News in Brief: Children killed in Myanmar strike, new violence flares in Mozambique, an Internet affordability milestone.",
+          "zh": "世界新闻简报：在缅甸罢工中丧生的儿童，莫桑比克新的暴力事件爆发，这是互联网负担能力的一个里程碑。"
+        },
+        {
+          "en": "A school in Myanmar has been hit in an airstrike, with three children reported killed and five others injured, according to UN Children’s Fund UNICEF.",
+          "zh": "根据联合国儿童基金会（ UNICEF ）的数据，缅甸的一所学校在空袭中被击中，据报有3名儿童死亡，另有5人受伤。"
+        }
+      ]
+    },
+    {
+      "id": "78949f90c510b217",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "‘This is not about politics. This is about people’: UN warns of impact of deadly drone strikes in Sudan",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168731",
+      "publishedAt": "2026-11-03T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "‘This is not about politics.",
+          "zh": "“这与政治无关。"
+        },
+        {
+          "en": "This is about people’: UN warns of impact of deadly drone strikes in Sudan.",
+          "zh": "这是关于人民的：联合国警告苏丹境内致命无人机袭击的影响。"
+        },
+        {
+          "en": "Intensifying drone attacks on civilian infrastructure across Sudan are disrupting electricity, water and fuel supplies, putting lives at risk and hampering the delivery of humanitarian aid, the UN’s top official in the country has warned.",
+          "zh": "联合国驻苏丹高级官员警告说，无人机对苏丹各地民用基础设施的袭击正在加剧，扰乱电力、水和燃料供应，危及生命，阻碍人道主义援助的运送。"
+        }
+      ]
+    },
+    {
+      "id": "db2af41f605757f6",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Indian tourist killed after two helicopters collide near Everest base camp",
+      "url": "https://www.bbc.co.uk/news/articles/cmqlnx7z1549o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-03T11:51:08.000Z",
+      "sentences": [
+        {
+          "en": "Indian tourist killed after two helicopters collide near Everest base camp.",
+          "zh": "两架直升机在珠穆朗玛峰大本营附近相撞，印度游客丧生。"
+        },
+        {
+          "en": "The two aircraft crashed just metres from the ground after trying to land at the same spot.",
+          "zh": "两架飞机试图在同一地点降落后，在距离地面仅几米处坠毁。"
+        }
+      ]
+    },
+    {
+      "id": "fe01e4934507b524",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "US strikes Iranian island ahead of midterm elections",
+      "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-03T11:33:33.000Z",
+      "sentences": [
+        {
+          "en": "US strikes Iranian island ahead of midterm elections.",
+          "zh": "美国在中期选举前袭击伊朗岛。"
+        },
+        {
+          "en": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
+          "zh": "据英国广播公司的美国合作伙伴哥伦比亚广播公司称，美国官员将格什姆岛的袭击描述为有限和防御性的。"
+        }
+      ]
+    },
+    {
+      "id": "0c99334a12ae9024",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Tenerife striker De Miguel dies after on-field collision",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-03T09:09:18.000Z",
+      "sentences": [
+        {
+          "en": "Tenerife striker De Miguel dies after on-field collision.",
+          "zh": "特内里费岛前锋德米格尔在场上碰撞后死亡。"
+        },
+        {
+          "en": "Tenerife forward Jesus de Miguel dies aged 30 after an on-field collision during a Spanish second-division match.",
+          "zh": "特内里费岛前锋Jesus de Miguel在西班牙第二分区比赛中因场内碰撞而去世，享年30岁。"
+        }
+      ]
+    },
+    {
+      "id": "bea48636cc0f4d36",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Asian Cup postponed in wake of attacks on Saudi Arabia",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-03T07:15:17.000Z",
+      "sentences": [
+        {
+          "en": "Asian Cup postponed in wake of attacks on Saudi Arabia.",
+          "zh": "在沙特阿拉伯遭到袭击后，亚洲杯被推迟。"
+        },
+        {
+          "en": "The 2027 Asian Cup in Saudi Arabia is postponed because of a series of deadly attacks on the host country.",
+          "zh": "由于对东道国的一系列致命袭击， 2027年沙特阿拉伯亚洲杯被推迟。"
+        }
+      ]
+    },
+    {
+      "id": "5ddd38b520a91cc0",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "UK ministers told not to engage formally with Indian mega-zoo after lobbying",
+      "url": "https://www.theguardian.com/environment/2026/nov/03/uk-ministers-anant-ambani-indian-zoo-vantara-freedom-information-endangered-animals-cites",
+      "publishedAt": "2026-11-03T06:00:39.000Z",
+      "sentences": [
+        {
+          "en": "UK ministers told not to engage formally with Indian mega-zoo after lobbying.",
+          "zh": "英国大臣在游说后告诉不要与印度大型动物园正式接触。"
+        },
+        {
+          "en": "Guardian and Mongabay reveal approaches to officials and MPs on behalf of Vantara zoo ahead of UK-chaired Cites meeting on endangered animal imports British government ministers were told not to engage formally with Vantara, the controversial mega-zoo run by the Indian billionaire Anant Ambani, after lobbying efforts by the private animal sanctuary in the run-up to a UK-chaired meeting on the trade in endangered species, according to documents.",
+          "zh": "文件显示，在英国主持的关于濒危动物进口的CITES会议之前，英国政府部长被告知不要与印度亿万富翁安南特·安巴尼（ Anant Ambani ）经营的有争议的大型动物园Vantara正式接触，此前私人动物保护区在英国主持的濒危物种贸易会议之前进行了游说。"
+        },
+        {
+          "en": "This week, the UK heads a 32-country committee meeting in Geneva of Cites, the United Nations body that regulates trade in endangered species.",
+          "zh": "本周，英国在日内瓦举行了由32个国家组成的Cites委员会会议。Cites是联合国监管濒危物种贸易的机构。"
+        },
+        {
+          "en": "The meeting will examine how India has responded to compliance concerns about imports of endangered animals.",
+          "zh": "会议将审查印度如何应对有关进口濒危动物的合规问题。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "b4a0323c61736ced",
+      "sourceId": "google-blog",
+      "category": "science",
+      "title": "Advancing research and partnering with universities in Singapore",
+      "url": "https://blog.google/innovation-and-ai/technology/research/partnering-singapore-advance-scientific-discovery/",
+      "publishedAt": "2026-11-03T04:30:00.000Z",
+      "sentences": [
+        {
+          "en": "Advancing research and partnering with universities in Singapore.",
+          "zh": "推进研究并与新加坡的大学合作。"
+        },
+        {
+          "en": "Google is investing in new research grants and capacity-building initiatives to advance AI for science and support the next generation of scientific leaders in Singapore.",
+          "zh": "谷歌正在投资新的研究补助金和能力建设计划，以推进科学领域的人工智能，并支持新加坡的下一代科学领袖。"
+        }
+      ]
+    },
+    {
+      "id": "0b75ae745a2ab4d8",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Fossilised red blood cells found in 115m-year-old dinosaur’s bone, say scientists",
+      "url": "https://www.theguardian.com/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone",
+      "publishedAt": "2026-11-02T20:00:27.000Z",
+      "sentences": [
+        {
+          "en": "Fossilised red blood cells found in 115m-year-old dinosaur’s bone, say scientists.",
+          "zh": "科学家说，在1.15亿年前的恐龙骨骼中发现了化石红细胞。"
+        },
+        {
+          "en": "Chemical tests on Aratasaurus bone identify presence of heme, the organic compound that allows haemoglobin in blood to carry oxygen around body It could be the opening of a Jurassic Park rip-off: scientists examining ancient dinosaur bones find what appear to be fossilised red blood cells, and traces of the molecule that gives the beast’s blood its distinctive crimson hue.",
+          "zh": "对Aratasaurus骨骼的化学测试确定了血红素的存在，血红素是一种允许血液中的血红蛋白在身体周围携带氧气的有机化合物。这可能是侏罗纪公园撕裂的开始：科学家检查古代恐龙骨骼，发现似乎是化石红细胞，以及使野兽血液具有独特深红色调的分子痕迹。"
+        },
+        {
+          "en": "But that is what researchers are claiming to have discovered after analysing the hind leg bones of a small, meat-eating dinosaur called an Aratasaurus that lived and died in what is now north-eastern Brazil 115m years ago.",
+          "zh": "但这正是研究人员声称在分析了1.15亿年前在巴西东北部生活和死亡的一种名为Aratasaurus的小型肉食恐龙的后腿骨后发现的。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "c45a0b6d7de18ac5",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "The latest AI news we announced in October 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+      "publishedAt": "2026-11-02T17:45:00.000Z",
+      "sentences": [
+        {
+          "en": "The latest AI news we announced in October 2026.",
+          "zh": "我们在2026年10月宣布的最新人工智能新闻。"
+        },
+        {
+          "en": "Here are Google’s latest AI updates from October 2026",
+          "zh": "以下是2026年10月谷歌最新的人工智能更新"
+        }
+      ]
+    },
+    {
+      "id": "b9ac585d42a76d26",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Oil price falls amid hope of a breakthrough to end Iran war",
+      "url": "https://www.theguardian.com/business/2026/nov/02/oil-price-falls-amid-hope-of-a-breakthrough-to-end-iran-war",
+      "publishedAt": "2026-11-02T17:14:23.000Z",
+      "sentences": [
+        {
+          "en": "Oil price falls amid hope of a breakthrough to end Iran war.",
+          "zh": "油价下跌是因为有望在结束伊朗战争方面取得突破。"
+        },
+        {
+          "en": "Brent crude drops by more than 6% to $105.55 a barrel, the lowest level in more than two weeks The oil price has fallen to its lowest level in more two weeks amid new hopes of a breakthrough to end the Iran war.",
+          "zh": "布伦特原油下跌逾6% ，至每桶105.55 $ ，为两周多来最低水平。油价已跌至两周多来最低水平，因市场对结束伊朗战争有新的突破希望。"
+        },
+        {
+          "en": "Brent crude, the international benchmark, dropped by more than 6.5% to as low as $105.55 a barrel on Monday, the lowest since 16 October, sending shares in airline companies higher and pushing down government borrowing costs.",
+          "zh": "国际基准布伦特原油周一下跌逾6.5% ，至每桶105.55 $ ，为10月16日以来最低，导致航空公司股价走高，并推低了政府借贷成本。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "b55f6603f123c3fb",
+      "sourceId": "aws-news",
+      "category": "ai",
+      "title": "AWS Weekly Roundup: GPT-6.1 Terra on Bedrock, Step Functions as agent tools, and more (November 2, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-gpt-6-1-terra-on-bedrock-step-functions-as-agent-tools-and-more-november-2-2026/",
+      "publishedAt": "2026-11-02T16:45:48.000Z",
+      "sentences": [
+        {
+          "en": "AWS Weekly Roundup: GPT-6.1 Terra on Bedrock, Step Functions as agent tools, and more (November 2, 2026).",
+          "zh": "AWS每周综述： GPT-6.1基岩上的Terra、作为代理工具的步骤函数等（ 2026年11月2日）。"
+        },
+        {
+          "en": "The agentic launches that stayed with me last week had nothing to do with how capable a model is.",
+          "zh": "上周留在我身边的代理发布与模特的能力无关。"
+        },
+        {
+          "en": "They were about reach.",
+          "zh": "他们差不多到达了。"
+        },
+        {
+          "en": "AWS Step Functions , which already orchestrates over 220 AWS services, can now be handed to an agent as a tool, so workflows teams already trust became callable without a rewrite.",
+          "zh": "AWS Step Functions已经协调了220多项AWS服务，现在可以作为工具交给代理，因此工作流程团队已经信任，无需重写即可调用。"
+        },
+        {
+          "en": "In the same week, the AI blog published how one engagement platform exposed roughly 400 internal API operations the same way.",
+          "zh": "在同一周，人工智能博客发表了一个参与平台如何以同样的方式暴露了大约400个内部API操作。"
+        },
+        {
+          "en": "Neither story involves rebuilding anything, only describing what exists and letting the agent find it.",
+          "zh": "这两个故事都不涉及重建任何东西，只涉及描述存在的东西并让客服代表找到它。"
+        },
+        {
+          "en": "The other thread was cost.",
+          "zh": "另一个线程是成本。"
+        },
+        {
+          "en": "OpenAI’s newest Terra model reached Amazon Bedrock priced well below the model beside it, and two post-quantum launches landed for a deadline nobody can put on a calendar yet.",
+          "zh": "OpenAI最新的Terra型号到达了亚马逊基岩，其价格远低于旁边的型号，并且两次后量子发布的截止日期还没有人可以放在日历上。"
+        },
+        {
+          "en": "Now, let’s get into this week’s AWS news… Headlines OpenAI GPT-6.1 Terra is now generally available on Amazon Bedrock , and what interests me is where it sits rather than what it tops.",
+          "zh": "现在，让我们来看看本周的AWS新闻… Headlines OpenAI GPT-6.1 Terra现已在Amazon Bedrock上正式推出，我感兴趣的是它的位置，而不是它的顶部。"
+        },
+        {
+          "en": "Terra is the everyday-workload line of the GPT-6 family.",
+          "zh": "TERRA是GPT-6系列的日常工作负载系列。"
+        },
+        {
+          "en": "In OpenAI’s Agents’ Last Exam evaluation it scored 15 percentage points higher than GPT-5.6 Terra, performed on par with GPT-6 Astra, and completed tasks more than three times faster than both.",
+          "zh": "在OpenAI的代理人期末考试评估中，它比GPT-5.6 TERRA高出15个百分点，与GPT-6 ASTRA的表现相当，完成任务的速度比两者都快三倍以上。"
+        },
+        {
+          "en": "Those are OpenAI’s figures, not an independent test.",
+          "zh": "这些是OpenAI的数据，不是独立测试。"
+        }
+      ]
+    }
+  ],
+  "failures": []
+}
