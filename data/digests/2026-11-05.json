@@ -1,0 +1,579 @@
+{
+  "date": "2026-11-05",
+  "collectedAt": "2026-11-06T05:18:39.609Z",
+  "items": [
+    {
+      "id": "f96e957d20b3235d",
+      "sourceId": "ms-devblogs",
+      "category": "release-notes",
+      "title": "Your best AX fixes are hiding in agent trajectories",
+      "url": "https://devblogs.microsoft.com/blog/your-best-ax-fixes-are-hiding-in-agent-trajectories/",
+      "publishedAt": "2026-11-05T15:40:49.000Z",
+      "sentences": [
+        {
+          "en": "Your best AX fixes are hiding in agent trajectories.",
+          "zh": "您最好的AX修复隐藏在代理轨迹中。"
+        },
+        {
+          "en": "An eval score tells you whether the agent finished the task.",
+          "zh": "评估分数告诉您客服代表是否完成了任务。"
+        },
+        {
+          "en": "To improve how agents work with your product, you need to see where they struggled, and that’s in the trajectory, the record of every step the agent took and why.",
+          "zh": "为了改善客服代表使用产品的方式，您需要了解他们在哪些方面遇到了困难，以及客服代表采取的每一步行动的记录以及原因。"
+        },
+        {
+          "en": "Agents are persistent.",
+          "zh": "代理是持久的。"
+        },
+        {
+          "en": "They guess another URL after a 404 and try values until an error goes away, so the struggle rarely shows up in the score.",
+          "zh": "他们在404之后猜测另一个URL ，并尝试值，直到错误消失，因此很少会在分数中显示挣扎。"
+        },
+        {
+          "en": "We saw this when we evaluated Dev Proxy , a local proxy that intercepts your app’s HTTP requests.",
+          "zh": "我们在评估Dev Proxy时看到了这一点， Dev Proxy是一个拦截应用HTTP请求的本地代理。"
+        },
+        {
+          "en": "We asked GitHub Copilot Chat with Claude Sonnet 5.5 and no extensions, five times, to write a CI script that uses the Dev Proxy API to record which GitHub APIs a Node.js tool calls.",
+          "zh": "我们要求使用Claude Sonnet 5.5的GitHub Copilot Chat ，并且没有扩展，五次，编写一个使用Dev Proxy API来记录Node.js工具调用的GitHub API的CI脚本。"
+        },
+        {
+          "en": "All five scripts worked.",
+          "zh": "这五个剧本都奏效了。"
+        },
+        {
+          "en": "Yet the trajectories showed 15 problems, and each run took 29 to 39 requests and up to 1.2 million tokens.",
+          "zh": "然而，这些轨迹显示了15个问题，每次运行需要29到39个请求和多达120万个代币。"
+        },
+        {
+          "en": "What to look for in a trajectory Agents can trip over your technology in many ways.",
+          "zh": "在轨迹中要寻找什么代理可以通过多种方式绊倒您的技术。"
+        },
+        {
+          "en": "We picked the patterns we think you’re most likely to find in your own trajectories, from the obvious to the surprising, and for each one show what it looked like with Dev Proxy and which fix it pointed to.",
+          "zh": "我们选择了我们认为您最有可能在自己的轨迹中找到的模式，从显而易见的到令人惊讶的，每个模式都展示了Dev Proxy的样子以及它所指出的修复。"
+        },
+        {
+          "en": "Agents guess your URLs before they search Agents often skip the search.",
+          "zh": "客服代表在搜索前猜测您的网址。客服代表通常会跳过搜索。"
+        }
+      ]
+    },
+    {
+      "id": "530a53ab6c71a753",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "First-time homebuyers remain scarce, but a record share of them pay all cash",
+      "url": "https://www.npr.org/2026/11/05/nx-s1-6022491/real-estate-all-cash-offer",
+      "publishedAt": "2026-11-05T15:00:00.000Z",
+      "sentences": [
+        {
+          "en": "First-time homebuyers remain scarce, but a record share of them pay all cash.",
+          "zh": "首次购房者仍然很少，但其中创纪录的份额支付所有现金。"
+        },
+        {
+          "en": "A new report finds generational wealth is widening the divide between homebuyers and those priced out.",
+          "zh": "一份新的报告发现，代际财富正在扩大购房者和被淘汰者之间的鸿沟。"
+        },
+        {
+          "en": "The median age of first-time buyers also remains at a record high.",
+          "zh": "首次购房者的年龄中位数也保持在创纪录的高位。"
+        },
+        {
+          "en": "(Image credit: Justin Sullivan/Getty Images)",
+          "zh": "（图片来源： Justin Sullivan/Getty Images ）"
+        }
+      ]
+    },
+    {
+      "id": "9e1ba5f3444ece5b",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "A bitter end for Ronaldo - the icon who transformed Portugal",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-05T14:29:40.000Z",
+      "sentences": [
+        {
+          "en": "A bitter end for Ronaldo - the icon who transformed Portugal.",
+          "zh": "罗纳尔多的痛苦结局-改变葡萄牙的偶像。"
+        },
+        {
+          "en": "As Cristiano Ronaldo retires from international football, Guillem Balague looks at why and what is next for the Portugal legend.",
+          "zh": "随着克里斯蒂亚诺·罗纳尔多从国际足球队退役，吉列姆·巴拉格（ Guillem Balague ）着眼于葡萄牙传奇的原因和未来。"
+        }
+      ]
+    },
+    {
+      "id": "50b61ef26666b0b1",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Check out our free livestream during National Veterans Small Business Week.",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/national-veterans-small-business-week-2026/",
+      "publishedAt": "2026-11-05T14:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Check out our free livestream during National Veterans Small Business Week.",
+          "zh": "在国家退伍军人小企业周期间查看我们的免费直播。"
+        },
+        {
+          "en": "Join our November 2026 YouTube livestream for National Veterans Small Business Week.",
+          "zh": "加入我们2026年11月全国退伍军人小型企业周的YouTube直播。"
+        },
+        {
+          "en": "Master AI skills with Gemini and get 1:1 coaching.",
+          "zh": "与Gemini一起掌握人工智能技能，并获得一对一指导。"
+        },
+        {
+          "en": "Register today.",
+          "zh": "今天注册"
+        }
+      ]
+    },
+    {
+      "id": "86d21b1f4f1ac76f",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Yemen’s president sacks ministers and officers in attempt to turn tide of war",
+      "url": "https://www.theguardian.com/world/2026/nov/05/yemen-president-sacks-ministers-and-officers-houthis",
+      "publishedAt": "2026-11-05T13:47:00.000Z",
+      "sentences": [
+        {
+          "en": "Yemen’s president sacks ministers and officers in attempt to turn tide of war.",
+          "zh": "也门总统解雇了部长和军官，试图扭转战争的局面。"
+        },
+        {
+          "en": "Dismissals follow Houthi victories and pressure from southern Yemenis for more power The UN-recognised government of Yemen has shaken up its political and military leadership in an attempt to regain territory lost to the Houthis in September and lift the four-week siege of Taiz , the country’s third largest city.",
+          "zh": "解雇之前，胡塞武装取得了胜利，也门南部民众施加压力，要求获得更多权力。联合国承认的也门政府已经动摇了其政治和军事领导层，试图重新夺回9月份失去给胡塞武装的领土，并解除对该国第三大城市塔伊兹为期四周的围困。"
+        },
+        {
+          "en": "A counteroffensive launched on 5 October and aimed at liberating the entire country from Houthi control has failed amid fighting that has left thousands dead on both sides.",
+          "zh": "10月5日发起的反攻旨在将整个国家从胡塞武装的控制下解放出来，但在双方数千人死亡的战斗中失败了。"
+        },
+        {
+          "en": "The air superiority of the government’s ally Saudi Arabia – which has had to fend off near-daily Houthi attacks on its airports and military bases – has not translated into progress on the ground.",
+          "zh": "沙特政府的盟友沙特阿拉伯的空中优势--不得不抵挡胡塞武装近乎每天对其机场和军事基地的袭击--并没有转化为当地的进展。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "6c13159755ee6c82",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Two new Ebola vaccines to join DR Congo clinical trial",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168742",
+      "publishedAt": "2026-11-05T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Two new Ebola vaccines to join DR Congo clinical trial.",
+          "zh": "两种新的埃博拉疫苗将加入刚果民主共和国的临床试验。"
+        },
+        {
+          "en": "Two new Ebola vaccine candidates will be added to a clinical trial in the Democratic Republic of the Congo (DRC) as the country continues to battle a deadly outbreak caused by the Bundibugyo species of the virus.",
+          "zh": "两种新的埃博拉候选疫苗将被添加到刚果民主共和国的临床试验中，因为该国将继续与Bundibugyo种病毒引起的致命疫情作斗争。"
+        }
+      ]
+    },
+    {
+      "id": "05801dfef83d1073",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Children at risk as war zone attacks on water and sanitation more than triple",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168743",
+      "publishedAt": "2026-11-05T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Children at risk as war zone attacks on water and sanitation more than triple.",
+          "zh": "由于战区对水和卫生设施的攻击，儿童面临三倍以上的风险。"
+        },
+        {
+          "en": "Attacks that damaged or destroyed water and sanitation systems in conflict zones tripled between 2021 and 2025, increasing children’s risk of exposure to disease outbreaks, malnutrition and violence.",
+          "zh": "在2021年至2025年期间，破坏或摧毁冲突地区供水和卫生系统的袭击增加了两倍，增加了儿童暴露于疾病爆发、营养不良和暴力的风险。"
+        }
+      ]
+    },
+    {
+      "id": "05a73febba9c2243",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Abyei: Deadly drone strikes mark ‘new and concerning’ threat, UN peacekeeping chief warns",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168749",
+      "publishedAt": "2026-11-05T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Abyei: Deadly drone strikes mark ‘new and concerning’ threat, UN peacekeeping chief warns.",
+          "zh": "阿卜耶伊：联合国维和行动负责人警告说，致命的无人机袭击标志着“新的和令人担忧的”威胁。"
+        },
+        {
+          "en": "Drone strikes that killed at least 30 people in Abyei last month have added “a new and concerning dimension” to security in the disputed area, the UN’s peacekeeping chief told the Security Council on Thursday.",
+          "zh": "联合国维和行动负责人周四告诉安理会，上个月在阿卜耶伊造成至少30人死亡的无人机袭击为争议地区的安全增加了“一个新的和令人担忧的层面”。"
+        }
+      ]
+    },
+    {
+      "id": "6af8b887c0eeeae9",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "World News in Brief: Korea tensions mount, UN demands answers over staff death in Yemen, Guterres in Spain, Nepal alert ahead of COP31",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168750",
+      "publishedAt": "2026-11-05T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "World News in Brief: Korea tensions mount, UN demands answers over staff death in Yemen, Guterres in Spain, Nepal alert ahead of COP31.",
+          "zh": "世界新闻简报：韩国紧张局势加剧，联合国要求对也门工作人员的死亡做出回应，西班牙的古特雷斯，尼泊尔在COP31之前发出警报。"
+        },
+        {
+          "en": "UN Secretary-General António Guterres remains concerned over the situation on the Korean Peninsula, including the potential escalation of tensions across the Demilitarized Zone (DMZ), his Spokesperson said on Thursday.",
+          "zh": "联合国秘书长安东尼奥·古特雷斯（ António Guterres ）的发言人周四表示，他仍然对朝鲜半岛的局势感到担忧，包括整个非军事区（ DMZ ）的紧张局势可能升级。"
+        }
+      ]
+    },
+    {
+      "id": "c54cb1001032dc7c",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "How elderly ‘unsung heroes’ powered Lula’s historic fightback in Brazil",
+      "url": "https://www.theguardian.com/world/2026/nov/05/unsung-heroes-behind-lula-surprise-election-triumph-brazil-runoff-bolsonaro",
+      "publishedAt": "2026-11-05T11:00:21.000Z",
+      "sentences": [
+        {
+          "en": "How elderly ‘unsung heroes’ powered Lula’s historic fightback in Brazil.",
+          "zh": "老年“无名英雄”如何推动卢拉在巴西的历史性反击。"
+        },
+        {
+          "en": "Older voters praised for helping tip balance in leftwing president’s favour against far-right Flávio Bolsonaro in runoff It had been nearly a decade since Celia de Oliveira Soares last voted, and months since the 101-year-old great-grandmother last left her home.",
+          "zh": "老年选民称赞左翼总统弗拉维奥·博尔索纳罗（ Flávio Bolsonaro ）在第二轮投票中帮助平衡了左翼总统对极右翼的支持。自从西莉亚·德·奥利维拉·苏亚雷斯（ Celia de Oliveira Soares ）上次投票以来，已经有近十年的时间了，自从这位101岁的曾祖母上次离开家以来，"
+        },
+        {
+          "en": "But on 25 October, when Brazil held what many considered its most important presidential election in decades, relatives helped Soares into a wheelchair and drove her to a nearby school to make sure the far-right candidate, Flávio Bolsonaro, did not prevail.",
+          "zh": "但是在10月25日，当巴西举行了许多人认为是几十年来最重要的总统选举时，亲戚们帮助苏亚雷斯坐上轮椅，开车送她去附近的一所学校，以确保极右翼候选人弗拉维奥·博尔索纳罗（ Flávio Bolsonaro ）不会获胜。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "dc7d51146890cce1",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Was an Italian chef really fired over refusal to put pineapple on pizza?",
+      "url": "https://www.bbc.co.uk/news/videos/cmvg9yy8wpweo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-05T10:33:21.000Z",
+      "sentences": [
+        {
+          "en": "Was an Italian chef really fired over refusal to put pineapple on pizza?.",
+          "zh": "意大利厨师真的因为拒绝在披萨上放菠萝而被解雇了吗？"
+        },
+        {
+          "en": "The chef had stated that putting pineapple on pizza was \"offensive to his culture\".",
+          "zh": "这位厨师曾表示，在披萨上放菠萝“冒犯了他的文化”。"
+        }
+      ]
+    },
+    {
+      "id": "39c786a51ec4aad7",
+      "sourceId": "guardian-world",
+      "category": "security",
+      "title": "Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case",
+      "url": "https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case",
+      "publishedAt": "2026-11-05T07:56:21.000Z",
+      "sentences": [
+        {
+          "en": "Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case.",
+          "zh": "香港民主活动人士Joshua Wong因国家安全案件被判处10年徒刑。"
+        },
+        {
+          "en": "Wong, 30, in prison since 2020, is only activist in Hong Kong prosecuted twice under national security law Exclusive: Joshua Wong laments city’s fate from inside maximum security prison The Hong Kong activist Joshua Wong has been sentenced to 10 years in prison after earlier pleading guilty to “foreign collusion”, his second conviction under a national security law critics say has been used to silence political opposition in the city.",
+          "zh": "30岁的Wong自2020年以来一直在监狱中，是香港唯一根据国家安全法被起诉两次的活动家。独家： Joshua Wong在最高安全监狱内哀叹城市的命运香港活动家Joshua Wong在早些时候承认犯有“外国勾结”罪后被判处10年徒刑，他根据国家安全法批评者称，他第二次被定罪已被用来压制该市的政治反对派。"
+        },
+        {
+          "en": "Wong, who rose to prominence as the teenage face of Hong Kong’s 2014 pro-democracy demonstrations, submitted his guilty plea in September.",
+          "zh": "作为2014年香港亲民主示威活动的青少年形象而崭露头角的黄在9月份提交了认罪书。"
+        },
+        {
+          "en": "He had been accused of working with the exiled Hong Kong activist Nathan Law to urge foreign powers to impose sanctions, blockades or other hostile measures against China.",
+          "zh": "他被指控与流亡的香港活动家Nathan Law合作，敦促外国势力对中国实施制裁、封锁或其他敌对措施。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "806fd4811804d7b2",
+      "sourceId": "guardian-world",
+      "category": "ai",
+      "title": "UK found to be ‘dangerously’ reliant on China for critical minerals needed for defence and AI",
+      "url": "https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy",
+      "publishedAt": "2026-11-05T05:00:55.000Z",
+      "sentences": [
+        {
+          "en": "UK found to be ‘dangerously’ reliant on China for critical minerals needed for defence and AI.",
+          "zh": "英国被发现“危险地”依赖中国获取国防和人工智能所需的关键矿物。"
+        },
+        {
+          "en": "Delivering net zero also at risk, say MPs as they call for centralised policy and funding for mines and diversification The UK is “dangerously” dependent on China for critical raw materials needed for the military, renewable energy infrastructure and AI, a parliamentary investigation has found.",
+          "zh": "国会议员表示，英国也面临净零风险，因为他们呼吁采取集中政策和为矿山和多样化提供资金。一项议会调查发现，英国“危险地”依赖中国提供军事、可再生能源基础设施和人工智能所需的关键原材料。"
+        },
+        {
+          "en": "MPs on the business select committee called for an urgent centralised policy and the creation of a “critical minerals finance facility” to help fund rare earth and other critical mineral mines, and deploy grants, equity and debt to accelerate a diversification programme.",
+          "zh": "企业特别委员会的议员们呼吁采取紧急的集中政策，并建立“关键矿产融资机制” ，以帮助为稀土和其他关键矿产提供资金，并部署赠款、股权和债务，以加速多元化计划。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "d9ee90528224f648",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "South Korea says it will expand naval operations closer to strait of Hormuz",
+      "url": "https://www.theguardian.com/world/2026/nov/05/south-korea-to-expand-anti-piracy-unit-strait-of-hormuz",
+      "publishedAt": "2026-11-05T04:22:49.000Z",
+      "sentences": [
+        {
+          "en": "South Korea says it will expand naval operations closer to strait of Hormuz.",
+          "zh": "韩国表示将扩大靠近霍尔木兹海峡的海军行动。"
+        },
+        {
+          "en": "Seoul to seek parliamentary approval to extend anti-piracy Cheonghae unit’s area to about 650km from the vital strait after criticism from Donald Trump on Iran war support South Korea plans to expand the operations ⁠of its anti-piracy unit to waters closer to the strait of Hormuz, its defence ministry has said, after pressure from Donald Trump to ⁠provide support for his war in Iran.",
+          "zh": "在唐纳德·特朗普（ Donald Trump ）批评伊朗战争支持韩国计划将其反海盗部队的行动扩展到靠近霍尔木兹海峡的水域后，首尔寻求议会批准将反海盗部队的区域扩大到距离重要海峡约650公里。国防部表示，在唐纳德·特朗普（ Donald Trump ）施加压力为伊朗战争提供支持后。"
+        },
+        {
+          "en": "The government is to submit a motion to parliament that would expand the Cheonghae unit’s area of operation to waters near the port of Duqm in Oman, which ​is about 650km (403 miles) away from the strait.",
+          "zh": "政府将向议会提交一项动议，将清海部队的业务范围扩大到阿曼杜克姆港附近的水域，该港口距离海峡约650公里（ 403英里）。"
+        },
+        {
+          "en": "The motion also needs to be approved by ‌President Lee Jae Myung and the cabinet.",
+          "zh": "该动议还需要得到李在铭总统和内阁的批准。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "e6b199bf98c83979",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+      "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-05T03:47:56.000Z",
+      "sentences": [
+        {
+          "en": "Vance walks Trump tightrope with scathing election critique blaming Iran war.",
+          "zh": "万斯用严厉的选举批评来批评特朗普，指责伊朗战争。"
+        },
+        {
+          "en": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
+          "zh": "副总统对共和党选举失败的直言不讳的评估标志着最近记忆中与现任总统最尖锐的突破之一。"
+        }
+      ]
+    },
+    {
+      "id": "77a694b1d49af6bb",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Would you take a test to see if your life will be cut short? I did - and it changed me",
+      "url": "https://www.bbc.co.uk/news/articles/cw62yq9vp7yyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-05T00:32:09.000Z",
+      "sentences": [
+        {
+          "en": "Would you take a test to see if your life will be cut short?",
+          "zh": "你会做一个测试，看看你的生命是否会缩短吗？"
+        },
+        {
+          "en": "I did - and it changed me.",
+          "zh": "我做到了，这改变了我。"
+        },
+        {
+          "en": "Laura Sides faced a dilemma of whether to find out if she would inherit her father's condition.",
+          "zh": "劳拉·赛德斯（ Laura Sides ）面临一个两难的困境，即她是否会继承父亲的病情。"
+        }
+      ]
+    },
+    {
+      "id": "977168bf3f76e77a",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Why a US-funded vaccine trial on babies was cancelled in Guinea-Bissau",
+      "url": "https://www.bbc.co.uk/news/articles/cm0rlxq08ejko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-05T00:30:37.000Z",
+      "sentences": [
+        {
+          "en": "Why a US-funded vaccine trial on babies was cancelled in Guinea-Bissau.",
+          "zh": "为什么美国资助的婴儿疫苗试验在几内亚比绍被取消。"
+        },
+        {
+          "en": "The trial was condemned as \"unethical\" and \"neocolonial\" because half of the babies would not be given the vaccine.",
+          "zh": "该试验被谴责为“不道德”和“新殖民主义” ，因为一半的婴儿不会接种疫苗。"
+        }
+      ]
+    },
+    {
+      "id": "1810543db86f6c9d",
+      "sourceId": "aws-news",
+      "category": "cloud",
+      "title": "Amazon S3 Tables now offer managed migration of Apache Hive tables to Apache Iceberg",
+      "url": "https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-offer-managed-migration-of-apache-hive-tables-to-apache-iceberg/",
+      "publishedAt": "2026-11-04T23:34:52.000Z",
+      "sentences": [
+        {
+          "en": "Amazon S3 Tables now offer managed migration of Apache Hive tables to Apache Iceberg.",
+          "zh": "Amazon S3表现在提供Apache Hive表到Apache Iceberg的托管迁移。"
+        },
+        {
+          "en": "Today, we’re announcing a simple, cost-effective path for data lake modernization.",
+          "zh": "今天，我们宣布了一条简单、经济高效的数据湖现代化之路。"
+        },
+        {
+          "en": "Amazon S3 Tables now support managed migration of your Apache Hive tables to Apache Iceberg .",
+          "zh": "Amazon S3表现在支持将Apache Hive表托管迁移到Apache Iceberg。"
+        },
+        {
+          "en": "Migration works with Parquet tables in Amazon S3 that are registered in the AWS Glue Data Catalog and allows you to upgrade your data lake with no pipelines to build or compute to provision, while production workloads keep running.",
+          "zh": "迁移适用于在AWS胶水数据目录中注册的Amazon S3中的Parquet表，并允许您升级数据湖，而无需构建管道或进行计算以进行配置，同时生产工作负载继续运行。"
+        },
+        {
+          "en": "Apache Iceberg has become the open standard for large analytics datasets.",
+          "zh": "Apache Iceberg已成为大型分析数据集的开放标准。"
+        },
+        {
+          "en": "It lets you manage petabyte-scale tables with features like schema evolution, hidden partitioning, and time travel queries, while keeping your data open and queryable with any Iceberg-compatible engine.",
+          "zh": "它允许您管理具有模式演进、隐藏分区和时间旅行查询等功能的PB级表，同时使用任何与Iceberg兼容的引擎保持数据开放和可查询。"
+        },
+        {
+          "en": "Amazon S3 Tables offer fully managed storage purpose-built to keep Iceberg tables performant and cost-effective as they grow, with features like automatic maintenance, optimization, replication, and S3 Intelligent-Tiering built-in.",
+          "zh": "Amazon S3表提供了完全托管的存储，专为保持Iceberg表的性能和成本效益而构建，并内置了自动维护、优化、复制和S3智能分层等功能。"
+        },
+        {
+          "en": "What is new Previously, migrating Apache Hive tables to Apache Iceberg could take weeks of engineering work to build and manage the required infrastructure.",
+          "zh": "新功能以前，将Apache Hive表迁移到Apache Iceberg可能需要数周的工程工作来构建和管理所需的基础设施。"
+        },
+        {
+          "en": "Converting data types and building rollback capabilities added operational complexity.",
+          "zh": "转换数据类型和构建回滚功能增加了操作复杂性。"
+        },
+        {
+          "en": "Now, this is available as a managed, API-driven operation.",
+          "zh": "现在，这可以作为一个托管的、API驱动的操作。"
+        },
+        {
+          "en": "S3 Tables handle the entire migration workflow, including data validation, compatibility checks, type conversions, file recompression, and compaction.",
+          "zh": "S3表处理整个迁移工作流程，包括数据验证、兼容性检查、类型转换、文件重新压缩和压缩。"
+        },
+        {
+          "en": "Before copying any data, S3 Tables identify every source object in scope and generate a compatibility report.",
+          "zh": "在复制任何数据之前， S3表标识作用域中的每个源对象并生成兼容性报告。"
+        }
+      ]
+    },
+    {
+      "id": "d0f5a4eb4cff2cb8",
+      "sourceId": "guardian-world",
+      "category": "business",
+      "title": "Food grown in illegal West Bank settlements being sold in Australia as ‘produce of Israel’",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/04/food-grown-in-settlements-west-bank-sold-in-australia-produce-of-israel-ntwnfb",
+      "publishedAt": "2026-11-04T20:00:43.000Z",
+      "sentences": [
+        {
+          "en": "Food grown in illegal West Bank settlements being sold in Australia as ‘produce of Israel’.",
+          "zh": "在约旦河西岸非法定居点种植的粮食被作为“以色列的产品”在澳大利亚出售。"
+        },
+        {
+          "en": "Analysis by human rights organisation Global Echo shows 85 of 132 shipments over eight years contained more than US$5m of organic dates grown in settlements Get our breaking news email , free app or daily news podcast Millions of dollars of food grown in illegal Israeli settlements in the occupied West Bank has been shipped to Australia labelled as “produce of Israel”, a new analysis of trade data has shown.",
+          "zh": "人权组织Global Echo的分析显示，八年来， 132批货物中有85批包含超过500万美元的定居点有机枣获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客在被占领的约旦河西岸的非法以色列定居点种植的数百万美元的粮食已被运往澳大利亚，标记为“以色列农产品” ，一项新的贸易数据分析显示。"
+        },
+        {
+          "en": "The human rights legal organisation Global Echo has analysed commercial documents and official trade data from the Israeli government and the Australian Bureau of Statistics, showing at least US$5m (A$7.2m) of organic dates grown in illegal settlements across the West Bank have been shipped to Australia over the past eight years.",
+          "zh": "人权法律组织Global Echo分析了以色列政府和澳大利亚统计局的商业文件和官方贸易数据，显示在过去八年中，西岸各地非法定居点种植的有机枣至少有500万美元（ 720万澳元）运往澳大利亚。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "2869ea102a91551c",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Mother and daughter killed in grizzly bear attack, Canadian authorities confirm",
+      "url": "https://www.theguardian.com/world/2026/nov/04/canada-bear-attack-mother-daughter-killed",
+      "publishedAt": "2026-11-04T19:42:47.000Z",
+      "sentences": [
+        {
+          "en": "Mother and daughter killed in grizzly bear attack, Canadian authorities confirm.",
+          "zh": "加拿大当局证实，母女在灰熊袭击中丧生。"
+        },
+        {
+          "en": "Conservation officers say more than one bear may have been involved in attack on women near their home Search teams in Canada have discovered the body of a 20-year-old woman and confirmed that both she and her mother were killed in an attack that conservation officers now believe could have involved multiple grizzly bears.",
+          "zh": "保护官员说，不止一只熊可能参与了在加拿大家附近对妇女的袭击搜索队发现了一名20岁妇女的尸体，并确认她和她的母亲在一次袭击中丧生，保护官员现在认为这次袭击可能涉及多只灰熊。"
+        },
+        {
+          "en": "Late on Tuesday, conservation officers in British Columbia said the two women, who were reported missing over the weekend, were located near a trail a short distance from their home.",
+          "zh": "周二晚些时候，不列颠哥伦比亚省的保护官员表示，周末据报失踪的两名妇女位于离家不远的小径附近。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "9aa01155d2e9936c",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "British healthcare worker with Ebola evacuated from DR Congo to UK",
+      "url": "https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows",
+      "publishedAt": "2026-11-04T18:18:37.000Z",
+      "sentences": [
+        {
+          "en": "British healthcare worker with Ebola evacuated from DR Congo to UK.",
+          "zh": "患有埃博拉病毒的英国医护人员从刚果民主共和国撤离到英国。"
+        },
+        {
+          "en": "Patient is ⁠in ​stable condition and will be transferred to a specialist ‘high consequence’ infectious disease unit A British healthcare worker with Ebola is being evacuated from the Democratic Republic of the Congo to the UK for medical treatment, it has been confirmed.",
+          "zh": "患者病情稳定，将被转移到专科“高后果”传染病科。已确认，一名患有埃博拉病毒的英国医护人员正在从刚果民主共和国撤离到英国接受治疗。"
+        },
+        {
+          "en": "“A British citizen currently in the DR Congo has tested positive for Ebola,” a spokesperson for the UK government said in a statement on Wednesday.",
+          "zh": "“目前在刚果民主共和国的一名英国公民对埃博拉病毒检测呈阳性，”英国政府发言人在周三的一份声明中表示。"
+        },
+        {
+          "en": "“The UK has well-established procedures for dealing with cases like this, and those processes have been activated … The risk to the UK public from Ebola remains low.” Continue reading..",
+          "zh": "“英国已经建立了处理此类病例的既定程序，这些程序已经启动……埃博拉病毒对英国公众的风险仍然很低。”继续阅读。"
+        }
+      ]
+    },
+    {
+      "id": "640ef482dab7f909",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Watch Henry Cavill build a video game on his Googlebook",
+      "url": "https://blog.google/products-and-platforms/devices/googlebook/henry-cavill-mustache-protocol-video-game/",
+      "publishedAt": "2026-11-04T18:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Watch Henry Cavill build a video game on his Googlebook.",
+          "zh": "观看Henry Cavill在他的Googlebook上制作视频游戏。"
+        },
+        {
+          "en": "Henry Cavill built a video game on his Googlebook to help support men’s health.",
+          "zh": "亨利·卡维尔（ Henry Cavill ）在他的Googlebook上构建了一个视频游戏，以帮助支持男性的健康。"
+        }
+      ]
+    }
+  ],
+  "failures": []
+}
