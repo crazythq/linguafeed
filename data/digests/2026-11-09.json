@@ -1,0 +1,689 @@
+{
+  "date": "2026-11-09",
+  "collectedAt": "2026-11-10T06:04:19.641Z",
+  "items": [
+    {
+      "id": "67087043b1370731",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Thick smog shrouds New Delhi after Diwali firecrackers add to seasonal pollution",
+      "url": "https://www.npr.org/2026/11/09/g-s1-152634/thick-smog-shrouds-new-delhi-after-diwali-firecrackers-add-to-seasonal-pollution",
+      "publishedAt": "2026-11-09T15:09:53.000Z",
+      "sentences": [
+        {
+          "en": "Thick smog shrouds New Delhi after Diwali firecrackers add to seasonal pollution.",
+          "zh": "排灯节鞭炮增加了季节性污染，浓烟笼罩了新德里。"
+        },
+        {
+          "en": "New Delhi, home to over 30 million people, regularly ranks among the world's most polluted areas during winter, with pollution worsening in late October and November.",
+          "zh": "新德里拥有超过3000万人口，冬季经常是世界上污染最严重的地区之一， 10月下旬和11月污染加剧。"
+        },
+        {
+          "en": "(Image credit: Manish Swarup)",
+          "zh": "（图片来源： Manish Swarup ）"
+        }
+      ]
+    },
+    {
+      "id": "73882470a9b31a7c",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Who is the suspected Chinese spy at centre of the Nvidia investigation?",
+      "url": "https://www.bbc.co.uk/news/videos/c80404zyr53wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-09T14:50:35.000Z",
+      "sentences": [
+        {
+          "en": "Who is the suspected Chinese spy at centre of the Nvidia investigation?.",
+          "zh": "Nvidia调查中心的中国间谍嫌疑人是谁？。"
+        },
+        {
+          "en": "Alice Huang, a Chinese businesswoman, had a close relationship with Nvidia boss Jensen Huang, reports say.",
+          "zh": "据报道，中国女商人黄爱丽丝(Alice Huang)与英伟达(Nvidia)老板黄延森(Jensen Huang)关系密切。"
+        }
+      ]
+    },
+    {
+      "id": "f33ff1d51f2032cc",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "British comedian Russell Brand sentenced to over 10 years for rape and sexual assault",
+      "url": "https://www.npr.org/2026/11/09/nx-s1-6034335/british-comedian-russell-brand-sentenced",
+      "publishedAt": "2026-11-09T14:36:54.000Z",
+      "sentences": [
+        {
+          "en": "British comedian Russell Brand sentenced to over 10 years for rape and sexual assault.",
+          "zh": "英国喜剧演员罗素·布兰德因强奸和性侵犯被判处10年以上有期徒刑。"
+        },
+        {
+          "en": "Russell Brand, who became a celebrity darling in the early 2000s, was found guilty on one count of rape and three counts of sexual assault in a case brought by six women.",
+          "zh": "罗素·布兰德（ Russell Brand ）在21世纪初成为名人宠儿，在六名女性提起的一起案件中被判犯有一项强奸和三项性侵犯罪。"
+        },
+        {
+          "en": "(Image credit: Elizabeth Cook)",
+          "zh": "（图片来源： Elizabeth Cook ）"
+        }
+      ]
+    },
+    {
+      "id": "27e55c022079d6ac",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Thirteen migrants die after boat sinks off Crete",
+      "url": "https://www.bbc.co.uk/news/articles/c65ynyxrjdyeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-09T13:50:01.000Z",
+      "sentences": [
+        {
+          "en": "Thirteen migrants die after boat sinks off Crete.",
+          "zh": "13名移民在克里特岛沉船后死亡。"
+        },
+        {
+          "en": "The Greek coastguard says it has rescued 18 people, all of whom were Sudanese nationals.",
+          "zh": "希腊海岸警卫队说，他们已经救出了18人，他们都是苏丹国民。"
+        }
+      ]
+    },
+    {
+      "id": "f27ad28b0c4db975",
+      "sourceId": "cloudflare-blog",
+      "category": "security",
+      "title": "Launching the Vite Ecosystem Fund",
+      "url": "https://blog.cloudflare.com/launching-vite-ecosystem-fund/",
+      "publishedAt": "2026-11-09T13:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Launching the Vite Ecosystem Fund.",
+          "zh": "启动VITE生态系统基金。"
+        },
+        {
+          "en": "Cloudflare is distributing the first $301,300 of the Vite Ecosystem Fund to 44 projects and maintainers across the Vite ecosystem.",
+          "zh": "Cloudflare将向VITE生态系统中的44个项目和维护者分发VITE生态系统基金的第一笔301,300 $。"
+        },
+        {
+          "en": "When VoidZero joined Cloudflare, we committed $1 million to strengthen the open source ecosystem around Vite.",
+          "zh": "当VoidZero加入Cloudflare时，我们投入了100万$来加强围绕Vite的开源生态系统。"
+        },
+        {
+          "en": "This round is just the start.",
+          "zh": "这才仅仅是一个开始。"
+        },
+        {
+          "en": "Sponsoring open source has always mattered, but now AI has made funding urgent.",
+          "zh": "赞助开源一直很重要，但现在人工智能已经迫切需要资金。"
+        },
+        {
+          "en": "AI is changing open source AI has made open source more valuable while triggering more maintainer burnout.",
+          "zh": "人工智能正在改变开源人工智能，使开源更有价值，同时引发更多的维护人员倦怠。"
+        },
+        {
+          "en": "Previously, contributing to a project through either an issue or pull request meant you cared about it.",
+          "zh": "以前，通过问题或拉取请求为项目做出贡献意味着您关心它。"
+        },
+        {
+          "en": "In return, maintainers would review and provide feedback.",
+          "zh": "作为回报，维护人员将审核并提供反馈。"
+        },
+        {
+          "en": "AI changed the social contract of open source.",
+          "zh": "人工智能改变了开源的社会契约。"
+        },
+        {
+          "en": "Anyone can now create and submit AI-authored pull requests.",
+          "zh": "现在，任何人都可以创建和提交人工智能撰写的拉取请求。"
+        },
+        {
+          "en": "The most visible result is the influx of pull requests.",
+          "zh": "最明显的结果是拉取请求的涌入。"
+        },
+        {
+          "en": "As the number of PRs has gone up, the number of maintainers reviewing them has stayed constant.",
+          "zh": "随着PR数量的增加，审核它们的维护者数量保持不变。"
+        }
+      ]
+    },
+    {
+      "id": "e9950a58c8925934",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Our newest TPUs: 8tx and 8i Max, built for the agentic era",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+      "publishedAt": "2026-11-09T13:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Our newest TPUs: 8tx and 8i Max, built for the agentic era.",
+          "zh": "我们最新的TPU ： 8tx和8i Max ，专为代理时代而打造。"
+        },
+        {
+          "en": "We’ve expanded our eighth generation TPU portfolio with TPU 8tx and TPU 8i Max, marking four new TPU systems in a single year.",
+          "zh": "我们通过TPU 8tx和TPU 8i Max扩展了我们的第八代TPU产品组合，在一年内标志着四种新的TPU系统。"
+        }
+      ]
+    },
+    {
+      "id": "9955c53e53d9bccf",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Congress is back after GOP's midterm defeat. And, Trump appoints new chief of staff",
+      "url": "https://www.npr.org/2026/11/09/g-s1-152627/up-first-newsletter-stephen-miller-trump-congress-nvidia-cop31",
+      "publishedAt": "2026-11-09T12:45:14.000Z",
+      "sentences": [
+        {
+          "en": "Congress is back after GOP's midterm defeat.",
+          "zh": "共和党中期失败后，国会又回来了。"
+        },
+        {
+          "en": "And, Trump appoints new chief of staff.",
+          "zh": "此外，特朗普还任命了新的幕僚长。"
+        },
+        {
+          "en": "Republicans have just weeks left of control of Congress.",
+          "zh": "共和党人只剩下几周的时间来控制国会。"
+        },
+        {
+          "en": "Here's what to expect.",
+          "zh": "安装的流程如下。"
+        },
+        {
+          "en": "And, Trump has appointed Stephen Miller as his new chief of staff, signaling his readiness to confront his opposition.",
+          "zh": "此外，特朗普已任命斯蒂芬·米勒（ Stephen Miller ）担任他的新参谋长，这表明他已准备好面对他的反对派。"
+        },
+        {
+          "en": "(Image credit: Aaron Schwartz)",
+          "zh": "（图片来源： Aaron Schwartz ）"
+        }
+      ]
+    },
+    {
+      "id": "8c61bcf695b625dd",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Holiday 100: Your guide to this year’s top trending gifts",
+      "url": "https://blog.google/products-and-platforms/products/shopping/holiday-100-gift-guide-2026/",
+      "publishedAt": "2026-11-09T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Holiday 100: Your guide to this year’s top trending gifts.",
+          "zh": "节日100 ：今年热门礼物的指南。"
+        },
+        {
+          "en": "Google’s Holiday 100 is here.",
+          "zh": "Google的百年假期来了。"
+        },
+        {
+          "en": "Shop the gifts that are most popular this year and see the Search trends behind them.",
+          "zh": "选购今年最受欢迎的礼品，并查看其背后的搜索趋势。"
+        }
+      ]
+    },
+    {
+      "id": "5e0f748a0bf32043",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "‘Exceptional’ extreme temperatures to continue into next year, UN reports",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168760",
+      "publishedAt": "2026-11-09T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "‘Exceptional’ extreme temperatures to continue into next year, UN reports.",
+          "zh": "联合国报告称， “异常”极端气温将持续到明年。"
+        },
+        {
+          "en": "In April this year, roughly 146.5 million Indians were exposed to an extreme heatwave with temperatures hitting a sweltering 47℃.",
+          "zh": "今年4月，大约1.465亿印度人暴露在极端热浪中，气温达到闷热的47摄氏度。"
+        }
+      ]
+    },
+    {
+      "id": "bc083116ff8f1cb0",
+      "sourceId": "un-news",
+      "category": "security",
+      "title": "Security Council LIVE: Strikes on Ukraine’s power grid, as peace talks loom",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168761",
+      "publishedAt": "2026-11-09T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Security Council LIVE: Strikes on Ukraine’s power grid, as peace talks loom.",
+          "zh": "安理会现场直播：在和平谈判迫在眉睫之际，乌克兰电网遭到罢工。"
+        },
+        {
+          "en": "The Security Council met in New York on Ukraine Monday.",
+          "zh": "安全理事会周一在乌克兰纽约举行会议。"
+        },
+        {
+          "en": "Russian strikes on energy infrastructure are threatening millions with another cold, dark winter, and civilian deaths are climbing sharply.",
+          "zh": "俄罗斯对能源基础设施的打击正在威胁数百万人，另一个寒冷、黑暗的冬天，平民死亡人数正在急剧上升。"
+        },
+        {
+          "en": "The meeting comes on the eve of US-backed talks due to take place in Abu Dhabi.",
+          "zh": "这次会议是在美国支持的谈判即将在阿布扎比举行的前夕举行的。"
+        },
+        {
+          "en": "Follow our live meeting coverage below.",
+          "zh": "请关注下方的实时会议报道。"
+        }
+      ]
+    },
+    {
+      "id": "09e5d00e40330e6e",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Families who fled Ethiopia for Kenya’s Moyale need food, water and shelter",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168762",
+      "publishedAt": "2026-11-09T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Families who fled Ethiopia for Kenya’s Moyale need food, water and shelter.",
+          "zh": "逃离埃塞俄比亚前往肯尼亚莫亚莱的家庭需要食物、水和住所。"
+        },
+        {
+          "en": "The International Organization of Migration (IOM) and partners are calling for urgent funding to support tens of thousands of people who have escaped violent clashes in Ethiopia for the Moyale region in northern Kenya.",
+          "zh": "国际移民组织（ IOM ）及其合作伙伴呼吁提供紧急资金，为肯尼亚北部莫亚莱地区逃离埃塞俄比亚暴力冲突的数万人提供支持。"
+        }
+      ]
+    },
+    {
+      "id": "901504da9b55f540",
+      "sourceId": "un-news",
+      "category": "science",
+      "title": "COP31 opens in Antalya: Can climate promises finally deliver results?",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168763",
+      "publishedAt": "2026-11-09T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "COP31 opens in Antalya: Can climate promises finally deliver results?.",
+          "zh": "COP31在安塔利亚开幕：气候承诺最终能否取得成果？"
+        },
+        {
+          "en": "Nearly 200 countries have arrived on Türkiye's Mediterranean coast for a climate summit with a different ambition: fewer grand declarations and more concrete decisions.",
+          "zh": "近200个国家抵达土耳其地中海沿岸参加气候峰会，其雄心壮志与众不同：更少的宏伟宣言和更具体的决定。"
+        },
+        {
+          "en": "With a powerful El Niño threatening to worsen extreme weather, negotiators face difficult questions over climate finance, clean energy and how to protect communities already living with the consequences of climate change.",
+          "zh": "由于强大的厄尔尼诺现象有可能恶化极端天气，谈判代表在气候融资、清洁能源以及如何保护已经生活在气候变化后果中的社区方面面临着棘手的问题。"
+        }
+      ]
+    },
+    {
+      "id": "c87f859afed345eb",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Children among the dead as heavy rains flood tents and shelters in Gaza",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168766",
+      "publishedAt": "2026-11-09T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Children among the dead as heavy rains flood tents and shelters in Gaza.",
+          "zh": "加沙的大雨淹没了帐篷和庇护所，死者中有儿童。"
+        },
+        {
+          "en": "An infant reportedly drowned and five Gazans were killed – including three children – when a sand dune collapsed on their tents as the first heavy rains swept across the enclave at the weekend, according to the UN aid coordination office (OCHA).",
+          "zh": "据联合国援助协调办公室（ OCHA ）称，据报道，周末第一场大雨席卷飞地时，沙丘坍塌在他们的帐篷上，导致一名婴儿溺水，五名加沙人死亡，其中包括三名儿童。"
+        }
+      ]
+    },
+    {
+      "id": "fff849038eca5078",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "World News in Brief: El Niño’s $11 trillion price tag, Mozambique and Yemen updates",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168768",
+      "publishedAt": "2026-11-09T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "World News in Brief: El Niño’s $11 trillion price tag, Mozambique and Yemen updates.",
+          "zh": "《世界新闻简报》：厄尔尼诺现象11万亿美元的价格，莫桑比克和也门的最新消息。"
+        },
+        {
+          "en": "The El Niño extreme weather pattern could cost the global economy up to $11 trillion and seriously impact food security, said the UN agency tackling rural poverty in developing countries on Monday.",
+          "zh": "联合国负责解决发展中国家农村贫困问题的机构周一表示，厄尔尼诺现象极端天气模式可能使全球经济损失高达11万亿美元，并严重影响粮食安全。"
+        }
+      ]
+    },
+    {
+      "id": "218a7ec8860b79d4",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "At least 56 migrants die in weekend shipwrecks off Senegal and Greece",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168769",
+      "publishedAt": "2026-11-09T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "At least 56 migrants die in weekend shipwrecks off Senegal and Greece.",
+          "zh": "至少有56名移民在塞内加尔和希腊附近的周末海难中丧生。"
+        },
+        {
+          "en": "At least 56 people died in a series of shipwrecks off Senegal and Greece over the weekend, the International Organization for Migration (IOM) said on Monday, calling it a stark reminder of the deadly risks they face on the Atlantic and Mediterranean.",
+          "zh": "国际移民组织（ IOM ）周一表示，上周末在塞内加尔和希腊海域发生的一系列沉船事故中，至少有56人丧生，这清楚地提醒人们，他们在大西洋和地中海面临着致命的风险。"
+        }
+      ]
+    },
+    {
+      "id": "33f8c47084864e07",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Krakow shooting suspect has died in hospital, police say",
+      "url": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-09T11:56:25.000Z",
+      "sentences": [
+        {
+          "en": "Krakow shooting suspect has died in hospital, police say.",
+          "zh": "警方称，克拉科夫枪击案嫌疑人已在医院死亡。"
+        },
+        {
+          "en": "Six people were killed in the shooting, and three bodies of the suspect's family members were found at their home.",
+          "zh": "六人在枪击事件中丧生，嫌疑人家属的三具尸体在他们家中被发现。"
+        }
+      ]
+    },
+    {
+      "id": "d3abc207a940269b",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Deadly floods hit Iraq as thunderstorms sweep across region",
+      "url": "https://www.theguardian.com/environment/2026/nov/09/deadly-floods-iraq-thunderstorms-iran-portugal-japan-snow",
+      "publishedAt": "2026-11-09T10:59:06.000Z",
+      "sentences": [
+        {
+          "en": "Deadly floods hit Iraq as thunderstorms sweep across region.",
+          "zh": "随着雷暴席卷整个地区，致命的洪水袭击了伊拉克。"
+        },
+        {
+          "en": "Violent storms lash northern Iraq and parts of Iran, while Portugal faces strong winds and Japan braces for further snowfall Deadly flash floods hit northern Iraq on Saturday as severe thunderstorms swept across the region, including in neighbouring Iran.",
+          "zh": "暴风雨席卷伊拉克北部和伊朗部分地区，而葡萄牙面临强风，日本为进一步降雪做准备周六伊拉克北部发生致命的山洪暴发，包括邻国伊朗在内的严重雷暴席卷该地区。"
+        },
+        {
+          "en": "The city of Erbil, in Iraq, was particularly badly hit, with extensive damage to homes and businesses.",
+          "zh": "伊拉克的埃尔比勒市遭受了特别严重的打击，房屋和企业受到了广泛的破坏。"
+        },
+        {
+          "en": "Streets were inundated as torrential rain fell over a short period.",
+          "zh": "由于暴雨在短时间内降下，街道被淹没。"
+        },
+        {
+          "en": "Rainfall exceeded forecasts, with an estimated 80mm falling in the city, compared with expectations of 30mm.",
+          "zh": "降雨量超过预测，该市估计降雨量为80毫米，而预期为30毫米。"
+        },
+        {
+          "en": "Two people were killed in the floods.",
+          "zh": "两人在洪水中丧生。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "323a05ab7de5a706",
+      "sourceId": "npr-news",
+      "category": "ai",
+      "title": "Why a South Korean city is turning to a U.S. college to outsmart AI?",
+      "url": "https://www.npr.org/2026/11/09/g-s1-151519/why-a-south-korean-city-is-turning-to-a-u-s-college-to-outsmart-ai",
+      "publishedAt": "2026-11-09T10:47:00.000Z",
+      "sentences": [
+        {
+          "en": "Why a South Korean city is turning to a U.S. college to outsmart AI?.",
+          "zh": "为什么韩国城市要转向美国大学来超越人工智能？"
+        },
+        {
+          "en": "Through civic participation and liberal education, South Korean educators hope to \"quietly stitch the fabric of our democracy…before it unravels beyond repair.\"",
+          "zh": "通过公民参与和自由教育，韩国教育工作者希望“在民主解体之前，悄悄地缝合我们的民主结构……”。"
+        },
+        {
+          "en": "(Image credit: Anthony Kuhn)",
+          "zh": "（图片来源： Anthony Kuhn ）"
+        }
+      ]
+    },
+    {
+      "id": "3d94461999da4f02",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "On wild Cumberland Island, a land swap proposal stirs controversy",
+      "url": "https://www.npr.org/2026/11/09/nx-s1-5981341/cumberland-island-national-park-service-proposal",
+      "publishedAt": "2026-11-09T10:00:00.000Z",
+      "sentences": [
+        {
+          "en": "On wild Cumberland Island, a land swap proposal stirs controversy.",
+          "zh": "在野生坎伯兰岛（ Cumberland Island ） ，土地交换提案引发了争议。"
+        },
+        {
+          "en": "Visitors, ecologists, park rangers and residents all love this wild barrier island off the coast of southern Georgia.",
+          "zh": "游客、生态学家、公园管理员和居民都喜欢这个位于佐治亚州南部海岸的野生屏障岛。"
+        },
+        {
+          "en": "But they have different ideas of how to best protect it.",
+          "zh": "但他们对如何最好地保护它有不同的想法。"
+        },
+        {
+          "en": "(Image credit: Malcolm Jackson for NPR)",
+          "zh": "（图片来源： NPR的Malcolm Jackson ）"
+        }
+      ]
+    },
+    {
+      "id": "80ba692f554c9a5d",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Democrats won big on issues like immigration. But ICE still has the money",
+      "url": "https://www.npr.org/2026/11/09/nx-s1-6032870/immigration-enforcement-ice-democrats-election",
+      "publishedAt": "2026-11-09T10:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Democrats won big on issues like immigration.",
+          "zh": "民主党在移民等问题上大获全胜。"
+        },
+        {
+          "en": "But ICE still has the money.",
+          "zh": "但ICE仍然有钱。"
+        },
+        {
+          "en": "Following Tuesday's \"blue wave,\" Democrats have vowed to reign in ICE's power.",
+          "zh": "在周二的“蓝色浪潮”之后，民主党人发誓要统治ICE的权力。"
+        },
+        {
+          "en": "What could they actually accomplish?",
+          "zh": "他们实际上能完成什么？"
+        },
+        {
+          "en": "(Image credit: Andrew Caballero-Reynolds)",
+          "zh": "（图片来源： Andrew Caballero-Reynolds ）"
+        }
+      ]
+    },
+    {
+      "id": "7e2c736f396f80e8",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
+      "url": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-09T07:10:11.000Z",
+      "sentences": [
+        {
+          "en": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?.",
+          "zh": "关于英伟达首席执行官与一名中国间谍嫌疑人的婚外情，我们知道什么？。"
+        },
+        {
+          "en": "Adoration for the US tech giant’s CEO Jensen Huang has been labelled “Jensanity”, but can his reputation survive the news of his affair?",
+          "zh": "这家美国科技巨头的首席执行官黄仁生（ Jensen Huang ）被贴上了“Jensanity”的标签，但他的名声能否在他外遇的消息中幸存下来？"
+        }
+      ]
+    },
+    {
+      "id": "90b23b1d03a122e8",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Inside the French drug gangs recruiting children to kill",
+      "url": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-09T06:00:26.000Z",
+      "sentences": [
+        {
+          "en": "Inside the French drug gangs recruiting children to kill.",
+          "zh": "在法国贩毒团伙内部招募儿童杀人。"
+        },
+        {
+          "en": "The BBC enters Marseille's dangerous underworld, where young people are trapped, brutalised and exploited.",
+          "zh": "英国广播公司进入了马赛危险的黑社会，年轻人被困在那里，受到残酷对待和剥削。"
+        }
+      ]
+    },
+    {
+      "id": "4688c3e49b475ee5",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-09T02:50:13.000Z",
+      "sentences": [
+        {
+          "en": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean.",
+          "zh": "在太平洋航行9小时后，游轮钢琴家从海上获救。"
+        },
+        {
+          "en": "Two US fishermen say they spotted the man treading water around 20 miles (32km) off the Californian coast.",
+          "zh": "两名美国渔民说，他们发现这名男子在加利福尼亚海岸约20英里（ 32公里）处踩水。"
+        }
+      ]
+    },
+    {
+      "id": "afda19fa17aea4d9",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit",
+      "url": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity",
+      "publishedAt": "2026-11-09T02:11:25.000Z",
+      "sentences": [
+        {
+          "en": "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit.",
+          "zh": "在阿根廷访问期间，教皇利奥对米莱的紧缩措施提出了尖锐的指责。"
+        },
+        {
+          "en": "Pontiff tells Argentina’s president the economy must benefit all on second stop of 12-day Latin America tour Pope Leo XIV has delivered a stinging critique of Argentine president Javier Milei’s harsh austerity measures, insisting growth must benefit all in a speech met with rapturous applause in Buenos Aires.",
+          "zh": "教皇告诉阿根廷总统，在为期12天的拉丁美洲之旅的第二站，教皇利奥十四世对阿根廷总统哈维尔·米莱（ Javier Milei ）的严厉紧缩措施提出了尖锐的批评，坚持认为增长必须在布宜诺斯艾利斯的热烈掌声中使所有人受益。"
+        },
+        {
+          "en": "“The economy must be at the service of the people, rather than people being at the service of the economy,” he said on Sunday, shortly after landing in Argentina on the second leg of a Latin America tour.",
+          "zh": "“经济必须为人民服务，而不是人民为经济服务，”他在拉美之旅的第二站登陆阿根廷后不久于周日表示。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "75eee0dcbc87b091",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
+      "url": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
+      "publishedAt": "2026-11-09T00:25:28.000Z",
+      "sentences": [
+        {
+          "en": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence.",
+          "zh": "英伟达（ Nvidia ）在报告首席执行官黄延森（ Jensen Huang ）成为外国情报目标后展开调查。"
+        },
+        {
+          "en": "CEO reportedly ‌had close relationship ‌with a Chinese businesswoman who passed information to ‌Beijing Nvidia said ⁠on Sunday it “is initiating an independent investigation in light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligence effort”.",
+          "zh": "据报道，首席执行官与一位向北京英伟达传递信息的中国女商人有着密切的关系，该女商人周日表示， “鉴于最近有报道称创始人兼首席执行官黄延森（ Jensen Huang ）一直是外国情报工作的目标，该公司正在启动一项独立调查”。"
+        },
+        {
+          "en": "The New York Times reported in ​October that Donald Trump had been briefed last year on intelligence that Huang ‌had a close relationship ‌with a Chinese businesswoman who passed information to ‌Beijing.",
+          "zh": "《纽约时报》去年10月报道称，唐纳德·特朗普去年听取了有关情报的简报，称黄与一名向北京传递信息的中国女商人有着密切的关系。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "154b6124576d3e4c",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect",
+      "url": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-08T22:05:12.000Z",
+      "sentences": [
+        {
+          "en": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect.",
+          "zh": "治疗克拉科夫枪击案嫌疑人的医生说： “我像对待受害者一样对待所有这些人。”"
+        },
+        {
+          "en": "Two doctors were eating near the Polish city's Main Market Square when a gunman began firing at random.",
+          "zh": "两名医生在波兰城市主市场广场附近吃饭时，一名枪手开始随意射击。"
+        }
+      ]
+    },
+    {
+      "id": "0710a39b76016560",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Gadi Eisenkot reaches out to Netanyahu allies as he strives to form government",
+      "url": "https://www.theguardian.com/world/2026/nov/08/gadi-eisenkot-netanyahu-allies-form-israel-government",
+      "publishedAt": "2026-11-08T17:53:59.000Z",
+      "sentences": [
+        {
+          "en": "Gadi Eisenkot reaches out to Netanyahu allies as he strives to form government.",
+          "zh": "加迪·艾森科特（ Gadi Eisenkot ）在努力组建政府时向内塔尼亚胡的盟友伸出援手。"
+        },
+        {
+          "en": "Former military chief says prime minister brought Israel to historic crisis and it is approaching ‘point of no return’ Israel’s former military chief Gadi Eisenkot started the tough task of forming a government on Sunday, reaching out to Benjamin Netanyahu’s allies as he said the veteran prime minister had brought the country to a historic crisis.",
+          "zh": "前军事总理表示，总理将以色列带入历史性危机，以色列前军事总理加迪·艾森科特（ Gadi Eisenkot ）周日开始组建政府的艰巨任务，向本雅明·内塔尼亚胡（ Benjamin Netanyahu ）的盟友伸出援手，他说这位资深总理已将该国带入历史性危机。"
+        },
+        {
+          "en": "Eisenkot, 66, the leader of the Yashar party, who has vowed to bridge Israel’s deep polarisation under Netanyahu, formally received a mandate from the president, Isaac Herzog, who gave him 28 days to form a government despite his bloc lacking a clear majority.",
+          "zh": "66岁的Eisenkot是Yashar党的领导人，他发誓要在内塔尼亚胡的领导下弥合以色列的深刻两极分化，他正式接受了总统Isaac Herzog的授权，尽管他的集团缺乏明显的多数，但他给了他28天的时间来组建政府。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "dfb7c585a47464e2",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Collision of two trains in Egypt kills at least seven",
+      "url": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
+      "publishedAt": "2026-11-08T17:51:17.000Z",
+      "sentences": [
+        {
+          "en": "Collision of two trains in Egypt kills at least seven.",
+          "zh": "两列火车在埃及相撞，造成至少7人死亡。"
+        },
+        {
+          "en": "President orders prompt investigation after one train derails in collision in al-Ayyat about 50km from Cairo Seven people were killed and at least 125 injured when two trains collided on Sunday south of the Egyptian capital, Cairo, officials said.",
+          "zh": "官员说，在距离开罗约50公里的al-Ayyat的一列火车出轨后，总统下令立即进行调查。周日，两列火车在埃及首都开罗以南发生碰撞，造成7人死亡，至少125人受伤。"
+        },
+        {
+          "en": "The crash occurred in al-Ayyat district in Giza province, about 50km (30 miles) south of Cairo, when a train travelling to Fayoum province crashed into the rear of a train heading to the southern province of Aswan, according to the transport ministry.",
+          "zh": "据交通部称，事故发生在开罗以南约50公里（ 30英里）的吉萨省al-Ayyat区，当时一列前往法尤姆省的火车撞上了前往南部阿斯旺省的火车后部。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "f386653fd1a3aece",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Footage shows derailed carriages after fatal train crash in Egypt",
+      "url": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-08T16:05:57.000Z",
+      "sentences": [
+        {
+          "en": "Footage shows derailed carriages after fatal train crash in Egypt.",
+          "zh": "镜头显示埃及致命的火车事故后出轨的车厢。"
+        },
+        {
+          "en": "At least seven people died when two trains collided, causing several carriages to derail and fall down an embankment.",
+          "zh": "当两列火车相撞时，至少有七人死亡，导致几节车厢脱轨并从路堤上坠落。"
+        }
+      ]
+    }
+  ],
+  "failures": []
+}
