@@ -1,0 +1,799 @@
+{
+  "date": "2026-11-11",
+  "collectedAt": "2026-11-12T05:54:29.835Z",
+  "items": [
+    {
+      "id": "149752e198c6bea1",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Is the US blue wave a turning point for Europe, too?",
+      "url": "https://www.theguardian.com/world/2026/nov/11/is-the-us-blue-wave-a-turning-point-for-europe-too",
+      "publishedAt": "2026-11-11T15:40:52.000Z",
+      "sentences": [
+        {
+          "en": "Is the US blue wave a turning point for Europe, too?.",
+          "zh": "美国的“蓝潮”是否也是欧洲的转折点？"
+        },
+        {
+          "en": "Far-right populists remain insurgent and pro-EU governments are braced for Trump’s betrayal.",
+          "zh": "极右翼民粹主义者仍旧咄咄逼人，亲欧盟政府则严阵以待，防范特朗普的背叛。"
+        },
+        {
+          "en": "But the midterms also showed that democracy can fight back • Don’t get This Is Europe delivered to your inbox?",
+          "zh": "但中期选举也表明，民主可以反击 • 没有将《这就是欧洲》投递到您的收件箱？"
+        },
+        {
+          "en": "Sign up here “Is Maga dead?” asked Margaret, a Guardian reader in Switzerland, in a live Q&A with our correspondents after the seismic US midterm elections.",
+          "zh": "在此注册“Maga死了吗？”瑞士的《卫报》读者玛格丽特在美国中期选举这场政治地震之后，在与我们记者的现场问答中问道。"
+        },
+        {
+          "en": "If Margaret’s query expressed a hope that the Democrats’ blue wave could transform Europe’s fortunes after two years of Maga-induced trauma, she was probably not alone.",
+          "zh": "如果玛格丽特的提问表达了这样一个希望，即民主党的“蓝色浪潮”能够在经历了两年由“让美国再次伟大”（Maga）运动引发的创伤之后，改变欧洲的命运，那么她可能并不是唯一抱有这种希望的人。"
+        },
+        {
+          "en": "The resounding defeat for Donald Trump’s Republicans and the installation of a Democratic-controlled US Congress has been met with understandable relief in European capitals.",
+          "zh": "唐纳德·特朗普领导的共和党遭遇惨败，民主党掌控美国国会，这一结果让欧洲各国首都感到理所当然的宽慰。"
+        },
+        {
+          "en": "In the short term however, the worst for Europe is not over.",
+          "zh": "然而，就短期而言，欧洲最糟糕的时期尚未结束。"
+        },
+        {
+          "en": "Trump didn’t need congressional approval, after all, to unleash a trade war on his supposed European allies, threaten to invade Greenland, try to stitch up Ukraine or go to war with Iran, an act that has inflated fuel and food prices disastrously.",
+          "zh": "毕竟，特朗普并不需要国会的批准，就可以向其所谓的欧洲盟友发动贸易战，威胁要入侵格陵兰，试图操纵乌克兰，或与伊朗开战，而这一行为已导致燃料和粮食价格飙升，造成灾难性后果。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "f6f2c356227b45bc",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
+      "url": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T14:56:11.000Z",
+      "sentences": [
+        {
+          "en": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony.",
+          "zh": "74岁的绑匪在阿根廷从阳台垂降逃离软禁。"
+        },
+        {
+          "en": "Leonardo Bertulazzi, a former member of the Marxist guerrilla group the Red Brigades, was about to be extradited to his home country of Italy.",
+          "zh": "莱昂纳多·贝图拉齐（Leonardo Bertulazzi）曾是马克思主义游击队“红色旅”的成员，即将被引渡回他的祖国意大利。"
+        }
+      ]
+    },
+    {
+      "id": "b4c8fa961fce9edf",
+      "sourceId": "cloudflare-blog",
+      "category": "security",
+      "title": "Choosing QuePaxa, an unusual consensus algorithm",
+      "url": "https://blog.cloudflare.com/choosing-quepaxa/",
+      "publishedAt": "2026-11-11T14:24:46.000Z",
+      "sentences": [
+        {
+          "en": "Choosing QuePaxa, an unusual consensus algorithm.",
+          "zh": "选择QuePaxa，一种非同寻常的共识算法。"
+        },
+        {
+          "en": "Cloudflare recently announced Meerkat , an experimental distributed consensus service designed to manage our internal global control plane.",
+          "zh": "Cloudflare 最近宣布推出 Meerkat ，这是一项实验性的分布式共识服务，旨在管理我们的内部全球控制平面。"
+        },
+        {
+          "en": "It is powered by a new consensus algorithm published by researchers Tennage & Băsescu et al. called QuePaxa (2023).",
+          "zh": "它由研究人员Tennage、Băsescu等人发布的名为QuePaxa（2023年）的新共识算法提供支持。"
+        },
+        {
+          "en": "QuePaxa is an unusual choice; most consensus systems use well-established consensus algorithms like Raft, (Multi-)Paxos or Viewstamped Replication.",
+          "zh": "QuePaxa是一个不寻常的选择；大多数共识系统使用成熟的共识算法，如Raft、（多）Paxos或Viewstamped Replication。"
+        },
+        {
+          "en": "These algorithms are well understood, have mature implementations, and usually work well.",
+          "zh": "这些算法已被人们充分理解，具有成熟的实现方式，通常运作良好。"
+        },
+        {
+          "en": "Unfortunately, common consensus algorithms often suffer in wide-area networks with volatile network connectivity and latency, i.e., networks like the Internet, which is where Meerkat runs.",
+          "zh": "遗憾的是，常见的共识算法通常在具有不稳定网络连接和延迟的广域网（即互联网等网络）中表现不佳，而Meerkat正是在这样的网络中运行。"
+        },
+        {
+          "en": "These algorithms rely on a single leader process being available and having predictable latency.",
+          "zh": "这些算法依赖于单个主进程可用且具有可预测的延迟。"
+        },
+        {
+          "en": "If the leader goes down, experiences higher latency than usual, or is disconnected, the entire consensus system slows down or becomes unavailable until the leader is replaced.",
+          "zh": "如果主节点宕机、遇到比平时更高的延迟或断开连接，整个共识系统都会变慢或不可用，直到主节点被替换。"
+        },
+        {
+          "en": "This is unacceptable for Meerkat.",
+          "zh": "这对Meerkat来说是不可接受的。"
+        },
+        {
+          "en": "Meerkat’s global deployment environment led us to a newer consensus algorithm, QuePaxa, which promises better stability despite volatility, in large part by not relying on a leader to make progress.",
+          "zh": "Meerkat的全球部署环境促使我们采用了更新的共识算法QuePaxa，该算法有望在波动的情况下实现更好的稳定性，这在很大程度上归功于其不依赖于领导者来取得进展。"
+        },
+        {
+          "en": "In this post we’ll explain why we chose QuePaxa and how the QuePaxa algorithm works.",
+          "zh": "在本文中，我们将解释我们为何选择QuePaxa，以及QuePaxa算法的运作方式。"
+        },
+        {
+          "en": "What we’re building and why it’s unique Meerkat is a distributed system in which replicas agree upon an ordered log of events, where each event is decided by a consensus algorithm.",
+          "zh": "我们正在构建什么以及为什么它独一无二Meerkat是一个分布式系统，其中的副本就事件的有序日志达成一致，每个事件都由共识算法决定。"
+        }
+      ]
+    },
+    {
+      "id": "f9fa81a972dc8453",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Following big Democratic wins, these swing voters are looking for results",
+      "url": "https://www.npr.org/2026/11/11/nx-s1-6036790/swing-voters-swing-states-democrats-congress",
+      "publishedAt": "2026-11-11T14:19:42.000Z",
+      "sentences": [
+        {
+          "en": "Following big Democratic wins, these swing voters are looking for results.",
+          "zh": "在民主党大获全胜之后，这些摇摆选民正在期待看到成果。"
+        },
+        {
+          "en": "For the swing voters NPR is regularly checking in with as part of its Swing Shift series, the election results brought mixed emotions, as does the pending Democratic control of Congress.",
+          "zh": "对于美国国家公共电台（NPR）在其《Swing Shift》系列节目中定期跟进的摇摆选民来说，选举结果引发了复杂的情绪，即将到来的民主党对国会的掌控也同样如此。"
+        },
+        {
+          "en": "(Image credit: Tara Anand for NPR)",
+          "zh": "（图片来源：Tara Anand，为NPR拍摄）"
+        }
+      ]
+    },
+    {
+      "id": "ee3e2230d4a86a24",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Killing of journalist underscores deteriorating conditions in Ecuador",
+      "url": "https://www.theguardian.com/world/2026/nov/11/ecuador-journalist-killing",
+      "publishedAt": "2026-11-11T14:00:52.000Z",
+      "sentences": [
+        {
+          "en": "Killing of journalist underscores deteriorating conditions in Ecuador.",
+          "zh": "记者遇害凸显厄瓜多尔局势的恶化。"
+        },
+        {
+          "en": "Tomás Beltrán was shot dead amid gang warfare that has turned Latin American country into one of its most violent Tomás Beltrán was manoeuvring his car into his garage on Sunday night when the Ecuadorian journalist was shot dead.",
+          "zh": "在将拉丁美洲国家变为最暴力国家之一的帮派战争中，托马斯·贝尔特兰（Tomás Beltrán）被枪杀。周日晚，厄瓜多尔记者托马斯·贝尔特兰正将车驶入车库时被枪杀。"
+        },
+        {
+          "en": "Beltrán ran a Facebook page with news about Calceta, a small city in the province of Manabí, whose Pacific coastline has made it a key flashpoint in the gang warfare over drug trafficking routes that has transformed one of Latin America’s safest countries into one of its most violent .",
+          "zh": "贝尔特兰经营着一个Facebook页面，发布有关卡尔塞塔（Calceta）的新闻。卡尔塞塔是马纳维省的一座小城，其太平洋海岸线使其成为争夺贩毒路线的帮派战争中的一个关键爆发点，这场战争将拉丁美洲最安全的国家之一变成了最暴力的国家之一。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "c50afb97023828d1",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Russia and Ukraine agree to a prisoner exchange as talks end with no big breakthrough",
+      "url": "https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks",
+      "publishedAt": "2026-11-11T13:30:00.000Z",
+      "sentences": [
+        {
+          "en": "Russia and Ukraine agree to a prisoner exchange as talks end with no big breakthrough.",
+          "zh": "俄乌两国同意交换囚犯，但会谈结束时并未取得重大突破。"
+        },
+        {
+          "en": "Russia and Ukraine have agreed to a large exchange of prisoners of war.",
+          "zh": "俄罗斯和乌克兰已就大规模交换战俘达成一致。"
+        },
+        {
+          "en": "U.S.-mediated talks in Abu Dhabi led to this decision, marking the biggest humanitarian release since the war began in 2022.",
+          "zh": "阿布扎比的美国斡旋谈判促成了这一决定，标志着自2022年战争爆发以来最大规模的人道主义释放行动。"
+        },
+        {
+          "en": "(Image credit: Altaf Qadri)",
+          "zh": "（图片来源：Altaf Qadri）"
+        }
+      ]
+    },
+    {
+      "id": "57ea874114065b87",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'",
+      "url": "https://www.bbc.co.uk/news/articles/cmkg5jr59835o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T13:25:47.000Z",
+      "sentences": [
+        {
+          "en": "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'.",
+          "zh": "联合国警告“新闻自由受到侵犯”，埃及记者的重审被延期。"
+        },
+        {
+          "en": "Mada Masr editor-in-chief Lina Attalah is being tried on the charge of \"publishing false news\" and potentially faces imprisonment.",
+          "zh": "《马达·马斯尔报》总编辑莉娜·阿塔拉（Lina Attalah）正因“发布虚假新闻”的指控而受审，可能面临监禁。"
+        }
+      ]
+    },
+    {
+      "id": "2487502ed7655fd1",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
+      "url": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T13:24:29.000Z",
+      "sentences": [
+        {
+          "en": "Four grizzly bears killed in Canada after fatal attack on mother and daughter.",
+          "zh": "加拿大发生灰熊袭击母女致死事件，四只灰熊被击毙。"
+        },
+        {
+          "en": "The sow and her three cubs were responsible for killing Jennifer Balcarras, 48, and her daughter Selah Reed, 20, earlier this month.",
+          "zh": "本月早些时候，这头母熊和她的三只幼崽杀害了48岁的Jennifer Balcarras和她20岁的女儿Selah Reed。"
+        }
+      ]
+    },
+    {
+      "id": "3116dfbf95ac28d8",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Kenya discharges last Ebola patient in major milestone towards virus-free status",
+      "url": "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T12:53:11.000Z",
+      "sentences": [
+        {
+          "en": "Kenya discharges last Ebola patient in major milestone towards virus-free status.",
+          "zh": "肯尼亚治愈最后一名埃博拉患者出院，朝着无病毒状态迈出了重要一步。"
+        },
+        {
+          "en": "The country begins a 42-day countdown to being declared Ebola-free, provided no new cases are recorded.",
+          "zh": "该国开始进入42天的倒计时，如果在此期间没有新病例报告，该国将被宣布为无埃博拉病毒国家。"
+        }
+      ]
+    },
+    {
+      "id": "be72be911abc1fd5",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "House effectively ends Hegseth impeachment. And, 3 men accused of plotting U.K. attacks",
+      "url": "https://www.npr.org/2026/11/11/g-s1-152949/up-first-newsletter-pete-hegseth-jim-jordan-iran-backed-trio-us-bases",
+      "publishedAt": "2026-11-11T12:21:59.000Z",
+      "sentences": [
+        {
+          "en": "House effectively ends Hegseth impeachment.",
+          "zh": "众议院 фактически прекращает процедуру импичмента Хегсета."
+        },
+        {
+          "en": "And, 3 men accused of plotting U.K. attacks.",
+          "zh": "此外，3名男子被指控密谋在英国发动袭击。"
+        },
+        {
+          "en": "Defense Secretary Pete Hegseth has been spared from the House's impeachment effort, at least for now.",
+          "zh": "至少目前，国防部长皮特·赫格塞斯（Pete Hegseth）已免于众议院的弹劾。"
+        },
+        {
+          "en": "And, federal prosecutors arrested three men accused of being Iran-backed operatives.",
+          "zh": "此外，联邦检察官逮捕了三名被指控为伊朗支持的特工的男子。"
+        },
+        {
+          "en": "(Image credit: Chip Somodevilla)",
+          "zh": "（图片来源：Chip Somodevilla）"
+        }
+      ]
+    },
+    {
+      "id": "ddbccf94961adfce",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Haitian PM praises El Salvador after joint strike on alleged home of gang leader",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T12:14:12.000Z",
+      "sentences": [
+        {
+          "en": "Haitian PM praises El Salvador after joint strike on alleged home of gang leader.",
+          "zh": "海地总理在对疑似帮派头目住所的联合打击行动后赞扬萨尔瓦多。"
+        },
+        {
+          "en": "The 400 Mawozo gang was targeted by El Salvador's military, which has deployed thousands of troops to combat Haiti's gang violence crisis.",
+          "zh": "400 Mawozo 帮派成为萨尔瓦多军队的目标，该国已部署数千名士兵来应对海地的帮派暴力危机。"
+        }
+      ]
+    },
+    {
+      "id": "cf886cd6267ba102",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Lebanon: After 48 years patrolling the Blue Line, UN peacekeepers prepare exit",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168784",
+      "publishedAt": "2026-11-11T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Lebanon: After 48 years patrolling the Blue Line, UN peacekeepers prepare exit.",
+          "zh": "黎巴嫩：在蓝线巡逻48年后，联合国维和人员准备撤离。"
+        },
+        {
+          "en": "The situation in southern Lebanon remains volatile and extremely difficult for communities trying to rebuild their lives, UN peacekeepers based there report, despite a significant decrease in hostilities following an agreement in June between the United States, Lebanon and Israel.",
+          "zh": "尽管美国、黎巴嫩和以色列在6月达成协议后，敌对行动显著减少，但驻扎在那里的联合国维和人员报告称，黎巴嫩南部的局势仍然动荡不安，对于试图重建生活的社区来说，情况极为艰难。"
+        }
+      ]
+    },
+    {
+      "id": "28046d614082ced3",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "From Japan to Rwanda, early warnings are saving lives – but millions remain unprotected",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168787",
+      "publishedAt": "2026-11-11T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "From Japan to Rwanda, early warnings are saving lives – but millions remain unprotected.",
+          "zh": "从日本到卢旺达，预警正在挽救生命，但仍有数百万人得不到保护。"
+        },
+        {
+          "en": "Early warning systems are saving lives across the globe, but for millions of people the warning never arrives, UN Secretary-General António Guterres said on Wednesday, urging the world to protect every person on Earth by the end of 2027.",
+          "zh": "联合国秘书长安东尼奥·古特雷斯周三表示，预警系统正在拯救全球各地人们的生命，但对于数百万计的人来说，预警从未到来。他敦促全世界在2027年底前保护地球上的每一个人。"
+        }
+      ]
+    },
+    {
+      "id": "19c5bcec359f62b3",
+      "sourceId": "un-news",
+      "category": "science",
+      "title": "‘Make or bake time’: Guterres urges climate justice pact as leaders gather at COP31",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168783",
+      "publishedAt": "2026-11-11T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "‘Make or bake time’: Guterres urges climate justice pact as leaders gather at COP31.",
+          "zh": "“成败在此一举”：古特雷斯敦促各国领导人在第31届联合国气候变化大会（COP31）上达成气候正义协议。"
+        },
+        {
+          "en": "UN chief António Guterres called for a new global climate justice agreement at COP31 on Wednesday, urging governments to tax fossil fuel companies to help countries bearing the brunt of a crisis they did little to cause.",
+          "zh": "联合国秘书长安东尼奥·古特雷斯周三在第31届联合国气候变化大会（COP31）上呼吁达成一项新的全球气候正义协议，敦促各国政府对化石燃料公司征税，以帮助那些几乎没有造成危机、却首当其冲的国家。"
+        },
+        {
+          "en": "His appeal came as world leaders gathered in Antalya amid unresolved questions over climate finance and the future of fossil fuels.",
+          "zh": "他的呼吁是在世界各国领导人齐聚安塔利亚之际提出的，当时气候融资和化石燃料的未来等问题仍未得到解决。"
+        }
+      ]
+    },
+    {
+      "id": "59dc55a43db60f5e",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Gaza winter aid: ‘No more delay’, Fletcher tells governments stalling on support",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168788",
+      "publishedAt": "2026-11-11T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Gaza winter aid: ‘No more delay’, Fletcher tells governments stalling on support.",
+          "zh": "加沙冬季援助：弗莱彻敦促拖延提供援助的各国政府“不要再拖延了”。"
+        },
+        {
+          "en": "The UN’s Emergency Relief Coordinator, Tom Fletcher, expressed deep concern about the deteriorating humanitarian situation in Gaza, as UN member states and partners have been repeatedly delaying sending their support to the Strip.",
+          "zh": "联合国紧急救济协调员汤姆·弗莱彻（Tom Fletcher）对加沙人道主义局势的恶化深表关切，因为联合国会员国和合作伙伴一再拖延向加沙地带提供支持。"
+        }
+      ]
+    },
+    {
+      "id": "bb354b722b4500e4",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth",
+      "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T11:47:22.000Z",
+      "sentences": [
+        {
+          "en": "US House blocks bid to impeach Defence Secretary Pete Hegseth.",
+          "zh": "美国众议院阻止了弹劾国防部长皮特·赫格塞斯的动议。"
+        },
+        {
+          "en": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
+          "zh": "特朗普对这一结果表示欢迎，称赞赫格塞斯是“伟大的美国爱国者”，但民主党人明年可以再试一次。"
+        }
+      ]
+    },
+    {
+      "id": "104148c752c7a386",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Transport workers in Chile block highways in protest over surging fuel prices",
+      "url": "https://www.bbc.co.uk/news/articles/c6e3d895zne7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T11:34:50.000Z",
+      "sentences": [
+        {
+          "en": "Transport workers in Chile block highways in protest over surging fuel prices.",
+          "zh": "智利的运输工人封锁高速公路，抗议燃油价格飙升。"
+        },
+        {
+          "en": "Hundreds of bus and lorry drivers are blocking traffic along major highway routes across the country.",
+          "zh": "数百名巴士和卡车司机正在封堵全国各地主要高速公路的交通。"
+        }
+      ]
+    },
+    {
+      "id": "c684c1b397bbe6c2",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Woman in Saudi Arabia sentenced to 100 lashes for giving birth outside marriage",
+      "url": "https://www.theguardian.com/global-development/2026/nov/11/woman-in-saudi-arabia-sentenced-to-100-lashes-for-giving-birth-outside-marriage",
+      "publishedAt": "2026-11-11T09:15:44.000Z",
+      "sentences": [
+        {
+          "en": "Woman in Saudi Arabia sentenced to 100 lashes for giving birth outside marriage.",
+          "zh": "沙特阿拉伯一名女子因婚外生育被判处100下鞭刑。"
+        },
+        {
+          "en": "Rights groups condemn reported punishment of Kenyan migrant worker as an ‘act of violence’ A Kenyan mother in Saudi Arabia has reportedly been sentenced to 100 lashes after giving birth outside marriage.",
+          "zh": "人权组织谴责对肯尼亚移徙工人的惩罚为“暴力行为” 据报道，一名在沙特阿拉伯的肯尼亚母亲因婚外生育而被判处100下鞭刑。"
+        },
+        {
+          "en": "Under the Saudi sharia law system, sex outside marriage is a criminal offence.",
+          "zh": "根据沙特伊斯兰教法体系，婚外性行为属于刑事犯罪。"
+        },
+        {
+          "en": "But it is women who are disproportionately targeted, say rights groups, which have condemned the punishment as an “act of violence”.",
+          "zh": "但人权组织表示，女性成为攻击目标的人数不成比例，并谴责这种惩罚是“暴力行为”。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "ef7667392e3daec3",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "US Treasury chief Scott Bessent is reportedly latest Trump official to move to military base",
+      "url": "https://www.theguardian.com/us-news/2026/nov/11/us-treasury-chief-scott-bessent-moves-military-base-iran-threats",
+      "publishedAt": "2026-11-11T09:11:30.000Z",
+      "sentences": [
+        {
+          "en": "US Treasury chief Scott Bessent is reportedly latest Trump official to move to military base.",
+          "zh": "据报道，美国财政部长斯科特·贝森特是最新一位搬到军事基地的特朗普政府官员。"
+        },
+        {
+          "en": "Bessent, driving force behind US push to cripple Iran’s economy, relocates over alleged threat to his life The US Treasury secretary, Scott Bessent, has relocated from his home in the Washington area to a military base after an Iranian threat against his life, the New York Times has reported .",
+          "zh": "美国推动削弱伊朗经济的幕后推手贝森特因涉嫌受到人身威胁而搬迁。据《纽约时报》报道，美国财政部长斯科特·贝森特（Scott Bessent）因受到伊朗的人身威胁，已从他在华盛顿地区的家中搬迁至一个军事基地。"
+        },
+        {
+          "en": "Bessent has spearheaded a US push to cripple Iran’s economy since the start of the Middle East war, vowing “economic asphyxiation” of the Islamic republic through a web of sanctions.",
+          "zh": "自中东战争爆发以来，贝森特一直带头推动美国削弱伊朗经济的行动，誓言通过一系列制裁对伊朗伊斯兰共和国实施“经济窒息”。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "8e8e851f9ac38a19",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+      "publishedAt": "2026-11-11T09:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Experience the art and legacy of Dr. Esther Mahlangu.",
+          "zh": "体验Esther Mahlangu博士的艺术和传承。"
+        },
+        {
+          "en": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture.",
+          "zh": "埃斯特·马兰古（Esther Mahlangu）的人生与艺术的新在线档案现已上线Google Arts & Culture。"
+        }
+      ]
+    },
+    {
+      "id": "4b2ba019d6dfe8b3",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Ukraine captures first Indonesian prisoner of war amid surge in Russian recruitment",
+      "url": "https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia",
+      "publishedAt": "2026-11-11T05:33:27.000Z",
+      "sentences": [
+        {
+          "en": "Ukraine captures first Indonesian prisoner of war amid surge in Russian recruitment.",
+          "zh": "在俄罗斯征兵人数激增之际，乌克兰俘获了第一名印度尼西亚籍战俘。"
+        },
+        {
+          "en": "Capture of man from Java follows reports that hundreds are being recruited from the south-east Asian country as Moscow seeks to boost its war effort Ukraine says it has captured its first Indonesian prisoner of war, amid what it says is a spike in recruitment by Russia from the south-east Asian nation.",
+          "zh": "据报道，俄罗斯正从东南亚国家招募数百人，以期加强其在乌克兰的战争行动，在此背景下，一名来自印尼的男子被俘。乌克兰称，其已俘获首名印尼籍战俘。"
+        },
+        {
+          "en": "The 49-year-old man from Java was taken to Ukraine’s Zaporizhzhia region to take part in a Russian assault, but managed to reach Ukrainian-held territory after the group came under drone attack, according to Ukraine’s state-run I Want to Live project.",
+          "zh": "据乌克兰官方项目“我想活下去”（I Want to Live）的报道，这名来自爪哇的49岁男子被带到乌克兰的扎波罗热州参加俄罗斯的进攻行动，但在该部队遭到无人机袭击后，他设法抵达了乌克兰控制的领土。"
+        },
+        {
+          "en": "He was then captured by the Ukrainians.",
+          "zh": "然后他被乌克兰人俘虏。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "dd25b8aa9bb77faa",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Thousands without shelter face lethal conditions in storm-hit Gaza as they wait for 150,000 tents",
+      "url": "https://www.theguardian.com/global-development/2026/nov/11/thousands-without-shelter-lethal-cold-storm-gaza-israel-tents-displaced-people-flood",
+      "publishedAt": "2026-11-11T05:00:32.000Z",
+      "sentences": [
+        {
+          "en": "Thousands without shelter face lethal conditions in storm-hit Gaza as they wait for 150,000 tents.",
+          "zh": "在遭受风暴袭击的加沙，数千名无家可归的人正面临致命的生存条件，他们正在等待15万顶帐篷的到来。"
+        },
+        {
+          "en": "Charities warn of lack of protection amid health fears for more than 940,000 displaced people living in flood-prone areas Tens of thousands of Palestinians have been left in waterlogged and damaged tents after deadly storms at the weekend, while 150,000 new shelters are held outside Gaza awaiting Israeli approval to enter, aid agencies have said.",
+          "zh": "慈善机构警告称，在洪水频发地区生活的94万多流离失所者面临健康风险，缺乏保护。援助机构表示，上周末的致命风暴过后，数万名巴勒斯坦人被困在被水淹没和损毁的帐篷中，而15万个新帐篷正滞留在加沙境外，等待以色列批准运入。"
+        },
+        {
+          "en": "At least four Palestinian children and woman were killed as heavy rains and wind battered fragile, leaky tents.",
+          "zh": "至少有四名巴勒斯坦儿童和一名妇女因大雨和强风袭击脆弱、漏水的帐篷而丧生。"
+        },
+        {
+          "en": "Thousands have been left without shelter and sanitation infrastructure has been destroyed, with sewage spewing into people’s tents.",
+          "zh": "数千人无家可归，卫生设施被毁，污水涌入人们的帐篷。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "78fa4d08006b669d",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Vinícius Jr sends message to Sudan boy who received prosthetic legs after BBC report sparks appeal",
+      "url": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T00:19:42.000Z",
+      "sentences": [
+        {
+          "en": "Vinícius Jr sends message to Sudan boy who received prosthetic legs after BBC report sparks appeal.",
+          "zh": "在BBC的报道引发呼吁后，维尼修斯·儒尼奥尔向一位获得假肢的苏丹男孩发出了信息。"
+        },
+        {
+          "en": "Double amputee Zaher told the BBC last year about his favourite footballer and a dream of being able to walk again.",
+          "zh": "去年，双腿截肢的扎赫尔向BBC讲述了他最喜爱的足球运动员，以及他希望能够再次行走的梦想。"
+        }
+      ]
+    },
+    {
+      "id": "c650b02fc655d4a0",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Falkland Islanders face ‘devastating consequences’ if Argentina blocks oil project, says UK",
+      "url": "https://www.theguardian.com/world/2026/nov/10/uk-and-argentina-clash-over-falklands-oil-project-as-hamburg-tribunal-starts",
+      "publishedAt": "2026-11-10T19:01:33.000Z",
+      "sentences": [
+        {
+          "en": "Falkland Islanders face ‘devastating consequences’ if Argentina blocks oil project, says UK.",
+          "zh": "英国表示，如果阿根廷阻止石油项目，福克兰群岛居民将面临“灾难性后果”。"
+        },
+        {
+          "en": "Countries clash over Sea Lion project as Hamburg tribunal risks deepening sovereignty dispute The people of the Falkland Islands face “devastating consequences” if Argentina is successful in blocking development of its offshore oilfield, the attorney general for England and Wales has told an international tribunal.",
+          "zh": "各国就“海狮”项目发生冲突，汉堡仲裁庭面临加剧主权争端的风险。英格兰和威尔士总检察长在国际仲裁庭上表示，如果阿根廷成功阻止福克兰群岛（Falkland Islands）近海油田的开发，该群岛居民将面临“毁灭性后果”。"
+        },
+        {
+          "en": "Ellie Reeves, representing the British government at a hearing of the international tribunal for the law of the sea (Itlos), said billions of pounds vital to the future of the British overseas territory would be lost.",
+          "zh": "埃莉·里夫斯（Ellie Reeves）代表英国政府出席国际海洋法法庭（ITLOS）的听证会，她表示，对英国海外领土的未来至关重要的数十亿英镑将化为泡影。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "514112b3503896d0",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Get step-by-step workout guidance on your Pixel Watch.",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/step-by-step-workouts-watch/",
+      "publishedAt": "2026-11-10T19:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Get step-by-step workout guidance on your Pixel Watch.",
+          "zh": "在您的Pixel Watch上获取分步锻炼指导。"
+        },
+        {
+          "en": "Get live workout guidance on your Pixel Watch with Google.",
+          "zh": "在您的Pixel Watch上通过Google获取实时健身指导。"
+        },
+        {
+          "en": "Follow custom routines and track reps directly on your wrist.",
+          "zh": "遵循自定义训练计划，直接在腕部跟踪动作次数。"
+        },
+        {
+          "en": "See how it works.",
+          "zh": "看看它是如何工作的。"
+        }
+      ]
+    },
+    {
+      "id": "d2cb458382e2b591",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Pixel 10 with Gemini Intelligence, custom widgets, and more in our November Pixel Drop",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/november-2026-pixel-drop/",
+      "publishedAt": "2026-11-10T19:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Pixel 10 with Gemini Intelligence, custom widgets, and more in our November Pixel Drop.",
+          "zh": "11 月份的 Pixel Drop 将带来搭载 Gemini AI 的 Pixel 10、自定义小部件等更多功能。"
+        },
+        {
+          "en": "Explore the latest Pixel features, including Gemini Intelligence on Pixel 10, HiLight alerts for Google Messages, and more.",
+          "zh": "探索最新的Pixel功能，包括Pixel 10上的Gemini智能功能、Google消息的HiLight提醒等。"
+        }
+      ]
+    },
+    {
+      "id": "c0101f36ad82bf91",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Gemini Intelligence: New features, on more devices",
+      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+      "publishedAt": "2026-11-10T19:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Gemini Intelligence: New features, on more devices.",
+          "zh": "Gemini 智能：新功能，更多设备。"
+        },
+        {
+          "en": "Gemini Intelligence is rolling out to more devices.",
+          "zh": "Gemini Intelligence 正在推广到更多设备。"
+        },
+        {
+          "en": "See how expanded capabilities across these devices help you do more.",
+          "zh": "了解这些设备上扩展的功能如何帮助您完成更多工作。"
+        }
+      ]
+    },
+    {
+      "id": "2c15f23ac7aa344c",
+      "sourceId": "github-blog",
+      "category": "security",
+      "title": "Git security vulnerabilities announced",
+      "url": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/",
+      "publishedAt": "2026-11-10T18:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Git security vulnerabilities announced.",
+          "zh": "已公布 Git 安全漏洞。"
+        },
+        {
+          "en": "Today, the Git project is releasing new versions to address six security vulnerabilities.",
+          "zh": "今天，Git项目将发布新版本，以解决六个安全漏洞。"
+        },
+        {
+          "en": "These include arbitrary code execution when recursively cloning a malicious repository, writes to unintended files, and memory corruption when processing merges or binary patches.",
+          "zh": "这些漏洞包括在递归克隆恶意仓库时执行任意代码、写入非目标文件，以及在处理合并或二进制补丁时导致内存损坏。"
+        },
+        {
+          "en": "The fixes are included in Git 2.56.1 , with backports to Git 2.55.1, 2.54.1, 2.53.1, 2.52.1, 2.51.3, and 2.50.2.",
+          "zh": "这些修复已包含在 Git 2.56.1 中，并回溯移植到 Git 2.55.1、2.54.1、2.53.1、2.52.1、2.51.3 和 2.50.2。"
+        },
+        {
+          "en": "We recommend updating to Git 2.56.1 or the patched release for your maintenance series, and updating any applications that bundle Git.",
+          "zh": "我们建议您更新到 Git 2.56.1 或您所用维护系列的修补版本，并更新所有捆绑了 Git 的应用程序。"
+        },
+        {
+          "en": "Vulnerabilities in Git CVE-2026-111760: Code execution during recursive clones Git checks paths before writing files into a working tree, including rejecting paths that would overwrite its own repository metadata.",
+          "zh": "Git 中的漏洞 CVE-2026-111760：递归克隆过程中的代码执行 Git 在将文件写入工作树之前会检查路径，包括拒绝会覆盖其自身仓库元数据的路径。"
+        },
+        {
+          "en": "However, an integer truncation in Git s index handling can cause an extremely long path to pass validation under one name and then be written using a shorter name.",
+          "zh": "但是，Git 索引处理中的整数截断可能导致极长的路径在一个名称下通过验证，然后使用较短的名称写入。"
+        },
+        {
+          "en": "An attacker can use this discrepancy to replace a submodule s .git file with a symbolic link pointing to a directory containing malicious configuration or hooks .",
+          "zh": "攻击者可以利用这一差异，将子模块的 .git 文件替换为指向包含恶意配置或钩子的目录的符号链接。"
+        },
+        {
+          "en": "When Git subsequently uses that directory, it can execute attacker-controlled code during a recursive clone.",
+          "zh": "当Git随后使用该目录时，它可以在递归克隆过程中执行攻击者控制的代码。"
+        },
+        {
+          "en": "The fix rejects extremely long index entry paths before their lengths can be truncated.",
+          "zh": "此修复程序会在截断长度之前拒绝极长的索引条目路径。"
+        },
+        {
+          "en": "[ Advisory ] CVE-2026-113408: Path traversal through a server s advertised HEAD When cloning an empty repository using Git protocol v2, the server can advertise a HEAD symref pointing to an unborn branch (one that has no commits yet).",
+          "zh": "[公告] CVE-2026-113408：通过服务器通告的 HEAD 进行路径遍历使用 Git 协议 v2 克隆空仓库时，服务器可能会通告指向未诞生分支（尚无提交的分支）的 HEAD 符号引用。"
+        },
+        {
+          "en": "Git did not validate the symref s target before storing it locally.",
+          "zh": "Git 在本地存储符号引用目标之前未对其进行验证。"
+        }
+      ]
+    },
+    {
+      "id": "a048f57672acc8d3",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Introducing Google Fi’s new super network",
+      "url": "https://blog.google/products-and-platforms/products/google-fi-wireless/super-network/",
+      "publishedAt": "2026-11-10T17:20:00.000Z",
+      "sentences": [
+        {
+          "en": "Introducing Google Fi’s new super network.",
+          "zh": "隆重推出Google Fi全新超级网络。"
+        },
+        {
+          "en": "Google Fi Wireless is launching a new super network, combining two 5G networks with millions of Wi-Fi networks in one phone plan.",
+          "zh": "Google Fi Wireless即将推出一个全新的超级网络，在一个手机套餐中将两个5G网络与数百万个Wi-Fi网络相结合。"
+        }
+      ]
+    },
+    {
+      "id": "5d3f1a46c035f064",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Gemini 4 Carbon is now available",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+      "publishedAt": "2026-11-10T16:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Gemini 4 Carbon is now available.",
+          "zh": "Gemini 4 Carbon现已上市。"
+        },
+        {
+          "en": "Today, we’re making Gemini 4 Carbon available to developers, enterprises, scientists, and consumers.",
+          "zh": "今天，我们将向开发者、企业、科学家和消费者提供Gemini 4 Carbon。"
+        }
+      ]
+    },
+    {
+      "id": "875de747c34621d4",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Introducing 3 new domains: .eat, .fly, and .here",
+      "url": "https://blog.google/products-and-platforms/products/registry/new-google-domains-eat-fly-here/",
+      "publishedAt": "2026-11-10T16:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Introducing 3 new domains: .eat, .fly, and .here.",
+          "zh": "隆重推出 3 个新域名：.eat、.fly 和 .here。"
+        },
+        {
+          "en": "Google Registry launches .eat, .fly, and .here today.",
+          "zh": "Google Registry 今日推出 .eat、.fly 和 .here 域名。"
+        },
+        {
+          "en": "See how Wingstop, Zillow, Rocket Lawyer, and others are already using them.",
+          "zh": "了解 Wingstop、Zillow、Rocket Lawyer 等公司如何使用这些功能。"
+        }
+      ]
+    },
+    {
+      "id": "a2840211d2512175",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Gemini 4 Carbon is now available for developers.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-4-carbon-developers/",
+      "publishedAt": "2026-11-10T16:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Gemini 4 Carbon is now available for developers.",
+          "zh": "Gemini 4 Carbon现已面向开发者推出。"
+        },
+        {
+          "en": "Starting today, developers can build with Gemini 4 Carbon, our strongest model with frontier performance in cybersecurity and long-horizon capabilities.",
+          "zh": "从今天起，开发者可以使用Gemini 4 Carbon进行开发，这是我们最强大的模型，在网络安全和长远能力方面具有尖端性能。"
+        },
+        {
+          "en": "Built for sustai…",
+          "zh": "专为可持续性打造……"
+        }
+      ]
+    }
+  ],
+  "failures": []
+}
