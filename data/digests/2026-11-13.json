@@ -1,0 +1,869 @@
+{
+  "date": "2026-11-13",
+  "collectedAt": "2026-11-14T05:05:46.407Z",
+  "items": [
+    {
+      "id": "bbd27f699d942e66",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
+      "url": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-13T15:42:52.000Z",
+      "sentences": [
+        {
+          "en": "German spies handed new powers to tackle 'hybrid threats' from abroad.",
+          "zh": "德国情报机构获得新权力，以应对来自国外的“混合威胁”。"
+        },
+        {
+          "en": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage.",
+          "zh": "德国的改革意味着外国和国内情报机构将拥有更大的权力来打击间谍活动、恐怖主义和破坏活动。"
+        }
+      ]
+    },
+    {
+      "id": "3bd74a2663b94069",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "At least 24 killed after bus collides with truck in north-east India",
+      "url": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-13T15:16:50.000Z",
+      "sentences": [
+        {
+          "en": "At least 24 killed after bus collides with truck in north-east India.",
+          "zh": "印度东北部发生巴士与卡车相撞事故，造成至少24人死亡。"
+        },
+        {
+          "en": "Several of the deceased are college students, according to local official Atul Bora, but they have not yet been publicly identified.",
+          "zh": "据当地官员阿图尔·博拉（Atul Bora）称，死者中有几名是大学生，但他们的身份尚未公开。"
+        }
+      ]
+    },
+    {
+      "id": "bedeb45b11e16c20",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Watch: Divers explore US ship sunk off Florida coast to create new reef",
+      "url": "https://www.bbc.co.uk/news/videos/ckqx5ryx905qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-13T15:09:40.000Z",
+      "sentences": [
+        {
+          "en": "Watch: Divers explore US ship sunk off Florida coast to create new reef.",
+          "zh": "视频：潜水员探索佛罗里达州海岸沉没的美国船只，以打造新珊瑚礁。"
+        },
+        {
+          "en": "The ship was intentionally sunk off the coast of Florida in order to create the world's largest artificial ocean reef.",
+          "zh": "这艘船被故意沉没在佛罗里达州海岸附近，以打造世界上最大的人工海洋礁。"
+        }
+      ]
+    },
+    {
+      "id": "40ec4dab142d1c85",
+      "sourceId": "cloudflare-blog",
+      "category": "cloud",
+      "title": "Introducing Spend Management: Spending limits and alerts for Cloudflare",
+      "url": "https://blog.cloudflare.com/spend-management/",
+      "publishedAt": "2026-11-13T14:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Introducing Spend Management: Spending limits and alerts for Cloudflare.",
+          "zh": "隆重推出支出管理：Cloudflare 的支出限额和提醒。"
+        },
+        {
+          "en": "Spend controls have been at the top of the list of most requested features from developers building on our developer platform for quite some time now.",
+          "zh": "一段时间以来，支出控制一直是基于我们的开发者平台进行开发的开发者最常要求的功能之首。"
+        },
+        {
+          "en": "With more than 10 million developers now building on Cloudflare, this matters more than ever.",
+          "zh": "目前，有超过 1000 万名开发者正在 Cloudflare 上进行开发，因此，这一点比以往任何时候都更加重要。"
+        },
+        {
+          "en": "Although we’ve had usage notifications and budget alerts available to paid plans for a while, this doesn’t solve the problem completely; informing is not the same as controlling.",
+          "zh": "虽然我们为付费套餐提供使用情况通知和预算提醒功能已有一段时间，但这并不能完全解决问题；提供信息与进行控制并不相同。"
+        },
+        {
+          "en": "You can now set spending thresholds and choose to have Cloudflare pause activity when those limits are reached, thus avoiding unexpected bills from unplanned usage.",
+          "zh": "您现在可以设置支出阈值，并选择在达到这些限额时让 Cloudflare 暂停活动，从而避免因计划外使用而产生意外账单。"
+        },
+        {
+          "en": "Today, we&#x27;re introducing Spend Management in Beta, for any pay-as-you-go (PayGo) customer, starting with Workers and Durable Objects.",
+          "zh": "今天，我们将推出测试版支出管理功能，适用于所有按使用量付费（PayGo）的客户，首先从Workers和Durable Objects开始。"
+        },
+        {
+          "en": "Use Spend Management alongside AI Gateway spend limits to manage compute and AI inference costs across your application.",
+          "zh": "将支出管理与 AI 网关支出限额结合使用，以管理整个应用程序的计算和 AI 推理成本。"
+        },
+        {
+          "en": "AI Gateway already supports per-user and per-model budgets for Workers AI and other AI providers, applied to requests routed through your gateway.",
+          "zh": "AI Gateway已经支持针对Workers AI和其他AI提供商的按用户和按模型预算，适用于通过您的网关路由的请求。"
+        },
+        {
+          "en": "How it works You can start using Spend Management using the dashboard, cf CLI , or REST API .",
+          "zh": "运作方式 您可以通过控制面板、cf CLI或REST API开始使用支出管理。"
+        },
+        {
+          "en": "In the dashboard , head over to Manage Account > Billing > Spend limits and enable the products for which you want to control spending.",
+          "zh": "在管理面板中，前往“管理账号” > “账单” > “消费限额”，然后启用您想要控制消费的产品。"
+        },
+        {
+          "en": "When you enable controls on a product, you can define a spending limit, specify a recipient email for notifications, and set one or more alert thresholds.",
+          "zh": null
+        },
+        {
+          "en": "If you configure a recipient email, Cloudflare will send notifications when the evaluated spend reaches one of the thresholds or your spending limit.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "a4db15e2b4ef120f",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Iran says it targeted US military radar in Bahrain in retaliatory strike",
+      "url": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz",
+      "publishedAt": "2026-11-13T13:52:11.000Z",
+      "sentences": [
+        {
+          "en": "Iran says it targeted US military radar in Bahrain in retaliatory strike.",
+          "zh": "伊朗表示，在报复性袭击中，其目标是位于巴林的美国军用雷达。"
+        },
+        {
+          "en": "First direct attack on US military installations for months was in response to US airstrike on communications tower Iran’s Islamic Revolutionary Guard Corps says it has targeted and destroyed a US early-warning radar in Bahrain in response to a US airstrike on a communications tower in Sirik overlooking the strait of Hormuz.",
+          "zh": "这是数月来对美国军事设施的首次直接袭击，是对美国空袭通信塔的回应。伊朗伊斯兰革命卫队表示，为回应美国对锡里克一座俯瞰霍尔木兹海峡的通信塔的空袭，他们已瞄准并摧毁了巴林的一部美国预警雷达。"
+        },
+        {
+          "en": "It is Iran’s first direct attack on US military installations for months.",
+          "zh": "这是伊朗数月来首次直接袭击美国军事设施。"
+        },
+        {
+          "en": "“This is a serious warning to the aggressor enemy to end its aerial mischief and oil smuggling in the strait of Hormuz,” the IRGC said.",
+          "zh": "“这是对侵略敌人的严正警告，要求其停止在霍尔木兹海峡的空中挑衅和石油走私行为。”伊朗伊斯兰革命卫队表示。"
+        },
+        {
+          "en": "“In the event of repeated violations and aggression, the IRGC aerospace force is on full alert to confront the enemy without constraint.” Continue reading..",
+          "zh": "“如果发生反复的侵犯和侵略行为，伊斯兰革命卫队空天部队将处于全面戒备状态，毫无顾忌地与敌人对抗。”继续阅读……"
+        }
+      ]
+    },
+    {
+      "id": "1383d3f72891184d",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
+      "url": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-13T13:11:23.000Z",
+      "sentences": [
+        {
+          "en": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing.",
+          "zh": "在最近的莫斯科汽车爆炸事件中，在逃的乌克兰前总理的助手受伤。"
+        },
+        {
+          "en": "Sergei Zavorotny, now a journalist and commentator, was previously an adviser to Ukrainian ex-prime minister Mykola Azarov.",
+          "zh": "谢尔盖·扎沃罗特尼（Sergei Zavorotny）现为记者兼评论员，曾任乌克兰前总理尼古拉·阿扎罗夫（Mykola Azarov）的顾问。"
+        }
+      ]
+    },
+    {
+      "id": "9cf54d021a2bc4e9",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "DR Congo Ebola outbreak: Unrest fuelled by armed groups holds back response",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168797",
+      "publishedAt": "2026-11-13T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "DR Congo Ebola outbreak: Unrest fuelled by armed groups holds back response.",
+          "zh": "刚果（金）埃博拉疫情：武装团体引发的动荡阻碍了应对工作。"
+        },
+        {
+          "en": "The Ebola outbreak in the Democratic Republic of the Congo (DRC) continues to spread amid repeated and ongoing deadly attacks on civilians and frontline health workers by armed groups that are obstructing efforts to stop transmission, UN responders said on Friday.",
+          "zh": "联合国应急人员周五表示，刚果民主共和国（刚果（金））的埃博拉疫情仍在持续蔓延，武装团体不断对平民和一线医护人员发动致命袭击，阻碍了遏制疫情传播的努力。"
+        }
+      ]
+    },
+    {
+      "id": "caa6051ad9a7a5b6",
+      "sourceId": "un-news",
+      "category": "ai",
+      "title": "COP31: New initiative targets AI and reliable climate change information",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168798",
+      "publishedAt": "2026-11-13T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "COP31: New initiative targets AI and reliable climate change information.",
+          "zh": "COP31：新举措瞄准人工智能和可靠的气候变化信息。"
+        },
+        {
+          "en": "New guidance has been issued to ensure that people everywhere can obtain credible climate change information from artificial intelligence (AI) and understand how the technology impacts the environment.",
+          "zh": "新指南已发布，旨在确保世界各地的人们都能从人工智能（AI）获得可信的气候变化信息，并了解该技术对环境的影响。"
+        }
+      ]
+    },
+    {
+      "id": "8e8d04d3b9846a69",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "‘Lives are at stake’: Humanitarians call for swift entry of winter supplies in Gaza",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168799",
+      "publishedAt": "2026-11-13T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "‘Lives are at stake’: Humanitarians call for swift entry of winter supplies in Gaza.",
+          "zh": "“生命危在旦夕”：人道主义工作者呼吁迅速向加沙运送过冬物资。"
+        },
+        {
+          "en": "Winter supplies must enter the Gaza Strip where “lives are at stake”, the UN and partners said in an urgent appeal on Friday, in the wake of deadly rainfall this past weekend.",
+          "zh": "联合国及其合作伙伴周五发出紧急呼吁，表示冬季物资必须进入“生命危在旦夕”的加沙地带，此前该地区在上周末遭遇了致命的降雨。"
+        }
+      ]
+    },
+    {
+      "id": "a6e3656d0ae59f0b",
+      "sourceId": "un-news",
+      "category": "science",
+      "title": "COP31: Climate finance falls short as calls grow for polluters to pay",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168802",
+      "publishedAt": "2026-11-13T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "COP31: Climate finance falls short as calls grow for polluters to pay.",
+          "zh": "COP31：随着要求污染者付费的呼声日益高涨，气候融资仍显不足。"
+        },
+        {
+          "en": "From emotional appeals for climate justice to high-stakes negotiations over billions of dollars, finance dominated discussions at COP31 on Friday.",
+          "zh": "从对气候正义的激情呼吁到涉及数十亿美元的高风险谈判，金融问题在周五的COP31会议上占据了主导地位。"
+        },
+        {
+          "en": "UN Secretary-General António Guterres warned that even tripling adaptation funding for vulnerable countries would meet less than a third of their needs, as pressure mounted on wealthy nations and major polluters to pay their fair share.",
+          "zh": "联合国秘书长安东尼奥·古特雷斯警告称，即使将为弱势国家提供的适应资金增加两倍，也只能满足其不到三分之一的需求，这给富裕国家和主要污染排放国带来了更大的压力，要求它们承担应有的责任。"
+        }
+      ]
+    },
+    {
+      "id": "3a0059f8e9ef00d9",
+      "sourceId": "un-news",
+      "category": "security",
+      "title": "Security Council LIVE: Fragile Gulf calm tested as threats to Hormuz shipping mount",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168804",
+      "publishedAt": "2026-11-13T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Security Council LIVE: Fragile Gulf calm tested as threats to Hormuz shipping mount.",
+          "zh": "安全理事会直播：随着对霍尔木兹海峡航运的威胁加剧，脆弱的海湾平静正受到考验。"
+        },
+        {
+          "en": "Nearly nine months after Israeli and US strikes on Iran set off a regional war, the Gulf remains on a knife edge.",
+          "zh": "以色列和美国对伊朗的空袭引发了地区战争，近九个月过去了，海湾地区仍处于风口浪尖。"
+        },
+        {
+          "en": "Iran has all but closed the Strait of Hormuz, which carried a fifth of the world’s oil before the conflict.",
+          "zh": "伊朗几乎封锁了霍尔木兹海峡，该海峡在冲突前承担着全球五分之一的石油运输。"
+        },
+        {
+          "en": "Attacks on shipping are rising, and efforts to stop a return to full-scale fighting have yet to produce a deal.",
+          "zh": "针对航运的袭击事件正在增加，旨在阻止全面战斗重演的努力尚未达成协议。"
+        },
+        {
+          "en": "The Security Council is meeting at Bahrain’s request to discuss the threat to regional and maritime security.",
+          "zh": "安全理事会应巴林的请求召开会议，讨论对区域和海上安全的威胁。"
+        },
+        {
+          "en": "Follow live below – and for full meetings coverage year round, go here.",
+          "zh": "在下方观看直播——如需全年会议的完整报道，请访问此处。"
+        }
+      ]
+    },
+    {
+      "id": "0deeb36dc5c97fe6",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "‘Here, you can eat until you’re full’: Oleshky evacuees savour first proper meals in years",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168803",
+      "publishedAt": "2026-11-13T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "‘Here, you can eat until you’re full’: Oleshky evacuees savour first proper meals in years.",
+          "zh": "“在这里，您可以吃到饱。”：奥列什基的撤离人员享用了多年来的第一顿像样的饭菜。"
+        },
+        {
+          "en": "In a quiet hospital corridor in Kyiv, staff and volunteers push carts carrying steaming pots of chicken soup, bread and buckwheat porridge to patients recently evacuated from Russian-occupied Oleshky, in Ukraine’s southern Kherson region.",
+          "zh": "在基辅一家医院的安静走廊里，工作人员和志愿者正推着餐车，将热气腾腾的鸡汤、面包和荞麦粥送给最近从俄罗斯占领的乌克兰南部赫尔松州奥列什基撤离的患者。"
+        }
+      ]
+    },
+    {
+      "id": "82c7a02c82378a75",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
+      "url": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-13T11:43:27.000Z",
+      "sentences": [
+        {
+          "en": "Watch: How a server outage took down Microsoft Teams and Outlook.",
+          "zh": "观看：服务器宕机是如何导致 Microsoft Teams 和 Outlook 瘫痪的。"
+        },
+        {
+          "en": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
+          "zh": "微软的一次服务中断正在影响Teams、Outlook和人工智能软件Copilot等服务。"
+        }
+      ]
+    },
+    {
+      "id": "85d70f79665c45ec",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Rosalía scoops historic third best album award at Latin Grammys",
+      "url": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-13T11:38:54.000Z",
+      "sentences": [
+        {
+          "en": "Rosalía scoops historic third best album award at Latin Grammys.",
+          "zh": "Rosalía在拉丁格莱美奖上历史性地第三次斩获最佳专辑奖。"
+        },
+        {
+          "en": "The Spanish singer is recognised for her fourth album Lux which was released last year to rave reviews.",
+          "zh": "这位西班牙歌手因去年发行的第四张专辑《Lux》而备受瞩目，该专辑广受好评。"
+        }
+      ]
+    },
+    {
+      "id": "85daf12f291191df",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "What’s behind Australia’s surge in teen extremism?",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/13/australia-surge-in-teen-extremism-ntwnfb",
+      "publishedAt": "2026-11-13T11:33:57.000Z",
+      "sentences": [
+        {
+          "en": "What’s behind Australia’s surge in teen extremism?.",
+          "zh": "澳大利亚青少年极端主义激增的背后是什么？"
+        },
+        {
+          "en": "Young people are being found with ‘hard drives full of what can only be described as gore’, one expert says Get our breaking news email , free app or daily news podcast In March, Guardian Australia revealed that most people who have been charged with the new federal crime of possession of violent extremist material are under 18.",
+          "zh": "一位专家表示，年轻人被发现持有“装满只能被描述为血腥内容的硬盘”。订阅我们的突发新闻电子邮件、免费应用程序或每日新闻播客。3月，《卫报》澳大利亚版披露，被指控犯有持有暴力极端主义材料这一新联邦罪行的大多数人未满18岁。"
+        },
+        {
+          "en": "This week Australian federal police sounded the alarm about a surge in teen extremism: 32 of the 37 young people prosecuted in counter-terrorism cases since 2020 were charged in the past two years.",
+          "zh": "本周，澳大利亚联邦警察对青少年极端主义的激增发出了警告：自2020年以来，在反恐案件中被起诉的37名年轻人中，有32人是在过去两年内被起诉的。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "3b08370629327fc3",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Storm Charles causes floods and flight cancellations across southern Europe",
+      "url": "https://www.theguardian.com/environment/2026/nov/13/storm-charles-floods-flight-cancellations-southern-europe-weather",
+      "publishedAt": "2026-11-13T08:49:19.000Z",
+      "sentences": [
+        {
+          "en": "Storm Charles causes floods and flight cancellations across southern Europe.",
+          "zh": "风暴“查尔斯”在南欧造成洪灾和航班取消。"
+        },
+        {
+          "en": "Heavy rain and strong winds have also caused disruption across British Columbia, Canada, over the last week Storm Charles has brought destructive weather to the Iberian peninsula this week, particularly in Portugal and the far south of Spain.",
+          "zh": "过去一周，大雨和强风还对加拿大不列颠哥伦比亚省造成了破坏。本周，飓风“查尔斯”给伊比利亚半岛带来了破坏性天气，葡萄牙和西班牙最南端受灾尤为严重。"
+        },
+        {
+          "en": "Heavy rain and strong south-westerly winds arrived first in the Portuguese island of Madeira, before the system headed towards the mainland on 11 November.",
+          "zh": "大雨和强劲的西南风首先抵达葡萄牙的马德拉岛，随后该天气系统于11月11日向大陆方向移动。"
+        },
+        {
+          "en": "A wind gust of 84.5mph (136 km/h) was recorded at Funchal airport, alongside rainfall totals reaching 355mm (13.97in) in 12 hours.",
+          "zh": "丰沙尔机场记录到阵风风速达 84.5 英里/小时（136 公里/小时），12 小时内的总降雨量达 355 毫米（13.97 英寸）。"
+        },
+        {
+          "en": "In Lisbon, 183 flights were cancelled on Wednesday, about a third of its normal daily traffic, while Madrid Barajas airport had 155 cancellations.",
+          "zh": "周三，里斯本有183个航班被取消，约占其日常航班总量的三分之一，而马德里巴拉哈斯机场则有155个航班被取消。"
+        },
+        {
+          "en": "After causing widespread flooding in Spain and Portugal, the system moved on a north-easterly track through southern France and then towards northern Italy.",
+          "zh": "该气旋系统在西班牙和葡萄牙造成大范围洪灾后，沿东北方向穿过法国南部，然后朝意大利北部移动。"
+        },
+        {
+          "en": "This resulted in significant flooding in parts of Cannes, some of which caused rock falls and led to the closure of roads along the French Riviera.",
+          "zh": "这导致戛纳部分地区发生严重洪灾，其中一些洪灾引发了落石，并导致法国里维埃拉沿线的道路封闭。"
+        },
+        {
+          "en": "The Italian weather service issued a red rainfall warning, its highest level, for the area extending from Tuscany to Venezia.",
+          "zh": "意大利气象部门对从托斯卡纳到威尼斯的地区发布了最高级别的红色降雨预警。"
+        },
+        {
+          "en": "Further heavy rain is expected to fall in Italy and the Balkans over the next few days, with the latest forecast models indicating an additional 100mm could accumulate widely, while totals close to 200mm are likely in more mountainous areas.",
+          "zh": "预计未来几天意大利和巴尔干半岛将有更多强降雨，最新的预报模型显示，大范围降雨量可能再增加100毫米，而在山区，总降雨量可能接近200毫米。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "2699a76e030ebddc",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
+      "url": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-13T07:01:43.000Z",
+      "sentences": [
+        {
+          "en": "African Miss Universe beauty queens in limbo as US visa restrictions bite.",
+          "zh": "受美国签证限制影响，非洲环球小姐选美皇后陷入困境。"
+        },
+        {
+          "en": "Hall has been seeking a US visa in South Africa as other African beauty queens face similar hurdles.",
+          "zh": "霍尔一直在南非申请美国签证，其他非洲选美皇后也面临着类似的障碍。"
+        }
+      ]
+    },
+    {
+      "id": "afad9c2dc9e5f381",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Boxer on death row in Iran vows ‘not to bow before oppression’ after winning rights prize",
+      "url": "https://www.theguardian.com/global-development/2026/nov/13/mohammad-javad-vafaei-sani-iran-boxer-death-row-magnitsky-award",
+      "publishedAt": "2026-11-13T06:00:11.000Z",
+      "sentences": [
+        {
+          "en": "Boxer on death row in Iran vows ‘not to bow before oppression’ after winning rights prize.",
+          "zh": "伊朗死囚拳手在获奖后誓言“绝不屈服于压迫”。"
+        },
+        {
+          "en": "Political prisoner Mohammad Javad Vafaei Sani, one of seven athletes at risk of execution in Iran, given prestigious Magnitsky humanitarian award A boxer and political prisoner on death row in Iran said he will “never surrender” as he accepted a prestigious human rights prize on behalf of “the generation that is paying the price of freedom with their lives”.",
+          "zh": "政治犯穆罕默德·贾瓦德·瓦法伊·萨尼（Mohammad Javad Vafaei Sani）是伊朗面临死刑的七名运动员之一，他获得了享有盛誉的马格尼茨基人权奖。这位在伊朗被判死刑的拳击手兼政治犯在接受这一享有盛誉的人权奖时表示，他“绝不屈服”，他代表的是“用生命为自由付出代价的一代人”。"
+        },
+        {
+          "en": "Mohammad Javad Vafaei Sani , an Iranian boxing champion, coach and political prisoner, has been sentenced to death three times and is one of seven athletes at risk of execution in Iran .",
+          "zh": "伊朗拳击冠军、教练兼政治犯穆罕默德·贾瓦德·瓦法伊·萨尼（Mohammad Javad Vafaei Sani）曾三次被判处死刑，是伊朗面临死刑风险的七名运动员之一。"
+        },
+        {
+          "en": "He was given the Magnitsky award for outstanding human rights activist at a ceremony in London on Thursday night.",
+          "zh": "周四晚，他在伦敦举行的颁奖仪式上被授予马格尼茨基杰出人权活动家奖。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "08e5c2fa6dcf1758",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Teen prodigy, Netflix star, prisoner: the story of Hong Kong dissident Joshua Wong – podcast",
+      "url": "https://www.theguardian.com/news/audio/2026/nov/13/teen-prodigy-netflix-star-prisoner-the-story-of-hong-kong-dissident-joshua-wong-podcast",
+      "publishedAt": "2026-11-13T03:00:06.000Z",
+      "sentences": [
+        {
+          "en": "Teen prodigy, Netflix star, prisoner: the story of Hong Kong dissident Joshua Wong – podcast.",
+          "zh": "少年神童、Netflix明星、囚犯：香港异见人士黄之锋的故事——播客。"
+        },
+        {
+          "en": "Pro-democracy activist Nathan Law and journalist Danny Vincent on the sentencing of the iconic Hong Kong campaigner Joshua Wong to another 10 years in prison.",
+          "zh": "民主派活动人士罗冠聪和记者Danny Vincent就香港标志性活动人士黄之锋被判再入狱10年一事发表评论。"
+        },
+        {
+          "en": "Send your comments and questions to tif.questions@theguardian.com He has been leading protests since he was 14.",
+          "zh": "请将您的意见和问题发送至tif.questions@theguardian.com。他从14岁起就开始领导抗议活动。"
+        },
+        {
+          "en": "Joshua Wong has been on the cover of Time magazine, the focus of a Netflix documentary and an icon for Hong Kong’s pro-democracy movement.",
+          "zh": "黄之锋曾登上《时代》杂志封面，是Netflix纪录片的主角，也是香港民主运动的标志性人物。"
+        },
+        {
+          "en": "Wong has been leading the fight against a Chinese squeeze on freedoms in Hong Kong for the last 15 years.",
+          "zh": "过去 15 年来，黄之锋一直领导着抗议中国对香港自由的打压。"
+        },
+        {
+          "en": "He will now spend more than 16 years in prison.",
+          "zh": "他现在将在监狱中度过超过16年的时光。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "dc0164c6ef7334a1",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Will the Eurovision Song Contest succeed in Asia?",
+      "url": "https://www.bbc.co.uk/news/videos/cxvg23n59y1ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-13T02:24:11.000Z",
+      "sentences": [
+        {
+          "en": "Will the Eurovision Song Contest succeed in Asia?.",
+          "zh": "欧洲歌唱大赛能否在亚洲取得成功？"
+        },
+        {
+          "en": "The world’s biggest and longest-running song contest is coming to Asia, with eleven countries competing in Bangkok, Thailand on Saturday.",
+          "zh": "世界上最大的、历史最悠久的歌曲大赛即将登陆亚洲，来自11个国家的选手将于周六在泰国曼谷展开角逐。"
+        }
+      ]
+    },
+    {
+      "id": "7c512829bf524dd8",
+      "sourceId": "github-blog",
+      "category": "open-source",
+      "title": "GitHub availability report: October 2026",
+      "url": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/",
+      "publishedAt": "2026-11-13T00:20:16.000Z",
+      "sentences": [
+        {
+          "en": "GitHub availability report: October 2026.",
+          "zh": "GitHub 可用性报告：2026 年 10 月。"
+        },
+        {
+          "en": "We continue to share monthly updates on the work behind GitHub s availability and reliability.",
+          "zh": "我们将继续分享有关 GitHub 可用性和可靠性背后工作的每月最新动态。"
+        },
+        {
+          "en": "The short version of October: we added substantial independently scalable Azure capacity and removed several ways that failures could escalate.",
+          "zh": "10 月份的简要版：我们增加了大量可独立扩展的 Azure 容量，并消除了故障可能升级的几种方式。"
+        },
+        {
+          "en": "However, write outages, monitoring gaps during data migrations, and a regional network disruption reinforced the need for capacity growth to be paired with safer operations, stronger isolation, and validated regional recovery.",
+          "zh": "然而，写入中断、数据迁移过程中的监控漏洞以及区域网络中断都凸显出，容量增长需要与更安全的运营、更强的隔离和经过验证的区域恢复相结合。"
+        },
+        {
+          "en": "As of November 9, 140 of 151 production services and 32 of 50 MySQL primaries were running in Azure Central US.",
+          "zh": "截至11月9日，151项生产服务中的140项和50个MySQL主节点中的32个正在Azure美国中部运行。"
+        },
+        {
+          "en": "Azure served 63% of migrated-service reads, 66% of monolith reads, and 52% of Git reads.",
+          "zh": "Azure 提供了 63% 的已迁移服务读取、66% 的整体式读取和 52% 的 Git 读取。"
+        },
+        {
+          "en": "We also completed a compute expansion across all nine Central US Kubernetes clusters, more than doubling capacity.",
+          "zh": "我们还在所有九个美国中部Kubernetes集群中完成了计算扩展，使容量增加了一倍多。"
+        },
+        {
+          "en": "That capacity is already carrying real growth.",
+          "zh": "这种能力已经在推动真正的增长。"
+        },
+        {
+          "en": "Migrated-service traffic has increased 82% since March, with Central US absorbing the growth beyond the highest weekly-average load previously served from our existing datacenter.",
+          "zh": "自 3 月份以来，已迁移服务的流量增加了 82%，其中美国中部的增长幅度超过了我们现有数据中心此前提供的最高周平均负载。"
+        },
+        {
+          "en": "This gives GitHub more room to grow without pushing the original environment beyond its prior operating range.",
+          "zh": "这为 GitHub 提供了更大的发展空间，而不会使原始环境超出其先前的运行范围。"
+        },
+        {
+          "en": "We also made several targeted reliability improvements.",
+          "zh": "我们还针对性地进行了多项可靠性改进。"
+        },
+        {
+          "en": "Actions changes increased capacity for critical Azure control-plane requests.",
+          "zh": "操作更改提高了对关键 Azure 控制平面请求的处理能力。"
+        }
+      ]
+    },
+    {
+      "id": "8bc9138e516754eb",
+      "sourceId": "github-blog",
+      "category": "open-source",
+      "title": "Build once, run on any agent: A practical guide to agent skills",
+      "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/",
+      "publishedAt": "2026-11-12T22:54:52.000Z",
+      "sentences": [
+        {
+          "en": "Build once, run on any agent: A practical guide to agent skills.",
+          "zh": "一次构建，在任何代理上运行：代理技能实用指南。"
+        },
+        {
+          "en": "How many times this week did you re-explain the same task to an agent?",
+          "zh": "本周您向客服代表重复解释同一项任务的次数是多少？"
+        },
+        {
+          "en": "How many times did you ask your colleague with deep institutional knowledge how to solve a specific problem?",
+          "zh": "您曾多少次向具备深厚机构知识的同事请教如何解决某个具体问题？"
+        },
+        {
+          "en": "That context shouldn t be lost in a chat or locked in one person s head.",
+          "zh": "这种背景信息不应在聊天中丢失，也不应只存在于一个人的脑海中。"
+        },
+        {
+          "en": "Agent skills let you capture repeatable instructions so you and your agents can reuse them.",
+          "zh": "通过客服代表技能，您可以记录可重复的指令，以便您和客服代表重复使用。"
+        },
+        {
+          "en": "The skill you write for yourself tonight can later become part of a team s pipeline.",
+          "zh": "您今晚为自己编写的技能稍后可以成为团队管道的一部分。"
+        },
+        {
+          "en": "An agent skill is a versioned directory centered on a SKILL.md file that describes when and how to do a repeatable task.",
+          "zh": "代理技能是一个以 SKILL.md 文件为中心的版本化目录，该文件描述了何时以及如何执行可重复的任务。"
+        },
+        {
+          "en": "You can share those instructions across agents, but the environment still needs to provide the tools, credentials, and permissions to carry them out.",
+          "zh": "您可以将这些指令分享给所有代理，但环境仍需要提供执行这些指令所需的工具、凭据和权限。"
+        },
+        {
+          "en": "A skill can describe how to query a database, for example, but it doesn t grant access to that database.",
+          "zh": "例如，技能可以描述如何查询数据库，但它不会授予对该数据库的访问权限。"
+        },
+        {
+          "en": "I covered this topic live with Shishir Tewari, Senior Manager, Data Engineering at Procore, during GitHub Universe 2026.",
+          "zh": "在2026年GitHub Universe大会期间，我与Procore数据工程高级经理Shishir Tewari一起现场讨论了这个话题。"
+        },
+        {
+          "en": "Our session was titled Build once, run on any agent: a practical guide to agent skills .",
+          "zh": "我们的主题是“一次构建，在任何代理上运行：代理技能实用指南”。"
+        },
+        {
+          "en": "Define one job and when it applies A skill works best when it has a clear job, input, and output.",
+          "zh": "定义一个任务及其适用情况当技能具有明确的任务、输入和输出时，其效果最佳。"
+        }
+      ]
+    },
+    {
+      "id": "e1dafa6411005a66",
+      "sourceId": "guardian-world",
+      "category": "science",
+      "title": "China rules out hosting Cop33 climate summit in 2028",
+      "url": "https://www.theguardian.com/environment/2026/nov/12/china-rules-out-hosting-cop33-climate-summit-in-2028",
+      "publishedAt": "2026-11-12T22:00:15.000Z",
+      "sentences": [
+        {
+          "en": "China rules out hosting Cop33 climate summit in 2028.",
+          "zh": "中国否认将在2028年主办第33届联合国气候变化大会（COP33）。"
+        },
+        {
+          "en": "Decision disappoints experts hoping for world’s biggest emitter to take global lead on climate crisis China has ruled out hosting the Cop33 UN climate summit in 2028 after months of deliberations, leaving the field open for other Asian countries to hold it, the Guardian understands.",
+          "zh": "这一决定令希望全球最大碳排放国在全球气候危机问题上发挥主导作用的专家感到失望。据《卫报》了解，经过数月的审议，中国已决定不主办2028年联合国气候变化大会（COP33），从而为其他亚洲国家主办该会议敞开了大门。"
+        },
+        {
+          "en": "The decision will disappoint many countries and climate experts, who had hoped the world’s biggest emitter would take the lead on the global stage, as the US under Donald Trump has vacated all forms of international cooperation on the climate .",
+          "zh": "这一决定将令许多国家和气候专家感到失望，他们曾希望全球最大的碳排放国能在国际舞台上率先垂范，因为在唐纳德·特朗普的领导下，美国退出了所有形式的国际气候合作。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "77ce22269d7fa4ed",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "5 new Google Flow Tools designed by visual artists",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/new-google-flow-tools/",
+      "publishedAt": "2026-11-12T20:30:00.000Z",
+      "sentences": [
+        {
+          "en": "5 new Google Flow Tools designed by visual artists.",
+          "zh": "由视觉艺术家设计的 5 款全新 Google Flow 工具。"
+        },
+        {
+          "en": "Designed by filmmakers and visual artists, five new Google Flow Tools will help you bring your next story to life.",
+          "zh": "由电影制作人和视觉艺术家设计的五款全新 Google Flow 工具将帮助您将下一个故事变为现实。"
+        }
+      ]
+    },
+    {
+      "id": "18a6c58e68d017c6",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Two men found guilty of helping Iran try to ‘eliminate’ UK-based journalists",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/12/two-men-found-guilty-over-iranian-attempts-to-eliminate-uk-based-journalists",
+      "publishedAt": "2026-11-12T19:15:30.000Z",
+      "sentences": [
+        {
+          "en": "Two men found guilty of helping Iran try to ‘eliminate’ UK-based journalists.",
+          "zh": "两名男子因协助伊朗企图“消灭”英国记者而被判有罪。"
+        },
+        {
+          "en": "Mostafa Sepahvand and Farhad Javadi Manesh carried out surveillance in an effort to inflict violence on targets Two men of Iranian origin who were hired through social media as part of a plan to “eliminate” journalists in the UK have been found guilty of assisting Tehran’s intelligence services.",
+          "zh": "Mostafa Sepahvand和Farhad Javadi Manesh实施监视，企图对目标实施暴力。两名伊朗裔男子通过社交媒体被雇佣，作为“消灭”英国记者的计划的一部分，他们被判协助德黑兰情报部门的罪名成立。"
+        },
+        {
+          "en": "Mostafa Sepahvand, 41, and Farhad Javadi Manesh, 46, carried out surveillance and reconnaissance between August 2024 and March last year in an attempt to inflict violence on “subjects” in the UK.",
+          "zh": "41岁的Mostafa Sepahvand和46岁的Farhad Javadi Manesh在2024年8月至去年3月期间进行监视和侦察，企图对英国的“目标人物”实施暴力。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "fc9bcbb71a5289ae",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Lewis Hamilton says ‘Israel’s genocide in Gaza is appalling’ after Rafah visit",
+      "url": "https://www.theguardian.com/sport/2026/nov/12/lewis-hamilton-gaza-visit-rafah-israel",
+      "publishedAt": "2026-11-12T18:00:50.000Z",
+      "sentences": [
+        {
+          "en": "Lewis Hamilton says ‘Israel’s genocide in Gaza is appalling’ after Rafah visit.",
+          "zh": "路易斯·汉密尔顿在访问拉法后表示，“以色列在加沙的种族灭绝行径令人发指”。"
+        },
+        {
+          "en": "F1 driver urges Israel to let aid into Gaza Trip involved tour of facilities with aid workers Formula One driver Lewis Hamilton said on Wednesday that Israel must allow aid ⁠trucks into Gaza, a day after he visited the Rafah border crossing in Egypt.",
+          "zh": "F1车手敦促以色列允许援助物资进入加沙\n此次行程包括与援助工作者一起参观设施\nF1车手刘易斯·汉密尔顿周三表示，以色列必须允许援助卡车进入加沙，此前一天他访问了埃及的拉法口岸。"
+        },
+        {
+          "en": "Hamilton, a seven-time ⁠world champion, arrived ⁠in ​El Arish on Tuesday, where he was briefed on how aid is prepared and coordinated before it ⁠is sent into Gaza, as he toured the Rafah crossing and the Egyptian Red Crescent’s aid warehouses.",
+          "zh": "七届世界冠军汉密尔顿于周二抵达阿里什，他在参观拉法口岸和埃及红新月会的援助物资仓库时听取了有关援助物资在运往加沙之前如何准备和协调的简报。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "80edea19d5fdcf28",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Introducing Gemini 4 Hydrogen",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "publishedAt": "2026-11-12T18:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Introducing Gemini 4 Hydrogen.",
+          "zh": "隆重推出Gemini 4 Hydrogen。"
+        },
+        {
+          "en": "Today, we’re introducing Gemini 4 Hydrogen, our daily driver for agentic workflows",
+          "zh": "今天，我们推出了Gemini 4 Hydrogen，这是我们用于代理工作流程的日常驱动程序"
+        }
+      ]
+    },
+    {
+      "id": "b4df4a94fa379054",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Gemini 4 Hydrogen: everyday coding and agentic workflows for developers",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/",
+      "publishedAt": "2026-11-12T18:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Gemini 4 Hydrogen: everyday coding and agentic workflows for developers.",
+          "zh": "Gemini 4 Hydrogen：面向开发人员的日常编码和代理工作流。"
+        },
+        {
+          "en": "Build faster with Gemini 4 Hydrogen, Google’s new model for cost-efficient agentic coding and debugging.",
+          "zh": "使用 Gemini 4 Hydrogen（Google 推出的用于经济高效的代理编码和调试的新模型）更快地构建。"
+        },
+        {
+          "en": "Start building in Google AI Studio today.",
+          "zh": "立即开始在 Google AI Studio 中构建。"
+        }
+      ]
+    },
+    {
+      "id": "f19cddd04797ae7d",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "publishedAt": "2026-11-12T18:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Google Search gets a major upgrade with Gemini 4 Hydrogen.",
+          "zh": "Google搜索通过Gemini 4 Hydrogen进行了重大升级。"
+        },
+        {
+          "en": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
+          "zh": "我们将 Gemini 4 Hydrogen 推向全球 Google 搜索，为您提供更有帮助、更具可视化和更直观的回复。"
+        }
+      ]
+    },
+    {
+      "id": "dc9088dd5da06760",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Get quick answers from Gemini on any website.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/research-with-gemini-in-chrome/",
+      "publishedAt": "2026-11-12T17:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Get quick answers from Gemini on any website.",
+          "zh": "在任何网站上从 Gemini 获取快速答案。"
+        },
+        {
+          "en": "Get quick answers with Gemini in Chrome.",
+          "zh": "使用 Chrome 中的 Gemini 快速获得答案。"
+        },
+        {
+          "en": "Summarize articles, compare products, and explain complex topics directly in your side panel.",
+          "zh": "直接在侧边面板中总结文章、比较产品并解释复杂主题。"
+        },
+        {
+          "en": "Try it now.",
+          "zh": "再试试。"
+        }
+      ]
+    },
+    {
+      "id": "fa93928aa123f6bc",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "We're launching a $10 million Energy Impact Program in West Virginia.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/energy-impact-program-west-virginia/",
+      "publishedAt": "2026-11-12T17:00:00.000Z",
+      "sentences": [
+        {
+          "en": "We're launching a $10 million Energy Impact Program in West Virginia.",
+          "zh": "我们正在西弗吉尼亚州启动一项 1000 万美元的能源影响计划。"
+        },
+        {
+          "en": "Google is launching a $10 million Energy Impact Program in West Virginia to fund home repairs and efficiency upgrades.",
+          "zh": "谷歌正在西弗吉尼亚州启动一项1000万美元的能源影响计划，用于资助房屋维修和能效升级。"
+        },
+        {
+          "en": "Check your eligibility today.",
+          "zh": "立即查看您的资格。"
+        }
+      ]
+    },
+    {
+      "id": "dd9d2f50d8fb7559",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Meet the 2026 Google PhD Fellows",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/phd-fellows-2026/",
+      "publishedAt": "2026-11-12T17:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Meet the 2026 Google PhD Fellows.",
+          "zh": "认识2026年Google博士研究员。"
+        },
+        {
+          "en": "Google.org is providing $13 million in funding to support the 2026 Google PhD Fellows.",
+          "zh": "Google.org将提供1300万美元的资金，用于支持2026年Google博士生研究金计划。"
+        }
+      ]
+    },
+    {
+      "id": "1c0ba4a23c7739f7",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Scientists are using Google AI to help restore giant kelp forests.",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/saving-giant-kelp-australia/",
+      "publishedAt": "2026-11-12T17:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Scientists are using Google AI to help restore giant kelp forests.",
+          "zh": "科学家们正在使用谷歌人工智能来帮助恢复巨型海藻林。"
+        },
+        {
+          "en": "Underwater forests of giant kelp protect coastlines, provide habitat, and support marine ecosystems — but they’re disappearing worldwide due to ocean warming.",
+          "zh": "巨型海带的水下森林可以保护海岸线、提供栖息地并为海洋生态系统提供支持，但由于海洋变暖，它们正在全球范围内消失。"
+        },
+        {
+          "en": "As COP31 k…",
+          "zh": "随着COP31 k……"
+        }
+      ]
+    }
+  ],
+  "failures": []
+}
