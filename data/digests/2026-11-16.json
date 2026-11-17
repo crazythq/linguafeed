@@ -1,0 +1,815 @@
+{
+  "date": "2026-11-16",
+  "collectedAt": "2026-11-17T06:43:55.135Z",
+  "items": [
+    {
+      "id": "f29869842febcd35",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Street cricket with a legend then metro ride as William and Kate begin India visit",
+      "url": "https://www.bbc.co.uk/news/videos/crkgvnl51w1vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-16T15:08:59.000Z",
+      "sentences": [
+        {
+          "en": "Street cricket with a legend then metro ride as William and Kate begin India visit.",
+          "zh": "威廉王子和凯特王妃开始印度之行，先是与传奇人物一起打街头板球，然后乘坐地铁。"
+        },
+        {
+          "en": "The Prince and Princess of Wales are visiting Mumbai for the Earthshot Prize this week, but started their trip with some fun outings.",
+          "zh": "威尔士亲王和王妃本周将前往孟买参加“地球奖”（Earthshot Prize）活动，但他们首先安排了一些有趣的户外活动。"
+        }
+      ]
+    },
+    {
+      "id": "bcd181111f57da49",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Robert Pattinson: How the Twilight star became 007",
+      "url": "https://www.bbc.co.uk/news/articles/c574290jvk8wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-16T15:02:41.000Z",
+      "sentences": [
+        {
+          "en": "Robert Pattinson: How the Twilight star became 007.",
+          "zh": "罗伯特·帕丁森：《暮光之城》明星如何成为007。"
+        },
+        {
+          "en": "The Twilight, Batman and Odyssey star's profile will go even more stellar when he plays James Bond.",
+          "zh": "这位《暮光之城》、《蝙蝠侠》和《奥德赛》的明星在饰演詹姆斯·邦德时，其形象将更加耀眼。"
+        }
+      ]
+    },
+    {
+      "id": "aeeceed8b0e0ed92",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Raye, Rosalía and Dolly Parton recognised in Grammy nominations",
+      "url": "https://www.bbc.co.uk/news/articles/cq9vwkggpx73o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-16T14:48:55.000Z",
+      "sentences": [
+        {
+          "en": "Raye, Rosalía and Dolly Parton recognised in Grammy nominations.",
+          "zh": "Raye、Rosalía和Dolly Parton获得格莱美奖提名。"
+        },
+        {
+          "en": "British singer Raye lands 11 nominations while Dolly Parton is recognised two months after her death.",
+          "zh": "英国歌手Raye获得11项提名，而Dolly Parton在去世两个月后也获得了提名。"
+        }
+      ]
+    },
+    {
+      "id": "d50f3589ad0577a4",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Ask Maps is coming to Europe.",
+      "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-is-coming-to-europe/",
+      "publishedAt": "2026-11-16T14:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Ask Maps is coming to Europe.",
+          "zh": "“问地图”即将登陆欧洲。"
+        },
+        {
+          "en": "Ask Maps is the biggest update to Google Maps in over a decade.",
+          "zh": "“问问地图”是十多年来 Google 地图的最大更新。"
+        },
+        {
+          "en": "Powered by the world’s freshest map and Gemini models, it answers complex, real-world questions a map cou…",
+          "zh": "借助全球最新地图和 Gemini 模型，它可以回答地图能够回答的复杂现实问题……"
+        }
+      ]
+    },
+    {
+      "id": "b3643525470dc0d8",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "4 ways Search can help with your holiday plans",
+      "url": "https://blog.google/products-and-platforms/products/search/holiday-prep-search-2026/",
+      "publishedAt": "2026-11-16T14:00:00.000Z",
+      "sentences": [
+        {
+          "en": "4 ways Search can help with your holiday plans.",
+          "zh": "搜索功能可以通过 4 种方式帮助您规划假期。"
+        },
+        {
+          "en": "Here are four ways Search can help tackle your seasonal to-do list.",
+          "zh": "以下是“搜索”帮助您应对季节性待办事项的四种方式。"
+        }
+      ]
+    },
+    {
+      "id": "83b8e4ac14a30e6c",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Navigate holiday traffic and crowds with Google Maps trends",
+      "url": "https://blog.google/products-and-platforms/products/maps/holiday-thanksgiving-travel-trends-2026/",
+      "publishedAt": "2026-11-16T14:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Navigate holiday traffic and crowds with Google Maps trends.",
+          "zh": "借助 Google 地图趋势，轻松应对节假日交通拥堵和人潮。"
+        },
+        {
+          "en": "See the best and worst times to drive, run errands, and visit trending holiday spots with 2026 Google Maps data",
+          "zh": "通过 2026 年的 Google 地图数据，了解开车、出门办事和游览热门度假胜地的最佳和最差时段"
+        }
+      ]
+    },
+    {
+      "id": "dfc32ad6652396f0",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "New Ask Maps features to help with holiday travel and prep",
+      "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+      "publishedAt": "2026-11-16T14:00:00.000Z",
+      "sentences": [
+        {
+          "en": "New Ask Maps features to help with holiday travel and prep.",
+          "zh": "全新“询问地图”功能，助您轻松规划和准备假期出行。"
+        },
+        {
+          "en": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features.",
+          "zh": "使用全新的“询问地图”功能，规划假日自驾游、获取路线建议、查找当地的预约活动，以及搜索您收藏的列表。"
+        }
+      ]
+    },
+    {
+      "id": "f7dbf1f3ab9e55e4",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "How to find the best Black Friday deals and shop smarter",
+      "url": "https://blog.google/products-and-platforms/products/shopping/black-friday-cyber-monday-shopping-tips-2026/",
+      "publishedAt": "2026-11-16T14:00:00.000Z",
+      "sentences": [
+        {
+          "en": "How to find the best Black Friday deals and shop smarter.",
+          "zh": "如何找到最超值的黑色星期五优惠，更明智地购物。"
+        },
+        {
+          "en": "Track price drops, organize your cart, and find thoughtful gifts faster this Black Friday and Cyber Monday with these Google tools.",
+          "zh": "今年黑色星期五和网络星期一，使用这些Google工具跟踪降价信息、整理购物车，并更快地找到贴心的礼物。"
+        }
+      ]
+    },
+    {
+      "id": "65bc2c4d08924101",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Gérard Depardieu drops appeal against sexual assault conviction",
+      "url": "https://www.bbc.co.uk/news/articles/cm20vexye1d0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-16T13:40:56.000Z",
+      "sentences": [
+        {
+          "en": "Gérard Depardieu drops appeal against sexual assault conviction.",
+          "zh": "杰拉尔·德帕迪约放弃对性侵定罪的上诉。"
+        },
+        {
+          "en": "The French film star was due to start an appeal trial after being found guilty of sexually assaulting two women on a Paris set.",
+          "zh": "这名法国电影明星因在巴黎片场性侵两名女性而被判有罪，原定将开始上诉审理。"
+        }
+      ]
+    },
+    {
+      "id": "9392df1faac827c5",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "US basketball player arrested with 75lb of marijuana at Nigerian airport, say authorities",
+      "url": "https://www.theguardian.com/sport/2026/nov/16/us-basketball-player-arrested-with-75lb-of-marijuana-at-nigerian-airport-say-authorities",
+      "publishedAt": "2026-11-16T13:16:36.000Z",
+      "sentences": [
+        {
+          "en": "US basketball player arrested with 75lb of marijuana at Nigerian airport, say authorities.",
+          "zh": "当局称，美国篮球运动员在尼日利亚机场被逮捕，其携带75磅大麻。"
+        },
+        {
+          "en": "Suspect named as Greene Da’monte Khiree Drug smuggling carries life sentence in Nigeria An American basketball player has been arrested in Nigeria for allegedly attempting to smuggle 33.95kg (75lb) of marijuana into the country.",
+          "zh": "嫌疑人名为格林·达蒙特·基里（Greene Da’monte Khiree）。在尼日利亚，走私毒品可被判处无期徒刑。一名美国篮球运动员因涉嫌企图向该国走私33.95公斤（75磅）大麻而被捕。"
+        },
+        {
+          "en": "Nigeria’s National Drug Law Enforcement Agency (NDLEA) said a 28-year-old player named as Greene Da’monte Khiree from the state of Georgia was arrested at Lagos’s main airport last Wednesday after he arrived on a flight from Thailand via the United Arab Emirates.",
+          "zh": "尼日利亚国家禁毒执法机构（NDLEA）表示，来自佐治亚州的28岁球员格林·达蒙特·基里（Greene Da'monte Khiree）于上周三在拉各斯的主要机场被捕，当时他乘坐从泰国经由阿拉伯联合酋长国的航班抵达。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "7a4d680ed3dbcd62",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "FAA ground stop still affecting thousands of flights. And, Trump meets Xi, Putin in Asia",
+      "url": "https://www.npr.org/2026/11/16/g-s1-153841/up-first-newsletter-faa-ground-stop-democratic-leaders-congress-trump-asia-trip",
+      "publishedAt": "2026-11-16T12:08:14.000Z",
+      "sentences": [
+        {
+          "en": "FAA ground stop still affecting thousands of flights.",
+          "zh": "FAA 的停飞令仍在影响数千架航班。"
+        },
+        {
+          "en": "And, Trump meets Xi, Putin in Asia.",
+          "zh": "此外，特朗普将在亚洲与习近平和普京会晤。"
+        },
+        {
+          "en": "U.S. Transportation Secretary Sean Duffy said that things could be back to normal at the end of Monday after an FAA ground stop disrupted flights.",
+          "zh": "美国交通部长肖恩·达菲表示，在联邦航空管理局（FAA）的停飞令扰乱航班之后，情况可能在周一晚些时候恢复正常。"
+        },
+        {
+          "en": "And, Trump heads to Asia for a high-profile trilateral summit.",
+          "zh": "此外，特朗普将前往亚洲出席一场备受瞩目的三方峰会。"
+        },
+        {
+          "en": "(Image credit: Aaron Schwartz)",
+          "zh": "（图片来源：Aaron Schwartz）"
+        }
+      ]
+    },
+    {
+      "id": "42914aa5898916a2",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Guterres calls for a legally binding instrument for ‘killer robots'",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168810",
+      "publishedAt": "2026-11-16T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Guterres calls for a legally binding instrument for ‘killer robots'.",
+          "zh": "古特雷斯呼吁制定一项具有法律约束力的“杀手机器人”文书。"
+        },
+        {
+          "en": "Talks began in Geneva on Monday to push for controls on lethal autonomous weapons systems that are often referred to as “killer robots”.",
+          "zh": "周一，旨在推动对致命性自主武器系统（通常被称为“杀手机器人”）实施管控的谈判在日内瓦拉开帷幕。"
+        }
+      ]
+    },
+    {
+      "id": "9d382a473ec70f7f",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Funding cuts raise risks of trafficking and exploitation for refugee children",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168811",
+      "publishedAt": "2026-11-16T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Funding cuts raise risks of trafficking and exploitation for refugee children.",
+          "zh": "资金削减增加了难民儿童遭受贩运和剥削的风险。"
+        },
+        {
+          "en": "Sharp reductions in humanitarian funding are putting refugees, particularly children, at increased risk of being trafficked, exploited or abused, while the systems that protect them are weakening.",
+          "zh": "人道主义资金的大幅削减使难民，特别是儿童，面临更大的被贩运、剥削或虐待的风险，而保护他们的体系正在削弱。"
+        }
+      ]
+    },
+    {
+      "id": "2c7a1b19d3afb590",
+      "sourceId": "un-news",
+      "category": "ai",
+      "title": "COP31 enters decisive week as climate talks face political test and AI initiatives gather pace",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168812",
+      "publishedAt": "2026-11-16T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "COP31 enters decisive week as climate talks face political test and AI initiatives gather pace.",
+          "zh": "随着气候谈判面临政治考验，人工智能倡议步伐加快，COP31 进入关键一周。"
+        },
+        {
+          "en": "New international initiatives on artificial intelligence and green industrialization showcased technology’s growing role in climate action, even as negotiators remained deadlocked on finance, fossil fuels and adaptation ahead of the final stretch of the UN talks.",
+          "zh": "关于人工智能和绿色工业化方面的新国际倡议展示了技术在气候行动中日益重要的作用，即使在联合国谈判进入最后阶段之际，谈判代表在资金、化石燃料和适应措施方面仍未取得突破。"
+        }
+      ]
+    },
+    {
+      "id": "7dba4c4308c8a62a",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Syria: Progress ‘real’ but fragile, as remnants of war wreck young lives",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168814",
+      "publishedAt": "2026-11-16T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Syria: Progress ‘real’ but fragile, as remnants of war wreck young lives.",
+          "zh": "叙利亚：进展“切实”但脆弱，战争的残余仍在摧残年轻人的生命。"
+        },
+        {
+          "en": "Syria is showing “undeniable signs of progress” nearly two years after the fall of the Assad regime, but explosive ordnance, the approaching winter and severe funding shortfalls threaten those fragile gains, senior UN officials told the Security Council on Monday.",
+          "zh": "联合国高级官员周一向安理会表示，在阿萨德政权垮台近两年后，叙利亚正显现出“不可否认的进步迹象”，但爆炸物、即将到来的冬季和严重的资金短缺正威胁着这些脆弱的成果。"
+        }
+      ]
+    },
+    {
+      "id": "03c899d0776220ee",
+      "sourceId": "un-news",
+      "category": "ai",
+      "title": "AI gets climate science right – until users push back",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168817",
+      "publishedAt": "2026-11-16T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "AI gets climate science right – until users push back.",
+          "zh": "人工智能在气候科学方面表现出色——直到用户提出异议。"
+        },
+        {
+          "en": "The best AI models answer most climate science questions correctly, but they often abandon established facts as soon as a user disagrees, according to a new report co-authored by the UN.",
+          "zh": "根据联合国共同撰写的一份新报告，最好的AI模型能够正确回答大多数气候科学问题，但只要用户表示不同意，它们往往就会放弃既定事实。"
+        }
+      ]
+    },
+    {
+      "id": "817cd1e1918fbbb5",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Lebanon leading the way in mental health support",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168818",
+      "publishedAt": "2026-11-16T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Lebanon leading the way in mental health support.",
+          "zh": "黎巴嫩在心理健康支持方面走在前列。"
+        },
+        {
+          "en": "Mental health support must be a core part of the humanitarian response, said the UN Deputy Secretary-General during a visit to Lebanon over the weekend, where efforts to address the psychological toll of years of conflict and instability offer valuable lessons for other crisis-affected countries.",
+          "zh": "联合国常务副秘书长上周末访问黎巴嫩时表示，心理健康支持必须是人道主义应对措施的核心部分。黎巴嫩为应对多年冲突和不稳定造成的心理创伤所作的努力为其他受危机影响的国家提供了宝贵的经验。"
+        }
+      ]
+    },
+    {
+      "id": "9029e19e2171e882",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "‘An unfulfilled plan helps no one’: Superbug plans have doubled, but few countries are delivering",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168819",
+      "publishedAt": "2026-11-16T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "‘An unfulfilled plan helps no one’: Superbug plans have doubled, but few countries are delivering.",
+          "zh": "“未实现的计划对谁都没有帮助”：针对超级细菌的计划数量翻了一番，但很少有国家能够兑现承诺。"
+        },
+        {
+          "en": "More countries are drawing up plans to tackle antimicrobial resistance (AMR), but major gaps in testing and treatment mean billions of people continue to be at risk, according to new data released by the World Health Organization (WHO) on Monday.",
+          "zh": "世界卫生组织（WHO）周一发布的新数据显示，越来越多的国家正在制定应对抗微生物药物耐药性（AMR）的计划，但检测和治疗方面存在重大缺口，这意味着数十亿人仍面临风险。"
+        }
+      ]
+    },
+    {
+      "id": "1924719aa89335fa",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "‘Peace begins in our hearts’: Children close Muscat forum with a message to the world",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168820",
+      "publishedAt": "2026-11-16T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "‘Peace begins in our hearts’: Children close Muscat forum with a message to the world.",
+          "zh": "“和平始于我们的心中”：孩子们在马斯喀特论坛闭幕时向世界发出了这一信息。"
+        },
+        {
+          "en": "Children from across the world sent a message of peace from the Omani capital Muscat on Monday, calling for an end to hatred, respect for diversity and the protection of human rights.",
+          "zh": "周一，来自世界各地的儿童从阿曼首都马斯喀特发出了和平的讯息，呼吁停止仇恨、尊重多样性并保护人权。"
+        }
+      ]
+    },
+    {
+      "id": "e0b5c95b3dc03c9b",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Chris Van Hollen says he can beat Chuck Schumer. Here's his case",
+      "url": "https://www.npr.org/2026/11/16/nx-s1-6041687/chris-van-hollen-chuck-schumer-senate-leader",
+      "publishedAt": "2026-11-16T11:39:14.000Z",
+      "sentences": [
+        {
+          "en": "Chris Van Hollen says he can beat Chuck Schumer.",
+          "zh": "克里斯·范·霍伦（Chris Van Hollen）表示他可以击败查克·舒默（Chuck Schumer）。"
+        },
+        {
+          "en": "Here's his case.",
+          "zh": "这是他的病例。"
+        },
+        {
+          "en": "Sen.",
+          "zh": "政协代表"
+        },
+        {
+          "en": "Chris Van Hollen told NPR's Morning Edition why he believes he can defeat Sen.",
+          "zh": "克里斯·范·霍伦（Chris Van Hollen）在接受美国国家公共电台（NPR）《晨间版》（Morning Edition）采访时表示，他认为自己能够击败参议员"
+        },
+        {
+          "en": "Chuck Schumer and what he would change about Senate Democratic leadership.",
+          "zh": "查克·舒默以及他将对参议院民主党领导层做出哪些改变。"
+        },
+        {
+          "en": "(Image credit: Mark Makela)",
+          "zh": "（图片来源：Mark Makela）"
+        }
+      ]
+    },
+    {
+      "id": "001282ce57e35530",
+      "sourceId": "npr-news",
+      "category": "ai",
+      "title": "Regulating AI will being a top priority for congressional Democrats in the new year",
+      "url": "https://www.npr.org/2026/11/16/nx-s1-6037801/regulating-ai-will-being-a-top-priority-for-congressional-democrats-in-the-new-year",
+      "publishedAt": "2026-11-16T11:38:50.000Z",
+      "sentences": [
+        {
+          "en": "Regulating AI will being a top priority for congressional Democrats in the new year.",
+          "zh": "在新的一年里，监管人工智能将成为国会民主党人的首要任务。"
+        },
+        {
+          "en": "A big priority for the incoming Congress will be regulating artificial intelligence.",
+          "zh": "监管人工智能将是新一届国会的一项重要优先事项。"
+        },
+        {
+          "en": "Democrats will face stiff opposition from the Trump administration and its hands-off policy towards AI.",
+          "zh": "民主党将面临特朗普政府及其对人工智能的放任政策的强烈反对。"
+        }
+      ]
+    },
+    {
+      "id": "d2a40e942f9610e2",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Eurovision organisers criticise Malaysian removal of LGBT+ footage in first Asian contest",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/16/eurovision-organisers-malaysia-removal-lgbt-footage-first-asian-contest",
+      "publishedAt": "2026-11-16T11:12:44.000Z",
+      "sentences": [
+        {
+          "en": "Eurovision organisers criticise Malaysian removal of LGBT+ footage in first Asian contest.",
+          "zh": "欧洲歌唱大赛主办方批评马来西亚在首场亚洲选拔赛中删除了LGBT+镜头。"
+        },
+        {
+          "en": "Broadcaster TV3 appears to cut footage of Thai drag performers and gay Philippine jury spokesperson Eurovision’s organisers have said they are “surprised and disappointed” that the first Eurovision Asia was altered when it was broadcast in Malaysia, apparently removing LGBTQ+ imagery and people from the show.",
+          "zh": "据报道，广播公司TV3似乎剪掉了泰国变装表演者和菲律宾同性恋评委发言人的镜头。欧洲歌唱大赛的组织者表示，他们对首届亚洲欧洲歌唱大赛在马来西亚播出时被剪辑感到“惊讶和失望”，该节目显然删除了LGBTQ+的影像和人物。"
+        },
+        {
+          "en": "The European Broadcasting Union (EBU), the alliance of public broadcasters that owns Eurovision, said it would write to Voxovation, the company producing the Asian contest under licence, and ask it to establish with the Malaysian broadcaster TV3 why it happened.",
+          "zh": "欧洲广播联盟（EBU）是拥有欧洲歌唱大赛的公共广播公司联盟，该联盟表示将致函获得授权制作亚洲大赛的公司Voxovation，并要求其与马来西亚广播公司TV3一起查明此事发生的原因。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "5d9a437be3b01143",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Trump to embark on Asia trip in apparent foreign policy push before end of term",
+      "url": "https://www.theguardian.com/us-news/2026/nov/16/trump-asia-foreign-domestic-policy",
+      "publishedAt": "2026-11-16T11:00:58.000Z",
+      "sentences": [
+        {
+          "en": "Trump to embark on Asia trip in apparent foreign policy push before end of term.",
+          "zh": "特朗普将在任期结束前开启亚洲之行，明显是为了推动外交政策。"
+        },
+        {
+          "en": "Experts say US president may lean toward global affairs after domestic influence curtailed in midterm elections Donald Trump is embarking on his first overseas trip since his Republican party’s thumping midterm repudiation by US voters, in what may herald a renewed focus on foreign policy for the remainder of his presidency.",
+          "zh": "专家表示，随着中期选举削弱了美国总统在国内的影响力，他可能会将重心转向全球事务。唐纳德·特朗普正在开启其共和党在美国中期选举中惨败后的首次海外之行，这可能预示着在其总统任期剩余时间内，他将重新将重点放在外交政策上。"
+        },
+        {
+          "en": "The US president will meet his Chinese and Russian counterparts, Xi Jinping and Vladimir Putin, for their first trilateral summit, on the sidelines of the Asia-Pacific Economic Cooperation (Apec) forum in the Chinese city of Shenzhen.",
+          "zh": "美国总统拜登将在中国深圳市举行的亚太经济合作组织（APEC）论坛期间，与中国国家主席习近平和俄罗斯总统弗拉基米尔·普京举行首次三方峰会。"
+        },
+        {
+          "en": "Before that, he will land in Manila in the Philippines on Tuesday for the Association of Southeast Asian Nations (Asean) summit.",
+          "zh": "在此之前，他将于周二抵达菲律宾马尼拉，出席东南亚国家联盟（东盟）峰会。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "ba88cb6852c733d0",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Two mass shootings in South Africa leave 17 dead",
+      "url": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-16T10:57:48.000Z",
+      "sentences": [
+        {
+          "en": "Two mass shootings in South Africa leave 17 dead.",
+          "zh": "南非发生两起大规模枪击事件，造成 17 人死亡。"
+        },
+        {
+          "en": "The shootings in KwaZulu-Natal and Gauteng highlight South Africa's struggle to curb violent crime.",
+          "zh": "夸祖鲁-纳塔尔省和豪登省的枪击事件凸显了南非在遏制暴力犯罪方面的困境。"
+        }
+      ]
+    },
+    {
+      "id": "b07bfa65b9f5c89d",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Relocation of Cape Town baboons to sanctuary ignites heated protests",
+      "url": "https://www.theguardian.com/world/2026/nov/16/cape-town-baboons-relocation-protests",
+      "publishedAt": "2026-11-16T10:19:08.000Z",
+      "sentences": [
+        {
+          "en": "Relocation of Cape Town baboons to sanctuary ignites heated protests.",
+          "zh": "开普敦狒狒被迁至保护区引发激烈抗议。"
+        },
+        {
+          "en": "Demonstrators tried to block vehicle carrying the baboons, whose capture authorities say is needed to protect both primate and human The relocation of a troop of baboons in Cape Town to a wildlife sanctuary has triggered furious protests by local people opposed to their capture, which officials argue is necessary to stop human-wildlife conflict in the city.",
+          "zh": "示威者试图阻止运送狒狒的车辆。当局表示，捕捉狒狒是为了保护灵长类动物和人类。开普敦的一群狒狒被迁至野生动物保护区，引发了当地居民的强烈抗议，他们反对捕捉狒狒。而官员们则认为，这样做是为了阻止该市的人类与野生动物发生冲突。"
+        },
+        {
+          "en": "The 44-member Waterfall troop (named after the area they mainly inhabit) was captured in the southern seaside suburb of Simon’s Town on Friday and Saturday.",
+          "zh": "这群由44只狒狒组成的瀑布群（以它们主要栖息的地区命名）于周五和周六在西蒙镇的南部海滨郊区被捕获。"
+        },
+        {
+          "en": "A second, smaller Seaforth troop is also due to be moved.",
+          "zh": "一支规模较小的第二支西福斯部队也将被调遣。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "fe69479f5451f128",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Trump heads to Asia to meet with Xi and Putin amid Nvidia fallout",
+      "url": "https://www.npr.org/2026/11/16/nx-s1-6041738/trump-xi-and-putin-china-nvidia",
+      "publishedAt": "2026-11-16T10:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Trump heads to Asia to meet with Xi and Putin amid Nvidia fallout.",
+          "zh": "在英伟达风波之际，特朗普前往亚洲与习近平和普京会晤。"
+        },
+        {
+          "en": "The trip to China marks Trump's second time this year, and comes as the president and his party faced widespread backlash from voters in the recent midterm elections.",
+          "zh": "这是特朗普今年第二次访华，此行正值总统及其所在的政党在最近的中期选举中遭遇选民的普遍强烈不满。"
+        },
+        {
+          "en": "(Image credit: Kevin Dietsch)",
+          "zh": "（图片来源：Kevin Dietsch）"
+        }
+      ]
+    },
+    {
+      "id": "253b4b999de989bf",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "They saw people losing food benefits. So they started handing out free groceries",
+      "url": "https://www.npr.org/2026/11/16/nx-s1-6034048/snap-san-diego-food-assistance",
+      "publishedAt": "2026-11-16T10:00:00.000Z",
+      "sentences": [
+        {
+          "en": "They saw people losing food benefits.",
+          "zh": "他们看到人们失去了粮食补助。"
+        },
+        {
+          "en": "So they started handing out free groceries.",
+          "zh": "于是他们开始免费发放食品杂货。"
+        },
+        {
+          "en": "The cuts and changes to SNAP have been difficult for government workers who take pride in helping others.",
+          "zh": "对SNAP的削减和变更给那些以帮助他人为荣的政府工作人员带来了困难。"
+        },
+        {
+          "en": "In San Diego, workers said they couldn't sit back while their neighbors went hungry.",
+          "zh": "在圣地亚哥，工人表示，当他们的邻居挨饿时，他们不能坐视不管。"
+        },
+        {
+          "en": "(Image credit: Kori Suzuki for NPR)",
+          "zh": "（图片来源：Kori Suzuki，为NPR拍摄）"
+        }
+      ]
+    },
+    {
+      "id": "2fae7d35741b069c",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Delaware hit by rare November tornado",
+      "url": "https://www.theguardian.com/environment/2026/nov/16/delaware-hit-by-rare-november-tornado",
+      "publishedAt": "2026-11-16T09:27:06.000Z",
+      "sentences": [
+        {
+          "en": "Delaware hit by rare November tornado.",
+          "zh": "特拉华州遭遇罕见的11月龙卷风。"
+        },
+        {
+          "en": "Meanwhile, severe thunderstorms bring hailstones the size of baseballs in Argentina The National Weather Service in the US has confirmed that an EF1 tornado touched down south-east of Newark in the Salem Woods neighbourhood, Delaware, on Thursday.",
+          "zh": "与此同时，阿根廷遭遇强雷暴天气，冰雹大如垒球。美国国家气象局证实，周四，一场EF1级龙卷风在特拉华州塞勒姆伍兹社区纽瓦克东南方向登陆。"
+        },
+        {
+          "en": "The tornado reached 160 metres wide, had a path length of 4.4 miles (7.1km) and reached estimated peak winds of up to 100mph (161km/h).",
+          "zh": "这场龙卷风的宽度达到160米，路径长度为4.4英里（7.1公里），估计最大风速高达100英里/小时（161公里/小时）。"
+        },
+        {
+          "en": "There were no injuries or fatalities but windows and roofs were damaged on several homes, a large hotel sign fell on to a number of cars, and a semi truck overturned on I95.",
+          "zh": "没有人员受伤或死亡，但多处房屋的窗户和屋顶受损，一家大型酒店的招牌砸到多辆汽车上，一辆半挂卡车在I95公路上侧翻。"
+        },
+        {
+          "en": "Although Delaware often experiences a few tornadoes every year, this is only the second time the state has had tornado activity in November since 1950, according to the National Oceanic and Atmospheric Administration.",
+          "zh": "据美国国家海洋和大气管理局（NOAA）的数据，尽管特拉华州每年都会经历几次龙卷风，但自1950年以来，该州仅有两次在11月发生过龙卷风。"
+        },
+        {
+          "en": "The only other November tornado recorded was in 1989.",
+          "zh": "唯一一次有记录的11月龙卷风发生在1989年。"
+        },
+        {
+          "en": "Severe storms have also resulted in tornadoes in Argentina as well as large hailstones.",
+          "zh": "阿根廷也遭遇了强烈的风暴，引发了龙卷风和冰雹。"
+        },
+        {
+          "en": "A round of severe thunderstorms moved through the central Córdoba province on Friday, bringing hailstones up to the size of a baseball (about 7.5cm in diameter).",
+          "zh": "周五，一轮强烈的雷暴天气席卷科尔多瓦省中部，带来棒球大小（直径约7.5厘米）的冰雹。"
+        },
+        {
+          "en": "Parts of the province recorded up to 73mm of rainfall in just six hours early on Saturday.",
+          "zh": "周六凌晨，该省部分地区仅在6小时内就录得高达73毫米的降雨量。"
+        },
+        {
+          "en": "Such storms are common at this time of year.",
+          "zh": "这种风暴在一年中的这个时候很常见。"
+        },
+        {
+          "en": "Water vapour from the Amazon meeting the Andes quickly condenses, resulting in massive cloud formations often associated with heavy downpours, lightning, tornadoes and large hailstones.",
+          "zh": "来自亚马逊的水汽与安第斯山脉相遇时会迅速凝结，形成与暴雨、闪电、龙卷风和大冰雹密切相关的大量云团。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "1f23847ee94ced5c",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Listening to teens on online safety",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/listening-to-teens-on-online-safety/",
+      "publishedAt": "2026-11-16T08:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Listening to teens on online safety.",
+          "zh": "听取青少年对在线安全的看法。"
+        },
+        {
+          "en": "Will Gardner, CEO of Childnet, explains how teenagers are embracing AI creatively and responsibly, emphasising the vital role of listening to young voices when navigatin…",
+          "zh": "Childnet首席执行官Will Gardner解释了青少年如何以有创意且负责任的方式拥抱人工智能，并强调了在应对……时倾听年轻声音的重要作用。"
+        }
+      ]
+    },
+    {
+      "id": "c47f47b287d1511a",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Helping teens navigate online news and information",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/helping-teens-navigate-online-news-and-information/",
+      "publishedAt": "2026-11-16T08:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Helping teens navigate online news and information.",
+          "zh": "帮助青少年浏览在线新闻和信息。"
+        },
+        {
+          "en": "Rachel Huggins, CEO of Internet Matters, explains how UK teens navigate AI and online news, highlighting the need for media literacy support from educators, platforms, a…",
+          "zh": "Internet Matters首席执行官Rachel Huggins解释了英国青少年如何应对人工智能和在线新闻，强调了教育工作者、平台和……需要提供媒体素养支持。"
+        }
+      ]
+    },
+    {
+      "id": "0ede3a276ab0763f",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "What teenagers really think about online safety and AI",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/what-teenagers-really-think-about-online-safety-and-ai/",
+      "publishedAt": "2026-11-16T08:00:00.000Z",
+      "sentences": [
+        {
+          "en": "What teenagers really think about online safety and AI.",
+          "zh": "青少年对在线安全和人工智能的真实看法。"
+        },
+        {
+          "en": "CEO of ParentZone, Vicki Shotbolt, explains how UK teens are digitally curious and alert to online risks, relying on parent support and using AI creatively to learn.",
+          "zh": "ParentZone首席执行官Vicki Shotbolt解释了英国青少年如何对数字技术充满好奇，并对在线风险保持警惕，他们依靠父母的支持，并创造性地使用人工智能来学习。"
+        }
+      ]
+    },
+    {
+      "id": "849b24f49711b213",
+      "sourceId": "guardian-world",
+      "category": "business",
+      "title": "Canada could work with Chinese automakers if US trade talks fail, says Carney",
+      "url": "https://www.theguardian.com/world/2026/nov/16/canada-carney-cars-evs-tariffs-xi-jinping-china-trump-trade-talks",
+      "publishedAt": "2026-11-16T04:39:20.000Z",
+      "sentences": [
+        {
+          "en": "Canada could work with Chinese automakers if US trade talks fail, says Carney.",
+          "zh": "卡尼表示，如果中美贸易谈判失败，加拿大可以与中国汽车制造商合作。"
+        },
+        {
+          "en": "Ahead of Apec summit, PM says ‘Canada is going to move forward either way’ when asked if Chinese investment was leverage in US negotiations The prime minister of Canada, Mark Carney, said the country could turn to Chinese automakers if trade negotiations with the US president, Donald Trump, failed to preserve an integrated North American auto industry.",
+          "zh": "在亚太经合组织（APEC）峰会召开前夕，当被问及中国投资是否是与美国谈判的筹码时，加拿大总理表示“无论如何，加拿大都将向前迈进”。加拿大总理马克·卡尼表示，如果与美国总统唐纳德·特朗普的贸易谈判未能维护北美汽车行业的整合，加拿大可以转向中国汽车制造商。"
+        },
+        {
+          "en": "Carney’s comments in Cambodia on Monday came ahead of a planned meeting with Chinese leader Xi Jinping this week in Shenzhen, China, where auto manufacturing is expected to be discussed.",
+          "zh": "卡尼周一在柬埔寨发表的言论是在本周计划于中国深圳与中国国家主席习近平会晤之前发表的，预计双方将在会晤中讨论汽车制造业问题。"
+        },
+        {
+          "en": "The two leaders reached an agreement in January allowing tens of thousands of Chinese electric vehicles into Canada at reduced tariffs.",
+          "zh": "两位领导人在1月达成一项协议，允许数万辆中国电动汽车以较低的关税进入加拿大。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "209090d497c3c1f7",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "New York teen reunites with cat missing after building collapse",
+      "url": "https://www.bbc.co.uk/news/videos/cm3wgeqnppljo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-16T04:36:45.000Z",
+      "sentences": [
+        {
+          "en": "New York teen reunites with cat missing after building collapse.",
+          "zh": "纽约一名少年与大楼坍塌后失踪的猫重逢。"
+        },
+        {
+          "en": "Rescuers found the pet cat in the ruins of Zariah's apartment four days after she made an emotional plea to the public.",
+          "zh": "在扎里亚向公众发出感人呼吁四天后，救援人员在她的公寓废墟中找到了这只宠物猫。"
+        }
+      ]
+    },
+    {
+      "id": "e8223816b55a4d77",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Megaspeed, the company linked to the downfall of Nvidia boss, says it’s a ‘legitimate and lawful business’",
+      "url": "https://www.theguardian.com/technology/2026/nov/16/megaspeed-company-breaks-slience-nvidia-jensen-huang-alice-huang",
+      "publishedAt": "2026-11-16T01:17:04.000Z",
+      "sentences": [
+        {
+          "en": "Megaspeed, the company linked to the downfall of Nvidia boss, says it’s a ‘legitimate and lawful business’.",
+          "zh": "与英伟达老板垮台有关联的公司Megaspeed表示，它是一家“合法合规的企业”。"
+        },
+        {
+          "en": "Company insists Alice Huang, who is accused of being a Chinese spy, left business in late 2025 Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang Business live – latest updates Megaspeed International, the company linked to the downfall of the Nvidia chief, Jensen Huang , says it is a “legitimate and lawful business” and has announced that its director, who allegedly had an affair with Jensen Huang, left the business in late 2025.",
+          "zh": "该公司坚持认为，被指控为中国间谍的Alice Huang于2025年末离开了公司。埃隆·马斯克与另外165,000人一起呼吁英伟达召回黄仁勋。商业直播——最新消息。与英伟达首席执行官黄仁勋的下台有关的公司Megaspeed International表示，该公司是一家“合法合规的企业”，并宣布其涉嫌与黄仁勋有染的董事已于2025年末离开公司。"
+        },
+        {
+          "en": "The Singapore-based cloud computing company on the weekend said it was “aware of recent media reports containing assertions about our business, supply chain and global operations that are not supported by verifiable evidence”.",
+          "zh": "这家总部位于新加坡的云计算公司上周末表示，其“注意到最近有媒体报道对公司的业务、供应链和全球运营提出了一些说法，但这些说法并无可核实的证据支持”。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "1b8ebbd43f78db22",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "‘The blood of these brothers cries out’: Pope Leo demands justice for people killed protecting the Amazon",
+      "url": "https://www.theguardian.com/world/2026/nov/16/pope-leo-speech-peru-justice-for-amazon-activists-environment",
+      "publishedAt": "2026-11-16T01:13:44.000Z",
+      "sentences": [
+        {
+          "en": "‘The blood of these brothers cries out’: Pope Leo demands justice for people killed protecting the Amazon.",
+          "zh": "“这些兄弟的鲜血在呐喊”：教宗利奥要求为保护亚马逊雨林而遇害的人伸张正义。"
+        },
+        {
+          "en": "Pontiff delivers forceful speech in Peru as he travels from high in the Andes into the Amazon Pope Leo XIV has demanded justice for environmental defenders killed for protecting the Amazon and backed efforts by Indigenous peoples to stop their lands from being ravaged by logging and illegal mining.",
+          "zh": "教宗在秘鲁发表有力演讲，他从安第斯山脉的高处一路南下至亚马逊地区。教宗利奥十四世要求为因保护亚马逊而被杀害的环境卫士伸张正义，并支持原住民努力阻止其土地被伐木和非法采矿所破坏。"
+        },
+        {
+          "en": "On the penultimate day of his South American tour, Leo on Sunday travelled into the Peruvian Amazon and channelled one of Pope Francis’s core teachings that links care for the most vulnerable with care for God’s creation.",
+          "zh": "在南美之行的倒数第二天，即周日，莱昂前往秘鲁亚马逊地区，传达了教宗方济各的一项核心教义，即关爱最弱势群体与关爱上帝的创造物息息相关。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "c27285778da4b00d",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Pope Leo rides in helicopter cockpit during Peru trip",
+      "url": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-15T18:38:11.000Z",
+      "sentences": [
+        {
+          "en": "Pope Leo rides in helicopter cockpit during Peru trip.",
+          "zh": "教宗利奥在秘鲁之行中乘坐直升机驾驶舱。"
+        },
+        {
+          "en": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour.",
+          "zh": "教皇在拉丁美洲之行的倒数第二天抵达库斯科之前，先乘坐飞机。"
+        }
+      ]
+    }
+  ],
+  "failures": []
+}
