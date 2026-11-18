@@ -1,0 +1,887 @@
+{
+  "date": "2026-11-17",
+  "collectedAt": "2026-11-18T06:02:35.456Z",
+  "items": [
+    {
+      "id": "65c3c2ac3e228291",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "BBC reports from Kyiv bridge hit by Russian attack",
+      "url": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-17T15:54:15.000Z",
+      "sentences": [
+        {
+          "en": "BBC reports from Kyiv bridge hit by Russian attack.",
+          "zh": null
+        },
+        {
+          "en": "The BBC's Sarah Rainsford spoke to residents near the site of the overnight strike.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "f1bd0e2fadb1cb2d",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "How the attack on Crimean Bridge unfolded",
+      "url": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-17T15:38:10.000Z",
+      "sentences": [
+        {
+          "en": "How the attack on Crimean Bridge unfolded.",
+          "zh": "克里米亚大桥袭击事件的经过。"
+        },
+        {
+          "en": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv.",
+          "zh": "在基辅分七个阶段发动的袭击之后，俄罗斯占领乌克兰的一个主要标志性建筑遭到了严重破坏。"
+        }
+      ]
+    },
+    {
+      "id": "e4972e0860d96b6c",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Google Play unveils the best apps, games, and books of 2026",
+      "url": "https://blog.google/products-and-platforms/platforms/google-play/best-of-play-awards-2026/",
+      "publishedAt": "2026-11-17T15:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Google Play unveils the best apps, games, and books of 2026.",
+          "zh": "Google Play揭晓2026年最佳应用、游戏和书籍。"
+        },
+        {
+          "en": "We’re announcing Google Play’s Best of 2026 awards, celebrating the best apps, games, and books of the year.",
+          "zh": "我们即将公布 2026 年 Google Play 年度最佳奖项，表彰本年度的最佳应用程序、游戏和书籍。"
+        }
+      ]
+    },
+    {
+      "id": "309df84199e9e12d",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "The best of Google Play in Asia Pacific",
+      "url": "https://blog.google/topics/google-asia/google-play-best-2026/",
+      "publishedAt": "2026-11-17T15:00:00.000Z",
+      "sentences": [
+        {
+          "en": "The best of Google Play in Asia Pacific.",
+          "zh": "亚太地区最出色的Google Play应用。"
+        },
+        {
+          "en": "Here are the winners of Google Play’s Best of 2026 awards in Asia Pacific.",
+          "zh": "以下是亚太地区Google Play 2026年度最佳奖项的获奖者。"
+        }
+      ]
+    },
+    {
+      "id": "81c76f0ec1332720",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Celebrate 100 years of Colonial Williamsburg online",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/colonial-williamsburg-centennial/",
+      "publishedAt": "2026-11-17T14:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Celebrate 100 years of Colonial Williamsburg online.",
+          "zh": "在线庆祝威廉斯堡殖民地成立100周年。"
+        },
+        {
+          "en": "Tour reconstructed landmarks, flip through 18th-century newspapers, and watch a historic dessert come to life with Google Arts & Culture.",
+          "zh": "通过Google Arts & Culture参观重建的地标建筑，翻阅18世纪的报纸，观看历史悠久的甜点如何重现。"
+        }
+      ]
+    },
+    {
+      "id": "a9af97284a048e2d",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia",
+      "url": "https://www.npr.org/2026/11/17/g-s1-153950/up-first-newsletter-faa-ground-stop-trump-asia-trip-nvidia-lindsay-clancy",
+      "publishedAt": "2026-11-17T12:20:57.000Z",
+      "sentences": [
+        {
+          "en": "Trump is in Asia ahead of Xi, Putin summit.",
+          "zh": "特朗普在习近平、普京峰会前抵达亚洲。"
+        },
+        {
+          "en": "And, tech leaders want Huang back at Nvidia.",
+          "zh": "此外，科技界领袖们希望黄仁勋重返英伟达。"
+        },
+        {
+          "en": "Trump says he plans to discuss Ukraine during his Asia trip, which contradicts what the White House previously announced.",
+          "zh": "特朗普表示，他计划在亚洲之行期间讨论乌克兰问题，这与白宫此前的声明相悖。"
+        },
+        {
+          "en": "And, Silicon Valley leaders are pushing for Jensen Huang's return to Nvidia.",
+          "zh": "此外，硅谷的领军人物正在推动黄仁勋重返英伟达。"
+        },
+        {
+          "en": "(Image credit: Mandel Ngan)",
+          "zh": "（图片来源：Mandel Ngan）"
+        }
+      ]
+    },
+    {
+      "id": "72928fed140e8c54",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Winter rains deepen Gaza crisis amid restricted access and aid cuts",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168821",
+      "publishedAt": "2026-11-17T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Winter rains deepen Gaza crisis amid restricted access and aid cuts.",
+          "zh": "冬季降雨加剧了加沙的危机，同时还面临着出入受限和援助削减的问题。"
+        },
+        {
+          "en": "Gaza is facing a deepening shelter, sanitation and food security crisis as winter rains flood makeshift shelters, destroy scarce food supplies and leave displaced families struggling to stay warm and fed.",
+          "zh": "加沙正面临日益严重的住房、卫生和粮食安全危机，冬季降雨淹没了临时住所，摧毁了本已稀缺的粮食供应，导致流离失所的家庭难以保暖和果腹。"
+        }
+      ]
+    },
+    {
+      "id": "22fef1d8978ed613",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "‘Hunger should not be a concern’: WFP steps in for families in Kenya who fled Ethiopia violence",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168822",
+      "publishedAt": "2026-11-17T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "‘Hunger should not be a concern’: WFP steps in for families in Kenya who fled Ethiopia violence.",
+          "zh": "“饥饿不应成为一个问题”：世界粮食计划署为逃离埃塞俄比亚暴力的肯尼亚家庭提供帮助。"
+        },
+        {
+          "en": "The World Food Programme (WFP) is assisting thousands of families who fled recent violence in Ethiopia for the Moyale area in neighbouring Kenya, the UN agency reported on Tuesday.",
+          "zh": "联合国机构周二报告称，世界粮食计划署（WFP）正在向数千个逃离埃塞俄比亚近期暴力事件、前往邻国肯尼亚莫亚莱地区的家庭提供援助。"
+        }
+      ]
+    },
+    {
+      "id": "1f968809e74611d9",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Haiti: ‘Atrocious abuses’ continue as UN warns anti-gang operations must priortise civilian protection",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168823",
+      "publishedAt": "2026-11-17T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Haiti: ‘Atrocious abuses’ continue as UN warns anti-gang operations must priortise civilian protection.",
+          "zh": "海地：“骇人听闻的暴行”仍在持续，联合国警告反黑帮行动必须优先保护平民。"
+        },
+        {
+          "en": "The UN human rights office, OHCHR has urged greater protection for civilians in Haiti amid ongoing “atrocious abuses” committed by gangs and intensified security operations.",
+          "zh": "联合国人权高专办（OHCHR）敦促在海地加强对平民的保护，因为该国正面临着帮派持续实施的“骇人听闻的暴行”以及日益严峻的安全局势。"
+        }
+      ]
+    },
+    {
+      "id": "c445ee26f942e340",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "COP31: The push to protect warming oceans reaches the negotiating table",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168824",
+      "publishedAt": "2026-11-17T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "COP31: The push to protect warming oceans reaches the negotiating table.",
+          "zh": "COP31：保护变暖海洋的呼声已登上谈判桌。"
+        },
+        {
+          "en": "From identifying marine life with a cup of seawater to drawing on Indigenous knowledge to prevent wildfires, scientists and communities showcased both cutting-edge and time-tested ways to protect nature at COP31 on Tuesday.",
+          "zh": "从用一杯海水识别海洋生物，到借鉴原住民知识预防野火，科学家和社区在周二的第31届缔约方大会上展示了保护自然的尖端方法和久经考验的方法。"
+        },
+        {
+          "en": "Yet turning innovation into action remains a challenge, with funding gaps persisting and ministers struggling to bridge divisions over fossil fuels and climate finance as negotiations enter their final days.",
+          "zh": "然而，随着谈判进入最后阶段，将创新转化为行动仍然是一项挑战，资金缺口持续存在，各国部长正努力弥合在化石燃料和气候融资问题上的分歧。"
+        }
+      ]
+    },
+    {
+      "id": "ca5eab4f8a8271ce",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "World News in Brief: Ebola cases double in DR Congo, chemical exposure starts before birth, Türk concern over EU-Rwanda transfer plan",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168827",
+      "publishedAt": "2026-11-17T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "World News in Brief: Ebola cases double in DR Congo, chemical exposure starts before birth, Türk concern over EU-Rwanda transfer plan.",
+          "zh": "世界新闻简报：刚果民主共和国的埃博拉病例翻倍，化学品暴露在出生前就开始，图尔克对欧盟-卢旺达移交计划表示关切。"
+        },
+        {
+          "en": "The Ebola outbreak in the Democratic Republic of the Congo (DRC) has more than doubled in three months, with more than 11,000 cases and 5,400 deaths now reported in 67 health zones across eight provinces, the head of the World Health Organization (WHO) said on Tuesday.",
+          "zh": "世界卫生组织（WHO）负责人周二表示，刚果民主共和国（刚果（金））的埃博拉疫情在三个月内增加了两倍多，目前在八个省份的67个卫生区已报告超过11,000例病例和5,400例死亡。"
+        }
+      ]
+    },
+    {
+      "id": "cff41e40b9a1a96b",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Ukraine: Civilian casualties in 2026 already far exceed previous years’ tolls",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168828",
+      "publishedAt": "2026-11-17T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Ukraine: Civilian casualties in 2026 already far exceed previous years’ tolls.",
+          "zh": "乌克兰：2026年的平民伤亡人数已远远超过前几年的伤亡人数。"
+        },
+        {
+          "en": "This year has seen dramatically higher civilian casualties in Ukraine than any other year since the full-scale invasion of the eastern European country by Russia in February 2022, the UN Human Rights Monitoring Mission in Ukraine (HRMMU) said on Tuesday.",
+          "zh": "联合国驻乌克兰人权监测团（HRMMU）周二表示，自2022年2月俄罗斯全面入侵这个东欧国家以来，今年乌克兰的平民伤亡人数比任何其他年份都高得多。"
+        }
+      ]
+    },
+    {
+      "id": "356d4f2e8b0deee9",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Sen. Jack Reed says FAA needs a real plan, not just more money",
+      "url": "https://www.npr.org/2026/11/17/nx-s1-6042514/jack-reed-faa-oversight-ground-stop-funding",
+      "publishedAt": "2026-11-17T11:58:42.000Z",
+      "sentences": [
+        {
+          "en": "Sen.",
+          "zh": "政协代表"
+        },
+        {
+          "en": "Jack Reed says FAA needs a real plan, not just more money.",
+          "zh": "杰克·里德表示，FAA需要的是一项真正的计划，而不仅仅是更多的资金。"
+        },
+        {
+          "en": "Sen.",
+          "zh": "政协代表"
+        },
+        {
+          "en": "Jack Reed raised concerns about FAA oversight of contractors after last week's nationwide ground stop and criticized the Trump administration's request for $50 billion in additional funding.",
+          "zh": "在上周的全国性停飞事件之后，杰克·里德对联邦航空管理局（FAA）对承包商的监管表示担忧，并批评了特朗普政府要求追加500亿美元资金的做法。"
+        },
+        {
+          "en": "(Image credit: Graeme Sloan)",
+          "zh": "（图片来源：Graeme Sloan）"
+        }
+      ]
+    },
+    {
+      "id": "89bda0a6ba949d53",
+      "sourceId": "bbc-world",
+      "category": "business",
+      "title": "Gunmen kill Costa Rican journalist who reported on drugs trade",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly7g5lx7gyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-17T11:58:16.000Z",
+      "sentences": [
+        {
+          "en": "Gunmen kill Costa Rican journalist who reported on drugs trade.",
+          "zh": "枪手杀害报道毒品交易的哥斯达黎加记者。"
+        },
+        {
+          "en": "Rodríguez had denounced alleged links between criminal organisations and powerful figures in Costa Rica.",
+          "zh": "罗德里格斯曾谴责犯罪组织与哥斯达黎加权势人物之间存在所谓的联系。"
+        }
+      ]
+    },
+    {
+      "id": "098c59b5a3134666",
+      "sourceId": "npr-news",
+      "category": "ai",
+      "title": "Can Google win the AI race without killing its cash cow?",
+      "url": "https://www.npr.org/sections/planet-money/2026/11/17/g-s1-153933/can-google-win-the-ai-race-without-killing-its-cash-cow",
+      "publishedAt": "2026-11-17T11:30:00.000Z",
+      "sentences": [
+        {
+          "en": "Can Google win the AI race without killing its cash cow?.",
+          "zh": "谷歌能否在不牺牲摇钱树的情况下赢得人工智能竞赛？"
+        },
+        {
+          "en": "In late October, Google had the worst stock day in its history as a public company.",
+          "zh": "10 月下旬，谷歌迎来了其作为上市公司历史上的最差股价表现日。"
+        },
+        {
+          "en": "The Planet Money newsletter asks: has Google been caught in \"the innovator's dilemma\"?",
+          "zh": "《Planet Money》通讯提问：谷歌是否陷入了“创新者的困境”？"
+        },
+        {
+          "en": "(Image credit: Dave Rowland/Getty Images)",
+          "zh": "（图片来源：Dave Rowland/Getty Images）"
+        }
+      ]
+    },
+    {
+      "id": "bf1b52248997328d",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Hi-tech Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit",
+      "url": "https://www.theguardian.com/world/2026/nov/17/hi-tech-shenzhen-chinamaxxing-xi-apec-summit",
+      "publishedAt": "2026-11-17T11:18:26.000Z",
+      "sentences": [
+        {
+          "en": "Hi-tech Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit.",
+          "zh": "习近平在亚太经合组织峰会上发出“中国式崛起”的信号，高科技深圳成为焦点。"
+        },
+        {
+          "en": "Host city offers showcase of China’s rise into a confident and innovative power central to global economy In a Shenzhen square on a balmy evening, locals and tourists watched the dozens of glinting towers that make up the city’s skyline ripple through the colour spectrum – cyan and violet, cyber green, China’s national scarlet and gold – repeatedly flashing the words “Apec 2026”.",
+          "zh": "主办城市展示了中国崛起为一个自信、创新的大国，成为全球经济的中心。在一个温暖的夜晚，在深圳的一个广场上，当地人和游客观赏着构成城市天际线的数十座闪耀的高楼，它们在色谱中变幻着色彩——青色和紫色、网络绿、中国的国色猩红和金色——不断闪烁着“APEC 2026”的字样。"
+        },
+        {
+          "en": "The Asia-Pacific Economic Cooperation summit is a dream showcase for one of China’s most advanced cities, and the country’s leader, Xi Jinping, is basking in its neon glow.",
+          "zh": "亚太经济合作组织峰会是中国最发达城市之一的理想展示舞台，该国领导人习近平正沉浸在霓虹灯的辉光中。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "04b96a357bee9524",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Nvidia partner Megaspeed being investigated by US government over chip exports",
+      "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-17T11:17:32.000Z",
+      "sentences": [
+        {
+          "en": "Nvidia partner Megaspeed being investigated by US government over chip exports.",
+          "zh": "Nvidia的合作伙伴Megaspeed正因芯片出口事宜受到美国政府的调查。"
+        },
+        {
+          "en": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
+          "zh": "这家总部位于新加坡的公司涉嫌协助将科技巨头英伟达的高端人工智能芯片运往中国，违反了美国的出口规定。"
+        }
+      ]
+    },
+    {
+      "id": "233a92b8e7cf9d40",
+      "sourceId": "guardian-world",
+      "category": "ai",
+      "title": "Hundreds arrested in anti-Trump protests in Philippines amid anger over Iran war and AI pact",
+      "url": "https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines",
+      "publishedAt": "2026-11-17T11:00:39.000Z",
+      "sentences": [
+        {
+          "en": "Hundreds arrested in anti-Trump protests in Philippines amid anger over Iran war and AI pact.",
+          "zh": "在菲律宾举行的反特朗普抗议活动中，有数百人被捕，原因是人们对伊朗战争和人工智能协议感到愤怒。"
+        },
+        {
+          "en": "Organisers say up to 10,000 people could join next round of demonstrations as US president arrives for Asean summit Asean and Apec summits – as it happened Hundreds of people have been arrested in heated demonstrations against Donald Trump in Manila, as the US president arrived in the city for a leaders’ summit.",
+          "zh": "组织者表示，随着美国总统抵达马尼拉参加东盟峰会和亚太经合组织峰会，下一轮示威活动可能有多达1万人参加。事件经过：数百人在反对唐纳德·特朗普的激烈示威中被捕，当时美国总统正抵达该市参加领导人峰会。"
+        },
+        {
+          "en": "Organisers claimed as many as 10,000 people would be joining protests against Trump in the capital of the Philippines on Tuesday, where he is attending the Association of Southeast Asian Nations (Asean) summit.",
+          "zh": "组织者声称，多达1万人将于周二在菲律宾首都参加反特朗普的抗议活动，届时特朗普将出席东南亚国家联盟（东盟）峰会。"
+        },
+        {
+          "en": "The crowds were expected to try to march to the summit site.",
+          "zh": "预计示威人群会试图游行前往峰会会场。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "af00ab679d34225a",
+      "sourceId": "npr-news",
+      "category": "ai",
+      "title": "I'm a human doctor with human intelligence. But I sure do like my AI notetaker",
+      "url": "https://www.npr.org/2026/11/17/nx-s1-6037556/medicine-ai-doctor-notetaker-scribe",
+      "publishedAt": "2026-11-17T11:00:00.000Z",
+      "sentences": [
+        {
+          "en": "I'm a human doctor with human intelligence.",
+          "zh": "我是一名具备人类智慧的人类医生。"
+        },
+        {
+          "en": "But I sure do like my AI notetaker.",
+          "zh": "但我确实很喜欢我的AI记笔记工具。"
+        },
+        {
+          "en": "Has your doctor asked whether they can use artificial intelligence to take notes during an exam?",
+          "zh": "您的医生是否询问过是否可以使用人工智能在检查过程中做记录？"
+        },
+        {
+          "en": "It's very popular, and here's how to think through the pros and the cons of the new technology.",
+          "zh": "它非常受欢迎，以下是如何权衡这项新技术利弊的方法。"
+        }
+      ]
+    },
+    {
+      "id": "0a5288e228d833f1",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Trump arrives in Philippines to kick off Asia trip",
+      "url": "https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines",
+      "publishedAt": "2026-11-17T10:43:55.000Z",
+      "sentences": [
+        {
+          "en": "Trump arrives in Philippines to kick off Asia trip.",
+          "zh": "特朗普抵达菲律宾，开启亚洲之行。"
+        },
+        {
+          "en": "Manila is President Trump's first stop on a three-day trip that will later take him to China for historic three-way nuclear talks with Chinese President Xi Jinping and Russian President Vladimir Putin.",
+          "zh": "马尼拉是特朗普总统为期三天的行程中的第一站，随后他将前往中国，与中国国家主席习近平和俄罗斯总统弗拉基米尔·普京进行历史性的三方核谈判。"
+        },
+        {
+          "en": "(Image credit: Mark Schiefelbein)",
+          "zh": "（图片来源：Mark Schiefelbein）"
+        }
+      ]
+    },
+    {
+      "id": "86a807ade04ed9b0",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Will President Trump meet Kim Jong Un?",
+      "url": "https://www.bbc.co.uk/news/videos/c6grew79p7qdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-17T10:13:27.000Z",
+      "sentences": [
+        {
+          "en": "Will President Trump meet Kim Jong Un?.",
+          "zh": "特朗普总统会与金正恩会面吗？"
+        },
+        {
+          "en": "President Trump says he would be keen to meet the North Korea leader in China.",
+          "zh": "特朗普总统表示，他非常希望在中国与朝鲜领导人会晤。"
+        }
+      ]
+    },
+    {
+      "id": "5f57c7bb8c1ca286",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "She went to college to become a social worker. Now she's joined the skilled trades",
+      "url": "https://www.npr.org/2026/11/17/nx-s1-6012818/skilled-trades-apprenticeship-college-data-centers-jobs",
+      "publishedAt": "2026-11-17T10:00:00.000Z",
+      "sentences": [
+        {
+          "en": "She went to college to become a social worker.",
+          "zh": "她上大学是为了成为一名社会工作者。"
+        },
+        {
+          "en": "Now she's joined the skilled trades.",
+          "zh": "现在，她已经加入了技术工种的行列。"
+        },
+        {
+          "en": "While the rise of AI continues to fuel the debate over whether college is worth the cost, apprenticeships in the skilled trades are having a moment, drawing in people of all backgrounds including college graduates.",
+          "zh": "虽然人工智能的崛起仍在引发关于大学是否物有所值的争论，但技术工种的学徒制正迎来高光时刻，吸引着包括大学毕业生在内的各色人士。"
+        },
+        {
+          "en": "(Image credit: Andrew Spear for NPR)",
+          "zh": "（图片来源：Andrew Spear，NPR）"
+        }
+      ]
+    },
+    {
+      "id": "f1f51159da1049fb",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "More people are getting the flu. Should you get a flu shot before you travel?",
+      "url": "https://www.npr.org/2026/11/17/nx-s1-6043086/thanksgiving-travel-cold-flu-vaccine-shot-booster",
+      "publishedAt": "2026-11-17T10:00:00.000Z",
+      "sentences": [
+        {
+          "en": "More people are getting the flu.",
+          "zh": "越来越多的人得了流感。"
+        },
+        {
+          "en": "Should you get a flu shot before you travel?.",
+          "zh": "您在出行前是否应该接种流感疫苗？"
+        },
+        {
+          "en": "Thanksgiving is just around the corner, just as millions of Americans are expected to travel for the holidays.",
+          "zh": "感恩节即将到来，预计数百万美国人将外出度假。"
+        },
+        {
+          "en": "Another thing that's upon us?",
+          "zh": "还有什么事要我们去做吗？"
+        },
+        {
+          "en": "Cold and flu season.",
+          "zh": "感冒和流感季节。"
+        },
+        {
+          "en": "(Image credit: Thibaut Durand)",
+          "zh": "（图片来源：Thibaut Durand）"
+        }
+      ]
+    },
+    {
+      "id": "eeaf32979b6e2247",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Indian woman gang-raped while pregnant in 2002 'heartbroken' after two perpetrators bailed",
+      "url": "https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-17T09:27:44.000Z",
+      "sentences": [
+        {
+          "en": "Indian woman gang-raped while pregnant in 2002 'heartbroken' after two perpetrators bailed.",
+          "zh": "2002年，一名印度孕妇遭轮奸，如今两名施暴者获保释，她“心碎不已”。"
+        },
+        {
+          "en": "Bilkis Bano has spoken of her \"pain, shock and disbelief\" at the top court order and vowed to fight back.",
+          "zh": "比尔基斯·巴诺谈到她对最高法院裁决的“痛苦、震惊和难以置信”，并誓言要反击。"
+        }
+      ]
+    },
+    {
+      "id": "c42bafb1456b0634",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "India has been named a ‘destination of the year’ for 2027 – here are insiders’ tips on travelling beyond the tropes",
+      "url": "https://www.theguardian.com/world/2026/nov/16/is-is-india-travel-boom-travel-and-leisure-women",
+      "publishedAt": "2026-11-17T07:30:06.000Z",
+      "sentences": [
+        {
+          "en": "India has been named a ‘destination of the year’ for 2027 – here are insiders’ tips on travelling beyond the tropes.",
+          "zh": "印度已被评为2027年“年度旅游目的地”——以下是资深人士关于非典型旅游的建议。"
+        },
+        {
+          "en": "As tourism booms, three experienced female travellers give their take on how to make the most of travelling here • Don’t get This is India delivered to your inbox?",
+          "zh": "随着旅游业的蓬勃发展，三位经验丰富的女性旅行者分享了她们对如何在此地尽情享受旅行的看法•没有将《这就是印度》订阅到您的收件箱？"
+        },
+        {
+          "en": "Sign up here The 13th-century Persian scholar Zakariyya al-Qazwini never travelled to India.",
+          "zh": "在此注册13世纪的波斯学者扎卡里亚·卡兹维尼（Zakariyya al-Qazwini）从未踏足印度。"
+        },
+        {
+          "en": "But he catalogued it in his famous work The Wonders of Creation and Rarities of Existence, which drew on accounts of a distant land filled with “rarities par excellence”.",
+          "zh": "但他将其收录于自己的名著《造物的奇迹与存在的稀罕物》（The Wonders of Creation and Rarities of Existence）中，该书借鉴了关于一片充满“极致稀罕物”的遥远土地的记载。"
+        },
+        {
+          "en": "For al-Qazwini, as Helen Pfeifer writes in the London Review of Books, wonder was not an emotion but an intellectual method of making sense of the world and acquiring knowledge.",
+          "zh": "正如海伦·普费弗（Helen Pfeifer）在《伦敦书评》（London Review of Books）中写道，对卡兹维尼来说，惊奇并非一种情感，而是一种理解世界和获取知识的智力方法。"
+        },
+        {
+          "en": "India has long occupied such a space in the global imagination, as a land of extraordinary riches; spirituality, customs, chaos and contradictions.",
+          "zh": "在人们的全球想象中，印度长期以来一直占据着这样一个位置，被视为一片拥有非凡财富、灵性、习俗、混乱和矛盾的土地。"
+        },
+        {
+          "en": "This has shaped how the country is perceived from afar, but it can often flatten its complexities.",
+          "zh": "这塑造了人们从远处看待这个国家的视角，但往往也会抹平其复杂性。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "dfc942616c510d54",
+      "sourceId": "bbc-world",
+      "category": "ai",
+      "title": "Inside the Chinese 'AI wonderland' where Xi will host Trump",
+      "url": "https://www.bbc.co.uk/news/videos/ckjwjl6ywgn9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-17T06:23:51.000Z",
+      "sentences": [
+        {
+          "en": "Inside the Chinese 'AI wonderland' where Xi will host Trump.",
+          "zh": "习近平将在此接待特朗普的中国“人工智能仙境”内部。"
+        },
+        {
+          "en": "The meeting will take place as Trump attends the Asia-Pacific Economic Co-operation (Apec) summit in the southern city of Shenzhen.",
+          "zh": "此次会晤将在特朗普出席亚太经济合作组织（APEC）峰会期间于中国南方城市深圳举行。"
+        }
+      ]
+    },
+    {
+      "id": "3faaf82ce79f349c",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "European-made pesticides named in 1,605 poisoning reports in Brazil last year",
+      "url": "https://www.theguardian.com/environment/2026/nov/17/european-made-pesticides-named-1605-brazil-poisoning-reports",
+      "publishedAt": "2026-11-17T06:00:05.000Z",
+      "sentences": [
+        {
+          "en": "European-made pesticides named in 1,605 poisoning reports in Brazil last year.",
+          "zh": "去年，巴西有1605份中毒报告中提到了欧洲制造的农药。"
+        },
+        {
+          "en": "About a third of cases involved chemicals banned for use on EU farms, according to investigation by Unearthed and Public Eye Pesticides sold by European chemical companies were named in more than 1,600 poisoning reports in Brazil last year, an investigation has found.",
+          "zh": "根据Unearthed和Public Eye的调查，约三分之一的案件涉及欧盟农场禁止使用的化学品。调查发现，去年在巴西的1600多份中毒报告中提到了欧洲化工公司销售的农药。"
+        },
+        {
+          "en": "About a third of the cases involved chemicals banned from use on farms in the EU because of the risks they pose to people and the environment.",
+          "zh": "约有三分之一的案件涉及欧盟禁止在农场使用的化学品，因为这些化学品对人和环境构成风险。"
+        },
+        {
+          "en": "But European companies are not banned from manufacturing these chemicals, as long as they export them overseas to countries where they are legally allowed to be used.",
+          "zh": "但只要欧洲公司将这些化学品出口到法律允许使用的国家，它们就不被禁止生产这些化学品。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "8a89a626759eac45",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
+      "url": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
+      "publishedAt": "2026-11-17T01:10:59.000Z",
+      "sentences": [
+        {
+          "en": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda.",
+          "zh": "五个欧盟国家宣布在卢旺达建立移民“遣返中心”的计划。"
+        },
+        {
+          "en": "Germany, Austria, Netherlands, Denmark and Greece likely to face challenges to policy criticised as ‘grave moral failing’ Five EU member states have announced plans to set up an offshore centre in Rwanda for people with no legal right to stay in Europe, in a pilot scheme that is expected to face legal challenges and has been denounced as “a grave moral failing”.",
+          "zh": "德国、奥地利、荷兰、丹麦和希腊可能面临政策挑战，该政策被批评为“严重的道德败坏”五个欧盟成员国已宣布计划在卢旺达设立一个境外中心，用于安置无合法权利留在欧洲的人。该试点计划预计将面临法律挑战，并已被谴责为“严重的道德败坏”。"
+        },
+        {
+          "en": "The five countries – Germany, Austria, the Netherlands, Denmark and Greece – are the first to seek to use the EU’s newly agreed returns law that allows people who have exhausted all avenues of appeal against their removal from Europe to be sent to a third country.",
+          "zh": "德国、奥地利、荷兰、丹麦和希腊这五个国家是首批寻求适用欧盟新近通过的遣返法的国家，该法允许将已用尽所有上诉途径、仍被驱逐出欧洲的人遣送至第三国。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "3bdcb8ebe5f2401d",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Pope Leo hit by flying rosary while waving to crowds in Peru",
+      "url": "https://www.bbc.co.uk/news/videos/ckpdwn23j5j8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-16T21:12:13.000Z",
+      "sentences": [
+        {
+          "en": "Pope Leo hit by flying rosary while waving to crowds in Peru.",
+          "zh": "教宗利奥在秘鲁向人群挥手时被飞来的念珠砸中。"
+        },
+        {
+          "en": "The pontiff was struck in the face by what is thought to be prayer beads while travelling aboard the popemobile to deliver a farewell Mass.",
+          "zh": "教宗在乘坐教宗座驾前往主持告别弥撒时，面部被疑似念珠的物体击中。"
+        }
+      ]
+    },
+    {
+      "id": "5cdbb0432c2d7f9c",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Regional voices are rolling out in the Gemini app.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/regional-voices/",
+      "publishedAt": "2026-11-16T18:45:00.000Z",
+      "sentences": [
+        {
+          "en": "Regional voices are rolling out in the Gemini app.",
+          "zh": "Gemini应用正在推出地区语音。"
+        },
+        {
+          "en": "Gemini now offers 66 regional voices on Android and iOS.",
+          "zh": "Gemini 现在在 Android 和 iOS 上提供 66 种区域语音。"
+        },
+        {
+          "en": "Choose a natural, local dialect for your app interactions.",
+          "zh": "为您的应用程序互动选择一种自然的本地方言。"
+        },
+        {
+          "en": "Pick your favorite voice today.",
+          "zh": "立即选择您最喜爱的声音。"
+        }
+      ]
+    },
+    {
+      "id": "2f2dcaa3d13bcabb",
+      "sourceId": "k8s-blog",
+      "category": "cloud",
+      "title": "Scheduling the removal of the kube-proxy IPVS backend",
+      "url": "https://kubernetes.io/blog/2026/11/16/ipvs-removal/",
+      "publishedAt": "2026-11-16T18:35:00.000Z",
+      "sentences": [
+        {
+          "en": "Scheduling the removal of the kube-proxy IPVS backend.",
+          "zh": "安排移除kube-proxy IPVS后端。"
+        },
+        {
+          "en": "The ipvs backend for kube-proxy was an experiment in providing a service proxy implementation with better performance than the iptables backend.",
+          "zh": "kube-proxy的ipvs后端是一项实验，旨在提供比iptables后端性能更好的服务代理实现。"
+        },
+        {
+          "en": "While it succeeded in that goal, the kernel IPVS API has turned out to be a bad match for the Kubernetes Services API, and the ipvs backend was never able to implement all of the edge cases of Kubernetes Service functionality correctly.",
+          "zh": "虽然它成功实现了这一目标，但事实证明，内核IPVS API与Kubernetes Service API并不匹配，并且ipvs后端从未能够正确实现Kubernetes Service功能的全部边缘用例。"
+        },
+        {
+          "en": "In Kubernetes 1.29, the project introduced the nftables backend for kube-proxy, which became GA in 1.33.",
+          "zh": "在Kubernetes 1.29中，该项目为kube-proxy引入了nftables后端，该后端在1.33中成为GA。"
+        },
+        {
+          "en": "Part of the plan behind adding the nftables backend was the idea that it would eventually replace both the iptables and ipvs backends.",
+          "zh": "添加nftables后端的计划部分是基于这样一个想法：它最终将取代iptables和ipvs后端。"
+        },
+        {
+          "en": "Because the ipvs backend in particular is complex, not 100% feature complete, and architecturally quite different from the other two backends (and thus more work to maintain), Kubernetes SIG Network decided to officially deprecate it as of Kubernetes 1.35 .",
+          "zh": "由于ipvs后端特别复杂，功能并不完全，并且在架构上与其他两个后端有很大不同（因此需要更多的工作来维护），Kubernetes SIG Network决定从Kubernetes 1.35开始正式弃用它。"
+        },
+        {
+          "en": "Although it currently remains available in kube-proxy (with a warning about its deprecation), we (Kubernetes SIG Network) now plan to remove it in Kubernetes 1.40.",
+          "zh": "虽然它目前在kube-proxy中仍然可用（并附有关于其弃用的警告），但我们（Kubernetes SIG Network）现在计划在Kubernetes 1.40中将其移除。"
+        },
+        {
+          "en": "All ipvs users should therefore be planning to migrate to either the nftables or iptables backends.",
+          "zh": "因此，所有ipvs用户都应计划迁移到nftables或iptables后端。"
+        },
+        {
+          "en": "Why was the ipvs backend written?",
+          "zh": "为什么编写ipvs后端？"
+        },
+        {
+          "en": "The ipvs backend was originally designed to fix two different kinds of performance problems in the iptables backend: First, iptables had problems with data plane latency (the speed at which clients could establish new connections to services), because kube-proxy would write a separate iptables rule to match each service IP, so every new connection would need to be matched against a long series of rules that was O(n) in the number of services in the cluster.",
+          "zh": "ipvs后端最初的目的是为了解决iptables后端存在的两种不同类型的性能问题：首先，iptables存在数据平面延迟（客户端能够与服务建立新连接的速度）问题，因为kube-proxy会写入一条单独的iptables规则来匹配每个服务IP，因此每个新连接都需要与一系列较长的规则进行匹配，而这些规则的数量与集群中的服务数量成O(n)关系。"
+        },
+        {
+          "en": "Second, it had an even larger problem with control plane latency (the speed at which kube-proxy could process changes to services and endpoints and update the data plane rules), because kube-proxy would rewrite the entire iptables ruleset every time any service or endpoint changed.",
+          "zh": "其次，它在控制层面延迟（kube-proxy处理服务和端点变化并更新数据层面规则的速度）方面存在更大的问题，因为每当有任何服务或端点发生变化时，kube-proxy都会重写整个iptables规则集。"
+        },
+        {
+          "en": "While the list of rules itself was only O(n) in the total number of endpoints, the amount of time, RAM, and CPU that it took to process the updated ruleset grew faster than that.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "4fe7a1d3cccec0b0",
+      "sourceId": "google-blog",
+      "category": "security",
+      "title": "Outpace automated cyber threats with security built for nonstop defense.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gtig-ai-threat-tracker-q4-2026/",
+      "publishedAt": "2026-11-16T18:30:00.000Z",
+      "sentences": [
+        {
+          "en": "Outpace automated cyber threats with security built for nonstop defense.",
+          "zh": "通过专为不间断防御而设计的安全功能，领先于自动化的网络威胁。"
+        },
+        {
+          "en": "See how bad actors are shifting to autonomous attacks and how Google AI Threat Defense uses Gemini to defend against them.",
+          "zh": "了解恶意行为者如何转向自主攻击，以及 Google AI Threat Defense 如何使用 Gemini 来抵御这些攻击。"
+        }
+      ]
+    },
+    {
+      "id": "87ed689aac93470a",
+      "sourceId": "aws-news",
+      "category": "cloud",
+      "title": "AWS Weekly Roundup: AWS Nitro Sandboxes, AWS Emulator, and more (November 16, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-nitro-sandboxes-aws-emulator-and-more-november-16-2026/",
+      "publishedAt": "2026-11-16T17:55:46.000Z",
+      "sentences": [
+        {
+          "en": "AWS Weekly Roundup: AWS Nitro Sandboxes, AWS Emulator, and more (November 16, 2026).",
+          "zh": "AWS 周报：AWS Nitro 沙盒、AWS Emulator 等（2026 年 11 月 16 日）。"
+        },
+        {
+          "en": "A second delivery of the same message can reveal more about an application than its happy-path demo.",
+          "zh": "第二次传达同一信息可以比快乐路径演示更深入地揭示应用程序的方方面面。"
+        },
+        {
+          "en": "I like tools that make those cases easier to investigate while a change is still small.",
+          "zh": "我喜欢那些能在变更规模尚小时就让此类个案更容易调查的工具。"
+        },
+        {
+          "en": "Last week’s launch of AWS Emulator brings part of that work onto your own machine: developers and coding agents can exercise AWS API interactions, inspect results, and try again without provisioning cloud resources for every attempt.",
+          "zh": "上周发布的AWS Emulator将部分工作带到了您的计算机上：开发人员和编码代理可以演练AWS API交互、检查结果，并再次尝试，而无需为每次尝试预置云资源。"
+        },
+        {
+          "en": "I wrote about the Emulator’s launch last week, and it’s my main highlight in this edition.",
+          "zh": "我上周写了关于模拟器发布的内容，这是本期通讯的重点。"
+        },
+        {
+          "en": "There are also new ways to isolate workloads on shared infrastructure, give an agent narrowly scoped access to a backend, and prepare search applications for a regional disruption.",
+          "zh": "还有一些新方法可以隔离共享基础设施上的工作负载，为代理提供对后端的有限访问权限，并为搜索应用程序做好应对区域性中断的准备。"
+        },
+        {
+          "en": "Now, let’s get into this week’s AWS news… AWS Emulator runs locally alongside your code and development tools.",
+          "zh": "现在，让我们来看看本周的AWS新闻…… AWS Emulator与您的代码和开发工具一起在本地运行。"
+        },
+        {
+          "en": "Image: AWS .",
+          "zh": "图片：AWS。"
+        },
+        {
+          "en": "Headlines Test your applications against AWS locally with AWS Emulator introduces a generally available local environment for AWS API interactions.",
+          "zh": "标题使用 AWS Emulator 在本地对您的应用程序进行 AWS 测试，该工具提供了一个普遍适用的本地环境，用于 AWS API 交互。"
+        },
+        {
+          "en": "Point the AWS CLI or AWS SDKs at its HTTPS endpoint, and your application keeps its normal SDK calls.",
+          "zh": "将 AWS CLI 或 AWS SDK 指向其 HTTPS 终端节点，您的应用程序将保持正常的 SDK 调用。"
+        },
+        {
+          "en": "The walkthrough shows a coding agent creating an Amazon DynamoDB table, writing an item, and reading it back.",
+          "zh": "本演练展示了编码代理如何创建 Amazon DynamoDB 表、写入项目并读取项目。"
+        },
+        {
+          "en": "You don’t need an AWS account for emulated operations, and there is no additional service fee.",
+          "zh": "您无需 AWS 账户即可进行模拟操作，且无需支付额外服务费。"
+        }
+      ]
+    },
+    {
+      "id": "c36f7f8681e6b131",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "New Google AdMob AI tools help app creators build, fix, and grow faster",
+      "url": "https://blog.google/products/publisher-connections/new-google-admob-tools/",
+      "publishedAt": "2026-11-16T17:00:00.000Z",
+      "sentences": [
+        {
+          "en": "New Google AdMob AI tools help app creators build, fix, and grow faster.",
+          "zh": "全新的 Google AdMob 人工智能工具可帮助应用开发者更快地构建、修复和发展应用。"
+        },
+        {
+          "en": "New Google AdMob AI tools help app developers fix setups fast, protect brand safety, and automate monetization in code.",
+          "zh": "全新的 Google AdMob 人工智能工具可帮助应用开发者快速修复设置、保护品牌安全，并在代码中实现变现自动化。"
+        }
+      ]
+    },
+    {
+      "id": "6c84a24e87d5256d",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "New AI training performance benchmarks for Google TPUs",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/training-performance-benchmarks-tpus/",
+      "publishedAt": "2026-11-16T16:00:00.000Z",
+      "sentences": [
+        {
+          "en": "New AI training performance benchmarks for Google TPUs.",
+          "zh": "适用于 Google TPU 的全新 AI 训练性能基准。"
+        },
+        {
+          "en": "In the latest MLPerf Training v6.1 benchmark round, Google Cloud published 10 results across seventh-generation Ironwood TPUs and NVIDIA Grace Blackwell GPUs, spanning f…",
+          "zh": "在最新的MLPerf训练v6.1基准测试中，Google Cloud发布了第七代Ironwood TPU和NVIDIA Grace Blackwell GPU的10项测试结果，涵盖……"
+        }
+      ]
+    },
+    {
+      "id": "05fe485b609dbaed",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Transform notes, research, and sources into interactive sites with Gemini Notebook.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites/",
+      "publishedAt": "2026-11-16T16:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Transform notes, research, and sources into interactive sites with Gemini Notebook.",
+          "zh": "使用 Gemini Notebook 将笔记、研究和资料来源转换为互动式网站。"
+        },
+        {
+          "en": "Gemini Notebook now turns your research into interactive sites.",
+          "zh": "Gemini Notebook 现在可以将您的研究内容转化为互动式网站。"
+        },
+        {
+          "en": "Build project trackers and visual dashboards with Google.",
+          "zh": "使用 Google 构建项目跟踪工具和可视化仪表板。"
+        },
+        {
+          "en": "Create your site today.",
+          "zh": "立即创建您的网站。"
+        }
+      ]
+    }
+  ],
+  "failures": []
+}
