@@ -1,0 +1,879 @@
+{
+  "date": "2026-11-18",
+  "collectedAt": "2026-11-19T06:02:43.902Z",
+  "items": [
+    {
+      "id": "0082b563af8d4e67",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Parents jailed for torture and death of four-year-old girl found along French motorway in 1987",
+      "url": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-18T15:39:57.000Z",
+      "sentences": [
+        {
+          "en": "Parents jailed for torture and death of four-year-old girl found along French motorway in 1987.",
+          "zh": null
+        },
+        {
+          "en": "Inass Touloub's body was found along the A10 road in 1987, bearing marks of abuse, and was not identified until 2018.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "a0792ea92321f143",
+      "sourceId": "cloudflare-blog",
+      "category": "cloud",
+      "title": "How Cloudflare WAF helps protect against Java4Shell (CVE-2026-114938)",
+      "url": "https://blog.cloudflare.com/java4shell-waf-protection/",
+      "publishedAt": "2026-11-18T14:52:10.000Z",
+      "sentences": [
+        {
+          "en": "How Cloudflare WAF helps protect against Java4Shell (CVE-2026-114938).",
+          "zh": null
+        },
+        {
+          "en": "On November 17, 2026, the security research company Calif disclosed Java4Shell (CVE-2026-114938) , a memory-corruption vulnerability in the Base64 decoder of OpenJDK, the most widely used Java runtime.",
+          "zh": null
+        },
+        {
+          "en": "Under the Common Vulnerability Scoring System (CVSS) 4.0, it scores 9.2 out of 10 (Critical).",
+          "zh": null
+        },
+        {
+          "en": "The flaw affects Java.",
+          "zh": null
+        },
+        {
+          "en": "OpenJDK published a security advisory and Oracle released patched builds in its November 2026 Critical Patch Update the same day, at 21:00 UTC.",
+          "zh": null
+        },
+        {
+          "en": "The vulnerability lets a remote attacker with no credentials send malformed Base64 data to a Java application and overwrite memory next to the decoded output.",
+          "zh": null
+        },
+        {
+          "en": "Calif turned that overwrite into a leak of heap memory, similar to Heartbleed , and into remote code execution.",
+          "zh": null
+        },
+        {
+          "en": "Calif demonstrated pre-authentication remote code execution against Keycloak, Atlassian Jira, Atlassian Confluence, JFrog Artifactory, Jenkins and PingFederate in their default configurations, and post-authentication remote code execution against Apache Kafka, Apache Solr, Elasticsearch, Gerrit, and Spinnaker.",
+          "zh": null
+        },
+        {
+          "en": "Cloudflare has released a new set of rules in the Cloudflare Managed Ruleset designed to detect malformed Base64 input patterns associated with this vulnerability.",
+          "zh": null
+        },
+        {
+          "en": "The rules are available on Pro, Business and Enterprise plans and are enabled by default with the Log action because malformed input and some benign application-specific token formats can resemble exploitation attempts.",
+          "zh": null
+        },
+        {
+          "en": "Blocking by default could therefore disrupt legitimate traffic.",
+          "zh": null
+        },
+        {
+          "en": "Customers can review matching requests in Security Events now and change the rules action to Block once they confirm it does not affect legitimate traffic.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "c909e9e5ddfbe53d",
+      "sourceId": "guardian-world",
+      "category": "business",
+      "title": "Israel delays building contracts for West Bank settlement after UK sanctions",
+      "url": "https://www.theguardian.com/world/2026/nov/18/israel-construction-contracts-e1-west-bank-settlement-uk-sanctions",
+      "publishedAt": "2026-11-18T14:05:38.000Z",
+      "sentences": [
+        {
+          "en": "Israel delays building contracts for West Bank settlement after UK sanctions.",
+          "zh": null
+        },
+        {
+          "en": "Attorney general says E1 settlement decision should not be taken by caretaker government led by Netanyahu Israel has postponed issuing contracts for the construction of a large settlement on the West Bank seen as likely to render a two-state solution unviable, days after the UK imposed sanctions against building firms operating in the area.",
+          "zh": null
+        },
+        {
+          "en": "Israeli diplomats insisted the move was not in response to the measures from Downing Street .",
+          "zh": null
+        },
+        {
+          "en": "Gali Baharav-Miara, the attorney general, said any decision on settlement expansion should not be taken by the caretaker government led by Benjamin Netanyahu but by whatever new administration was formed.",
+          "zh": null
+        },
+        {
+          "en": "Continue reading..",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "93762b1fdcd40305",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Drive your best ROI reaching new holiday shoppers with November’s Google Marketing Platform Drop.",
+      "url": "https://blog.google/products/marketingplatform/360/google-marketing-platform-drop-november/",
+      "publishedAt": "2026-11-18T14:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Drive your best ROI reaching new holiday shoppers with November’s Google Marketing Platform Drop.",
+          "zh": null
+        },
+        {
+          "en": "Boost holiday ROI with November 2026 Google Marketing Platform updates, including Spotify audiences, Pinterest inventory, and Loblaw integration.",
+          "zh": null
+        },
+        {
+          "en": "Get the details.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "4d5ea68368124bc3",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Cybersecurity tips and tools to keep you safe online",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/cybersecurity-tips/",
+      "publishedAt": "2026-11-18T14:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Cybersecurity tips and tools to keep you safe online.",
+          "zh": null
+        },
+        {
+          "en": "Explore this collection to see how Google’s cybersecurity tips and tools can keep your accounts and information safe.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "815730ca205ba108",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-18T13:04:48.000Z",
+      "sentences": [
+        {
+          "en": "Kuwait says it repelled first Iranian attack in two months after US strikes island.",
+          "zh": null
+        },
+        {
+          "en": "Bahrain says it was also attacked by Iran following a US air strike on the Iranian island of Qeshm in the Gulf on Tuesday.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "5c8f207ad1b0ea80",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Dozens more children killed in Yemen amid escalating hostilities",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168830",
+      "publishedAt": "2026-11-18T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Dozens more children killed in Yemen amid escalating hostilities.",
+          "zh": null
+        },
+        {
+          "en": "The UN child rights agency, UNICEF, on Wednesday called for warring parties in Yemen to protect children as renewed conflict between Houthi rebels and Government forces approaches the three-month mark.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "b8cfa4b75777cbe3",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Patients running out of options as antibiotics stop working against common infections",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168832",
+      "publishedAt": "2026-11-18T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Patients running out of options as antibiotics stop working against common infections.",
+          "zh": null
+        },
+        {
+          "en": "Common bacteria are becoming highly resistant to front-line and even “last-resort” antibiotics, the UN World Health Organization (WHO) said on Wednesday, warning that the situation today is worse than it was in 2019.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "a2441a86e7a8fcfd",
+      "sourceId": "un-news",
+      "category": "science",
+      "title": "COP31 deadlock persists as countries launch new ‘climate reality check’",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168833",
+      "publishedAt": "2026-11-18T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "COP31 deadlock persists as countries launch new ‘climate reality check’.",
+          "zh": null
+        },
+        {
+          "en": "With the clock running down at COP31 in Antalya, countries on Wednesday launched a new global check on whether climate promises are being kept, even as ministers remained deadlocked over some of the summit’s toughest questions: who pays, how fast the world moves away from fossil fuels and whether a greener future can be called “just” if poorer countries cannot afford it.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "17a5c11e242497f3",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Bancroft sandpaper claims heap pressure on Cummins",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-18T11:12:46.000Z",
+      "sentences": [
+        {
+          "en": "Bancroft sandpaper claims heap pressure on Cummins.",
+          "zh": null
+        },
+        {
+          "en": "Cameron Bancroft claims the whole Australia team knew about the 2018 sandpaper plot in explosive revelations that will heap pressure on current captain Pat Cummins.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "c7aba06582cfe1a5",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
+      "url": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-18T10:23:57.000Z",
+      "sentences": [
+        {
+          "en": "Democrats win Alaska Senate race two weeks after midterms counting began.",
+          "zh": null
+        },
+        {
+          "en": "Confirmation of Mary Peltola's victory caps of the party's rout of the Republicans in the midterms Senate election.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "11b2c0aec9d7aaef",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling",
+      "url": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
+      "publishedAt": "2026-11-18T09:58:28.000Z",
+      "sentences": [
+        {
+          "en": "Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling.",
+          "zh": null
+        },
+        {
+          "en": "A ruling against Myanmar could set precedent for court’s judgment on Israel’s actions in Gaza Fears are growing that the US could impose sanctions on judges at the international court of justice, including this year’s Nobel peace prize winner, Navi Pillay , if the court rules on Thursday that the Myanmar government committed genocide against the Rohingya.",
+          "zh": null
+        },
+        {
+          "en": "The ICJ has never found a state responsible for committing genocide, and a significant factor in previous cases has been how to prove “intent” in a crime defined as acts committed with the “intent to destroy, in whole or in part” a national, ethnical, racial or religious group.",
+          "zh": null
+        },
+        {
+          "en": "Continue reading..",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "64e86fd86d339f38",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "British hacker who stole $11m through text message scheme jailed for six years in US",
+      "url": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-18T09:28:35.000Z",
+      "sentences": [
+        {
+          "en": "British hacker who stole $11m through text message scheme jailed for six years in US.",
+          "zh": null
+        },
+        {
+          "en": "Tyler Buchanan, from Dundee, was a member of the notorious Scattered Spider group and began hacking when he was a teenager.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "959581aa59f46cda",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Ghana's new $60m presidential jet sparks public outrage",
+      "url": "https://www.bbc.co.uk/news/articles/ck792dez8dp3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-18T09:27:51.000Z",
+      "sentences": [
+        {
+          "en": "Ghana's new $60m presidential jet sparks public outrage.",
+          "zh": null
+        },
+        {
+          "en": "The purchase has sparked outrage over its cost as many Ghanaians struggle with rising cost of living.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "a18a3641c8f10447",
+      "sourceId": "guardian-world",
+      "category": "release-notes",
+      "title": "European Commission accused of sugarcoating figures to release funds to Egypt",
+      "url": "https://www.theguardian.com/world/2026/nov/18/european-commission-accused-sugarcoating-figures-egypt-loans",
+      "publishedAt": "2026-11-18T05:00:32.000Z",
+      "sentences": [
+        {
+          "en": "European Commission accused of sugarcoating figures to release funds to Egypt.",
+          "zh": null
+        },
+        {
+          "en": "Leaked documents raise questions about claims Egypt met welfare targets to qualify for €2.5bn in loans The European Commission has been accused of sugarcoating figures to enable it to release funds to Egypt under a landmark pact with the authoritarian government of Abdel Fatah al-Sisi.",
+          "zh": null
+        },
+        {
+          "en": "The charge relates to a €7.4bn deal promised by Ursula von der Leyen , the European Commission president, to al-Sisi on a high-profile visit to Cairo in 2024.",
+          "zh": null
+        },
+        {
+          "en": "The three-year “strategic and comprehensive partnership” was intended to bolster Egypt’s shaky economy, deter migrants from coming to Europe and shore up a region reeling from the 7 October attacks and Israel’s war on Gaza.",
+          "zh": null
+        },
+        {
+          "en": "Continue reading..",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "ccc4389da68ad4d0",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Waymo pulls driverless taxis from all US freeways",
+      "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-18T03:07:22.000Z",
+      "sentences": [
+        {
+          "en": "Waymo pulls driverless taxis from all US freeways.",
+          "zh": null
+        },
+        {
+          "en": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "7edf6055eec59c9b",
+      "sourceId": "guardian-world",
+      "category": "ai",
+      "title": "South Korea’s high-stakes university exams upended by AI cheating scandal",
+      "url": "https://www.theguardian.com/world/2026/nov/18/south-korea-university-entrace-exams-ai-cheating-measures",
+      "publishedAt": "2026-11-18T02:03:27.000Z",
+      "sentences": [
+        {
+          "en": "South Korea’s high-stakes university exams upended by AI cheating scandal.",
+          "zh": null
+        },
+        {
+          "en": "South Korea has been gripped by revelations of AI-aided cheating, just days before more than half a million students are to sit high-stakes entrance exams The integrity of South Korea’s career-defining university entrance exam has been thrown into doubt after the top scorer in a recent professional exam admitted using a concealed camera and AI to cheat.",
+          "zh": null
+        },
+        {
+          "en": "On Thursday, more than half a million people, mostly school students, are due to sit the exam, known as the suneung, at 1,312 centres across the country.",
+          "zh": null
+        },
+        {
+          "en": "The exam runs for a gruelling eight hours over a single day and determines which university a candidate can attend and, in turn, their future prospects.",
+          "zh": null
+        },
+        {
+          "en": "Continue reading..",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "58ccec08be884d74",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
+      "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-18T01:18:18.000Z",
+      "sentences": [
+        {
+          "en": "Nvidia says it won't reinstate Huang as it reports soaring sales.",
+          "zh": null
+        },
+        {
+          "en": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "b6a48baf5af3ea03",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "How genome mapping can help researchers better understand disease",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-disease-research/",
+      "publishedAt": "2026-11-17T22:00:00.000Z",
+      "sentences": [
+        {
+          "en": "How genome mapping can help researchers better understand disease.",
+          "zh": null
+        },
+        {
+          "en": "A Google DeepMind research scientist explains the potential behind our AlphaGenome and AlphaGenome Atlas tools.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "c9a390a5405cb4d5",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Caribbean nations fear economic impact of shuttering citizenship program after EU threats",
+      "url": "https://www.theguardian.com/world/2026/nov/17/st-kitts-nevis-citizenship-investment",
+      "publishedAt": "2026-11-17T21:49:29.000Z",
+      "sentences": [
+        {
+          "en": "Caribbean nations fear economic impact of shuttering citizenship program after EU threats.",
+          "zh": null
+        },
+        {
+          "en": "St Kitts and Nevis to wind down citizenship-by-investment program after EU warns of end to visa-free access The decision by St Kitts and Nevis to end a lucrative programme offering citizenship to wealthy foreigners in exchange for investment threatens its economy and ability to support people in need, the premier of the island of Nevis has warned.",
+          "zh": null
+        },
+        {
+          "en": "On Friday, Terrance Drew, the prime minister of the twin-island Caribbean nation, announced he would wind down the citizenship-by-investment (CBI) programme, after the European Union threatened to end visa-free access for St Kitts and Nevis.",
+          "zh": null
+        },
+        {
+          "en": "Continue reading..",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "fd935d641d1d1a22",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Isolated Brazilian tribe emerges amid alarm over threats to group’s way of life",
+      "url": "https://www.theguardian.com/world/2026/nov/17/brazil-amazon-isolated-indigenous-people",
+      "publishedAt": "2026-11-17T21:40:56.000Z",
+      "sentences": [
+        {
+          "en": "Isolated Brazilian tribe emerges amid alarm over threats to group’s way of life.",
+          "zh": null
+        },
+        {
+          "en": "Indigenous Awá people of Amazon make contact with villagers and accept food to take back to territory About 20 Indigenous people emerged from isolation in Brazil’s Amazon rainforest, several organizations reported on Tuesday, raising the alarm about increased invasions into the tribe’s territory.",
+          "zh": null
+        },
+        {
+          "en": "According to the NGO Survival International, members of the Awá people, who live in voluntary isolation, arrived on Monday in a village and made contact with a government team in a “historic encounter”.",
+          "zh": null
+        },
+        {
+          "en": "Continue reading..",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "b56239a4da2ec66c",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "See what 5 builders are making with Gemini 4 Carbon",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-4-carbon-builders/",
+      "publishedAt": "2026-11-17T21:00:00.000Z",
+      "sentences": [
+        {
+          "en": "See what 5 builders are making with Gemini 4 Carbon.",
+          "zh": null
+        },
+        {
+          "en": "See what 5 builders are making with Gemini 4 Carbon.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "fae9554ba69c3ea7",
+      "sourceId": "guardian-world",
+      "category": "release-notes",
+      "title": "Eight-year-old Haitian boy returns home after release from ICE custody",
+      "url": "https://www.theguardian.com/us-news/2026/nov/17/haitian-child-ice-custody-release",
+      "publishedAt": "2026-11-17T20:59:56.000Z",
+      "sentences": [
+        {
+          "en": "Eight-year-old Haitian boy returns home after release from ICE custody.",
+          "zh": null
+        },
+        {
+          "en": "Child reunited with family after he was detained by immigration agents in San Diego and transferred to Texas An eight-year-old Haitian boy who was put into restraints and detained by immigration agents in San Diego on 4 November and transferred to a facility in Texas has been reunited with his family in California .",
+          "zh": null
+        },
+        {
+          "en": "Representative Juan Vargas shared a photograph of the boy and his family in a social media post on Monda, writing: “11 days ago, an 8-year-old in San Diego was taken into federal custody during an immigration check-in.",
+          "zh": null
+        },
+        {
+          "en": "He was separated from his loved ones and held in a facility in Texas.",
+          "zh": null
+        },
+        {
+          "en": "Today, he’s finally home.” Continue reading..",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "9fd23e018da5cf4f",
+      "sourceId": "cloudflare-blog",
+      "category": "security",
+      "title": "Quad9’s withdrawal from France: A canary in the coal mine",
+      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+      "publishedAt": "2026-11-17T20:24:27.000Z",
+      "sentences": [
+        {
+          "en": "Quad9’s withdrawal from France: A canary in the coal mine.",
+          "zh": null
+        },
+        {
+          "en": "Last month, the Swiss non-profit foundation Quad9 announced that it will withdraw its free public DNS resolver from France.",
+          "zh": null
+        },
+        {
+          "en": "This difficult decision followed months of litigation and a French court ruling that imposed daily financial penalties on Quad9 for failing to block domains associated with alleged copyright infringement.",
+          "zh": null
+        },
+        {
+          "en": "Quad9’s departure from France is both disheartening and understandable.",
+          "zh": null
+        },
+        {
+          "en": "The court’s ruling put the organization in the impossible bind of having to choose between crippling litigation and penalties, or fundamentally altering its service in a way that would undermine the privacy and security of its users.",
+          "zh": null
+        },
+        {
+          "en": "Left with no good option, Quad9 is choosing the exit door instead.",
+          "zh": null
+        },
+        {
+          "en": "The withdrawal of a basic infrastructure service from France fundamentally harms the free and open Internet, and it should serve as a warning of the damage that will result if rightsholders and policymakers continue demanding maximal blocking across every layer of the Internet.",
+          "zh": null
+        },
+        {
+          "en": "It not only deprives French Internet users of a trustworthy and important tool; it creates a real risk of disruption to their daily lives.",
+          "zh": null
+        },
+        {
+          "en": "Quad9’s resolver is used by a wide variety of individuals and organizations in France — including government bodies, educational institutions, hospitals, and utilities — and Quad9 has no way to directly notify those individuals and institutions that their resolver will soon stop working.",
+          "zh": null
+        },
+        {
+          "en": "If the affected parties do not change their resolver before Quad9 removes its service, their Internet will fail with no explanation.",
+          "zh": null
+        },
+        {
+          "en": "Quad9 is not the first public DNS resolver to withdraw from a country following blocking orders, and it almost certainly won’t be the last.",
+          "zh": null
+        },
+        {
+          "en": "Cisco previously withdrew its OpenDNS resolver from France, Portugal, and Belgium (temporarily) under similar circumstances.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "de1a299348ffc0d1",
+      "sourceId": "github-blog",
+      "category": "ai",
+      "title": "Maintainers don’t need more AI bug reports. They need fixes.",
+      "url": "https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/",
+      "publishedAt": "2026-11-17T18:29:29.000Z",
+      "sentences": [
+        {
+          "en": "Maintainers don’t need more AI bug reports.",
+          "zh": null
+        },
+        {
+          "en": "They need fixes.",
+          "zh": null
+        },
+        {
+          "en": "AI has made finding potential vulnerabilities fast and cheap.",
+          "zh": null
+        },
+        {
+          "en": "Fixing them still takes human judgment, and in open source, that work falls to maintainers.",
+          "zh": null
+        },
+        {
+          "en": "Many are already flooded with AI-generated security findings, including duplicates and reports that aren t vulnerabilities at all.",
+          "zh": null
+        },
+        {
+          "en": "Another raw scan doesn t help them.",
+          "zh": null
+        },
+        {
+          "en": "Anyone pointing a new model at a project should ask its maintainers first and come with fixes, not just findings.",
+          "zh": null
+        },
+        {
+          "en": "Maintainers are under intense pressure from this flood of reports.",
+          "zh": null
+        },
+        {
+          "en": "As Christian Grobmeier, a maintainer of Log4j, has put it, the AI defending open source has to be better than the AI attacking it .",
+          "zh": null
+        },
+        {
+          "en": "AI shouldn t add to maintainers workload.",
+          "zh": null
+        },
+        {
+          "en": "So, with maintainers, GitHub and Microsoft ran a pilot together: could AI help maintainers ship fixes instead of handing them more findings?",
+          "zh": null
+        },
+        {
+          "en": "GitHub and Microsoft are using Codename MDASH , Microsoft s multi-model agentic scanning harness, to find and fix security vulnerabilities in widely used open source software, strengthening the foundation that much of the world s code is built on.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "2f1c65ad4b7ec380",
+      "sourceId": "github-blog",
+      "category": "open-source",
+      "title": "Building the Agent Host Protocol for sessions that continue across devices",
+      "url": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/",
+      "publishedAt": "2026-11-17T18:20:40.000Z",
+      "sentences": [
+        {
+          "en": "Building the Agent Host Protocol for sessions that continue across devices.",
+          "zh": null
+        },
+        {
+          "en": "Models are now good enough to work for hours or even days on their own.",
+          "zh": null
+        },
+        {
+          "en": "You don t have to watch over every thing they do, but you still need to be able to check in, no matter where you are.",
+          "zh": null
+        },
+        {
+          "en": "An agent can t live only inside one application.",
+          "zh": null
+        },
+        {
+          "en": "The work should continue even If you close a window or switch devices.",
+          "zh": null
+        },
+        {
+          "en": "In GitHub Copilot you can start an agent session in one place and pick it up in another.",
+          "zh": null
+        },
+        {
+          "en": "This session continuity runs on the Agent Host Protocol (AHP), an open standard built first in VS Code and adopted across GitHub.",
+          "zh": null
+        },
+        {
+          "en": "Here s how it works, what we learned building it, and how you can use it to bring your agents into your own apps and workflows.",
+          "zh": null
+        },
+        {
+          "en": "Why one integration per client stopped working GitHub Copilot was first built in VS Code as an extension that bundled its own harness.",
+          "zh": null
+        },
+        {
+          "en": "This gave you access to your agents in VS Code, but it tied their lifetime to the editor.",
+          "zh": null
+        },
+        {
+          "en": "Extensions are attached to a single VS Code window.",
+          "zh": null
+        },
+        {
+          "en": "Close that window, and the agent is gone.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "b4fc97228580f320",
+      "sourceId": "guardian-world",
+      "category": "security",
+      "title": "Jensen Huang to testify before Congress on ‘potential breach of national security’",
+      "url": "https://www.theguardian.com/technology/2026/nov/17/jensen-huang-testify-congress-nvidia-affair-spy",
+      "publishedAt": "2026-11-17T17:58:05.000Z",
+      "sentences": [
+        {
+          "en": "Jensen Huang to testify before Congress on ‘potential breach of national security’.",
+          "zh": null
+        },
+        {
+          "en": "High-stakes hearing comes in wake of resignation from Nvidia after alleged affair with suspected Chinese spy Nvidia’s former CEO Jensen Huang will testify before several congressional committees on 1 December, setting the stage for a high-stakes hearing in the wake of his resignation following an affair with a suspected Chinese spy.",
+          "zh": null
+        },
+        {
+          "en": "Tim Teter, Nvidia’s general counsel, has also agreed to appear for a closed-door transcribed interview the following day, 2 December.",
+          "zh": null
+        },
+        {
+          "en": "Continue reading..",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "2867624114558cca",
+      "sourceId": "aws-news",
+      "category": "cloud",
+      "title": "Four Continents, Four New AWS Heroes: Closing Out 2026",
+      "url": "https://aws.amazon.com/blogs/aws/four-continents-four-new-aws-heroes-closing-out-2026/",
+      "publishedAt": "2026-11-17T17:06:43.000Z",
+      "sentences": [
+        {
+          "en": "Four Continents, Four New AWS Heroes: Closing Out 2026.",
+          "zh": null
+        },
+        {
+          "en": "As AWS re:Invent is around the corner, we’re proud to recognize a new group of AWS Heroes .",
+          "zh": null
+        },
+        {
+          "en": "Every Hero finds their own way to give back, whether through sharing what they know, bringing people together, or building tools that help others succeed.",
+          "zh": null
+        },
+        {
+          "en": "What they have in common is a genuine commitment to supporting the builders around them learn, grow, and lead.",
+          "zh": null
+        },
+        {
+          "en": "Let us take a moment to meet them!",
+          "zh": null
+        },
+        {
+          "en": "Andres Moreno – El Paso, United States Serverless Hero Andres Moreno leads the Cloud del Norte AWS User Group and is a former AWS Community Builder.",
+          "zh": null
+        },
+        {
+          "en": "On his blog, And More Dev, and at conferences and community events, he explains serverless, cloud native architectures, generative AI, and agentic systems in ways that make new technology easier to try.",
+          "zh": null
+        },
+        {
+          "en": "Andres puts special energy into supporting builders across Latin America and helping them explore what’s possible on AWS.",
+          "zh": null
+        },
+        {
+          "en": "Geethika Guruge – Auckland, New Zealand Community Hero Geethika Guruge is a Principal Consultant at Mantel Group whose work spans serverless, DevOps, cloud infrastructure, and agentic AI.",
+          "zh": null
+        },
+        {
+          "en": "Geethika has shared real lessons from building agentic applications and leading large migration and modernization programs at AWS re:Invent, AWS Summits, and AWS Community Days.",
+          "zh": null
+        },
+        {
+          "en": "At home in Auckland, Geethika organizes local AWS meetups that encourage grassroots innovation and mentors the next generation of cloud architects and leaders.",
+          "zh": null
+        },
+        {
+          "en": "Jéssica Cristina Coelho – Belo Horizonte, Brazil Data Hero Jéssica Cristina Coelho is a Database Reliability Engineer and a former AWS Community Builder with more than 15 years of experience in databases, cloud, and data engineering.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "e4dfcc8c4cc7d973",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Temporary threads are now available in AI Mode in Search.",
+      "url": "https://blog.google/products-and-platforms/products/search/temporary-threads-ai-mode/",
+      "publishedAt": "2026-11-17T17:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Temporary threads are now available in AI Mode in Search.",
+          "zh": null
+        },
+        {
+          "en": "Google AI Mode now offers temporary threads for private searches.",
+          "zh": null
+        },
+        {
+          "en": "Keep your history clean and avoid personalization.",
+          "zh": null
+        },
+        {
+          "en": "Try this new feature today.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "29339b7285f39e60",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "10 states team up with Google on free AI training",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/ai-training-state-partnerships/",
+      "publishedAt": "2026-11-17T17:00:00.000Z",
+      "sentences": [
+        {
+          "en": "10 states team up with Google on free AI training.",
+          "zh": null
+        },
+        {
+          "en": "Free Google AI training and career certificates are now available across 10 states through local libraries and colleges.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "f71df4eeea2a175c",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Read the EmbeddingGemma 2 technical report.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2-technical-report/",
+      "publishedAt": "2026-11-17T17:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Read the EmbeddingGemma 2 technical report.",
+          "zh": null
+        },
+        {
+          "en": "The Google EmbeddingGemma 2 technical report details our new multimodal model, covering its unified vector space and compact design.",
+          "zh": null
+        },
+        {
+          "en": "Read the report.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "b451aff394adbb42",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Put Gemini to work for you",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+      "publishedAt": "2026-11-17T17:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Put Gemini to work for you.",
+          "zh": null
+        },
+        {
+          "en": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.",
+          "zh": null
+        }
+      ]
+    }
+  ],
+  "failures": []
+}
