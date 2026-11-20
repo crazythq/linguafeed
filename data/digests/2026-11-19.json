@@ -1,0 +1,961 @@
+{
+  "date": "2026-11-19",
+  "collectedAt": "2026-11-20T05:51:49.869Z",
+  "items": [
+    {
+      "id": "fd43c03e0db99d25",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "The midterms were the largest win for either party in 50 years",
+      "url": "https://www.npr.org/2026/11/19/nx-s1-6045916/democrats-midterm-house-majority",
+      "publishedAt": "2026-11-19T15:55:05.000Z",
+      "sentences": [
+        {
+          "en": "The midterms were the largest win for either party in 50 years.",
+          "zh": "这次中期选举是50年来两党中最大的一次胜利。"
+        },
+        {
+          "en": "Some 56% of people cast votes for Democrats in House races, compared to 42% who voted Republican.",
+          "zh": "约56%的人在众议院选举中投票支持民主党，而42%的人投票支持共和党。"
+        },
+        {
+          "en": "That 14-point spread is the widest win for either party in 50 years, since after Watergate.",
+          "zh": "14个百分点的差距是50年来，即自水门事件以来，任何一方取得的最大胜利。"
+        }
+      ]
+    },
+    {
+      "id": "1548d446c7c63613",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
+      "url": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-19T15:52:26.000Z",
+      "sentences": [
+        {
+          "en": "Dozens missing after boat carrying migrants sinks off Senegal's coast.",
+          "zh": "载有移民的船只在塞内加尔海岸沉没，数十人失踪。"
+        },
+        {
+          "en": "At least four bodies have been recovered from the boat which was reportedly carrying between 50 and 100 people.",
+          "zh": "据报道，这艘船上载有50至100人，目前已从船上打捞出至少四具尸体。"
+        }
+      ]
+    },
+    {
+      "id": "2d45dd075896a4c6",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "New page in history? Xi, Trump and Putin summit was more of a footnote",
+      "url": "https://www.theguardian.com/world/2026/nov/19/new-page-in-history-xi-trump-and-putin-summit-was-more-of-a-footnote",
+      "publishedAt": "2026-11-19T15:35:01.000Z",
+      "sentences": [
+        {
+          "en": "New page in history?",
+          "zh": "历史新篇章？"
+        },
+        {
+          "en": "Xi, Trump and Putin summit was more of a footnote.",
+          "zh": "习近平、特朗普和普京的峰会更像是一个脚注。"
+        },
+        {
+          "en": "Far from the grand ambitions declared in Yalta in 1945, Shenzhen felt like a meeting in search of an agenda It is arguably true, given it was the first such meeting of the leaders of China, Russia and the US, that Thursday’s gathering in Shenzhen deserved the description of “historic”.",
+          "zh": "与1945年在雅尔塔宣布的宏大抱负相去甚远，深圳峰会感觉更像是一次寻找议程的会晤。鉴于这是中国、俄罗斯和美国领导人的首次此类会晤，可以说，周四在深圳举行的这次峰会确实称得上“历史性”的。"
+        },
+        {
+          "en": "But in terms of tangible outcomes, it is unlikely to warrant the “new page in the history of diplomacy” that Vladimir Putin claimed had been written, and will instead be consigned to a smallish footnote in any future volume of the 21st century.",
+          "zh": "但就实际成果而言，它不太可能像弗拉基米尔·普京所声称的那样，成为“外交史上的新篇章”，而是会被归入21世纪未来任何一卷史书中的一个小脚注。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "44aacee85dd7a47d",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Building the right way: Lessons from 20 years in The Dalles",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/the-dalles-data-center-20-years/",
+      "publishedAt": "2026-11-19T15:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Building the right way: Lessons from 20 years in The Dalles.",
+          "zh": "以正确的方式建设：从达尔斯20年的经验中汲取的教训。"
+        },
+        {
+          "en": "As our first data center in The Dalles, Oregon, turns 20, we’re looking back and announcing new investments in the local community.",
+          "zh": "随着我们在俄勒冈州达尔斯的首个数据中心成立20周年，我们回顾过去，并宣布对当地社区的新投资。"
+        }
+      ]
+    },
+    {
+      "id": "32c1e05692d04a88",
+      "sourceId": "cloudflare-blog",
+      "category": "security",
+      "title": "Internet traffic and attacks during the 2026 U.S. midterm elections",
+      "url": "https://blog.cloudflare.com/internet-traffic-2026-us-election/",
+      "publishedAt": "2026-11-19T14:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Internet traffic and attacks during the 2026 U.S. midterm elections.",
+          "zh": "2026 年美国中期选举期间的互联网流量和攻击。"
+        },
+        {
+          "en": "Visitors to government election websites surged 363% on November 3, the date of the 2026 midterm elections in the United States.",
+          "zh": "11月3日是美国2026年中期选举的投票日，当天政府选举网站的访问量激增363%。"
+        },
+        {
+          "en": "Across Cloudflare&#x27;s election protection programs, we also detected a significant shift in the types and timing of cyberattacks throughout 2026.",
+          "zh": "在 Cloudflare 的选举保护计划中，我们也发现了 2026 年全年网络攻击的类型和时机发生了重大变化。"
+        },
+        {
+          "en": "Unlike what we saw in other recent elections, attackers focused on gaining access to internal systems and data, rather than knocking websites offline.",
+          "zh": "与其他近期选举不同的是，攻击者专注于获取对内部系统和数据的访问权限，而不是使网站下线。"
+        },
+        {
+          "en": "Government election websites faced website vulnerability attempts 180 times more often than denial-of-service (DDoS) attacks, and at roughly ten times the rate of Cloudflare&#x27;s broader customer base.",
+          "zh": "政府选举网站面临的网站漏洞攻击尝试比拒绝服务（DDoS）攻击的频率高出180倍，比Cloudflare更广泛的客户群的频率高出约10倍。"
+        },
+        {
+          "en": "We also found evidence of at least one attempt to exploit a recently disclosed critical PHP vulnerability on a state government voting website in the Western United States.",
+          "zh": "我们还发现了至少一次试图利用最近披露的严重 PHP 漏洞攻击美国西部某州政府投票网站的证据。"
+        },
+        {
+          "en": "These attacks peaked in late October, several weeks before the election.",
+          "zh": "这些攻击在 10 月下旬达到高峰，距选举还有几周时间。"
+        },
+        {
+          "en": "Vulnerability exploit attempts climbed steadily throughout 2026: from 200,000 per day in January, to 2 million per day in October.",
+          "zh": "2026 年全年，漏洞利用企图稳步攀升：从 1 月的每天 20 万次，到 10 月的每天 200 万次。"
+        },
+        {
+          "en": "However, on Election Day in the U.S., Cloudflare detected no escalation in attack volume and zero major DDoS incidents across protected election sites, marking a sharp contrast to other recent elections, such as in Moldova last year.",
+          "zh": "然而，在美国大选日当天，Cloudflare 未检测到攻击量的增加，且在受保护的选举网站上未发生重大 DDoS 事件，这与其他近期选举（如去年在摩尔多瓦举行的选举）形成了鲜明对比。"
+        },
+        {
+          "en": "Our data regarding cyberattacks on election institutions came from organizations participating in Cloudflare&#x27;s free cybersecurity programs: the Athenian Project , Cloudflare for Campaigns , and Project Galileo .",
+          "zh": "我们有关选举机构遭受网络攻击的数据来自参与 Cloudflare 免费网络安全计划的组织：雅典计划、Cloudflare for Campaigns 和伽利略计划。"
+        },
+        {
+          "en": "Together, these initiatives helped protect more than 1,400 election-related websites during the 2026 U.S. midterm elections, including those belonging to state and local governments, candidates, political parties, voting-rights advocates, journalists, and civil society groups.",
+          "zh": "这些举措共同帮助在2026年美国中期选举期间保护了1400多个与选举相关的网站，包括属于州和地方政府、候选人、政党、投票权倡导者、记者和民间社会团体的网站。"
+        },
+        {
+          "en": "Cloudflare launched its first election protection program in 2016 after widespread reports of cyberattacks targeting the U.S. elections.",
+          "zh": "2016 年，在针对美国大选的网络攻击被广泛报道后，Cloudflare 启动了首个选举保护计划。"
+        }
+      ]
+    },
+    {
+      "id": "0f1dfbdae502ca8b",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Venezuela signs military deal with US less than a year after Maduro's removal",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-19T13:31:23.000Z",
+      "sentences": [
+        {
+          "en": "Venezuela signs military deal with US less than a year after Maduro's removal.",
+          "zh": "委内瑞拉在马杜罗下台不到一年后与美国签署军事协议。"
+        },
+        {
+          "en": "The US Secretary of Defence says Venezuela has \"gone from our most aggressive regional threat to a compliant security partner\".",
+          "zh": "美国国防部长表示，委内瑞拉已“从我们最具侵略性的区域威胁转变为听话的安全伙伴”。"
+        }
+      ]
+    },
+    {
+      "id": "544e5abb581c180c",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "What is at stake at the EU-UK summit in Brussels?",
+      "url": "https://www.theguardian.com/politics/2026/nov/19/eu-uk-summit-explainer-burnham-brexit-brussels",
+      "publishedAt": "2026-11-19T13:11:23.000Z",
+      "sentences": [
+        {
+          "en": "What is at stake at the EU-UK summit in Brussels?.",
+          "zh": "布鲁塞尔欧盟-英国峰会的利害关系是什么？"
+        },
+        {
+          "en": "Leaders will wrestle with easing Brexit red tape, restoring emissions trading and opening up youth mobility UK politics live – latest updates The EU and UK will hold a long-awaited summit in Brussels on Friday – the second since Brexit – to hammer out the UK’s longer-term relationship with the bloc.",
+          "zh": "两国领导人将就简化英国脱欧的繁文缛节、恢复碳排放交易以及开放青年流动等问题展开博弈。英国政情直播——最新消息欧盟和英国将于周五在布鲁塞尔举行备受期待的峰会——这是自英国脱欧以来的第二次峰会——以敲定英国与欧盟的长期关系。"
+        },
+        {
+          "en": "It will be attended by the prime minister, Andy Burnham, the head of the European Commission, Ursula von der Leyen, and the president of the European Council, António Costa.",
+          "zh": "出席会议的有英国首相、安迪·伯纳姆（Andy Burnham）、欧盟委员会主席乌尔苏拉·冯·德·莱恩（Ursula von der Leyen）和欧洲理事会主席安东尼奥·科斯塔（António Costa）。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "ecb256426dd1c275",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
+      "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-19T13:07:35.000Z",
+      "sentences": [
+        {
+          "en": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge.",
+          "zh": "普京誓言对乌克兰袭击克里米亚大桥做出“更加严厉”的回应。"
+        },
+        {
+          "en": "The bridge - a symbol of Russia's occupation of the Crimean Peninsula - suffered major damaged following a combined attack by Ukraine earlier this week.",
+          "zh": "这座桥梁是俄罗斯占领克里米亚半岛的象征，在本周早些时候遭到乌克兰的联合袭击后，遭受了重大破坏。"
+        }
+      ]
+    },
+    {
+      "id": "1d3b0e4eaaa80095",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "We’re partnering with Blue Origin on our first heavy-lift Project Suncatcher launch.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/blue-origin-project-suncatcher-partnership/",
+      "publishedAt": "2026-11-19T13:00:00.000Z",
+      "sentences": [
+        {
+          "en": "We’re partnering with Blue Origin on our first heavy-lift Project Suncatcher launch.",
+          "zh": "我们正在与蓝色起源合作，进行我们的首个重型运载火箭“Suncatcher”项目的发射。"
+        },
+        {
+          "en": "We’re partnering with Blue Origin on the first heavy-lift launch for Project Suncatcher, our long-term moonshot to scale AI infrastructure in space by tapping into the a…",
+          "zh": "我们正在与Blue Origin合作，共同实施Project Suncatcher的首次重型运载火箭发射。该项目是我们一项长期宏伟计划，旨在通过利用……来扩展太空中的人工智能基础设施。"
+        }
+      ]
+    },
+    {
+      "id": "eb1e212b48f5a233",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "US consortium wins huge Kenya mining deal, beating Chinese rivals",
+      "url": "https://www.bbc.co.uk/news/articles/cm9q84gp0gr3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-19T12:56:30.000Z",
+      "sentences": [
+        {
+          "en": "US consortium wins huge Kenya mining deal, beating Chinese rivals.",
+          "zh": "美国财团击败中国竞争对手，赢得肯尼亚巨额采矿合同。"
+        },
+        {
+          "en": "The Mrima Hill site is estimated to hold deposits of critical minerals worth more than $60bn (£45bn).",
+          "zh": "据估计，姆里马山矿址蕴藏的关键矿产储量价值超过600亿美元（450亿英镑）。"
+        }
+      ]
+    },
+    {
+      "id": "666ba17e29533e1c",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "The U.N.'s top court rules Myanmar committed genocide against the Rohingya",
+      "url": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya",
+      "publishedAt": "2026-11-19T12:29:41.000Z",
+      "sentences": [
+        {
+          "en": "The U.N.'",
+          "zh": "联合国的"
+        },
+        {
+          "en": "s top court rules Myanmar committed genocide against the Rohingya.",
+          "zh": "最高法院裁定缅甸对罗兴亚人犯下种族灭绝罪。"
+        },
+        {
+          "en": "The International Court of Justice found that Myanmar security forces \"acted with genocidal intent\" against the Rohingya during military operations in the northern Rakhine state in 2017.",
+          "zh": "国际法院裁定，2017年缅甸安全部队在若开邦北部开展军事行动时，对罗兴亚人“怀有种族灭绝意图”。"
+        },
+        {
+          "en": "(Image credit: Salahuddin Ahmed)",
+          "zh": "（图片来源：Salahuddin Ahmed）"
+        }
+      ]
+    },
+    {
+      "id": "6b07fcf50364d67f",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "World Toilet Day is a funny idea with a serious goal: A world awash in toilets",
+      "url": "https://www.npr.org/2026/11/19/g-s1-154159/world-toilet-day-gender-equality-menstruation",
+      "publishedAt": "2026-11-19T12:26:31.000Z",
+      "sentences": [
+        {
+          "en": "World Toilet Day is a funny idea with a serious goal: A world awash in toilets.",
+          "zh": "世界厕所日是一个有趣的点子，但其目标却很严肃：让全世界都装满厕所。"
+        },
+        {
+          "en": "Yahoo for the loo!",
+          "zh": "太好了，有厕所！"
+        },
+        {
+          "en": "November 19 marks the 25th anniversary of World Toilet Day.",
+          "zh": "11月19日是第25个世界厕所日。"
+        },
+        {
+          "en": "The theme this year: \"Sanitation and Gender Equality: Safe Toilets, Equal Futures.\"",
+          "zh": "今年的主题是：“卫生与性别平等：安全的厕所，平等的未来。”"
+        },
+        {
+          "en": "(Image credit: John Poole/Ryan Kellman/NPR )",
+          "zh": "（图片来源：John Poole/Ryan Kellman/NPR）"
+        }
+      ]
+    },
+    {
+      "id": "8bb330a5cfc1fee1",
+      "sourceId": "npr-news",
+      "category": "ai",
+      "title": "Anthropic raises more than $100B in IPO. And, Dems nominate Jeffries for House speaker",
+      "url": "https://www.npr.org/2026/11/19/g-s1-154344/up-first-newsletter-house-democrats-trump-xi-putin-anthropic",
+      "publishedAt": "2026-11-19T12:26:01.000Z",
+      "sentences": [
+        {
+          "en": "Anthropic raises more than $100B in IPO.",
+          "zh": "Anthropic 在 IPO 中筹集了超过 1000 亿美元的资金。"
+        },
+        {
+          "en": "And, Dems nominate Jeffries for House speaker.",
+          "zh": "此外，民主党提名杰弗里斯为众议院议长。"
+        },
+        {
+          "en": "Despite growing concern over a possible AI bubble, Anthropic had a record-breaking initial public offering.",
+          "zh": "尽管人们对可能出现的人工智能泡沫的担忧日益加剧，但Anthropic的首次公开募股仍创下了历史新高。"
+        },
+        {
+          "en": "And, Hakeem Jeffries could become the first Black Speaker of the House.",
+          "zh": "此外，哈基姆·杰弗里斯有望成为众议院首位黑人议长。"
+        },
+        {
+          "en": "(Image credit: Idrees Mohammed)",
+          "zh": "（图片来源：Idrees Mohammed）"
+        }
+      ]
+    },
+    {
+      "id": "d9590ae676aea05f",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "World’s top court finds Myanmar guilty of genocide against Rohingya",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168836",
+      "publishedAt": "2026-11-19T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "World’s top court finds Myanmar guilty of genocide against Rohingya.",
+          "zh": "世界最高法院裁定缅甸对罗兴亚人犯有种族灭绝罪。"
+        },
+        {
+          "en": "The International Court of Justice, the principal judicial organ of the UN, delivered its judgment on Thursday in the case of The Gambia v.",
+          "zh": "联合国主要司法机构国际法院于周四就冈比亚诉"
+        },
+        {
+          "en": "Myanmar on the application of the Genocide Convention, finding Myanmar responsible for the crime against the country’s ethnic Rohingya, the first such ruling against a State.",
+          "zh": "缅甸适用《灭绝种族罪公约》的情况，裁定缅甸应对该国罗兴亚族人遭受的罪行负责，这是针对一国作出的首例此类裁决。"
+        }
+      ]
+    },
+    {
+      "id": "54080d49b28caf36",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "No government approval needed to form or join a group, UN rights committee says",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168837",
+      "publishedAt": "2026-11-19T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "No government approval needed to form or join a group, UN rights committee says.",
+          "zh": "联合国人权委员会表示，组建或加入团体无需政府批准。"
+        },
+        {
+          "en": "People do not need their government’s permission to form or join an association, the UN Human Rights Committee said on Thursday, issuing new guidance as civic space shrinks around the world.",
+          "zh": "联合国人权事务委员会周四表示，人们无需政府的许可即可成立或加入社团，并发布了新的指导意见，因为全球公民空间正在萎缩。"
+        }
+      ]
+    },
+    {
+      "id": "cb25ee157274b1df",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "COP31: Ambition goes missing as fossil fuel language drops from draft deal",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168839",
+      "publishedAt": "2026-11-19T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "COP31: Ambition goes missing as fossil fuel language drops from draft deal.",
+          "zh": "COP31：随着化石燃料的表述从协议草案中消失，雄心壮志也随之不见踪影。"
+        },
+        {
+          "en": "A cat named Ambition went missing again at COP31 on Thursday.",
+          "zh": "一只名叫“雄心”的猫周四在COP31上再次走失。"
+        },
+        {
+          "en": "While activists delivered the message with humour, it reflected a serious concern: explicit references to moving away from fossil fuels had disappeared from the latest draft climate agreement.",
+          "zh": "虽然活动人士以幽默的方式传达了这一信息，但它反映了一个严肃的问题：在最新的气候协议草案中，不再明确提及要弃用化石燃料。"
+        },
+        {
+          "en": "On the eve of the summit's scheduled close, ministers and the Presidency were still trying to bridge sharp differences as civil society groups pressed for stronger action.",
+          "zh": "在峰会即将按计划闭幕之际，各国部长和主席国仍在努力弥合尖锐分歧，而民间社会团体则敦促采取更强有力的行动。"
+        }
+      ]
+    },
+    {
+      "id": "29b28d61ecc7b2f0",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Florida pastor found guilty over role in assassination of Haitian president",
+      "url": "https://www.bbc.co.uk/news/articles/cm702q0lg50po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-19T11:44:57.000Z",
+      "sentences": [
+        {
+          "en": "Florida pastor found guilty over role in assassination of Haitian president.",
+          "zh": "佛罗里达州牧师因参与刺杀海地总统而被判有罪。"
+        },
+        {
+          "en": "Christian Emmanuel Sanon is convicted of involvement in the plot that resulted in the killing of Jovenel Moïse.",
+          "zh": "克里斯蒂安·埃马纽埃尔·萨农因参与导致若弗内尔·莫伊兹遇害的阴谋而被定罪。"
+        }
+      ]
+    },
+    {
+      "id": "892f970dcb70f1c4",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Incoming House majority leader Katherine Clark stresses Democratic unity",
+      "url": "https://www.npr.org/2026/11/19/nx-s1-6045750/katherine-clark-hakeem-jeffries-house-democrats",
+      "publishedAt": "2026-11-19T11:20:42.000Z",
+      "sentences": [
+        {
+          "en": "Incoming House majority leader Katherine Clark stresses Democratic unity.",
+          "zh": "即将上任的众议院多数党领袖凯瑟琳·克拉克强调民主党的团结。"
+        },
+        {
+          "en": "As Democrats prepare to take control of the House, incoming majority leader Katherine Clark discusses the party's ambitious agenda and divisions within its ranks.",
+          "zh": "随着民主党人准备掌控众议院，即将上任的多数党领袖凯瑟琳·克拉克（Katherine Clark）讨论了该党的宏伟议程及其内部的分歧。"
+        },
+        {
+          "en": "(Image credit: Anna Moneymaker)",
+          "zh": "（图片来源：Anna Moneymaker）"
+        }
+      ]
+    },
+    {
+      "id": "1171f8f8cbabc107",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Top House Democrat questions what Trump accomplished in Xi-Putin summit",
+      "url": "https://www.npr.org/2026/11/19/nx-s1-6046487/gregory-meeks-trump-xi-putin-summit",
+      "publishedAt": "2026-11-19T11:20:37.000Z",
+      "sentences": [
+        {
+          "en": "Top House Democrat questions what Trump accomplished in Xi-Putin summit.",
+          "zh": "众议院民主党领袖质疑特朗普在习近平-普京峰会上取得了什么成果。"
+        },
+        {
+          "en": "Rep.",
+          "zh": "共和国"
+        },
+        {
+          "en": "Gregory Meeks raises concerns about U.S. alliances after Trump's summit with Xi and Putin.",
+          "zh": "格雷戈里·米克斯对特朗普与习近平和普京举行峰会后美国的联盟关系表示担忧。"
+        },
+        {
+          "en": "He also discusses Chinese espionage amid the Nvidia scandal.",
+          "zh": "他还讨论了英伟达丑闻中的中国间谍活动。"
+        },
+        {
+          "en": "(Image credit: Aaron Schwartz)",
+          "zh": "（图片来源：Aaron Schwartz）"
+        }
+      ]
+    },
+    {
+      "id": "e079575437a76ace",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Race to replant five South African baobabs after export blocked",
+      "url": "https://www.theguardian.com/environment/2026/nov/19/baobab-five-trees-south-africa-dug-up-export-blocked-georgia-aoe",
+      "publishedAt": "2026-11-19T11:03:24.000Z",
+      "sentences": [
+        {
+          "en": "Race to replant five South African baobabs after export blocked.",
+          "zh": "在出口受阻后，争分夺秒地重新种植五棵南非猴面包树。"
+        },
+        {
+          "en": "The trees, intended for an unnamed buyer in Georgia, were reportedly dug up without the necessary permits Environmentalists in South Africa are racing to replant five centuries-old baobabs after the 20-tonne trees were dug up by an exporter, who tried to ship them thousands of miles to Georgia.",
+          "zh": "据报道，这些树木原定运往格鲁吉亚，买家身份不明，且挖掘时未获得必要许可。在南非，环保人士正争分夺秒地重新栽种五棵树龄达五百年的猴面包树，此前，一名出口商将这些重达20吨的树木挖出，试图将它们运送数千英里至格鲁吉亚。"
+        },
+        {
+          "en": "The baobabs arrived at a reserve in Timbavati, in north-eastern South Africa, on Wednesday, where they will be replanted and supported by cables to help them recover.",
+          "zh": "周三，猴面包树抵达了位于南非东北部的廷巴瓦蒂（Timbavati）保护区，它们将在这里被重新栽种，并用钢缆支撑，以帮助其恢复。"
+        },
+        {
+          "en": "The trees had been stranded at a warehouse in Durban since July, when they were intercepted by authorities who said they had been moved without the necessary permissions.",
+          "zh": "自7月以来，这些树木一直被搁置在德班的一个仓库里，当时它们被当局截获，当局称这些树木是在未经必要许可的情况下被转移的。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "71f945fa86943868",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Google’s water stewardship commitments for local communities",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/new-water-stewardship-commitments/",
+      "publishedAt": "2026-11-19T10:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Google’s water stewardship commitments for local communities.",
+          "zh": "Google 对当地社区的水资源管理承诺。"
+        },
+        {
+          "en": "Learn about our new water stewardship commitments, initiatives and recent Water Replenishment Projects Request for Information.",
+          "zh": "了解我们新的水资源管理承诺、举措以及最近的水资源补给项目信息征询。"
+        }
+      ]
+    },
+    {
+      "id": "e021e7270166e91a",
+      "sourceId": "npr-news",
+      "category": "ai",
+      "title": "Investors scramble for a piece of AI giant Anthropic in blockbuster IPO",
+      "url": "https://www.npr.org/2026/11/19/nx-s1-6042558/anthropic-ipo-breaks-records-100-billion",
+      "publishedAt": "2026-11-19T10:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Investors scramble for a piece of AI giant Anthropic in blockbuster IPO.",
+          "zh": "投资者争相在轰动一时的IPO中抢购人工智能巨头Anthropic的股份。"
+        },
+        {
+          "en": "Shares in the maker of the popular Claude artificial intelligence model leapt in first day of trading on the Nasdaq Thursday.",
+          "zh": "周四，这家热门人工智能模型Claude的制造商在纳斯达克上市首日股价飙升。"
+        },
+        {
+          "en": "(Image credit: CHARLY TRIBALLEAU)",
+          "zh": "（图片来源：CHARLY TRIBALLEAU）"
+        }
+      ]
+    },
+    {
+      "id": "1003cd7da12c85aa",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Survivors of Uganda's deadly landslide seek justice at the UN",
+      "url": "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-19T09:21:54.000Z",
+      "sentences": [
+        {
+          "en": "Survivors of Uganda's deadly landslide seek justice at the UN.",
+          "zh": "乌干达致命山体滑坡的幸存者在联合国寻求正义。"
+        },
+        {
+          "en": "Survivors reject relocation plans they say ignore their safety, land rights and livelihoods.",
+          "zh": "幸存者拒绝接受搬迁计划，称该计划无视他们的安全、土地权和生计。"
+        }
+      ]
+    },
+    {
+      "id": "41ceb8db6bde3d56",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Datacentres to create 70% more carbon emissions by 2030, IEA report warns",
+      "url": "https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns",
+      "publishedAt": "2026-11-19T05:00:18.000Z",
+      "sentences": [
+        {
+          "en": "Datacentres to create 70% more carbon emissions by 2030, IEA report warns.",
+          "zh": "国际能源署（IEA）的报告警告称，到2030年，数据中心的碳排放量将增加70%。"
+        },
+        {
+          "en": "Global energy watchdog forecasts huge rise as US and China turn to fossil fuels to power AI growth agendas The world’s datacentres will create 70% more carbon emissions within the next four years as the US and China turn to fossil fuels to power their AI growth agendas, according to the world’s energy watchdog.",
+          "zh": "全球能源监管机构预测，随着美国和中国转向使用化石燃料来推动人工智能发展议程，碳排放量将大幅增加。据全球能源监管机构称，由于美国和中国转向使用化石燃料来推动其人工智能发展议程，全球数据中心在未来四年内的碳排放量将增加70%。"
+        },
+        {
+          "en": "The International Energy Agency (IEA) warned that datacentres will consume twice as much electricity by 2030 compared with today, with the global expansion of artificial intelligence accounting for three-quarters of this growth.",
+          "zh": "国际能源署（IEA）警告称，到2030年，数据中心的耗电量将是现在的两倍，其中四分之三的增长将来自人工智能的全球扩张。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "2b7e66a3cbc379a3",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "One in four women globally unable to refuse sex within marriage, says UN",
+      "url": "https://www.theguardian.com/global-development/2026/nov/19/women-girls-rights-rape-sexual-violence-africa-marriage-unfpa",
+      "publishedAt": "2026-11-19T04:00:16.000Z",
+      "sentences": [
+        {
+          "en": "One in four women globally unable to refuse sex within marriage, says UN.",
+          "zh": "联合国表示，全球有四分之一的女性无法在婚姻中拒绝性行为。"
+        },
+        {
+          "en": "Almost half of women in west and central Africa cannot withhold consent, with girls worst affected, UNFPA finds One in four women around the world have no power of consent if their husband or partner demands sex, according to a UN report.",
+          "zh": "联合国人口基金会发现，在西非和中非，近一半的女性无法拒绝同意，其中受影响最严重的是女孩。根据联合国的一份报告，在全球范围内，每四名女性中就有一名在丈夫或伴侣要求性行为时无权拒绝同意。"
+        },
+        {
+          "en": "In west and central Africa, almost half of women (45%) are not able to say no in their own marriage, while a third of women (33%) in east and southern Africa and in Arab states face the same predicament.",
+          "zh": "在西非和中非，近一半的妇女（45%）在自己的婚姻中无法拒绝，而在东非和南部非洲以及阿拉伯国家，三分之一的妇女（33%）面临同样的困境。"
+        },
+        {
+          "en": "In Latin America and the Caribbean, one in 10 women are not able to refuse sex, said the report by the UN Population Fund ( UNFPA ) published on Thursday.",
+          "zh": "联合国人口基金（UNFPA）周四发布的报告称，在拉丁美洲和加勒比地区，每10名女性中就有一名无法拒绝性行为。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "5b76b8d80d91a943",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
+      "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-19T02:59:06.000Z",
+      "sentences": [
+        {
+          "en": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'.",
+          "zh": "埃隆·马斯克表示，在美国中期选举中花费创纪录的4.46亿美元“相当愚蠢”。"
+        },
+        {
+          "en": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
+          "zh": "这位亿万富翁还表示，他“不是‘让美国再次伟大’（Maga）的拥趸”，以此与与特朗普有关的政治运动划清界限。"
+        }
+      ]
+    },
+    {
+      "id": "877afe82f192b0c8",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+      "url": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-19T00:49:19.000Z",
+      "sentences": [
+        {
+          "en": "Van Gogh painting sells for record $190.4m after row over its Nazi history.",
+          "zh": "梵高画作在引发纳粹历史争议后以创纪录的1.904亿美元售出。"
+        },
+        {
+          "en": "Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life.",
+          "zh": "《盛开的栗树》（Châtaigniers en fleurs）创作于1890年，即文森特·梵高（Vincent van Gogh）生命的最后两个月。"
+        }
+      ]
+    },
+    {
+      "id": "89463a15fdb11f74",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Florida pastor found guilty over 2021 assassination of Haitian president",
+      "url": "https://www.theguardian.com/us-news/2026/nov/18/florida-pastor-guilty-haiti-president-assassination",
+      "publishedAt": "2026-11-18T22:31:41.000Z",
+      "sentences": [
+        {
+          "en": "Florida pastor found guilty over 2021 assassination of Haitian president.",
+          "zh": "佛罗里达州牧师因2021年海地总统遇刺案被判有罪。"
+        },
+        {
+          "en": "Christian Emmanuel Sanon faces life in prison after conviction on charges arising from killing of Jovenel Moïse A Florida pastor with dual Haitian-American citizenship was convicted on Wednesday of US charges arising from the 2021 assassination of the Haitian president Jovenel Moïse.",
+          "zh": "克里斯蒂安·埃马纽埃尔·萨农因被控谋杀若弗内尔·莫伊兹而被判刑，面临终身监禁。这位拥有海地和美国双重国籍的佛罗里达牧师于周三因2021年海地总统若弗内尔·莫伊兹遇刺一案而被美国定罪。"
+        },
+        {
+          "en": "Christian Emmanuel Sanon was found guilty on charges including conspiring to kill Moïse after a nearly eight-week trial in federal court in Miami.",
+          "zh": "在迈阿密联邦法院历时近八周的审判中，克里斯蒂安·埃马纽埃尔·萨农（Christian Emmanuel Sanon）被裁定犯有包括密谋刺杀莫伊兹在内的多项罪名。"
+        },
+        {
+          "en": "He had faced a total of eight charges including conspiracy to kidnap or kill a person outside the United States.",
+          "zh": "他总共面临八项指控，包括密谋在美国境外绑架或杀害他人。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "c9098ac47ad21321",
+      "sourceId": "cloudflare-blog",
+      "category": "ai",
+      "title": "An updated Clairic and Clairic-flash are now open-weight, from the new Workers AI Superintelligence team",
+      "url": "https://blog.cloudflare.com/open-clairic/",
+      "publishedAt": "2026-11-18T22:00:00.000Z",
+      "sentences": [
+        {
+          "en": "An updated Clairic and Clairic-flash are now open-weight, from the new Workers AI Superintelligence team.",
+          "zh": "来自全新Workers AI超级智能团队的Clairic和Clairic-flash现已更新为开放权重。"
+        },
+        {
+          "en": "Cloudflare has become a neolab.",
+          "zh": null
+        },
+        {
+          "en": "We’re building our own frontier AI models for our customers and the open-source community.",
+          "zh": "我们正在为我们的客户和开源社区构建我们自己的前沿人工智能模型。"
+        },
+        {
+          "en": "Today, we’re announcing two open-weight model releases: We’re introducing an updated version of Clairic .",
+          "zh": null
+        },
+        {
+          "en": "Since the preview, we’ve improved extraction from complex documents including images and PDFs (new!)",
+          "zh": null
+        },
+        {
+          "en": ", with more reliable handling of tables, lists, and dates, and better grounding of answers in the source material.",
+          "zh": null
+        },
+        {
+          "en": "We’re introducing Clairic-flash , a lighter, faster version of Clairic that delivers strong extraction and prediction performance in a compact, 9-billion-parameter model.",
+          "zh": null
+        },
+        {
+          "en": "Both extraction models are hosted on Workers AI and full open weights are available on Hugging Face .",
+          "zh": null
+        },
+        {
+          "en": "We’re also excited to re-introduce ourselves as the Workers AI superintelligence team, the frontier AI research team behind Clef , Clairic, and lots more in the works.",
+          "zh": null
+        },
+        {
+          "en": "This team is working quickly to push the AI frontier and build useful models for Cloudflare’s customers and the open source community.",
+          "zh": null
+        },
+        {
+          "en": "A new version of Clairic: redesigned after the preview release Since announcing Clairic in preview, we have received a ton of use cases and helpful feedback on how customers wanted to use an extraction model.",
+          "zh": null
+        },
+        {
+          "en": "We heard about use cases ranging from extracting data from images like receipts to reading values from support tickets.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "f539fcdaf975fdb9",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Introducing Gemini 4 Neon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+      "publishedAt": "2026-11-18T21:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Introducing Gemini 4 Neon.",
+          "zh": "隆重推出Gemini 4 Neon。"
+        },
+        {
+          "en": "Today, we’re introducing Gemini 4 Neon",
+          "zh": "今天，我们隆重推出 Gemini 4 Neon"
+        }
+      ]
+    },
+    {
+      "id": "f9ed3e7bd8190f5b",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Hegseth uses Venezuela visit to boast of Maduro’s capture by US military",
+      "url": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
+      "publishedAt": "2026-11-18T20:24:19.000Z",
+      "sentences": [
+        {
+          "en": "Hegseth uses Venezuela visit to boast of Maduro’s capture by US military.",
+          "zh": "黑格塞斯利用对委内瑞拉的访问来吹嘘美国军方将逮捕马杜罗。"
+        },
+        {
+          "en": "Defense secretary asserts US dominance on trip that would have seemed ‘impossible, almost unbelievable’ a year ago Pete Hegseth has used his first visit to Venezuela since US special forces abducted its former president, Nicolás Maduro, to boast of the dictator’s capture during what he called “the single most sophisticated military operation in the history of Latin America”.",
+          "zh": "美国国防部长在访问中宣称美国占据主导地位，而这一访问在一年以前似乎“不可能，几乎难以置信”皮特·赫格塞斯（Pete Hegseth）利用自美国特种部队绑架委内瑞拉前总统尼古拉斯·马杜罗（Nicolás Maduro）以来的首次委内瑞拉之行，吹嘘在一次他所称的“拉丁美洲历史上最复杂的军事行动”中抓获了这位独裁者。"
+        },
+        {
+          "en": "Maduro was controversially seized by Delta Force operatives in the early hours of 3 January, setting in motion an improbable rapprochement between Washington and Venezuela’s anti-imperialist “Chavista” regime, which has ruled since 1999.",
+          "zh": "1月3日凌晨，马杜罗被三角洲特种部队的特工以有争议的方式抓获，这引发了华盛顿与委内瑞拉自1999年以来执政的反帝国主义“查韦斯主义”政权之间不可能的和解。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "640b356eb46911d7",
+      "sourceId": "aws-news",
+      "category": "cloud",
+      "title": "AWS Lambda now supports GPU instances for Event Functions on Lambda Managed Instances",
+      "url": "https://aws.amazon.com/blogs/aws/aws-lambda-now-supports-gpu-instances-for-event-functions-on-lambda-managed-instances/",
+      "publishedAt": "2026-11-18T19:39:07.000Z",
+      "sentences": [
+        {
+          "en": "AWS Lambda now supports GPU instances for Event Functions on Lambda Managed Instances.",
+          "zh": "AWS Lambda 现在支持 Lambda 托管实例上的事件函数使用 GPU 实例。"
+        },
+        {
+          "en": "GPU support is now available for EC2 G-series GPU instances for Event Functions running on AWS Lambda Managed Instances (LMI).",
+          "zh": "现在，对于在AWS Lambda托管实例（LMI）上运行的事件函数，EC2 G系列GPU实例提供GPU支持。"
+        },
+        {
+          "en": "You can now run GPU-accelerated workloads, including machine learning inference, media processing, rendering, and scientific computing, on GPU instances with serverless simplicity.",
+          "zh": "现在，您可以在 GPU 实例上以无服务器的简洁方式运行 GPU 加速的工作负载，包括机器学习推理、媒体处理、渲染和科学计算。"
+        },
+        {
+          "en": "GPU-accelerated functions are deployed as container (Open Container Initiative, OCI) images.",
+          "zh": "GPU 加速函数以容器（开放容器计划，OCI）镜像的形式部署。"
+        },
+        {
+          "en": "You build an OCI image, point the function at it, and let Lambda handle provisioning, scaling, and event integration.",
+          "zh": "您构建一个OCI镜像，将函数指向该镜像，然后让Lambda处理预置、扩展和事件集成。"
+        },
+        {
+          "en": "There are no GPU drivers, CUDA versions, or AMIs to reconcile, and no clusters or device plugins to operate.",
+          "zh": "无需协调 GPU 驱动程序、CUDA 版本或 AMI，也无需操作集群或设备插件。"
+        },
+        {
+          "en": "GPU-accelerated functions run on the same Lambda Managed Instances foundation that already gives you Amazon EC2 pricing and specialized compute without managing servers.",
+          "zh": "GPU 加速函数在与您已经享用 Amazon EC2 定价和专用计算的同一 Lambda 托管实例基础上运行，无需管理服务器。"
+        },
+        {
+          "en": "Why customers need this Customers keep asking to run GPU workloads with the simplicity of serverless.",
+          "zh": "为什么客户需要这项服务？客户一直在要求以无服务器的简便性来运行 GPU 工作负载。"
+        },
+        {
+          "en": "Building on self-managed GPU infrastructure means selecting instances, installing and reconciling GPU drivers and CUDA libraries, planning capacity, writing scaling logic, and hand-building the event integrations that connect the GPU step to the rest of the application.",
+          "zh": "在自管GPU基础设施的基础上进行构建意味着需要选择实例、安装和协调GPU驱动程序和CUDA库、规划容量、编写扩展逻辑，以及手动构建将GPU步骤与应用程序的其余部分连接起来的事件集成。"
+        },
+        {
+          "en": "Serverless GPU services that hide that work often sit outside your AWS environment, with no native event sources, identity, or networking.",
+          "zh": "隐藏该工作的无服务器 GPU 服务通常位于您的 AWS 环境之外，没有原生事件源、身份或联网。"
+        },
+        {
+          "en": "Cost is the second problem.",
+          "zh": "成本是第二个问题。"
+        },
+        {
+          "en": "GPUs are expensive, and utilization is usually low because a single workload rarely saturates a GPU.",
+          "zh": "GPU 价格昂贵，利用率通常较低，因为单个工作负载很少能使 GPU 饱和。"
+        }
+      ]
+    },
+    {
+      "id": "d792e66a415df382",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Las Vegas race week brings big rewards to Google Play",
+      "url": "https://blog.google/products-and-platforms/platforms/google-play/auction-google-play-las-vegas/",
+      "publishedAt": "2026-11-18T18:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Las Vegas race week brings big rewards to Google Play.",
+          "zh": "拉斯维加斯赛车周为Google Play带来了丰厚的回报。"
+        },
+        {
+          "en": "Unlock digital perks via our rewards case and Use tab, or join The Auction by Google Play live in Las Vegas.",
+          "zh": "通过我们的奖励礼盒和“使用”选项卡解锁数字福利，或参加在拉斯维加斯举行的Google Play拍卖会。"
+        }
+      ]
+    },
+    {
+      "id": "63f8f522e5630737",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Google for Mexico: Technology impact that goes beyond business",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-latin-america/google-for-mexico-2026-november/",
+      "publishedAt": "2026-11-18T18:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Google for Mexico: Technology impact that goes beyond business.",
+          "zh": "Google助力墨西哥：超越商业的技术影响力。"
+        },
+        {
+          "en": "At this year’s Google for Mexico, we announced how our latest AI innovations and partnerships are translating into real-world growth across the country.",
+          "zh": "在今年的“Google助力墨西哥”活动中，我们宣布了我们的最新人工智能创新和合作伙伴关系如何转化为该国的实际增长。"
+        }
+      ]
+    },
+    {
+      "id": "52f6bc9a43b3606d",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Genie 4 is now available",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+      "publishedAt": "2026-11-18T18:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Genie 4 is now available.",
+          "zh": "Genie 4现已上市。"
+        },
+        {
+          "en": "We are rolling out a new Project Genie experience to eligible Google AI Ultra subscribers, opening access to our new Genie 4 world model.",
+          "zh": "我们正在面向符合条件的 Google AI Ultra 订阅用户推出全新的 Project Genie 体验，开放对我们全新 Genie 4 世界模型的访问权限。"
+        }
+      ]
+    },
+    {
+      "id": "d8409bdc74cef688",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Apec summit as it happened: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’",
+      "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
+      "publishedAt": "2026-11-18T17:48:24.000Z",
+      "sentences": [
+        {
+          "en": "Apec summit as it happened: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’.",
+          "zh": "亚太经合组织峰会实况报道：习近平欢迎特朗普访华，普京称欧洲正处于“屈辱的衰落”之中。"
+        },
+        {
+          "en": "This blog is now closed, you can read more on this story here Yalta became a byword for betrayal.",
+          "zh": "此博客现已关闭，您可以在此处阅读有关此故事的更多内容：雅尔塔成为背叛的代名词。"
+        },
+        {
+          "en": "Will Trump, Xi and Putin enact another carve-up?",
+          "zh": "特朗普、习近平和普京会再次瓜分世界吗？"
+        },
+        {
+          "en": "That is the question the Guardian’s diplomatic correspondent Patrick Wintour seeks to address in his piece about the expected, Putin, Trump and Xi, meeting at Apec on Thursday.",
+          "zh": "这是《卫报》外交记者帕特里克·温图尔（Patrick Wintour）在其关于周四亚太经合组织（APEC）会议上普京、特朗普和习近平预计将举行的会晤的文章中试图回答的问题。"
+        },
+        {
+          "en": "It is a truism in diplomacy that if you are not around the table, the risk is that you, or your values, are on the menu and about to be carved up.",
+          "zh": "在外交领域，有一句老生常谈的话：如果你不在谈判桌上，那么你或你的价值观就有可能成为谈判的议题，并被他人瓜分。"
+        },
+        {
+          "en": "Many excluded from the summit in Shenzhen, principally Ukraine but also eastern Europe and Baltic countries, Taiwan and even Iran, have reason to be nervous that their sponsors might abandon them in a complex geopolitical trade-off that Putin envisions, and Trump seems to endorse.",
+          "zh": "许多被排除在深圳峰会之外的国家，主要是乌克兰，但也包括东欧和波罗的海国家、台湾，甚至伊朗，都有理由感到紧张，担心他们的支持者可能会在普京设想、且特朗普似乎赞同的复杂地缘政治权衡中抛弃他们。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "00a064e6720eae62",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "The Gemini app is now available on lower-memory Android devices.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+      "publishedAt": "2026-11-18T17:00:00.000Z",
+      "sentences": [
+        {
+          "en": "The Gemini app is now available on lower-memory Android devices.",
+          "zh": "Gemini 应用现已在内存较少的安卓设备上推出。"
+        },
+        {
+          "en": "The Google Gemini app now supports lower-memory Android devices.",
+          "zh": "Google Gemini应用现已支持内存较低的Android设备。"
+        },
+        {
+          "en": "Access Gemini Live and custom image creation on your phone.",
+          "zh": "在手机上使用 Gemini Live 和自定义图像创作功能。"
+        },
+        {
+          "en": "Download the app today.",
+          "zh": "立即下载myTE应用程序！"
+        }
+      ]
+    }
+  ],
+  "failures": []
+}
