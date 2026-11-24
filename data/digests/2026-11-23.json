@@ -1,0 +1,589 @@
+{
+  "date": "2026-11-23",
+  "collectedAt": "2026-11-24T08:35:09.127Z",
+  "items": [
+    {
+      "id": "00916c7a76a8c68a",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "The rise and fall and rise again of Jensen Huang",
+      "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-23T15:49:52.000Z",
+      "sentences": [
+        {
+          "en": "The rise and fall and rise again of Jensen Huang.",
+          "zh": "黄仁勋的起起落落。"
+        },
+        {
+          "en": "Days after resigning while mired in scandal of extra-marital affairs, Nvidia's Jensen Huang is making a remarkable return.",
+          "zh": "在陷入婚外情丑闻并辞职数日后，英伟达的黄仁勋正上演一场引人注目的回归。"
+        }
+      ]
+    },
+    {
+      "id": "c3b11d52c658cc93",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Trump claims credit as Jensen Huang returns to Nvidia",
+      "url": "https://www.npr.org/2026/11/23/nx-s1-6050910/nvidias-jensen-huang-trump",
+      "publishedAt": "2026-11-23T14:53:41.000Z",
+      "sentences": [
+        {
+          "en": "Trump claims credit as Jensen Huang returns to Nvidia.",
+          "zh": "随着黄仁勋重返英伟达，特朗普声称功劳归于自己。"
+        },
+        {
+          "en": "President Trump endorsed the announcement, calling it essential for the success of the company and the economy.",
+          "zh": "特朗普总统对该公告表示支持，称其对公司和经济的成功至关重要。"
+        },
+        {
+          "en": "He added that the government does not see Huang's return as a national security risk.",
+          "zh": "他还补充说，政府并不认为黄的回归构成国家安全风险。"
+        },
+        {
+          "en": "(Image credit: Nadja Wohlleben)",
+          "zh": "（图片来源：Nadja Wohlleben）"
+        }
+      ]
+    },
+    {
+      "id": "6c9e35ea9179d576",
+      "sourceId": "cloudflare-blog",
+      "category": "cloud",
+      "title": "Probing DNS at Cloudflare",
+      "url": "https://blog.cloudflare.com/probing-dns-at-cloudflare/",
+      "publishedAt": "2026-11-23T14:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Probing DNS at Cloudflare.",
+          "zh": "正在探测 Cloudflare 的 DNS。"
+        },
+        {
+          "en": "Imagine this: you’ve just pushed a release.",
+          "zh": "想象一下：您刚刚发布了一个版本。"
+        },
+        {
+          "en": "All the unit tests passed and your dashboards are green.",
+          "zh": "所有单元测试均已通过，您的仪表板显示为绿色。"
+        },
+        {
+          "en": "You sit back to relax but then suddenly your phone starts blowing up: prod is broken.",
+          "zh": "您正坐下来放松，但突然您的手机开始响个不停：生产环境出故障了。"
+        },
+        {
+          "en": "This is something the Cloudflare DNS team has experienced firsthand.",
+          "zh": "这是 Cloudflare DNS 团队亲身经历过的事情。"
+        },
+        {
+          "en": "In one rollout of the service that publishes DNS records to our edge, a scheduling bug let some record changes sit unpublished for hours.",
+          "zh": "在一次将DNS记录发布到我们边缘的服务上线中，一个调度漏洞导致一些记录更改数小时未发布。"
+        },
+        {
+          "en": "The service stayed up and was healthy, but new hostnames were slow to resolve and certificates couldn&#x27;t be issued until the bug was squashed.",
+          "zh": "服务保持运行且运行状况良好，但新主机名的解析速度较慢，并且在漏洞被修复之前无法颁发证书。"
+        },
+        {
+          "en": "DNS failures are hard to catch because they are slow, spread across the network, and partial in where they cause impact.",
+          "zh": "DNS故障很难发现，因为它们速度缓慢，分散在整个网络中，并且影响范围有限。"
+        },
+        {
+          "en": "We needed to figure out a way to test DNS the way customers experience it: constantly, from every data center, and against production.",
+          "zh": "我们需要想办法以客户体验的方式来测试DNS：持续不断地、从每个数据中心、针对生产环境进行测试。"
+        },
+        {
+          "en": "For us, the answer was to extend Flamingo, the end-to-end testing framework we were already using to run hundreds of millions of tests a day against Cloudflare&#x27;s edge.",
+          "zh": "对我们来说，答案是扩展Flamingo，这是我们已经在使用的一套端到端测试框架，每天针对Cloudflare的边缘网络运行数亿次测试。"
+        },
+        {
+          "en": "This post covers how Flamingo&#x27;s modular design lets us add DNS support, how we measure propagation, and how those measurements now decide whether a release goes ahead or gets rolled back.",
+          "zh": "本文介绍了Flamingo的模块化设计如何使我们能够添加DNS支持，我们如何衡量传播，以及这些衡量指标现在如何决定是继续发布还是回滚。"
+        },
+        {
+          "en": "A little background At Cloudflare we’re obsessed with improving performance and safety for our customers.",
+          "zh": "一点背景介绍在Cloudflare，我们致力于为客户提升性能和安全性。"
+        }
+      ]
+    },
+    {
+      "id": "8006ba0f9c438f1c",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "'I want to destroy capitalism, not France': On the streets with the French ultra left",
+      "url": "https://www.bbc.co.uk/news/articles/cw074km48myeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-23T13:09:52.000Z",
+      "sentences": [
+        {
+          "en": "'I want to destroy capitalism, not France': On the streets with the French ultra left.",
+          "zh": "“我想摧毁的是资本主义，而不是法国”：与法国极左翼人士一起走上街头。"
+        },
+        {
+          "en": "The BBC meets the far-left protesters French President Emmanuel Macron says are trying to bring down the Republic.",
+          "zh": "BBC采访了法国总统埃马纽埃尔·马克龙所说的试图颠覆共和国的极左翼抗议者。"
+        }
+      ]
+    },
+    {
+      "id": "105d8c8463a32652",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
+      "url": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31",
+      "publishedAt": "2026-11-23T12:42:03.000Z",
+      "sentences": [
+        {
+          "en": "Democrats win House by largest margin in 50 years.",
+          "zh": "民主党以50年来最大优势赢得众议院。"
+        },
+        {
+          "en": "And, COP31 ends with no deal.",
+          "zh": "此外，COP31 在没有达成任何协议的情况下结束。"
+        },
+        {
+          "en": "Democrats have currently flipped 47 House seats and could flip 49 total.",
+          "zh": "民主党目前已拿下47个众议院席位，总共可能拿下49个席位。"
+        },
+        {
+          "en": "And, climate change talks at COP31 ran two days longer than expected, becoming the longest conference in the summit's history.",
+          "zh": "此外，COP31气候变化谈判比预期多进行了两天，成为该峰会历史上历时最长的会议。"
+        },
+        {
+          "en": "(Image credit: Saul Loeb)",
+          "zh": "（图片来源：Saul Loeb）"
+        }
+      ]
+    },
+    {
+      "id": "307e98b05da69a02",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Libya: UN mission urges probe into Benghazi port attacks",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168857",
+      "publishedAt": "2026-11-23T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Libya: UN mission urges probe into Benghazi port attacks.",
+          "zh": "利比亚：联合国特派团敦促调查班加西港口袭击事件。"
+        },
+        {
+          "en": "The UN Support Mission in Libya (UNSMIL) has called for an independent investigation into attacks carried out at Benghazi port and off the coast of the eastern city on Sunday.",
+          "zh": "联合国利比亚支助团（UNSMIL）呼吁对周日在班加西港口和该市东部沿海发生的袭击事件进行独立调查。"
+        }
+      ]
+    },
+    {
+      "id": "a68db2f1d7afa781",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Heavy fighting in Ituri traps DR Congo Ebola responders: WHO",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168858",
+      "publishedAt": "2026-11-23T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Heavy fighting in Ituri traps DR Congo Ebola responders: WHO.",
+          "zh": "世卫组织：伊图里激烈战斗使刚果民主共和国埃博拉疫情防控人员受困。"
+        },
+        {
+          "en": "Heavy fighting near a hospital in Ituri province in the Democratic Republic of the Congo (DRC) has disrupted the vital work of Ebola responders and forced emergency teams to take cover for more than 24 hours.",
+          "zh": "刚果民主共和国（刚果（金））伊图里省一家医院附近发生激烈战斗，打乱了埃博拉疫情防控人员的重要工作，迫使应急小组躲避超过24小时。"
+        }
+      ]
+    },
+    {
+      "id": "095442ef4a2257f8",
+      "sourceId": "un-news",
+      "category": "security",
+      "title": "Security Council LIVE: Winter attacks on Ukraine's power grid and Black Sea shipping threaten lives and global food supplies",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168859",
+      "publishedAt": "2026-11-23T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Security Council LIVE: Winter attacks on Ukraine's power grid and Black Sea shipping threaten lives and global food supplies.",
+          "zh": "安全理事会直播：冬季对乌克兰电网和黑海航运的袭击威胁到生命和全球粮食供应。"
+        },
+        {
+          "en": "As winter sets in, the Security Council held a high stakes meeting Monday to discuss how Russian attacks on Ukraine's energy grid are leaving civilians without heat, power and water.",
+          "zh": "随着冬季的到来，安全理事会于周一举行了一次事关重大的会议，讨论俄罗斯对乌克兰电网的袭击如何使平民失去供暖、电力和供水。"
+        },
+        {
+          "en": "It will also look at how strikes on Black Sea shipping threaten grain supplies to import-dependent countries far from the war’s frontline.",
+          "zh": "它还将探讨对黑海航运的袭击如何威胁到远离战争前线的依赖进口国家的粮食供应。"
+        }
+      ]
+    },
+    {
+      "id": "16ee36335eaaf1cb",
+      "sourceId": "un-news",
+      "category": "ai",
+      "title": "UN chief urges talks on global AI safety framework, warns of historic shift in power",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168861",
+      "publishedAt": "2026-11-23T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "UN chief urges talks on global AI safety framework, warns of historic shift in power.",
+          "zh": "联合国秘书长敦促就全球人工智能安全框架进行谈判，并警告权力将发生历史性转变。"
+        },
+        {
+          "en": "UN Secretary-General António Guterres on Monday called on Member States to begin discussions on a multilateral framework for managing the risks of artificial intelligence (AI), warning that the technology is driving “the biggest transfer of power in the history of humankind”.",
+          "zh": "联合国秘书长安东尼奥·古特雷斯周一呼吁各会员国开始讨论建立一个多边框架，以管理人工智能（AI）的风险，并警告称，这项技术正在推动“人类历史上最大规模的权力转移”。"
+        }
+      ]
+    },
+    {
+      "id": "23ce2785727fbeec",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Gaza war has undone 77 years of human development, UN warns",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168862",
+      "publishedAt": "2026-11-23T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Gaza war has undone 77 years of human development, UN warns.",
+          "zh": "联合国警告称，加沙战争使77年的人类发展成果化为乌有。"
+        },
+        {
+          "en": "The UN deputy chief urged renewed international support for a two-State solution to the Israel-Palestine conflict on Monday, warning that Palestinians continue to face violence, displacement and dire living conditions despite the October 2025 ceasefire in Gaza.",
+          "zh": "联合国副秘书长周一敦促国际社会再次支持以两国方案解决以巴冲突，并警告称，尽管2025年10月加沙地带实现了停火，但巴勒斯坦人仍持续面临暴力、流离失所和恶劣的生活条件。"
+        }
+      ]
+    },
+    {
+      "id": "4b7fad258a938ce7",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
+      "url": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya",
+      "publishedAt": "2026-11-23T11:42:51.000Z",
+      "sentences": [
+        {
+          "en": "Ukraine confirms it used naval drones to strike two Russian ships off Libya.",
+          "zh": "乌克兰证实，其使用海上无人机袭击了两艘位于利比亚沿海的俄罗斯船只。"
+        },
+        {
+          "en": "Ukraine’s security service says seven drones were launched from mothership in operation that sank Merkury warship Ukraine has confirmed it deployed naval drones in strikes on two Russian vessels off Libya on Sunday, including one that sank the corvette Merkury, one of Russia’s newest vessels.",
+          "zh": "乌克兰安全局表示，在这次行动中，有七架无人机从母舰上起飞，击沉了“Merkury”号军舰。乌克兰已确认，周日，其海军无人机对利比亚沿海的两艘俄罗斯舰船发动了袭击，其中一架无人机击沉了俄罗斯最新型舰艇之一“Merkury”号护卫舰。"
+        },
+        {
+          "en": "Ukraine’s security service, the SBU, said seven domestically made naval drones were launched from a mothership in the operation, which Volodymyr Zelenskyy described as “exemplary”.",
+          "zh": "乌克兰安全局（SBU）表示，在这次行动中，一艘母舰发射了七架国产海军无人机，弗拉基米尔·泽连斯基称这次行动“堪称典范”。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "3b152dca00dd577e",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Ukraine shares video of strikes on Russian ships off Libya",
+      "url": "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-23T11:34:10.000Z",
+      "sentences": [
+        {
+          "en": "Ukraine shares video of strikes on Russian ships off Libya.",
+          "zh": "乌克兰发布了对利比亚附近俄罗斯船只发动袭击的视频。"
+        },
+        {
+          "en": "President Zelensky said a Russia warship was sunk, with a Russian cargo ship also hit.",
+          "zh": "泽连斯基总统表示，一艘俄罗斯军舰被击沉，一艘俄罗斯货船也遭到袭击。"
+        }
+      ]
+    },
+    {
+      "id": "c41cd29538279af1",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Trump administration deported US citizen to Mexico, DoJ admits in court",
+      "url": "https://www.theguardian.com/us-news/2026/nov/23/trump-administration-deported-citizen-mexico",
+      "publishedAt": "2026-11-23T11:00:56.000Z",
+      "sentences": [
+        {
+          "en": "Trump administration deported US citizen to Mexico, DoJ admits in court.",
+          "zh": "美国司法部在法庭上承认，特朗普政府将美国公民驱逐至墨西哥。"
+        },
+        {
+          "en": "Brian Morales García of Texas seeks damages after he was wrongly identified as undocumented in case White House wants dropped The Trump administration recently admitted in federal court that it deported a US citizen to Mexico after American authorities incorrectly concluded he was an undocumented immigrant.",
+          "zh": "得克萨斯州的Brian Morales García在被错误地认定为无证移民后寻求赔偿，而白宫希望撤销该案。特朗普政府最近在联邦法院承认，美国当局错误地认定一名美国公民为无证移民，并将其驱逐至墨西哥。"
+        },
+        {
+          "en": "Attorneys for the US justice department made that admission on Friday while requesting the dismissal of a lawsuit for damages that the deported man – Brian José Morales García of Austin, Texas – has been pursuing against the federal government.",
+          "zh": "美国司法部的律师周五承认了这一点，同时请求驳回被驱逐出境的男子——来自得克萨斯州奥斯汀的布莱恩·何塞·莫拉莱斯·加西亚（Brian José Morales García）——针对联邦政府提起的损害赔偿诉讼。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "891ebef0cad9f388",
+      "sourceId": "ms-devblogs",
+      "category": "ai",
+      "title": "Do AI coding agents struggle with non-REST APIs?",
+      "url": "https://devblogs.microsoft.com/blog/do-ai-coding-agents-struggle-with-non-rest-apis/",
+      "publishedAt": "2026-11-23T10:25:28.000Z",
+      "sentences": [
+        {
+          "en": "Do AI coding agents struggle with non-REST APIs?.",
+          "zh": "人工智能编码代理在处理非REST API时是否会遇到困难？"
+        },
+        {
+          "en": "Plenty of APIs skip REST conventions.",
+          "zh": "许多 API 不遵循 REST 规范。"
+        },
+        {
+          "en": "Some send every write over POST, and some name every endpoint after an action, like /updateBin or /deleteBin .",
+          "zh": "有些通过 POST 发送每个写入操作，有些则以操作命名每个端点，例如 /updateBin 或 /deleteBin。"
+        },
+        {
+          "en": "On paper, agents should have a harder time with those.",
+          "zh": "理论上，特工应该更难对付这些。"
+        },
+        {
+          "en": "REST maps the intent onto the HTTP method, so changing a record is a PATCH and removing it is a DELETE .",
+          "zh": "REST 将意图映射到 HTTP 方法，因此更改记录是 PATCH，删除记录是 DELETE。"
+        },
+        {
+          "en": "In comparison, an RPC-style API makes the agent work out what each endpoint is called and what it does.",
+          "zh": "相比之下，RPC 风格的 API 让代理弄清楚每个端点的名称及其功能。"
+        },
+        {
+          "en": "We expected that to cost agents something, either in failed tasks or in extra calls and tokens.",
+          "zh": "我们预计这会对客服代表造成一定损失，无论是任务失败还是额外的通话和代币。"
+        },
+        {
+          "en": "It didn’t, at least when the agent had the docs.",
+          "zh": "至少在经纪人拿到文件时，情况并非如此。"
+        },
+        {
+          "en": "Across 1,356 runs with six models from two vendors, agents succeeded just as often with REST, POST-only and RPC-style APIs, at the same cost in failed calls and tokens.",
+          "zh": "在对来自两个供应商的六个模型进行的1,356次运行中，代理在REST、仅POST和RPC式API上的成功率同样高，且失败调用和代币的成本也相同。"
+        },
+        {
+          "en": "Without docs, REST won by a wide margin, because agents can guess REST URLs from convention and have no way to guess what a non-REST API calls its endpoints.",
+          "zh": "如果没有文档，REST将以较大优势胜出，因为代理可以根据惯例猜测REST URL，但无法猜测非REST API如何命名其端点。"
+        },
+        {
+          "en": "Where non-REST APIs could trip up an agent “Non-REST” usually changes two things at once.",
+          "zh": "在非REST API可能导致客服代表出错的情况下，“非REST”通常会同时更改两项内容。"
+        },
+        {
+          "en": "It limits the API to GET and POST, and it replaces resource paths with endpoints named after verbs, and either change could cost an agent.",
+          "zh": "它将 API 限制为 GET 和 POST，并将资源路径替换为以动词命名的端点，任何一种更改都可能使代理方付出代价。"
+        }
+      ]
+    },
+    {
+      "id": "af520c61c8b014f3",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Zelenskyy hails Ukraine's attack on a Russian warship docked at a naval base in Libya",
+      "url": "https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya",
+      "publishedAt": "2026-11-23T10:16:33.000Z",
+      "sentences": [
+        {
+          "en": "Zelenskyy hails Ukraine's attack on a Russian warship docked at a naval base in Libya.",
+          "zh": "泽连斯基对乌克兰袭击停靠在利比亚海军基地的俄罗斯军舰表示赞扬。"
+        },
+        {
+          "en": "Ukraine carried out an attack on a Russian warship moored at a port in Libya, President Volodymyr Zelenskyy said, claiming that sea drones sank the navy vessel in a surprise assault.",
+          "zh": "乌克兰总统弗拉基米尔·泽连斯基表示，乌克兰对停泊在利比亚港口的一艘俄罗斯军舰发动了袭击，并声称海上无人机在一次突袭中击沉了这艘海军舰艇。"
+        },
+        {
+          "en": "(Image credit: Russian Defense Ministry Press Service)",
+          "zh": "（图片来源：俄罗斯国防部新闻处）"
+        }
+      ]
+    },
+    {
+      "id": "c367f1ec3f3f47aa",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "K is for kindness, but families worry the world has less of it",
+      "url": "https://www.npr.org/2026/11/23/nx-s1-6035702/kindness-kids-sesame-street-parents-survey",
+      "publishedAt": "2026-11-23T10:00:00.000Z",
+      "sentences": [
+        {
+          "en": "K is for kindness, but families worry the world has less of it.",
+          "zh": "K代表善良（kindness），但家人担心世界上善良越来越少。"
+        },
+        {
+          "en": "Sesame Street focuses on kindness.'",
+          "zh": "《芝麻街》的重点是善良。”"
+        },
+        {
+          "en": "/> A decade after first asking families about kindness, Sesame Workshop asked parents similar questions.",
+          "zh": "/>在首次向家庭询问有关善良的问题十年后，芝麻街工作室向家长们提出了类似的问题。"
+        },
+        {
+          "en": "They responded that their kids are getting kinder even as the wider world becomes less so.",
+          "zh": "他们回答说，即使整个世界变得越来越不友善，他们的孩子却变得越来越友善。"
+        },
+        {
+          "en": "(Image credit: Sesame Workshop)",
+          "zh": "（图片来源：芝麻街工作室）"
+        }
+      ]
+    },
+    {
+      "id": "0c39c289b9019431",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Mushroom supplements promise health benefits. What does the science say?",
+      "url": "https://www.npr.org/2026/11/23/nx-s1-6047791/mushroom-supplements-health-research",
+      "publishedAt": "2026-11-23T10:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Mushroom supplements promise health benefits.",
+          "zh": "蘑菇保健品有望带来健康益处。"
+        },
+        {
+          "en": "What does the science say?.",
+          "zh": "##科学的说法是什么？"
+        },
+        {
+          "en": "Wellness influencers say mushroom supplements can help with your gut health, focus and immune system.",
+          "zh": "健康网红表示，蘑菇保健品有助于肠道健康、专注力和免疫系统。"
+        },
+        {
+          "en": "Here is where research suggests there are some links.",
+          "zh": "研究表明，这里存在一些关联。"
+        }
+      ]
+    },
+    {
+      "id": "4279a33688d6c96d",
+      "sourceId": "bbc-world",
+      "category": "science",
+      "title": "Five takeaways from the failed climate talks COP31",
+      "url": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-23T06:33:50.000Z",
+      "sentences": [
+        {
+          "en": "Five takeaways from the failed climate talks COP31.",
+          "zh": "COP31气候谈判失败的五大启示。"
+        },
+        {
+          "en": "The COP31 summit in Antalya was the longest-running climate talks in UN history.",
+          "zh": "在安塔利亚举行的COP31峰会是联合国历史上持续时间最长的气候谈判。"
+        }
+      ]
+    },
+    {
+      "id": "b1fdd3d9246a5ec1",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "At least 24 killed and dozens missing in confectionery factory fire in Indonesia",
+      "url": "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta",
+      "publishedAt": "2026-11-23T05:45:12.000Z",
+      "sentences": [
+        {
+          "en": "At least 24 killed and dozens missing in confectionery factory fire in Indonesia.",
+          "zh": "印度尼西亚糖果厂发生火灾，至少24人死亡，数十人失踪。"
+        },
+        {
+          "en": "Rescuers brave unstable structures in search for missing as DNA needed to identify victims Indonesia has confirmed the deaths of 24 people in a fire that tore ⁠through a factory, as rescuers braved unstable structures in the burned wreckage to search for ⁠about 30 people ⁠still missing.",
+          "zh": "救援人员冒着坍塌的危险在不稳定的建筑中搜寻失踪人员，因为需要DNA来识别遇难者身份。印度尼西亚已确认有24人在一场大火中丧生，这场大火烧毁了一家工厂。救援人员冒着坍塌的危险在被烧毁的废墟中搜寻约30名仍下落不明的人员。"
+        },
+        {
+          "en": "Authorities ​were still investigating the cause of the fire, which broke out on Saturday in the PT Fonusa Agung Mulia confectionery factory in Cikande in Banten province, about 50km west of Jakarta.",
+          "zh": "当局仍在调查这场大火的起因。大火于周六在万丹省Cikande的PT Fonusa Agung Mulia糖果厂爆发，该厂位于雅加达以西约50公里处。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "99440db22079593e",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Israel’s destruction of Gaza has created a ‘toxic wasteland’, experts find",
+      "url": "https://www.theguardian.com/world/2026/nov/23/israel-gaza-destruction-created-toxic-wasteland-oxfam-report",
+      "publishedAt": "2026-11-23T04:00:45.000Z",
+      "sentences": [
+        {
+          "en": "Israel’s destruction of Gaza has created a ‘toxic wasteland’, experts find.",
+          "zh": "专家发现，以色列对加沙的摧毁造成了一片“有毒的荒原”。"
+        },
+        {
+          "en": "Scientific and satellite findings warn of widespread contamination in Gaza, posing grave threats to public health ‘for generations to come’ Israel’s destruction of Gaza has left a devastating environmental legacy with poisoned water, contaminated soil and toxic air threatening the life-support systems that the population depends on for survival, according to a report.",
+          "zh": "科学和卫星调查结果警告称，加沙地带存在大范围污染，对“子孙后代”的公共健康构成严重威胁。据一份报告称，以色列对加沙的破坏留下了破坏性的环境后果，受污染的水、土壤和有毒空气威胁着人们赖以生存的生命支持系统。"
+        },
+        {
+          "en": "Israel’s military assault has created widespread contamination across the entire strip, the report by Oxfam and the Conflict and Environment Observatory (Ceobs) finds, with heavy metals, explosive residues, asbestos from destroyed buildings, and sewage making the air, soil and water dangerous for Palestinians for decades to come.",
+          "zh": "乐施会（Oxfam）和冲突与环境观察站（Ceobs）的报告指出，以色列的军事袭击在整个加沙地带造成了广泛的污染，重金属、爆炸残留物、被毁建筑中的石棉以及污水将使空气、土壤和水源在未来几十年内对巴勒斯坦人构成危险。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "6352bd0d59b48f2b",
+      "sourceId": "bbc-world",
+      "category": "ai",
+      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+      "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-23T00:08:00.000Z",
+      "sentences": [
+        {
+          "en": "San Francisco is enjoying an AI boom, but worries about a crash are growing.",
+          "zh": "旧金山正在经历人工智能的蓬勃发展，但对泡沫破裂的担忧与日俱增。"
+        },
+        {
+          "en": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+          "zh": "位于该行业核心地带——旧金山的AI从业人员担心该行业过热。"
+        }
+      ]
+    },
+    {
+      "id": "3a79b8d5c4b42531",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+      "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T22:37:43.000Z",
+      "sentences": [
+        {
+          "en": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes.",
+          "zh": "“危险似乎一直在加剧”：乌克兰人在俄罗斯空袭后搜寻失踪人员。"
+        },
+        {
+          "en": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
+          "zh": "英国广播公司记者莎拉·雷恩斯福德（Sarah Rainsford）从乌克兰基辅州一栋坍塌的住宅楼现场发回报道。"
+        }
+      ]
+    },
+    {
+      "id": "0a72272c8d43a3ce",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
+      "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
+      "publishedAt": "2026-11-22T21:33:44.000Z",
+      "sentences": [
+        {
+          "en": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack.",
+          "zh": "俄罗斯军舰在疑似乌克兰无人机袭击后于班加西沉没。"
+        },
+        {
+          "en": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia A Russian warship docked in the Libyan port city of Benghazi was struck in the early hours of Sunday in a suspected Ukrainian sea drone attack, causing a dramatic night-time explosion and the sinking of the vessel.",
+          "zh": "目前尚无人声称对这艘船只的袭击负责，该船只在返回俄罗斯的途中停靠。一艘停靠在利比亚港口城市班加西的俄罗斯军舰于周日凌晨遭到疑似乌克兰海上无人艇的袭击，造成夜间剧烈爆炸并导致该船沉没。"
+        },
+        {
+          "en": "The strike severely damaged the Merkury, a Russian navy corvette that had stopped to refuel and take on supplies, according to Libyan officials from the country’s eastern government.",
+          "zh": "据利比亚东部政府的官员称，这次袭击严重损毁了俄罗斯海军护卫舰“Merkury”号，该舰当时正停靠补给燃料和物资。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    }
+  ],
+  "failures": []
+}
