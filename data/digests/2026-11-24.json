@@ -1,0 +1,1011 @@
+{
+  "date": "2026-11-24",
+  "collectedAt": "2026-11-25T07:09:32.644Z",
+  "items": [
+    {
+      "id": "955aca5da66af43b",
+      "sourceId": "aws-news",
+      "category": "cloud",
+      "title": "AWS Weekly Roundup: Local Zone in Bogotá, 30-minute Lambda timeout, and more (November 24, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026/",
+      "publishedAt": "2026-11-24T15:39:59.000Z",
+      "sentences": [
+        {
+          "en": "AWS Weekly Roundup: Local Zone in Bogotá, 30-minute Lambda timeout, and more (November 24, 2026).",
+          "zh": "AWS 周报：波哥大 Local Zone、30 分钟 Lambda 超时等（2026 年 11 月 24 日）。"
+        },
+        {
+          "en": "Some limits shape architecture more than any feature does.",
+          "zh": "有些限制对建筑的塑造作用超过任何特征。"
+        },
+        {
+          "en": "AWS Lambda launched in 2014 with a 60-second timeout, moved to 5 minutes in 2015 and to 15 minutes in 2018, and then stayed there for eight years.",
+          "zh": "AWS Lambda 于 2014 年推出时，超时时间为 60 秒，2015 年延长至 5 分钟，2018 年延长至 15 分钟，此后八年一直保持不变。"
+        },
+        {
+          "en": "Last week the limit doubled, and in the same week Lambda learned to run on GPUs and gave platform teams their own runtimes.",
+          "zh": "上周，该限制翻了一番，在同一周，Lambda学会了在GPU上运行，并为平台团队提供了自己的运行时。"
+        },
+        {
+          "en": "That is a lot of Lambda for one week.",
+          "zh": "一周内使用这么多Lambda函数。"
+        },
+        {
+          "en": "Two other threads ran through the week.",
+          "zh": "本周还有另外两条主线。"
+        },
+        {
+          "en": "A new AWS Local Zone in Bogotá brought AWS infrastructure closer to users in Colombia.",
+          "zh": "位于波哥大的新 AWS Local Zone 让 AWS 基础设施更贴近哥伦比亚的用户。"
+        },
+        {
+          "en": "And AWS Security Token Service (AWS STS) , Amazon Cognito , and Amazon CloudFront each shipped a piece of identity for agents: who an agent is when it shows up at your door, and how little it should be allowed to do.",
+          "zh": "此外，AWS Security Token Service (AWS STS)、Amazon Cognito和Amazon CloudFront都为代理提供了身份信息：当代理出现在您家门口时，它是什么身份，以及它应该被允许做什么。"
+        },
+        {
+          "en": "Now, let’s get into this week’s AWS news… Headlines AWS Local Zone in Bogotá, Colombia – AWS opened a new Local Zone in Bogotá, so you can now run applications that need single-digit millisecond latency closer to users in Colombia.",
+          "zh": "现在，让我们来看看本周的AWS新闻……头条新闻：哥伦比亚波哥大的AWS Local Zone – AWS在波哥大开设了一个新的Local Zone，因此您现在可以在离哥伦比亚用户更近的地方运行需要个位数毫秒级延迟的应用程序。"
+        },
+        {
+          "en": "AWS Local Zones place compute, storage, and networking near large metropolitan areas with the same APIs and tools as a Region, for workloads like real-time gaming, live streaming, and financial transactions.",
+          "zh": "AWS Local Zones 将计算、存储和联网部署在靠近大都市的区域，并使用与区域相同的 API 和工具，适用于实时游戏、直播和金融交易等工作负载。"
+        },
+        {
+          "en": "The Bogotá Local Zone supports Amazon EC2 C7i, M7i, and R7i instances, Amazon EBS gp3, gp2, and io1 volumes with local snapshots, Amazon S3 One Zone-Infrequent Access, Amazon ECS , Amazon EKS , AWS Direct Connect , and Application Load Balancer.",
+          "zh": "波哥大 Local Zone 支持 Amazon EC2 C7i、M7i 和 R7i 实例、具有本地快照的 Amazon EBS gp3、gp2 和 io1 卷、Amazon S3 单区域 - 不频繁访问、Amazon ECS、Amazon EKS、AWS Direct Connect 和 Application Load Balancer。"
+        },
+        {
+          "en": "To start, enable us-east-1-bog-1a in AWS Global View.",
+          "zh": "首先，在 AWS 全局视图中启用 us-east-1-bog-1a。"
+        }
+      ]
+    },
+    {
+      "id": "e8a823548b9b67b0",
+      "sourceId": "bbc-world",
+      "category": "security",
+      "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-24T15:35:53.000Z",
+      "sentences": [
+        {
+          "en": "Israeli air strike kills Hamas internal security chief in Gaza.",
+          "zh": "以色列空袭在加沙打死哈马斯内部安全负责人。"
+        },
+        {
+          "en": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
+          "zh": "据报道，努伊姆·阿布·纳赫勒（Naeem Abu Nahel）是周二以色列空袭中丧生的七名巴勒斯坦人之一，他上任仅两个月。"
+        }
+      ]
+    },
+    {
+      "id": "741fcd8b2d9b09ab",
+      "sourceId": "ms-devblogs",
+      "category": "release-notes",
+      "title": "Is “sort by impact” just vibes?",
+      "url": "https://devblogs.microsoft.com/blog/is-sort-by-impact-just-vibes/",
+      "publishedAt": "2026-11-24T15:23:13.000Z",
+      "sentences": [
+        {
+          "en": "Is “sort by impact” just vibes?.",
+          "zh": "“按影响排序”只是感觉吗？"
+        },
+        {
+          "en": "“Give me the top five, sorted by impact.” People ask AI agents for this all the time, whether it’s a backlog or a pile of growth ideas.",
+          "zh": "“按影响程度排序，给我前五名。” 人们经常向 AI 代理提出这样的要求，无论是待办事项还是大量增长创意。"
+        },
+        {
+          "en": "Yet “impact” is one of the vaguest words in the language.",
+          "zh": "然而，“影响”是语言中最模糊的词汇之一。"
+        },
+        {
+          "en": "It could mean how many users benefit, how much money comes in or how much you get for the effort.",
+          "zh": "这可能意味着有多少用户受益、有多少收入或您因所付出的努力而获得多少回报。"
+        },
+        {
+          "en": "Hardly anyone says which, so we suspected the order agents come back with is just vibes.",
+          "zh": "几乎没有人说出具体原因，所以我们怀疑订货代理商给出的理由只是感觉。"
+        },
+        {
+          "en": "It looks plausible, but there’s nothing behind it.",
+          "zh": "这看起来有道理，但背后并没有什么东西。"
+        },
+        {
+          "en": "We were wrong, though not in a reassuring way.",
+          "zh": "我们错了，但并不是以一种令人安心的方式。"
+        },
+        {
+          "en": "Across 1,500 runs with four models, agents ranked the same list in nearly the same order every time, and different models largely agreed with each other.",
+          "zh": "在 1500 次运行中，使用四种模型，代理每次都以几乎相同的顺序对同一列表进行排名，并且不同模型的结果大体上一致。"
+        },
+        {
+          "en": "Our prompt never said what impact meant, so the agents picked a definition themselves, and which one depended on the subject: users reached for a developer-tool backlog, revenue for an online shop and severity for security work.",
+          "zh": "我们的提示语从未说明“影响”的含义，因此客服代表自行选择了定义，而选择哪种定义取决于主题：用户选择了开发人员工具的待办事项，收入选择了网店，严重程度选择了安全工作。"
+        },
+        {
+          "en": "When every item came with a dollar figure, “impact” meant the biggest dollar figure, every time.",
+          "zh": "当每项都附有美元金额时，“影响”每次都意味着最大的美元金额。"
+        },
+        {
+          "en": "Three kinds of vibes When you ask an agent to sort a list by impact, the order you get back can be vibes in three ways, and each one needs to be fixed in a different way.",
+          "zh": "三种类型的偏差当你要求客服代表按影响程度对列表进行排序时，你得到的排序结果可能存在三种类型的偏差，每种偏差都需要以不同的方式进行纠正。"
+        },
+        {
+          "en": "Kind of vibes What you’d see What fixes it Noise Ask again and you get a different order Ask several times, or don’t trust the ranking Artifact The order copies something irrelevant, like the order of your list Shuffle the list before you ask Hidden default The same order every time, based on a definition of impact the agent picked Tell the agent what impact means Eight items, ranked over and over If we let the agent come up with its own ideas, we’d be testing two things at once: which ideas it picks and how it ranks them.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "318e9d12844de6ba",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Land mine casualties soar in Syria, two years after war",
+      "url": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-24T15:17:28.000Z",
+      "sentences": [
+        {
+          "en": "Land mine casualties soar in Syria, two years after war.",
+          "zh": "战争爆发两年后，叙利亚地雷伤亡人数飙升。"
+        },
+        {
+          "en": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.",
+          "zh": "数据显示，在因冲突遗留爆炸物而死伤的人中，有近1000名儿童。"
+        }
+      ]
+    },
+    {
+      "id": "5d59a3fa0316003b",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Gaza issues meningitis epidemic alert after steep rise in cases",
+      "url": "https://www.theguardian.com/world/2026/nov/24/gaza-meningitis-epidemic-alert",
+      "publishedAt": "2026-11-24T14:51:18.000Z",
+      "sentences": [
+        {
+          "en": "Gaza issues meningitis epidemic alert after steep rise in cases.",
+          "zh": "加沙在病例急剧增加后发布脑膜炎疫情警报。"
+        },
+        {
+          "en": "Health ministry records 272 new infections in October, more than eight times the normal monthly rate Gaza’s health ministry has issued an epidemic alert after a sharp rise in meningitis infections, with more than 270 new cases reported in October.",
+          "zh": "卫生部记录了10月份新增272例感染病例，是正常月感染率的八倍多。加沙卫生部在脑膜炎感染病例急剧增加后发布了流行病警报，10月份报告的新增病例超过270例。"
+        },
+        {
+          "en": "Dr Nidal Ghoneim, a senior official at the ministry, said the spread of the disease posed a threat to the lives of hundreds of thousands of people, including children.",
+          "zh": "该部高级官员Nidal Ghoneim博士表示，这种疾病的传播对包括儿童在内的数十万人的生命构成威胁。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "452b2ea110f604d5",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Who really owns the Albanian land Jared Kushner wants to turn into a 5-star resort?",
+      "url": "https://www.npr.org/2026/11/24/g-s1-154623/albania-jared-kushner-land-deal-protests",
+      "publishedAt": "2026-11-24T14:24:04.000Z",
+      "sentences": [
+        {
+          "en": "Who really owns the Albanian land Jared Kushner wants to turn into a 5-star resort?.",
+          "zh": "贾里德·库什纳想要将其改造成五星级度假村的阿尔巴尼亚土地究竟是谁的？"
+        },
+        {
+          "en": "Albania's Prime Minister Edi Rama has vowed that Kushner's resort project will go ahead as planned.",
+          "zh": "阿尔巴尼亚总理埃迪·拉马（Edi Rama）誓言，库什纳的度假村项目将按计划推进。"
+        },
+        {
+          "en": "But an ongoing investigation by Albania's state prosecutor into forged land titles could halt the project.",
+          "zh": "但阿尔巴尼亚国家检察官对伪造土地产权的持续调查可能会叫停该项目。"
+        },
+        {
+          "en": "(Image credit: Rob Schmitz/NPR)",
+          "zh": "（图片来源：Rob Schmitz/NPR）"
+        }
+      ]
+    },
+    {
+      "id": "6943060eb2f601d4",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "The Nvidia case is just the latest episode of Trump disregarding intelligence",
+      "url": "https://www.theguardian.com/technology/2026/nov/24/nvidia-trump-huang-intelligence",
+      "publishedAt": "2026-11-24T14:00:48.000Z",
+      "sentences": [
+        {
+          "en": "The Nvidia case is just the latest episode of Trump disregarding intelligence.",
+          "zh": "Nvidia 一案只是特朗普无视情报的最新一幕。"
+        },
+        {
+          "en": "Trump’s reaction to sensitive information that contradicts his worldview mirrors his conduct towards war with Iran Donald Trump’s unwillingness to heed warnings of suspected Chinese penetration of the tech giant Nvidia follows a pattern of the US president ignoring sensitive intelligence that contradicts his world view.",
+          "zh": "特朗普对与他的世界观相悖的敏感信息的反应，反映了他对与伊朗开战的态度。特朗普不愿听取有关中国涉嫌渗透科技巨头英伟达的警告，这与美国总统无视与他的世界观相悖的敏感情报的模式如出一辙。"
+        },
+        {
+          "en": "Trump disregarded repeated information that the company’s co-founder, Jensen Huang, was having an extramarital affair with an alleged Chinese spy that threatened to undermine Washington’s geo-strategically vital goal of pipping China for global supremacy in the artificial intelligence race.",
+          "zh": "特朗普无视反复传出的消息，即该公司的联合创始人黄仁勋与一名据称是中国间谍的女子有婚外情，这可能危及华盛顿在人工智能竞赛中超越中国、争夺全球霸主地位这一具有重要地缘战略意义的目标。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "796415acf1526e46",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Independent filmmakers in India bring big-screen stories to life with Google Flow.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/women-in-film-india-google-flow/",
+      "publishedAt": "2026-11-24T14:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Independent filmmakers in India bring big-screen stories to life with Google Flow.",
+          "zh": "印度的独立电影人借助 Google Flow 让大银幕故事栩栩如生。"
+        },
+        {
+          "en": "Indian filmmakers use Google Flow to create original short films.",
+          "zh": "印度电影制作人使用 Google Flow 创作原创短片。"
+        },
+        {
+          "en": "Watch five winning stories from the WIF India Filmathon.",
+          "zh": "观看WIF印度电影马拉松的五个获奖故事。"
+        },
+        {
+          "en": "See the films now.",
+          "zh": "立即观看影片。"
+        }
+      ]
+    },
+    {
+      "id": "04d463bcde637a48",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Russian governor detained in rare criminal case against regional leader",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-24T12:45:43.000Z",
+      "sentences": [
+        {
+          "en": "Russian governor detained in rare criminal case against regional leader.",
+          "zh": "俄罗斯州长因罕见的针对地方领导人的刑事案件而被拘留。"
+        },
+        {
+          "en": "Andrei Chibis, head of Russia's northern Murmansk region, is the first governor to be detained for five years.",
+          "zh": "俄罗斯北部摩尔曼斯克州州长安德烈·奇比斯是五年来首位被拘留的州长。"
+        }
+      ]
+    },
+    {
+      "id": "da33b8c1c0accfe0",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Leftwing coalition leader calls for rental revolution as Spain heads for snap election",
+      "url": "https://www.theguardian.com/world/2026/nov/24/spain-election-ada-colau-broad-front-far-right",
+      "publishedAt": "2026-11-24T12:22:04.000Z",
+      "sentences": [
+        {
+          "en": "Leftwing coalition leader calls for rental revolution as Spain heads for snap election.",
+          "zh": "随着西班牙即将举行提前选举，左翼联盟领导人呼吁进行租房革命。"
+        },
+        {
+          "en": "Exclusive: Ada Colau hopes public anger over housing will transfer into support for her Broad Front coalition in Sunday’s vote The leader of Spain’s leftwing Broad Front coalition has called for a drastic rethink of the country’s entire housing rental system, and described the eviction of an 87-year-old woman – the spark for nationwide protests that in turn triggered Sunday’s snap general election – as “the last straw” for desperate tenants.",
+          "zh": "独家报道：阿达·科劳希望公众对住房问题的愤怒能在周日的投票中转化为对她领导的广泛阵线联盟的支持。西班牙左翼广泛阵线联盟的领导人呼吁对该国的整个住房租赁体系进行彻底的重新思考，并表示将一名87岁的老妇人驱逐出家门是“压垮绝望租户的最后一根稻草”，这一事件引发了全国范围的抗议活动，进而促成了周日的提前大选。"
+        },
+        {
+          "en": "“We’re not interested in small changes,” Ada Colau, the former Barcelona mayor, told the Guardian in an interview.",
+          "zh": "“我们对小小的改变不感兴趣。”巴塞罗那前市长阿达·科劳（Ada Colau）在接受《卫报》采访时表示。"
+        },
+        {
+          "en": "“We want to reform the entire rental sector.” Continue reading..",
+          "zh": "“我们希望改革整个租赁行业。”继续阅读……"
+        }
+      ]
+    },
+    {
+      "id": "4d2f94a40e7bcf8c",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Jensen Huang returns to Nvidia. And, Rep. Gomez resigns amid alleged sexual misconduct",
+      "url": "https://www.npr.org/2026/11/24/g-s1-155227/up-first-newsletter-nvidia-jensen-huang-trump-ukraine-russia-jimmy-gomez",
+      "publishedAt": "2026-11-24T12:12:25.000Z",
+      "sentences": [
+        {
+          "en": "Jensen Huang returns to Nvidia.",
+          "zh": "黄仁勋回归英伟达。"
+        },
+        {
+          "en": "And, Rep.",
+          "zh": "还有，众议员"
+        },
+        {
+          "en": "Gomez resigns amid alleged sexual misconduct.",
+          "zh": "戈麦斯因涉嫌性骚扰而辞职。"
+        },
+        {
+          "en": "President Trump took credit for negotiating Jensen Huang's return as CEO of Nvidia.",
+          "zh": "特朗普总统声称自己促成了黄仁勋重返英伟达担任首席执行官。"
+        },
+        {
+          "en": "And, Rep.",
+          "zh": "还有，众议员"
+        },
+        {
+          "en": "Jimmy Gomez, D-Calif., says his resignation will be effective Dec.",
+          "zh": "加州民主党众议员吉米·戈麦斯（Jimmy Gomez）表示，他的辞职将于12月生效。"
+        },
+        {
+          "en": "1.",
+          "zh": null
+        },
+        {
+          "en": "(Image credit: Angela Weiss)",
+          "zh": "（图片来源：Angela Weiss）"
+        }
+      ]
+    },
+    {
+      "id": "f12aebcb27fa9ccc",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Five women killed every hour by partners or family members",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168863",
+      "publishedAt": "2026-11-24T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Five women killed every hour by partners or family members.",
+          "zh": "每小时有五名女性被伴侣或家人杀害。"
+        },
+        {
+          "en": "Some 47,000 women and girls were killed by intimate partners or family members in 2025 – five every hour – according to new UN figures published on Tuesday.",
+          "zh": "根据周二发布的联合国最新数据显示，2023年约有4.7万名妇女和女童被亲密伴侣或家庭成员杀害，相当于每小时有5人遇害。"
+        }
+      ]
+    },
+    {
+      "id": "67a38418993d24fc",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Colombia: Guterres urges renewed commitment to landmark peace deal",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168864",
+      "publishedAt": "2026-11-24T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Colombia: Guterres urges renewed commitment to landmark peace deal.",
+          "zh": "哥伦比亚：古特雷斯敦促各方重申对具有里程碑意义的和平协议的承诺。"
+        },
+        {
+          "en": "UN Secretary-General António Guterres has commended Colombia for progress achieved in the decade since a landmark accord known as the Final Peace Agreement ended more than 50 years of insurgency but stressed the need to fully implement its provisions.",
+          "zh": "联合国秘书长安东尼奥·古特雷斯赞扬了哥伦比亚在签署一项名为《最终和平协定》的里程碑式协定以终结长达50余年的叛乱之后的十年里所取得的进展，但强调需要全面落实该协定的各项条款。"
+        }
+      ]
+    },
+    {
+      "id": "a44f2907ccd9b397",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "DR Congo: Concern for trapped Ebola workers as violence against women and girls deepens",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168865",
+      "publishedAt": "2026-11-24T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "DR Congo: Concern for trapped Ebola workers as violence against women and girls deepens.",
+          "zh": "刚果民主共和国：随着针对妇女和女童的暴力行为加剧，人们对受困埃博拉医护人员的关切日益加深。"
+        },
+        {
+          "en": "Staff from the World Health Organization (WHO) and Ebola responders remain trapped in a hospital in Ituri province, Democratic Republic of the Congo (DRC), as heavy fighting continues in the vicinity, the UN agency said in an update on Tuesday.",
+          "zh": "联合国机构周二在最新消息中表示，由于刚果民主共和国（刚果（金））伊图里省附近持续发生激烈战斗，世界卫生组织（世卫组织）的工作人员和埃博拉疫情防控人员仍被困在该省的一家医院内。"
+        }
+      ]
+    },
+    {
+      "id": "7d8cc547f7c9a021",
+      "sourceId": "un-news",
+      "category": "ai",
+      "title": "Security Council LIVE: Can conflict resolution keep pace as AI and drones reshape war?",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168866",
+      "publishedAt": "2026-11-24T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Security Council LIVE: Can conflict resolution keep pace as AI and drones reshape war?.",
+          "zh": "安全理事会直播：随着人工智能和无人机重塑战争，冲突解决能否跟上步伐？"
+        },
+        {
+          "en": "When the UN was founded in 1945, computers, the internet and satellites were the stuff of science fiction.",
+          "zh": "联合国成立于1945年，当时计算机、互联网和卫星还只是科幻小说中的事物。"
+        },
+        {
+          "en": "Today, artificial intelligence (AI) is already assisting in targeting, drones are reshaping warfare and disinformation is spreading in unprecedented ways, fuelling record levels of conflict.",
+          "zh": "如今，人工智能（AI）已经在协助瞄准目标，无人机正在重塑战争的面貌，虚假信息正以史无前例的方式传播，助长了冲突达到创纪录的水平。"
+        },
+        {
+          "en": "The Security Council on Tuesday is weighing these changes, with UN chief António Guterres telling ambassadors, “killer robots must have no place in our future.”",
+          "zh": "安全理事会周二正在权衡这些变化，联合国秘书长安东尼奥·古特雷斯（António Guterres）对各国大使表示：“杀手机器人绝不能出现在我们的未来。”"
+        }
+      ]
+    },
+    {
+      "id": "14db9f0896734b67",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "‘Far too much failure’: UN deputy chief’s final call to end violence against women",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168868",
+      "publishedAt": "2026-11-24T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "‘Far too much failure’: UN deputy chief’s final call to end violence against women.",
+          "zh": "“失败太多”：联合国副秘书长最后呼吁杜绝暴力侵害妇女行为。"
+        },
+        {
+          "en": "UN Deputy Secretary-General Amina Mohammed warned on Tuesday that another woman or girl would be killed by a partner or family member before she finished speaking, as she called for justice for survivors and consequences for perpetrators.",
+          "zh": "联合国副秘书长阿米娜·穆罕默德周二警告称，在她发言结束前，又有一名女性或女孩将被伴侣或家庭成员杀害，她呼吁为幸存者伸张正义，并对施暴者予以惩罚。"
+        }
+      ]
+    },
+    {
+      "id": "58b673023dcf1630",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Decades of gains against AIDS could unravel as HIV funding dries up",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168869",
+      "publishedAt": "2026-11-24T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Decades of gains against AIDS could unravel as HIV funding dries up.",
+          "zh": "随着艾滋病防治资金的枯竭，数十年来在防治艾滋病方面取得的成果可能付诸东流。"
+        },
+        {
+          "en": "Decades of progress against AIDS, one of the greatest public health achievements in history, could go into reverse as international HIV funding is cut and campaigns against human rights and gender equality gain ground, the UN agency devoted to ending the pandemic warned Tuesday in a new report.",
+          "zh": "联合国致力于终结艾滋病大流行的机构周二在一份新报告中警告称，随着国际艾滋病防治资金的削减以及反人权和性别平等的运动的抬头，数十年来在防治艾滋病方面取得的进展——历史上最伟大的公共卫生成就之一——可能会出现逆转。"
+        }
+      ]
+    },
+    {
+      "id": "3db522a7a8e93809",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "World News in Brief: Vaccine crisis in Yemen, aid for Ukraine, another UNRWA staffer killed",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168871",
+      "publishedAt": "2026-11-24T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "World News in Brief: Vaccine crisis in Yemen, aid for Ukraine, another UNRWA staffer killed.",
+          "zh": "世界新闻简报：也门疫苗危机，对乌克兰的援助，又一名近东救济工程处工作人员遇害。"
+        },
+        {
+          "en": "More than 364,000 people have been displaced in Yemen since the beginning of August as fighting and insecurity continue, the UN Office for the Coordination of Humanitarian Affairs (OCHA) said on Tuesday.",
+          "zh": "联合国人道主义事务协调厅（OCHA）周二表示，自8月初以来，由于战斗和不安全局势持续，也门已有超过36.4万人流离失所。"
+        }
+      ]
+    },
+    {
+      "id": "95409503e917c1fb",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Car bomb tears through Colombian city wounding more than 20",
+      "url": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-24T11:45:52.000Z",
+      "sentences": [
+        {
+          "en": "Car bomb tears through Colombian city wounding more than 20.",
+          "zh": "汽车炸弹在哥伦比亚城市爆炸，造成20多人受伤。"
+        },
+        {
+          "en": "The explosion is the latest in a string of attacks on buildings housing the security forces and government offices.",
+          "zh": "这起爆炸是针对安全部队和政府办公楼的一系列袭击中的最新一起。"
+        }
+      ]
+    },
+    {
+      "id": "eb6b1c69c3bd5aa5",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "What should it cost to insure a home in wildfire country?",
+      "url": "https://www.npr.org/sections/planet-money/2026/11/24/g-s1-154477/what-should-it-cost-to-insure-a-home-in-wildfire-country",
+      "publishedAt": "2026-11-24T11:30:00.000Z",
+      "sentences": [
+        {
+          "en": "What should it cost to insure a home in wildfire country?.",
+          "zh": "在野火频发地区为房屋投保的费用应该是多少？"
+        },
+        {
+          "en": "Some California homeowners have spent thousands making their homes safer from wildfires.",
+          "zh": "一些加利福尼亚州的房主已经花费了数千美元来让他们的房屋免受野火的威胁。"
+        },
+        {
+          "en": "Yet all that work has barely made a dent in their insurance bills.",
+          "zh": "然而，所有这些努力几乎没有对他们的保险费用产生任何影响。"
+        },
+        {
+          "en": "Should they be getting a bigger break?",
+          "zh": "他们是否应该获得更大的优惠？"
+        }
+      ]
+    },
+    {
+      "id": "1d0e3400ffceba62",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Pope Francis' diary reveals claims he saw the devil three times",
+      "url": "https://www.bbc.co.uk/news/articles/cm78270l4z7no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-24T11:10:57.000Z",
+      "sentences": [
+        {
+          "en": "Pope Francis' diary reveals claims he saw the devil three times.",
+          "zh": "方济各教宗的日记透露，他声称曾三次见到魔鬼。"
+        },
+        {
+          "en": "Published extracts from the late pontiff's diary claim one of the visions happened \"in the choir loft\" during Mass.",
+          "zh": "已出版的教宗日记摘录称，其中一个异象发生在弥撒期间的“唱诗台”上。"
+        }
+      ]
+    },
+    {
+      "id": "8a11be66dc0b8ac7",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+      "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-24T10:58:51.000Z",
+      "sentences": [
+        {
+          "en": "Nato chief vows defence against space threat after Russian nuclear satellite reports.",
+          "zh": "在俄罗斯核卫星的报道传出后，北约负责人誓言要抵御太空威胁。"
+        },
+        {
+          "en": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
+          "zh": "德国媒体称，俄罗斯计划在未来几周内将一颗搭载核弹头的卫星发射到太空。"
+        }
+      ]
+    },
+    {
+      "id": "2ea454409599cb65",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Democrats probe whether Trump Jr.-aligned businesses benefit from government access",
+      "url": "https://www.npr.org/2026/11/24/nx-s1-6051028/jamie-raskin-donald-trump-jr-1789-capital-democrats-investigation",
+      "publishedAt": "2026-11-24T10:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Democrats probe whether Trump Jr.-aligned businesses benefit from government access.",
+          "zh": "民主党人正在调查与小特朗普关系密切的企业是否因政府准入而受益。"
+        },
+        {
+          "en": "Investigators say companies with ties to Donald Trump Jr's investment firm, 1789 Capital, have profited since his father's reelection.",
+          "zh": "调查人员表示，与小唐纳德·特朗普的投资公司1789 Capital有联系的公司自其父亲连任以来一直从中获利。"
+        },
+        {
+          "en": "(Image credit: Brandon Bell)",
+          "zh": "（图片来源：Brandon Bell）"
+        }
+      ]
+    },
+    {
+      "id": "b7e4dc7f4250d265",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "For workplace culture champions, Jensen Huang's return is 'unfathomable'",
+      "url": "https://www.npr.org/2026/11/24/nx-s1-6051583/nvidia-huang-dei-trump-women",
+      "publishedAt": "2026-11-24T10:00:00.000Z",
+      "sentences": [
+        {
+          "en": "For workplace culture champions, Jensen Huang's return is 'unfathomable'.",
+          "zh": "对于职场文化的倡导者来说，Jensen Huang的回归“令人难以置信”。"
+        },
+        {
+          "en": "Some who have worked to promote diversity and inclusion in Silicon Valley say Jensen Huang's reinstatement as Nvidia's CEO sends a message that all that matters is money.",
+          "zh": "一些致力于在硅谷推动多元化和包容性的人士表示，黄仁勋重任英伟达首席执行官发出了一个信号，即金钱才是最重要的。"
+        },
+        {
+          "en": "(Image credit: Chung Sung-Jun)",
+          "zh": "（图片来源：Chung Sung-Jun）"
+        }
+      ]
+    },
+    {
+      "id": "353b9a380e51b1f2",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Black travelers on Route 66 weren't welcome at most gas stations — except this one",
+      "url": "https://www.npr.org/2026/11/24/nx-s1-5928337/threatt-filling-station-oklahoma-route-66",
+      "publishedAt": "2026-11-24T10:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Black travelers on Route 66 weren't welcome at most gas stations — except this one.",
+          "zh": "在66号公路上，大多数加油站都不欢迎黑人旅客——唯独这家除外。"
+        },
+        {
+          "en": "Threatt Filling Station in Luther, Okla., was the first Black-owned gas station on Route 66.",
+          "zh": "位于俄克拉荷马州卢瑟的Threatt加油站是66号公路上第一家由黑人经营的加油站。"
+        },
+        {
+          "en": "At a time when Black families needed the Green Book to find places to stay, eat, use the bathroom, it provided fuel and respite.",
+          "zh": "在黑人家庭需要《绿皮书》来寻找住宿、用餐和如厕场所的年代，这本书为他们提供了动力和喘息的空间。"
+        },
+        {
+          "en": "(Image credit: Nick Oxford for NPR)",
+          "zh": "（图片来源：Nick Oxford，为NPR拍摄）"
+        }
+      ]
+    },
+    {
+      "id": "7f1706667237c924",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Doctors struggle to save babies after parents refuse vitamin K",
+      "url": "https://www.npr.org/2026/11/24/nx-s1-6001723/vitamin-k-deficiency-refusal-vaccine-misinformation-newborn-bleeding",
+      "publishedAt": "2026-11-24T10:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Doctors struggle to save babies after parents refuse vitamin K.",
+          "zh": "父母拒绝给婴儿注射维生素K，医生竭力抢救婴儿。"
+        },
+        {
+          "en": "Doctors are fighting an uphill battle against disinformation about routine vitamin K shots given to newborns in the hospital.",
+          "zh": "医生们正在与有关医院为新生儿常规注射维生素K的虚假信息展开一场艰苦的斗争。"
+        },
+        {
+          "en": "It helps prevent a rare but devastating bleeding disorder.",
+          "zh": "它有助于预防一种罕见但具有毁灭性的出血性疾病。"
+        },
+        {
+          "en": "(Image credit: Kate Wells)",
+          "zh": "（图片来源：Kate Wells）"
+        }
+      ]
+    },
+    {
+      "id": "a8f4e5ff36641a78",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "We’re expanding our London home in King's Cross.",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/expanding-london-home-kings-cross/",
+      "publishedAt": "2026-11-24T08:00:00.000Z",
+      "sentences": [
+        {
+          "en": "We’re expanding our London home in King's Cross.",
+          "zh": "我们正在扩建位于伦敦国王十字区的办公场所。"
+        },
+        {
+          "en": "In 2016, we arrived in King’s Cross as founding residents of the Knowledge Quarter.",
+          "zh": "2016年，我们作为知识区（Knowledge Quarter）的创始居民入驻国王十字区。"
+        },
+        {
+          "en": "Today, we’re announcing our plan to purchase 6 Pancras Square.Alongside Central Saint…",
+          "zh": "今天，我们宣布计划收购6 Pancras Square。该物业毗邻中央圣……"
+        }
+      ]
+    },
+    {
+      "id": "c2d8990c4b9f1e11",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "What Jensen Huang's return teaches China's Xi about Trump",
+      "url": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-24T07:26:27.000Z",
+      "sentences": [
+        {
+          "en": "What Jensen Huang's return teaches China's Xi about Trump.",
+          "zh": "黄仁勋的回归给中国的习近平带来了哪些关于特朗普的启示。"
+        },
+        {
+          "en": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing.",
+          "zh": "黄仁勋重掌英伟达的帅印，并不能保证北京方面能够松一口气。"
+        }
+      ]
+    },
+    {
+      "id": "6057c7b195d84614",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Malaysia to send thousands of migrants back to Myanmar as PM acknowledges junta’s ‘atrocities’",
+      "url": "https://www.theguardian.com/world/2026/nov/24/malaysia-to-send-thousands-of-migrants-back-to-myanmar",
+      "publishedAt": "2026-11-24T05:54:14.000Z",
+      "sentences": [
+        {
+          "en": "Malaysia to send thousands of migrants back to Myanmar as PM acknowledges junta’s ‘atrocities’.",
+          "zh": "马来西亚将遣返数千名移民回缅甸，总理承认军政府的“暴行”。"
+        },
+        {
+          "en": "Prime minister Anwar Ibrahim’s announcement comes days after the ICJ found Myanmar had committed genocide against the Rohingya minority Malaysia says it will send thousands of migrants and refugees back to Myanmar, despite acknowledging that many asylum seekers in the country had been victims of “atrocities” carried ​out by the junta in Naypyidaw.",
+          "zh": "安瓦尔·易卜拉欣总理的这一宣布是在国际法院裁定缅甸对罗兴亚少数民族犯下种族灭绝罪的几天后作出的。马来西亚表示，尽管承认该国许多寻求庇护者是内比都军政府“暴行”的受害者，但仍将遣返数千名移民和难民回缅甸。"
+        },
+        {
+          "en": "The announcement comes just days after the UN’s highest court ruled Myanmar had committed genocide against its Rohingya minority.",
+          "zh": "这一公告是在联合国最高法院裁定缅甸对罗兴亚少数民族实施种族灭绝仅几天后发布的。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "02dc0690684e0220",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "South Korea tells island residents to take shelter after Russian military aircraft approach",
+      "url": "https://www.theguardian.com/world/2026/nov/24/south-korea-tells-island-residents-to-take-shelter-after-russian-military-aircraft-approach",
+      "publishedAt": "2026-11-24T04:14:43.000Z",
+      "sentences": [
+        {
+          "en": "South Korea tells island residents to take shelter after Russian military aircraft approach.",
+          "zh": "韩国要求岛屿居民在俄罗斯军机靠近后躲入避难所。"
+        },
+        {
+          "en": "The order was issued after aircraft entered the country’s air defence identification zone over the island of Ulleungdo Residents of a remote South Korean island were ordered to take shelter on Tuesday morning after several Russian military aircraft came close to entering its airspace, prompting a pre-emptive alert from the military that anticipated a violation.",
+          "zh": "该命令是在多架俄罗斯军用飞机接近该岛领空后下达的。周二上午，在多架俄罗斯军用飞机接近该岛领空后，韩国一座偏远岛屿的居民被命令进入避难所，这引发了军方对预计将发生的领空侵犯行为的先发制人警报。"
+        },
+        {
+          "en": "The defence ministry said it would summon the Russian defence attaché on Tuesday afternoon to lodge a strong protest.",
+          "zh": "国防部表示，将于周二下午召见俄罗斯国防武官，提出强烈抗议。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "fd3c944f0667032b",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "China sentences official to death for spying for foreign country",
+      "url": "https://www.theguardian.com/world/2026/nov/24/china-official-ma-death-sentence-spying-leaking-national-secrets",
+      "publishedAt": "2026-11-24T02:37:36.000Z",
+      "sentences": [
+        {
+          "en": "China sentences official to death for spying for foreign country.",
+          "zh": "中国判处一名官员死刑，罪名是为外国从事间谍活动。"
+        },
+        {
+          "en": "Accused official leaked national secrets to unnamed country and received payments worth over $150,000, state-linked publisher says A Chinese official has been sentenced to death for spying for a foreign country, a government-linked publisher has said.",
+          "zh": "一家与政府有关联的出版商称，涉案官员向一个未透露国名的国家泄露国家机密，并收受了超过15万美元的款项。一家与政府有关联的出版商称，一名中国官员因向外国从事间谍活动而被判处死刑。"
+        },
+        {
+          "en": "Gold Wall Press, a publishing company associated with China’s national administration of state secrets protection, said the convicted person was surnamed Ma and was approached and recruited by an unnamed foreign intelligence service while working abroad.",
+          "zh": "与中国国家保密行政机关有关联的出版社金墙出版社表示，被定罪者的姓氏为马，其在国外工作时被一家未透露名称的外国情报机构接触并招募。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "422b856a11e56406",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Butt of the joke: Trump impersonator mocks president at Canada press dinner",
+      "url": "https://www.theguardian.com/world/2026/nov/23/canada-trump-impersonator-press-dinner",
+      "publishedAt": "2026-11-23T22:41:48.000Z",
+      "sentences": [
+        {
+          "en": "Butt of the joke: Trump impersonator mocks president at Canada press dinner.",
+          "zh": "笑柄：特朗普模仿者在加拿大新闻晚宴上嘲笑总统。"
+        },
+        {
+          "en": "Carney watches on as comedian lampoons US leader and his interest in men’s backsides at correspondents’ event Ottawa Canada’s prime minister, Mark Carney, was joined on stage in Ottawa by a Donald Trump impersonator who mocked the US president to raucous laughter from a crowd of politicians and journalists at a parliamentary press gallery dinner on Saturday.",
+          "zh": "在加拿大渥太华的记者活动上，卡尼看着喜剧演员讽刺美国总统及其对男性臀部的兴趣。周六，在渥太华的议会记者晚宴上，加拿大总理贾斯汀·特鲁多与一位唐纳德·特朗普模仿者一同登台，后者模仿美国总统的言行，引得一群政界人士和记者哄堂大笑。"
+        },
+        {
+          "en": "With coiffed hair and an ill-fitting suit, comedian Mark Critch – who portrays the president on the sketch show This Hour Has 22 Minutes – danced on to the stage and lampooned the trade war Trump started as well as the president’s threats to annex Canada.",
+          "zh": "喜剧演员马克·克里奇（Mark Critch）梳着精心打理的发型，穿着不合身的西装，跳着舞登上了舞台。他在喜剧小品节目《这一小时有22分钟》（This Hour Has 22 Minutes）中扮演美国总统，并讽刺了特朗普发起的贸易战以及他威胁要吞并加拿大的言论。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "d5d2228e02af8ab1",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book",
+      "url": "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-23T21:24:47.000Z",
+      "sentences": [
+        {
+          "en": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book.",
+          "zh": "吉赛尔·佩利科（Gisèle Pelicot）在裸照被发给媒体以宣传书籍后感到“蒙羞”。"
+        },
+        {
+          "en": "The publisher of an essay on coercive control apologises for \"an unfortunate and inappropriate communication\".",
+          "zh": "一篇关于胁迫性控制的文章的出版商就“不幸且不当的沟通”表示歉意。"
+        }
+      ]
+    },
+    {
+      "id": "848257d8d5b2a85d",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Here are 4 things you didn’t know you could do with Gemini Canvas.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-canvas-tasks/",
+      "publishedAt": "2026-11-23T18:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Here are 4 things you didn’t know you could do with Gemini Canvas.",
+          "zh": "以下是您不知道可以用 Gemini Canvas 完成的 4 件事。"
+        },
+        {
+          "en": "Boost productivity with Google Gemini Canvas.",
+          "zh": "使用 Google Gemini Canvas 提升工作效率。"
+        },
+        {
+          "en": "Build web apps, create custom study tools, and refine writing side-by-side.",
+          "zh": "构建 Web 应用，创建自定义学习工具，并并排完善写作。"
+        },
+        {
+          "en": "Try it in your next chat.",
+          "zh": "在下一次聊天中试试吧。"
+        }
+      ]
+    },
+    {
+      "id": "28cc1ec33c3bad07",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "See what 6 builders are making with Gemini 4 Hydrogen",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-hydrogen-builders/",
+      "publishedAt": "2026-11-23T18:00:00.000Z",
+      "sentences": [
+        {
+          "en": "See what 6 builders are making with Gemini 4 Hydrogen.",
+          "zh": "看看6位建造者正在用Gemini 4 Hydrogen做什么。"
+        },
+        {
+          "en": "See six projects builders created with Gemini 4 Hydrogen, from rainy sci-fi skies and pixelated koi ponds to an interactive moth.",
+          "zh": "查看创作者使用Gemini 4 Hydrogen创作的六个项目，从下雨的科幻天空和像素化的锦鲤池到一只互动飞蛾。"
+        }
+      ]
+    },
+    {
+      "id": "41decc9558d17eab",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Organize and share your holiday memories with these five updates in Google Photos.",
+      "url": "https://blog.google/products-and-platforms/products/photos/google-photo-tools-holiday-season-2026/",
+      "publishedAt": "2026-11-23T17:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Organize and share your holiday memories with these five updates in Google Photos.",
+          "zh": "通过Google相册的这五项更新，整理并分享您的假期回忆。"
+        },
+        {
+          "en": "Organize holiday memories with five new Google Photos updates.",
+          "zh": "通过 Google 相册的五项新更新来整理节日回忆。"
+        },
+        {
+          "en": "Use Gemini for video tasks and filter shared albums by people.",
+          "zh": "使用 Gemini 处理视频任务，并按人物筛选共享相册。"
+        },
+        {
+          "en": "Try these features today.",
+          "zh": "立即试用这些功能。"
+        }
+      ]
+    },
+    {
+      "id": "d6fdac3c20f42b84",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "A more tailored Google Search that’s uniquely yours",
+      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+      "publishedAt": "2026-11-23T17:00:00.000Z",
+      "sentences": [
+        {
+          "en": "A more tailored Google Search that’s uniquely yours.",
+          "zh": "更个性化的 Google 搜索，专属于您。"
+        },
+        {
+          "en": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode.",
+          "zh": "通过安全地选择将 Google 钱包、Google Drive 和 Gemini 应用关联到 AI 模式下的个人智能功能，获得更多有用的搜索结果。"
+        }
+      ]
+    },
+    {
+      "id": "6e7821eaa49cc7e6",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Barbados town’s three-year deal with Bristol ‘part of the reparative process’",
+      "url": "https://www.theguardian.com/news/2026/nov/23/barbados-minister-speightstown-bristol-deal-slave-trade-reparations",
+      "publishedAt": "2026-11-23T16:53:13.000Z",
+      "sentences": [
+        {
+          "en": "Barbados town’s three-year deal with Bristol ‘part of the reparative process’.",
+          "zh": "巴巴多斯镇与布里斯托尔签订的三年协议是“赔偿进程的一部分”。"
+        },
+        {
+          "en": "Island’s labour minister, Colin Jordan, says agreement acknowledges links between Speightstown and UK city are rooted in slave trade A town in Barbados known as “Little Bristol” has signed a “twinning’” agreement with the UK city, marking a new chapter in a centuries-long relationship rooted in the transatlantic slave trade.",
+          "zh": "该岛的劳工部长Colin Jordan表示，该协议承认斯佩特斯敦与英国布里斯托尔之间的联系源于奴隶贸易。巴巴多斯的一个名为“小布里斯托尔”的城镇与英国布里斯托尔签署了一项“结好”协议，标志着源于跨大西洋奴隶贸易的百年关系翻开了新的一页。"
+        },
+        {
+          "en": "Barbados says the new partnership between Speightstown and Bristol is part of its wider push for reparatory justice, built in small steps rather than around a multi-trillion-pound claim.",
+          "zh": "巴巴多斯表示，斯佩茨敦与布里斯托尔之间的新伙伴关系是其更广泛的赔偿正义努力的一部分，这一努力是通过小步推进实现的，而不是围绕数万亿英镑的索赔展开。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "33079c28b3e18d3a",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "Introducing file slicing controls in the Gemini API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/file-slicing-controls/",
+      "publishedAt": "2026-11-23T16:12:00.000Z",
+      "sentences": [
+        {
+          "en": "Introducing file slicing controls in the Gemini API.",
+          "zh": "在Gemini API中引入文件分片控制。"
+        },
+        {
+          "en": "New file slicing controls and native Office file support in the Gemini API let agents inspect targeted slices across Google AI Studio and Vertex AI while paying only for…",
+          "zh": "Gemini API 中全新的文件分片控制和原生 Office 文件支持，让客服代表能够在 Google AI Studio 和 Vertex AI 中检查目标分片，同时只需为……付费。"
+        }
+      ]
+    },
+    {
+      "id": "2e31644f6487f318",
+      "sourceId": "k8s-blog",
+      "category": "cloud",
+      "title": "Kubernetes v1.38 Sneak Peek",
+      "url": "https://kubernetes.io/blog/2026/11/23/kubernetes-v1-38-sneak-peek/",
+      "publishedAt": "2026-11-23T16:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Kubernetes v1.38 Sneak Peek.",
+          "zh": null
+        },
+        {
+          "en": "As we get closer to the release date for Kubernetes v1.38, the project develops and matures, features may be deprecated, removed, or replaced with better ones for the project's overall health.",
+          "zh": null
+        },
+        {
+          "en": "This blog post outlines some of the planned changes for the Kubernetes v1.38 release that the release team feels you should be aware of for the continued maintenance of your Kubernetes environment and keeping up to date with the latest changes.",
+          "zh": null
+        },
+        {
+          "en": "The information listed below is based on the current status of the v1.38 release and may change before the actual release date.",
+          "zh": null
+        },
+        {
+          "en": "Deprecations and removals for Kubernetes v1.38 kubectl: WebSocket opt-out environment variables removed kubectl has used WebSockets instead of SPDY by default for kubectl exec , attach and cp since v1.30, and for kubectl port-forward since v1.31.",
+          "zh": null
+        },
+        {
+          "en": "The KUBECTL_REMOTE_COMMAND_WEBSOCKETS and KUBECTL_PORT_FORWARD_WEBSOCKETS environment variables let you turn that behavior off.",
+          "zh": null
+        },
+        {
+          "en": "These variables are going to be removed in v1.38.",
+          "zh": null
+        },
+        {
+          "en": "kubectl will then always try WebSockets first and fall back to SPDY when it needs to (the same as the current default behavior).",
+          "zh": null
+        },
+        {
+          "en": "If your scripts or CI environments set either of these environment variables, you can remove them since they will no longer have any effect.",
+          "zh": null
+        },
+        {
+          "en": "To learn more, refer to KEP-4006: Transition from SPDY to WebSockets .",
+          "zh": null
+        },
+        {
+          "en": "kubectl: name dropped from kuberc credential plugin allowlist entries The kuberc file keeps kubectl user preferences separate from cluster credentials in the kubeconfig, including an allowlist of the credential plugins kubectl is allowed to run.",
+          "zh": null
+        },
+        {
+          "en": "In the beta kubectl.config.k8s.io/v1beta1 API, an allowlist entry can use name as an alias for command .",
+          "zh": null
+        }
+      ]
+    }
+  ],
+  "failures": []
+}
