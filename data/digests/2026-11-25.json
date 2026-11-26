@@ -1,0 +1,869 @@
+{
+  "date": "2026-11-25",
+  "collectedAt": "2026-11-26T06:59:50.804Z",
+  "items": [
+    {
+      "id": "7d5c43e3274406d0",
+      "sourceId": "github-blog",
+      "category": "open-source",
+      "title": "How to choose the next safe step in application modernization",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
+      "publishedAt": "2026-11-25T15:00:00.000Z",
+      "sentences": [
+        {
+          "en": "How to choose the next safe step in application modernization.",
+          "zh": "如何选择应用程序现代化的下一个安全步骤。"
+        },
+        {
+          "en": "A request to modernize an application often starts with a technology question: Which framework should replace the old one?",
+          "zh": "应用程序现代化改造的请求通常始于一个技术问题：应该用哪个框架来替换旧框架？"
+        },
+        {
+          "en": "Before you choose, find out what still works.",
+          "zh": "在做出选择之前，请先了解哪些功能仍然可用。"
+        },
+        {
+          "en": "Then collect evidence that can act as a regression net for that behavior and show where modernization is necessary.",
+          "zh": "然后收集可以作为该行为的回归网的证据，并指出哪些地方需要现代化。"
+        },
+        {
+          "en": "I used an evidence-first method on four public applications, from a small Node.js game to a large Java enterprise resource planning (ERP) application.",
+          "zh": "我曾对四个公共应用程序采用“先证据”方法，这些应用程序包括一个小型的 Node.js 游戏和一个大型的 Java 企业资源规划 (ERP) 应用程序。"
+        },
+        {
+          "en": "Each needed a different treatment, but the way I collected evidence, chose the next experiment, and decided on possible proof points was repeatable.",
+          "zh": "每个问题都需要不同的处理方式，但我收集证据、选择下一个实验以及确定可能论据的方式是可以重复的。"
+        },
+        {
+          "en": "This post walks through that process so you can apply it to one application of your own.",
+          "zh": "本文将详细介绍该流程，以便您可以将其应用于自己的应用程序。"
+        },
+        {
+          "en": "It also shows how to encode the procedure in a GitHub Copilot agent skill while keeping architectural judgment with the people responsible for the system.",
+          "zh": "它还展示了如何在 GitHub Copilot 代理技能中对该流程进行编码，同时由负责该系统的人员保留架构判断权。"
+        },
+        {
+          "en": "Build evidence before choosing a target The label on an application rarely tells you enough.",
+          "zh": "在选择目标之前收集证据应用程序上的标签很少能提供足够的信息。"
+        },
+        {
+          "en": "Java microservices doesn t tell you which Java Development Kit (JDK) runs in production, where that version is pinned, whether the tests execute, or which interfaces other systems depend on.",
+          "zh": "Java 微服务不会告诉您生产环境中运行的是哪个 Java 开发工具包 (JDK)、该版本在哪里固定、测试是否执行，或者其他系统依赖于哪些接口。"
+        },
+        {
+          "en": "Legacy monolith doesn t tell you whether the business core is broken or whether one retired platform dependency prevents the application from starting.",
+          "zh": "传统的整体式架构无法告知您业务核心是否出现故障，也无法告知您某个已弃用的平台依赖项是否导致应用程序无法启动。"
+        },
+        {
+          "en": "Before you recommend a change, build a small evidence inventory: Manifests, lockfiles, entry points, and deployable components Verified commands for installing, building, testing, packaging, and running Runtime pins in containers, CI workflows, deployment files, and developer tooling External contracts such as APIs, database behavior, file formats, and user workflows End-of-life frameworks and dependencies, with evidence that the application still uses them Record uncertainty while you work.",
+          "zh": "在您建议变更之前，请建立一个小型证据清单：清单、锁定文件、入口点和可部署组件用于安装、构建、测试、打包和运行的已验证命令容器、CI 工作流、部署文件和开发人员工具中的运行时固定外部合约，例如 API、数据库行为、文件格式和用户工作流已停用框架和依赖项，并提供应用程序仍在使用的证据在您工作时记录不确定性。"
+        }
+      ]
+    },
+    {
+      "id": "5d6d58571fb0b25a",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Five Russian military jets hit in airfield strike, says Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-25T14:46:41.000Z",
+      "sentences": [
+        {
+          "en": "Five Russian military jets hit in airfield strike, says Ukraine.",
+          "zh": "乌克兰称，五架俄罗斯军用飞机在机场袭击中被击中。"
+        },
+        {
+          "en": "The Savasleyka airfield hosts aircraft used by Russia to launch hypersonic missiles and glide bombs at Ukraine.",
+          "zh": "萨瓦斯莱卡机场停放着俄罗斯用于向乌克兰发射高超音速导弹和滑翔炸弹的飞机。"
+        }
+      ]
+    },
+    {
+      "id": "392d37d6cece7cd2",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "China sends first foreign astronaut to ISS rival as it globalises space operations",
+      "url": "https://www.theguardian.com/science/2026/nov/25/china-sends-first-pakistani-astronaut-into-space",
+      "publishedAt": "2026-11-25T14:18:29.000Z",
+      "sentences": [
+        {
+          "en": "China sends first foreign astronaut to ISS rival as it globalises space operations.",
+          "zh": "中国向国际空间站的竞争对手派出了首位外国宇航员，以实现太空活动的全球化。"
+        },
+        {
+          "en": "Muhammad Zeeshan Ali – the first Pakistani to reach orbit – greeted with Chinese ‘space handshake’ at Tiangong station China has flown the first foreign astronaut to its Tiangong space station, starting what it says will be the globalisation of its space operations as the US-led International Space Station (ISS) enters its final years of operation.",
+          "zh": "穆罕默德·齐尚·阿里（Muhammad Zeeshan Ali）——首位进入轨道的巴基斯坦人——在中国天宫空间站受到中国“太空握手”的迎接。随着美国主导的国际空间站（ISS）进入运营的最后几年，中国迎来了首位飞往天宫空间站的外国宇航员，开启了其所称的太空运营全球化进程。"
+        },
+        {
+          "en": "Floating through a hatch to enter Tiangong, Pakistan’s Muhammad Zeeshan Ali grinned broadly as he was embraced by the onboard crew in what China’s space agency called the country’s first foreign “space handshake”.",
+          "zh": "巴基斯坦的穆罕默德·齐山·阿里（Muhammad Zeeshan Ali）从舱口飘入天宫空间站，当他被站内乘组拥抱时露出了灿烂的笑容。中国航天局将此称为中国首次与外国宇航员的“太空握手”。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "d9bd07ba24c751e3",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "How American Thanksgiving took root -- and evolved -- in Liberia",
+      "url": "https://www.npr.org/2026/11/25/nx-s1-6048614/thanksgiving-liberia-gratitude-prayer",
+      "publishedAt": "2026-11-25T14:14:34.000Z",
+      "sentences": [
+        {
+          "en": "How American Thanksgiving took root -- and evolved -- in Liberia.",
+          "zh": "美国感恩节如何在利比里亚扎根并发展。"
+        },
+        {
+          "en": "The first settlers of Liberia were African Americans who brought along the holiday of Thanksgiving — which has evolved to reflect the history and identity of this new nation.",
+          "zh": "利比里亚的第一批定居者是非裔美国人，他们带来了感恩节这一节日，而感恩节也随着时间的推移，演变为反映这个新国家的历史和身份的节日。"
+        },
+        {
+          "en": "(Image credit: Eddie Raynes)",
+          "zh": "（图片来源：Eddie Raynes）"
+        }
+      ]
+    },
+    {
+      "id": "7a3413a1bf707987",
+      "sourceId": "bbc-world",
+      "category": "security",
+      "title": "Israeli strike kills senior Hamas security official and family in Gaza City",
+      "url": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-25T14:06:13.000Z",
+      "sentences": [
+        {
+          "en": "Israeli strike kills senior Hamas security official and family in Gaza City.",
+          "zh": "以色列空袭炸死加沙市哈马斯高级安全官员及其家人。"
+        },
+        {
+          "en": "Mohammed Abu al-Ouf, head of Hamas's internal security service in northern Gaza, was killed with his wife and two teenage daughters, doctors say.",
+          "zh": "据医生称，哈马斯在加沙北部地区的内部安全部门负责人穆罕默德·阿布·奥夫（Mohammed Abu al-Ouf）与他的妻子和两个十几岁的女儿一同遇害。"
+        }
+      ]
+    },
+    {
+      "id": "e6430c4f0b912788",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Swiss tourist killed and British and Americans injured by elephants in Cameroon",
+      "url": "https://www.theguardian.com/environment/2026/nov/25/swiss-tourist-killed-british-americans-injured-elephants-cameroon",
+      "publishedAt": "2026-11-25T14:03:18.000Z",
+      "sentences": [
+        {
+          "en": "Swiss tourist killed and British and Americans injured by elephants in Cameroon.",
+          "zh": "喀麦隆大象袭人，造成一名瑞士游客死亡，多名英国和美国游客受伤。"
+        },
+        {
+          "en": "Alain Throo, insurance executive based in London, reportedly gored and later died on hike near Mount Cameroon national park A Swiss tourist has been killed and British and American tourists have been injured when a group of hikers encountered a herd of elephants in Cameroon.",
+          "zh": "据报道，伦敦的保险高管Alain Throo在喀麦隆山国家公园附近徒步时被撞倒，随后死亡。一群徒步旅行者在喀麦隆遭遇一群大象，一名瑞士游客丧生，英国和美国游客受伤。"
+        },
+        {
+          "en": "The group of six tourists, four British, one Swiss and one American, accompanied by local guides, were hiking near the village of Bakingili in the south of the Mount Cameroon national park on 19 November, on a path used by elephants to access a nearby lake, when they encountered the herd of about 15 animals, according to media reports.",
+          "zh": "据媒体报道，这六名游客（四名英国人、一名瑞士人和一名美国人）在当地导游的陪同下，于11月19日在喀麦隆山国家公园南部的Bakingili村附近徒步旅行。他们走在一条大象通往附近湖泊的小路上，这时遇到了约15头大象组成的象群。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "a9bc069d7df21121",
+      "sourceId": "cloudflare-blog",
+      "category": "security",
+      "title": "Introducing Search for Agents",
+      "url": "https://blog.cloudflare.com/search-for-agents/",
+      "publishedAt": "2026-11-25T14:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Introducing Search for Agents.",
+          "zh": "隆重推出“搜索房产经纪人”功能。"
+        },
+        {
+          "en": "AI Search , our service that indexes your content and lets you add search to any application or agent without having to build an entire retrieval infrastructure, has supported adding your website as a data source for a while now, automatically crawling, converting and indexing its pages.",
+          "zh": "AI Search是我们的一项服务，它会对您的内容进行索引，并让您无需构建完整的检索基础设施即可将搜索功能添加到任何应用程序或代理中。该服务已支持将您的网站添加为数据源一段时间了，并会自动抓取、转换和索引其页面。"
+        },
+        {
+          "en": "Still, setting up an AI Search instance for your website requires manually creating and configuring it initially, and then doing all the integration work to get the search endpoints available from your domain and to make sure that agents know where to find the index and know how to use it.",
+          "zh": "尽管如此，为您的网站设置 AI Search 实例仍需要先手动创建和配置，然后完成所有集成工作，以便从您的域获取可用的搜索端点，并确保客服代表知道在哪里找到索引以及如何使用它。"
+        },
+        {
+          "en": "Today we&#x27;re introducing Search for Agents , which puts that setup behind a toggle in your Cloudflare dashboard.",
+          "zh": null
+        },
+        {
+          "en": "Turn it on for your zone, and our service will create your AI Search instance, start indexing your content, and make search discoverable and available from your own domain.",
+          "zh": null
+        },
+        {
+          "en": "How it works The idea follows naturally from Markdown for Agents , where Cloudflare&#x27;s network converts any HTML page to Markdown in real time for enabled zones using content negotiation headers.",
+          "zh": null
+        },
+        {
+          "en": "Similarly, Search for Agents leverages the power of AI Search by automatically creating an index for your zone and exposing APIs that any AI agent can discover and use to search your website, under your domain, all done at the network level.",
+          "zh": null
+        },
+        {
+          "en": "You can enable Search for Agents using the API, or by going to the dashboard in your zone page, under Quick Actions : Search for Agents is available to all customers, including Free (with limits ).",
+          "zh": null
+        },
+        {
+          "en": "Once it’s enabled, Cloudflare will automatically create an AI Search instance, start crawling and indexing the content in your zone.",
+          "zh": null
+        },
+        {
+          "en": "Refer to our developer documentation to understand how the crawling process works.",
+          "zh": null
+        },
+        {
+          "en": "You can access your instance directly from this page, or by going to directly to your account’s AI > AI Search instances view: The AI Search instance for your zone is created with default settings, but you can enable reranking or change configuration options like cache settings at any time.",
+          "zh": null
+        },
+        {
+          "en": "Refer to our documentation for the full list of options.",
+          "zh": null
+        }
+      ]
+    },
+    {
+      "id": "687b574949c4511d",
+      "sourceId": "npr-news",
+      "category": "ai",
+      "title": "What to know before using AI agents for Black Friday shopping",
+      "url": "https://www.npr.org/2026/11/25/nx-s1-6048524/what-to-know-before-using-ai-agents-for-black-friday-shopping",
+      "publishedAt": "2026-11-25T13:51:56.000Z",
+      "sentences": [
+        {
+          "en": "What to know before using AI agents for Black Friday shopping.",
+          "zh": "在使用 AI 代理进行黑色星期五购物之前需要了解的事项。"
+        },
+        {
+          "en": "59% of U.S. shoppers plan to use AI for holiday shopping this weekend, according to the National Retail Federation (Image credit: Heather Diehl)",
+          "zh": "据美国零售业联合会称，59%的美国购物者计划在本周末的假日购物中使用人工智能（图片来源：Heather Diehl）"
+        }
+      ]
+    },
+    {
+      "id": "4980e212d8f2fd41",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
+      "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-25T12:21:49.000Z",
+      "sentences": [
+        {
+          "en": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war.",
+          "zh": "俄罗斯自己的数据显示，该国在乌克兰战争中损失了近50万人。"
+        },
+        {
+          "en": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
+          "zh": "泄露的数据显示，对乌克兰的全⾯侵略从根本上改变了俄罗斯的死亡模式。"
+        }
+      ]
+    },
+    {
+      "id": "7c35b68fa8712013",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Army to detonate tons of lead azide after delays. And, Abrego Garcia leaves U.S.",
+      "url": "https://www.npr.org/2026/11/25/g-s1-155493/up-first-newsletter-iowa-detonation-kilmar-abrego-garcia-nvidia-jensen-huang",
+      "publishedAt": "2026-11-25T12:18:09.000Z",
+      "sentences": [
+        {
+          "en": "Army to detonate tons of lead azide after delays.",
+          "zh": "经过多番延期，军队将引爆数吨叠氮化铅。"
+        },
+        {
+          "en": "And, Abrego Garcia leaves U.S. Authorities have evacuated a 5-mile radius to prepare to dispose of thousands of pounds of lead azide.",
+          "zh": "此外，阿布雷戈·加西亚离开。美国当局已疏散了方圆5英里的居民，以准备处置数千磅的叠氮化铅。"
+        },
+        {
+          "en": "And, after a nearly two-year legal battle, Kilmar Abrego Garcia's has voluntarily left the U.S. (Image credit: Scott Olson)",
+          "zh": "经过近两年的法律斗争，Kilmar Abrego Garcia自愿离开了美国。（图片来源：Scott Olson）"
+        }
+      ]
+    },
+    {
+      "id": "c47d594f2fe1e10e",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Yemen war: Emergency aid chief calls for access to war-hit communities",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168872",
+      "publishedAt": "2026-11-25T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Yemen war: Emergency aid chief calls for access to war-hit communities.",
+          "zh": "也门战争：紧急援助负责人呼吁允许进入受战争影响的社区。"
+        },
+        {
+          "en": "The UN’s top aid official, Tom Fletcher, arrived in Yemen on Wednesday warning that the war there is preventing families from accessing the food and medicine they need to survive, particularly those in Taiz City.",
+          "zh": "联合国最高级别援助官员汤姆·弗莱彻（Tom Fletcher）于周三抵达也门，他警告称，也门的战争正阻碍着人们获得生存所需的食物和药品，塔伊兹市的居民尤其如此。"
+        }
+      ]
+    },
+    {
+      "id": "f0e5e9ff176e0945",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Somalia: Famine risk decreases in Baidoa – but millions still going hungry",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168874",
+      "publishedAt": "2026-11-25T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Somalia: Famine risk decreases in Baidoa – but millions still going hungry.",
+          "zh": "索马里：拜多阿的饥荒风险有所降低，但仍有数百万人忍饥挨饿。"
+        },
+        {
+          "en": "Millions of people in Somalia still face severe food shortages and malnutrition despite the reduced risk of famine in Baidoa, global food security experts warned on Wednesday.",
+          "zh": "周三，全球粮食安全专家警告称，尽管拜多阿的饥荒风险有所降低，但索马里仍有数百万人面临严重的粮食短缺和营养不良问题。"
+        }
+      ]
+    },
+    {
+      "id": "8e3c2ec7f7ddac1a",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Gisèle Pelicot’s son: ‘Not being violent is the bare minimum’",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168876",
+      "publishedAt": "2026-11-25T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Gisèle Pelicot’s son: ‘Not being violent is the bare minimum’.",
+          "zh": "吉赛尔·佩利科的儿子：“不施暴是最起码的要求。”"
+        },
+        {
+          "en": "Two years after the Mazan rape trial, David Pelicot has decided to put his name to the fight against sexual violence – and to confront what he calls the silence of men.",
+          "zh": "在马赞强奸案审判两年后，大卫·佩利科决定以自己的名义投身于打击性暴力的斗争，并直面他所称的男性的沉默。"
+        }
+      ]
+    },
+    {
+      "id": "1082f43610c695b8",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Gaza’s widows raise their families alone: ‘We do our duties twice over, but where are our rights?’",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168875",
+      "publishedAt": "2026-11-25T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Gaza’s widows raise their families alone: ‘We do our duties twice over, but where are our rights?’.",
+          "zh": "加沙的寡妇独自抚养家人：“我们承担着双倍的责任，但我们的权利在哪里？”"
+        },
+        {
+          "en": "For women in Gaza who lost their husbands in the war, providing for a family no longer means just putting food on the table.",
+          "zh": "对于在战争中失去丈夫的加沙妇女来说，养家糊口不再仅仅意味着一日三餐。"
+        },
+        {
+          "en": "Now it also means finding shelter, hauling water and keeping children in school – all from a tent.",
+          "zh": "现在，它还意味着要找到栖身之所、运水以及让孩子们继续上学——所有这些都要在帐篷里完成。"
+        }
+      ]
+    },
+    {
+      "id": "c964e4b3db3ecb1a",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Governments and experts gather in Nairobi to tackle the global housing crisis",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168873",
+      "publishedAt": "2026-11-25T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Governments and experts gather in Nairobi to tackle the global housing crisis.",
+          "zh": "各国政府和专家齐聚内罗毕，应对全球住房危机。"
+        },
+        {
+          "en": "A home is a place where people can feel safe.",
+          "zh": "家是人们感到安全的地方。"
+        },
+        {
+          "en": "Yet billions worldwide do not have a proper place to live.",
+          "zh": "然而，全球仍有数十亿人没有像样的住所。"
+        },
+        {
+          "en": "As the global housing crisis deepens, government representatives and housing experts are gathering at the United Nations in Nairobi from 26-27 November to discuss how to address it.",
+          "zh": "随着全球住房危机的加深，政府代表和住房专家将于11月26日至27日在内罗毕的联合国总部聚首，讨论如何应对这一危机。"
+        }
+      ]
+    },
+    {
+      "id": "33c06c51f461db7f",
+      "sourceId": "un-news",
+      "category": "world",
+      "title": "Türk warns of widening risk of atrocity crimes against Palestinians",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168879",
+      "publishedAt": "2026-11-25T12:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Türk warns of widening risk of atrocity crimes against Palestinians.",
+          "zh": "图尔克警告说，针对巴勒斯坦人的暴行罪风险正在加大。"
+        },
+        {
+          "en": "UN human rights chief Volker Türk on Wednesday warned of a widening risk of further atrocity crimes by Israel against Palestinians, saying violence in the occupied West Bank in recent months has heightened existential fears.",
+          "zh": "联合国人权事务主管沃尔克·蒂尔克周三警告称，以色列对巴勒斯坦人犯下更多暴行的风险正在加大，并表示近几个月来被占领的约旦河西岸的暴力事件加剧了人们对生存的恐惧。"
+        }
+      ]
+    },
+    {
+      "id": "2f8529168ea14f84",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "UK embassy in Japan warns of rise in drink spiking and credit card fraud at Tokyo bars",
+      "url": "https://www.theguardian.com/world/2026/nov/25/british-embassy-tokyo-warning-tourists-drink-spiking-credit-card-fraud",
+      "publishedAt": "2026-11-25T11:59:22.000Z",
+      "sentences": [
+        {
+          "en": "UK embassy in Japan warns of rise in drink spiking and credit card fraud at Tokyo bars.",
+          "zh": "英国驻日本大使馆警告称，在东京的酒吧，下药和信用卡欺诈事件有所增加。"
+        },
+        {
+          "en": "Social media campaign fronted by British rapper Shao Dow advises tourists not to let their guard down The British embassy in Tokyo has launched a social media campaign warning visitors to exercise caution after a rise in cases of drink-spiking and credit card fraud against tourists in the Japanese capital.",
+          "zh": "由英国说唱歌手Shao Dow领衔的社交媒体宣传活动建议游客不要放松警惕。在针对东京游客的下药和信用卡欺诈案件增加后，英国驻东京大使馆发起了社交媒体宣传活动，提醒游客要谨慎行事。"
+        },
+        {
+          "en": "In a recent clip made in conjunction with the embassy, the British rapper and manga artist Shao Dow, a frequent visitor to Japan, notes that although the country “is incredibly safe, that doesn’t mean you can let your guard down”.",
+          "zh": "在最近与大使馆联合制作的一段视频中，经常到访日本的英国说唱歌手兼漫画家Shao Dow指出，虽然日本“非常安全，但这并不意味着你可以放松警惕”。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "e60a4b00bb73328e",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Republican wants FBI and CIA answers before questioning Nvidia chief",
+      "url": "https://www.npr.org/2026/11/25/nx-s1-6052417/nvidia-jensen-huang-reaction-republicans-congress-investigation",
+      "publishedAt": "2026-11-25T11:50:05.000Z",
+      "sentences": [
+        {
+          "en": "Republican wants FBI and CIA answers before questioning Nvidia chief.",
+          "zh": "共和党希望在讯问英伟达首席执行官之前先听取联邦调查局和中央情报局的答复。"
+        },
+        {
+          "en": "\"The public is rightly concerned,\" says the Republican lawmaker, who wants to know what the FBI and CIA knew about potential national security threats and whether Jensen Huang was warned.",
+          "zh": "这位共和党议员表示：“公众的担忧是正确的。”他希望了解联邦调查局和中央情报局对潜在国家安全威胁的掌握情况，以及Jensen Huang是否曾被警告过。"
+        },
+        {
+          "en": "(Image credit: Samuel Corum)",
+          "zh": "（图片来源：Samuel Corum）"
+        }
+      ]
+    },
+    {
+      "id": "6211107a3b6607b3",
+      "sourceId": "ms-devblogs",
+      "category": "ai",
+      "title": "Do inconsistent docs hurt AI coding agents?",
+      "url": "https://devblogs.microsoft.com/blog/do-inconsistent-docs-hurt-ai-coding-agents/",
+      "publishedAt": "2026-11-25T11:46:06.000Z",
+      "sentences": [
+        {
+          "en": "Do inconsistent docs hurt AI coding agents?.",
+          "zh": "不一致的文档是否会损害 AI 编程代理？"
+        },
+        {
+          "en": "Every product’s docs drift out of step with the product.",
+          "zh": "每个产品的文档都会与产品本身脱节。"
+        },
+        {
+          "en": "A product that’s been around for years has pages written against features that have since changed, and each change reaches only the pages someone remembers to update.",
+          "zh": "一款已经存在多年的产品，其页面上记录的功能此后发生了变化，而每次变更都只影响到有人记得更新的页面。"
+        },
+        {
+          "en": "A product that’s moving fast, as many are today with AI, drifts even sooner.",
+          "zh": "一款发展迅猛的产品，就像如今许多借助人工智能的产品一样，会更快地偏离轨道。"
+        },
+        {
+          "en": "An endpoint gets renamed or a setting moves, and the reference gets updated while a how-to or a sample keeps the old value.",
+          "zh": "端点被重命名或设置被移动，引用得到更新，而操作说明或示例仍保留旧值。"
+        },
+        {
+          "en": "Before long, two of your pages tell the reader two different things.",
+          "zh": "没过多久，您的两个页面就向读者传达了两种不同的信息。"
+        },
+        {
+          "en": "When developers hit two pages that disagree, they usually find out which one is right the hard way.",
+          "zh": "当开发者遇到两个不一致的页面时，他们通常会以艰难的方式弄清哪个是正确的。"
+        },
+        {
+          "en": "They copy the code from one page, run it and watch it fail.",
+          "zh": "他们从一个页面复制代码，运行代码，然后看着代码报错。"
+        },
+        {
+          "en": "Every minute they then put into working out which page to trust goes into debugging your docs.",
+          "zh": "他们随后花在确定相信哪个页面的每一分钟，都会用于调试您的文档。"
+        },
+        {
+          "en": "Coding agents read the same pages, so we wanted to know how they handle a contradiction.",
+          "zh": "编码员会阅读相同的页面，因此我们想知道他们如何处理矛盾之处。"
+        },
+        {
+          "en": "Does an agent notice that two pages disagree?",
+          "zh": "客服代表是否注意到两个页面不一致？"
+        },
+        {
+          "en": "If it follows the wrong one, does it recover and pay for the detour in tokens, or does it get stuck and hand back something that doesn’t work?",
+          "zh": "如果它遵循了错误的链，它是否会恢复并以代币支付绕路费用，还是会陷入困境并交回无效的代币？"
+        }
+      ]
+    },
+    {
+      "id": "6d26c82acb7988d2",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Sri Lankan asylum seeker killed himself after being sent by UK to Eswatini",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/25/sri-lanka-asylum-seeker-convicted-sexual-assault-uk-kills-himself-eswatini",
+      "publishedAt": "2026-11-25T11:28:05.000Z",
+      "sentences": [
+        {
+          "en": "Sri Lankan asylum seeker killed himself after being sent by UK to Eswatini.",
+          "zh": "一名斯里兰卡寻求庇护者在被英国遣返至埃斯瓦蒂尼后自杀身亡。"
+        },
+        {
+          "en": "Kishanth Peramalya was denied entry due to sexual assault convictions and sent to Africa where he had no connections The UK sent a Sri Lankan asylum seeker who had been convicted of sexual assault to Eswatini, a southern African country to which he had no connection and where he killed himself.",
+          "zh": "基尚特·佩拉马利亚因性侵罪被拒入境，并被遣返至他毫无关联的非洲。英国将一名曾被判性侵罪的斯里兰卡寻求庇护者遣返至南部非洲国家埃斯瓦蒂尼，他与该国毫无关联，并在那里自杀身亡。"
+        },
+        {
+          "en": "Kishanth Peramalya was part of a group that set sail from India hoping to reach Canada and claim asylum there.",
+          "zh": "Kishanth Peramalya是其中一个从印度启程、希望抵达加拿大并申请庇护的团体成员。"
+        },
+        {
+          "en": "The boat was rescued by the Royal Navy in October 2021 when it got into difficulty and brought to Diego Garcia in the remote British Indian Ocean Territory, which hosts a US-UK military base.",
+          "zh": "2021年10月，这艘船在遇到困难时被英国皇家海军救助，并被带到遥远的英属印度洋领地迪戈加西亚岛，该岛设有美英军事基地。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "12d3fdfe0d98bfc4",
+      "sourceId": "npr-news",
+      "category": "world",
+      "title": "Greetings from Mount Kilimanjaro, Africa's highest point in all its splendor",
+      "url": "https://www.npr.org/2026/11/25/nx-s1-6051429/mount-kilimanjaro-africa-tanzania",
+      "publishedAt": "2026-11-25T11:00:00.000Z",
+      "sentences": [
+        {
+          "en": "Greetings from Mount Kilimanjaro, Africa's highest point in all its splendor.",
+          "zh": "来自乞力马扎罗山的问候，这是非洲的最高点，展现着它所有的壮丽。"
+        },
+        {
+          "en": "Climbing tall mountains like Kilimanjaro is a study in contrasts — from beating sun to freezing nights, fire and snow.",
+          "zh": "攀登乞力马扎罗山等高山是一次对比鲜明的体验——从烈日炎炎到彻骨寒夜，从烈火到皑皑白雪。"
+        }
+      ]
+    },
+    {
+      "id": "68fbec585c943125",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Protesters call on Israel to free Palestinian student held without charge",
+      "url": "https://www.bbc.co.uk/news/articles/cw62p8z9edjlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-25T10:03:42.000Z",
+      "sentences": [
+        {
+          "en": "Protesters call on Israel to free Palestinian student held without charge.",
+          "zh": "抗议者呼吁以色列释放未被起诉的巴勒斯坦学生。"
+        },
+        {
+          "en": "Mahdi Tunsi, 26, was taken from his university dormitory earlier this month and has since been held without charge.",
+          "zh": "26岁的马赫迪·通西（Mahdi Tunsi）本月早些时候被从大学宿舍带走，此后一直被关押，但未被起诉。"
+        }
+      ]
+    },
+    {
+      "id": "75a3a86ed42c8779",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Colombia’s president arrives at scene of supermarket hostage siege in tourist city",
+      "url": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket",
+      "publishedAt": "2026-11-25T03:57:11.000Z",
+      "sentences": [
+        {
+          "en": "Colombia’s president arrives at scene of supermarket hostage siege in tourist city.",
+          "zh": "哥伦比亚总统抵达旅游城市超市人质劫持事件现场。"
+        },
+        {
+          "en": "Abelardo de la Espriella to take control of operation trying to free at least 20 hostages Colombia’s president has arrived at the scene of an hours-long standoff between security services and gunmen holding at least 20 people hostage inside a supermarket in Cartagena, a popular tourist city.",
+          "zh": "阿韦拉多·德拉·埃斯普里耶拉将掌控行动，试图解救至少20名人质。哥伦比亚总统已抵达现场，安全部门与持枪歹徒在热门旅游城市卡塔赫纳的一家超市内对峙数小时，歹徒劫持了至少20名人质。"
+        },
+        {
+          "en": "Abelardo de la Espriella’s motorcade arrived in Cartagena on Tuesday night, Agence France-Presse reported, where he will ostensibly take control of an operation involving scores of officers, the navy and special forces.",
+          "zh": "据法新社报道，阿韦拉多·德拉·埃斯普里耶拉的车队于周二晚抵达卡塔赫纳，他将名义上指挥一场涉及数十名警官、海军和特种部队的行动。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "291d938a9bf3eed5",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Moment Chinese space mission lifts off with first Pakistan astronaut aboard",
+      "url": "https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-25T03:28:37.000Z",
+      "sentences": [
+        {
+          "en": "Moment Chinese space mission lifts off with first Pakistan astronaut aboard.",
+          "zh": "中国载人航天任务发射升空，首位巴基斯坦宇航员搭乘升空。"
+        },
+        {
+          "en": "China launched its Shenzhou-24 space mission to bring three astronauts to its Tiangong space station.",
+          "zh": "中国发射了神舟十四号载人飞船，将三名宇航员送往天宫空间站。"
+        }
+      ]
+    },
+    {
+      "id": "209b69b840618609",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
+      "url": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-25T00:54:13.000Z",
+      "sentences": [
+        {
+          "en": "My family were killed in Ukraine.",
+          "zh": "我的家人在乌克兰被杀害了。"
+        },
+        {
+          "en": "My mum blamed Zelensky's troops - the truth is complicated.",
+          "zh": "我妈妈责怪泽连斯基的部队——真相很复杂。"
+        },
+        {
+          "en": "BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war.",
+          "zh": "英国广播公司记者阿纳斯塔西娅·格里巴诺娃（Anastasiya Gribanova）调查了在战争中杀害其父亲和祖父母的凶手。"
+        }
+      ]
+    },
+    {
+      "id": "e0ee458ad4118b14",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Kilmar Ábrego García, man at center of Trump deportation battle, leaves US",
+      "url": "https://www.theguardian.com/us-news/2026/nov/24/kilmar-abrego-garcia-leaves-us",
+      "publishedAt": "2026-11-24T23:50:31.000Z",
+      "sentences": [
+        {
+          "en": "Kilmar Ábrego García, man at center of Trump deportation battle, leaves US.",
+          "zh": "特朗普驱逐出境之争的焦点人物基尔马尔·阿布雷戈·加西亚离开美国。"
+        },
+        {
+          "en": "Salvadorian man, who was deported in March 2025 and returned to US after supreme court ruling, leaving of own volition for Spain Kilmar Ábrego García has left the United States of his own volition, his lawyers confirmed on Tuesday, with the Department of Homeland Security confirming that he was travelling to Spain.",
+          "zh": "萨尔瓦多男子Kilmar Ábrego García于2025年3月被驱逐出境，后因最高法院裁决而返回美国，现已自愿离开美国前往西班牙。他的律师周二证实了这一点，美国国土安全部也确认他正前往西班牙。"
+        },
+        {
+          "en": "A source close to Ábrego said Madrid was his first stop but that it would not be his final destination.",
+          "zh": "一位接近阿布雷戈的消息人士表示，马德里是他的第一站，但不会是他的最终目的地。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "e7995c112ae8e4c6",
+      "sourceId": "bbc-world",
+      "category": "world",
+      "title": "Watch: Flock of turkeys chases woman on Massachusetts pavement",
+      "url": "https://www.bbc.co.uk/news/videos/cknv4mq93gd2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-24T22:07:30.000Z",
+      "sentences": [
+        {
+          "en": "Watch: Flock of turkeys chases woman on Massachusetts pavement.",
+          "zh": "视频：一群火鸡在马萨诸塞州的人行道上追赶一名女子。"
+        },
+        {
+          "en": "The woman said she had to jump into a stranger's car to escape a flock of turkeys that chased her down the sidewalk.",
+          "zh": "这名女子说，她不得不跳上一辆陌生人的车，以躲避一群追着她在人行道上跑的火鸡。"
+        }
+      ]
+    },
+    {
+      "id": "43762f8766423fb4",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "Canada says it ‘does not report to the US’ after Pentagon criticizes military spending",
+      "url": "https://www.theguardian.com/world/2026/nov/24/canada-sovereign-nation-us-relations-defence-pentagon-memo",
+      "publishedAt": "2026-11-24T22:02:13.000Z",
+      "sentences": [
+        {
+          "en": "Canada says it ‘does not report to the US’ after Pentagon criticizes military spending.",
+          "zh": "在五角大楼批评加拿大军费开支后，加拿大表示“不向美国汇报”。"
+        },
+        {
+          "en": "Scathing US document memo supposedly ‘atrophied’ defence capabilities of its northern neighbour Canada is a “sovereign nation” that does not “report” to the United States, the country’s defense minister said after the Pentagon released a scathing memo that criticized the supposedly “atrophied” defence capabilities of its northern neighbour.",
+          "zh": "美国一份尖锐的备忘录称加拿大国防能力“萎缩”加拿大国防部长在五角大楼发布一份尖锐的备忘录，批评其北方邻国加拿大的国防能力“萎缩”后表示，加拿大是一个“主权国家”，并不“向美国报告”。"
+        },
+        {
+          "en": "The document , released on Tuesday, said Canada had “yet to make the hard decisions and tradeoffs” necessary to meet previous defence spending pledges and become a “credible partner in the defense of our shared continent”.",
+          "zh": "这份于周二发布的文件指出，加拿大“尚未做出必要的艰难决定和权衡取舍”，以履行先前的国防开支承诺，并成为“保卫我们共同大陆的可靠伙伴”。"
+        },
+        {
+          "en": "Continue reading..",
+          "zh": "继续阅读"
+        }
+      ]
+    },
+    {
+      "id": "e7f7857605a40d83",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "We’re launching Humanity’s First Exam and a Kaggle hackathon to test LLM reliability.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/humanitys-first-exam/",
+      "publishedAt": "2026-11-24T19:30:00.000Z",
+      "sentences": [
+        {
+          "en": "We’re launching Humanity’s First Exam and a Kaggle hackathon to test LLM reliability.",
+          "zh": "我们将推出“人类首考”和一场 Kaggle 黑客马拉松，以测试大语言模型的可靠性。"
+        },
+        {
+          "en": "Google launches Humanity’s First Exam to test LLM reliability across 544 prompts.",
+          "zh": "谷歌推出了“人类的第一次考试”，通过544个提示来测试大语言模型的可靠性。"
+        }
+      ]
+    },
+    {
+      "id": "7491f5c45d84e077",
+      "sourceId": "guardian-world",
+      "category": "world",
+      "title": "More than 300 Russians killed as Moscow props up Mali’s junta, leaked data reveals",
+      "url": "https://www.theguardian.com/world/2026/nov/24/russian-fighters-killed-in-mali-africa-leaked-data",
+      "publishedAt": "2026-11-24T16:00:50.000Z",
+      "sentences": [
+        {
+          "en": "More than 300 Russians killed as Moscow props up Mali’s junta, leaked data reveals.",
+          "zh": "泄露的数据显示，在莫斯科支持马里军政府期间，有300多名俄罗斯人丧生。"
+        },
+        {
+          "en": "Exclusive: Records list 349 deaths in three years in Mali and also shed light on Russia’s military activity elsewhere in Africa When the attack on Kidal began before dawn on 25 April this year, the Russian fighters were caught off guard.",
+          "zh": "独家报道：记录显示，马里在三年内有349人死亡，这些记录还揭示了俄罗斯在非洲其他地区的军事活动。今年4月25日黎明前，基达尔（Kidal）遭到袭击，俄罗斯战斗人员措手不及。"
+        },
+        {
+          "en": "Within the first hour, checkpoints on the outskirts of the remote desert city nestled among the rocky hills of northern Mali had fallen to the insurgents, who pushed towards the police station where fierce fighting erupted.",
+          "zh": "在第一个小时内，位于马里北部岩丘之间的偏远沙漠城市郊区的检查站落入了叛乱分子的手中，他们向警察局推进，在那里爆发了激烈的战斗。"
+        },
+        {
+          "en": "“Everything was happening at once.",
+          "zh": "“一切都同时发生。"
+        },
+        {
+          "en": "Explosions were going off all around us, people were shouting,” recalled a former member of Russia’s Africa Corps who was stationed in Mali at the time and spoke on condition of anonymity.",
+          "zh": "爆炸声在我们周围此起彼伏，人们都在尖叫。”一位当时驻扎在马里的俄罗斯非洲军团前成员回忆道，他要求匿名。"
+        },
+        {
+          "en": "“Nobody knew where the enemy was coming from.” Continue reading..",
+          "zh": "“没人知道敌人从哪里来。”继续阅读……"
+        }
+      ]
+    },
+    {
+      "id": "4aad2bdf1fe7ed5f",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "See what 5 builders are making with Gemini 4 Neon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-neon-builders/",
+      "publishedAt": "2026-11-24T16:00:00.000Z",
+      "sentences": [
+        {
+          "en": "See what 5 builders are making with Gemini 4 Neon.",
+          "zh": "看看 5 位创作者正在用 Gemini 4 Neon 做些什么。"
+        },
+        {
+          "en": "See five projects builders created with Gemini 4 Neon, from a glowing 3D Earth and Three.js butterflies to an interactive black hole.",
+          "zh": "查看创作者使用 Gemini 4 Neon 打造的五个项目，包括发光的 3D 地球、Three.js 蝴蝶以及互动式黑洞。"
+        }
+      ]
+    },
+    {
+      "id": "0d108e7b71c40649",
+      "sourceId": "google-blog",
+      "category": "ai",
+      "title": "How Gemini is changing the game for Golden State's organization and fans.",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+      "publishedAt": "2026-11-24T16:00:00.000Z",
+      "sentences": [
+        {
+          "en": "How Gemini is changing the game for Golden State's organization and fans.",
+          "zh": "Gemini如何为金州勇士队及其球迷带来颠覆性变革。"
+        },
+        {
+          "en": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center.",
+          "zh": "Google Gemini 与金州勇士队合作，为勇士队、瓦尔基里队和蔡斯中心的球迷体验和业务运营提供支持。"
+        },
+        {
+          "en": "See the news.",
+          "zh": "查看新闻。"
+        }
+      ]
+    },
+    {
+      "id": "215487d78b45f131",
+      "sourceId": "github-blog",
+      "category": "open-source",
+      "title": "These are the gifts developers will actually want",
+      "url": "https://github.blog/news-insights/company-news/these-are-the-gifts-developers-will-actually-want/",
+      "publishedAt": "2026-11-24T16:00:00.000Z",
+      "sentences": [
+        {
+          "en": "These are the gifts developers will actually want.",
+          "zh": "这些是开发人员真正想要的礼物。"
+        },
+        {
+          "en": "Some people tell you exactly what they want for the holidays, but some people just don t.",
+          "zh": "有些人会明确告诉你他们想要什么样的节日礼物，但有些人则不会。"
+        },
+        {
+          "en": "The gifts, the decor, the food, for all of it, you have to guess at what they might like.",
+          "zh": "礼物、装饰、食物，对于所有这些，您都必须猜测他们可能会喜欢什么。"
+        },
+        {
+          "en": "You trawl thousands of gift guide lists titled the definitive gift guide for 2026, but none of the guides are quite right for that special person.",
+          "zh": "您浏览了成千上万份名为“2026年终极礼品指南”的礼品指南清单，但没有一份指南真正适合那位特别的人。"
+        },
+        {
+          "en": "That is, until this one came along.",
+          "zh": "直到这款产品出现。"
+        },
+        {
+          "en": "As long as that person in your life is a developer.",
+          "zh": "只要您生活中的那个人是开发人员。"
+        },
+        {
+          "en": "We won t say it s the definitive guide for the developer in your life (or for yourself, we won t judge), but we have brought together a few of our favorite pieces from the GitHub Shop for you to pick from.",
+          "zh": "我们不会说这是送给您身边开发者（或者送给自己，我们不会评判）的终极指南，但我们从 GitHub 商城中精选了一些我们最喜爱的商品，供您挑选。"
+        },
+        {
+          "en": "Shop the gift guides Get building At GitHub Universe this year we brought our brand new GitHub x Omnitype Bauer Lite Keyboard Kit to the Makerspace for our attendees to build.",
+          "zh": "选购礼品指南开始组装在今年的 GitHub Universe 上，我们为与会者带来了全新的 GitHub x Omnitype Bauer Lite 键盘套件，供他们在创客空间组装。"
+        },
+        {
+          "en": "To say it was popular is an understatement.",
+          "zh": "说它很受欢迎还远远不够。"
+        },
+        {
+          "en": "If you like building keyboards, you ll want the details.",
+          "zh": "如果您喜欢组装键盘，您会想要了解更多细节。"
+        },
+        {
+          "en": "Each GitHub-exclusive Bauer Lite kit arrives in a randomly selected color combination and includes a hot-swap PCB with RGB underglow, Omnitype Hawk linear switches, dye-sublimated PBT keycaps, and the essential hardware and tools for a hands-on custom build.",
+          "zh": "每个 GitHub 独家 Bauer Lite 套件均采用随机选定的配色，并配备带 RGB 底光的快拆 PCB、Omnitype Hawk 直上直下轴、热升华 PBT 键帽，以及亲手定制所需的基本硬件和工具。"
+        },
+        {
+          "en": "And if you re new to building keyboards then you can follow along with our step-by-step guide.",
+          "zh": "如果您是第一次组装键盘，可以按照我们的分步指南进行操作。"
+        }
+      ]
+    }
+  ],
+  "failures": []
+}
